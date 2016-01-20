@@ -1,0 +1,961 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: wrnXvQh3pSuA5jRjoNfMHi9FTU8=
+
+Name: assets/res/beThankfulBag/light.png
+SHA1-Digest: 0/JY+BaRTklqrMPfMVgEnY+u6/g=
+
+Name: assets/res/popupBox/magicTip.png
+SHA1-Digest: UPAmAqoYJiIOmU7bCX9ADA8FpyE=
+
+Name: assets/res/GiftBag/getButton.png
+SHA1-Digest: sOfpLMaqElsSu46PE6Ph88/hCfM=
+
+Name: assets/mmiap/03/button_back_press.png
+SHA1-Digest: ErqUrfp6v8BJs4PBolsJSvmBCI8=
+
+Name: assets/mmiap/02/btn_gray_click.9.png
+SHA1-Digest: BgZ1U8iPqLRhwXtzSApR4uflHjE=
+
+Name: assets/res/Main/refresh.png
+SHA1-Digest: KEXOassf2t2fmX2Y47ud4JTXlWs=
+
+Name: assets/res/Main/add.png
+SHA1-Digest: R4xFrTdRq391iKZHHVmji6ri028=
+
+Name: assets/res/Main/processBarStar/3.png
+SHA1-Digest: ETfNbmI6SEjKjEen+s7rF+6yHs0=
+
+Name: assets/mmiap/01/vertical/sucresultdialog.xml
+SHA1-Digest: jTNCTzleMb4gtEnKtsaArovFtuU=
+
+Name: assets/mmiap/image/vertical/icon_info.gif
+SHA1-Digest: kfKATnuWgrVrLDwMHXwnGA36QRw=
+
+Name: assets/res/Main/blood.png
+SHA1-Digest: dSo4teNXAo5tBUAzvThIqKF018Y=
+
+Name: assets/mmiap/image/vertical/yanzhengma_bg.png
+SHA1-Digest: tAnV5Eh3KCrr3ptZ500E107KWOQ=
+
+Name: assets/res/Effect/stat.png
+SHA1-Digest: c8pxFBGHy7j7fTAbcQ4bgQFYXPk=
+
+Name: assets/mmiap/image/vertical/title2_bg.png
+SHA1-Digest: d0jL2Wj6D3J4SjCLpBnPZvkfRdc=
+
+Name: lib/armeabi/libumc-auth.so
+SHA1-Digest: JMG/WSHKCfzaLltqUl0tOzgV1/g=
+
+Name: assets/mmiap/01/icon_f.png
+SHA1-Digest: MhnMe9oaC8Mlqk8Bow4qOLjjq7Q=
+
+Name: assets/mmiap/03/vertical/savingdialog.xml
+SHA1-Digest: NO8zkWWrp2b39v6D4f/8epcUUtw=
+
+Name: assets/res/Main/restart.png
+SHA1-Digest: h9XynKlVA4pWp35vRcqHsozvnkQ=
+
+Name: assets/res/CDkey/inputCDKey.png
+SHA1-Digest: fY0HX+4EKIrYRuBC+ilKdbjZuK0=
+
+Name: assets/mmiap/03/line.png
+SHA1-Digest: d3E0TCdwja+YeJAVWIrKg+5ej6U=
+
+Name: assets/res/Start/sound-off.png
+SHA1-Digest: 5qI/l7HD6m6Se2O5zeoF/2Fxbco=
+
+Name: assets/res/Button/green.png
+SHA1-Digest: AOorc1gBvt+c3E7YgzXpNH28Kq4=
+
+Name: assets/res/continueLoginReward/bg.png
+SHA1-Digest: hfzh9VS9gDSAQEaQHZHoOmz9G/s=
+
+Name: assets/res/Help/crushStarAwardText.png
+SHA1-Digest: 69J5Fs+33cwV/QfyMq232mRS4/Y=
+
+Name: assets/res/Main/processBarStar/5.png
+SHA1-Digest: tj7EsSGoN+/mB9QeF4kdbCbJkgU=
+
+Name: assets/mmiap/02/horizontal/savingdialog.xml
+SHA1-Digest: TSz3/b+an4tmEeIYR42eAeJngUA=
+
+Name: assets/res/Shop/magic/2.png
+SHA1-Digest: fmV3cq1MR00f2p+W8CAHtRiMS34=
+
+Name: VERSION
+SHA1-Digest: Jv3lpGNhAYlw+tU80yUg21+ihhA=
+
+Name: assets/res/Help/bg.png
+SHA1-Digest: 4sD0GyiLzqLjnQKLk/YwkE4qU5w=
+
+Name: assets/res/Shop/redButton.png
+SHA1-Digest: khXMxFt5i7sGy1CxevG1LaZ9JHs=
+
+Name: assets/mmiap/02/horizontal/purchasedialog.xml
+SHA1-Digest: 9Ma6TQy9dFgFaiEvjHpW5DIQ23Y=
+
+Name: assets/res/Shop/diamond/1.png
+SHA1-Digest: C2tWLh/DmrNpY9qof1W7nm2uuSE=
+
+Name: assets/res/Effect/firework1.plist
+SHA1-Digest: Cv0fdTVo1nlj4p6Uea/Eoxv8gYw=
+
+Name: assets/mmiap/01/horizontal/failresultdialog.xml
+SHA1-Digest: OsU557s7f71AN4NV8J2CXa/2A0U=
+
+Name: assets/res/beThankfulBag/icon.png
+SHA1-Digest: NNAu0psvqAS/mush3t7YDsUmAxU=
+
+Name: assets/mmiap/image/vertical/keyboard_button_delete_press.png
+SHA1-Digest: QqBxDCdf61sQ3oPP3FdbCEEfsNQ=
+
+Name: assets/res/CDkey/cashBox.plist
+SHA1-Digest: vhEK5BXEFNz9kI90MeH+3jBd4Gg=
+
+Name: assets/res/Main/congratulationPassLevel.png
+SHA1-Digest: AmEoPCEy3BgvTDxoR5ucyd+Yrcc=
+
+Name: assets/res/Shop/myBagText.png
+SHA1-Digest: +cbUsL2pVYmN5LDN0Ty5BHsm9K0=
+
+Name: assets/res/Start/help.png
+SHA1-Digest: bQj/2DsZc8KtqQnhYH0c+pYYqZc=
+
+Name: assets/mmiap/image/vertical/get_verificationcode.9.png
+SHA1-Digest: CimFXSLIzmp1oDcNxIDphOLMucw=
+
+Name: assets/res/Shop/refrestText.png
+SHA1-Digest: 1HEdC2GhbxSwur4+kCGCyHLxH6g=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: /h42VrT48dlgyjj5cqu9wIwlBmQ=
+
+Name: assets/res/popupBox/NpropWhiteBottom.png
+SHA1-Digest: 96XM5KYIWMqped7sQwqV7wXZSBM=
+
+Name: assets/res/resurgence/residueTime.png
+SHA1-Digest: 1lPXglTbV7YTx2uf7ncFjxh9fTs=
+
+Name: assets/res/Shop/eightYuan.png
+SHA1-Digest: 0yVaORSeJ+sBrF/vf8LzCYKNCIo=
+
+Name: assets/res/PropNum/propN.png
+SHA1-Digest: eKf4+h9ZazoZF9j2B1IGb0I2yJo=
+
+Name: assets/res/Effect/firework.png
+SHA1-Digest: /m/vJMu8eHiJoESDSyo+WDb8ov8=
+
+Name: assets/mmiap/01/btn_3.9.png
+SHA1-Digest: Q34tAZjPqi+a3lqAqaAb00AxfuM=
+
+Name: assets/mmiap/image/vertical/right_arrow.png
+SHA1-Digest: aiVS+14+P0L/d1asl9hEMk4+Bqs=
+
+Name: assets/res/Effect/effectStaining.plist
+SHA1-Digest: d4r0hGAIHkmZ8D0capYZqzuQ2Kk=
+
+Name: assets/mmiap/01/infobg.9.png
+SHA1-Digest: WnNDP382pJi4J5CU+bAAM/30vmg=
+
+Name: assets/mmiap/01/vertical/purchasedialog.xml
+SHA1-Digest: e9SsIAtIlIHltiIGSOnS4c664nk=
+
+Name: assets/res/Main/bubble.png
+SHA1-Digest: KeoB2a+7jz6FeKtSAEyNRKRwKCQ=
+
+Name: assets/mmiap/03/horizontal/progressdialog.xml
+SHA1-Digest: cftQ+EeyPE7Cia3mzRKrvpwbyug=
+
+Name: assets/res/MP3/great.mp3
+SHA1-Digest: yPg1AOphjN/Gar14kosYJP/8jCE=
+
+Name: assets/res/BG/t_p_bg.png
+SHA1-Digest: C/yC7yGR2fwcgM2ToD1BGKAydNk=
+
+Name: assets/res/ExitGame/giftBag.png
+SHA1-Digest: wkks/k4Mmm3Iw+x3Owl9TCPnwvc=
+
+Name: assets/res/Shop/prices/3.png
+SHA1-Digest: 1we3lsNBIaU2zUx6okE711YBgb0=
+
+Name: assets/res/Shop/prices/4.png
+SHA1-Digest: hTA9fV+Xc5GCKQ5SDkeUer+51DA=
+
+Name: assets/res/ExitGame/Exit.png
+SHA1-Digest: d8ogxqLvIq0m1UcH756X2MQxo+s=
+
+Name: assets/mmiap/02/vertical/progressdialog.xml
+SHA1-Digest: RMaWrPsGktyE8W0EyviFY1MlHDc=
+
+Name: assets/res/Shop/refresh/3.png
+SHA1-Digest: UkwTG66LmnbNw9Ijw12dr2aIO2Q=
+
+Name: assets/res/Main/finger.png
+SHA1-Digest: P9RK/pYPINdWAky10sMfmHkN/oE=
+
+Name: assets/mmiap/03/vertical/failresultdialog.xml
+SHA1-Digest: baLWhZ9jYoOj9zD6O38uIoFmZ50=
+
+Name: assets/res/Button/purple.png
+SHA1-Digest: HzADKQQx72X7wgMLkWLzVip/CCc=
+
+Name: assets/mmiap/01/horizontal/progressdialog.xml
+SHA1-Digest: Av5LmYEwQc0H6EiLBxLkcfNzh0k=
+
+Name: assets/res/Effect/1.png
+SHA1-Digest: KXGxL9eqfanYfSaZ9vb3BWoxn3k=
+
+Name: assets/mmiap/03/horizontal/sucresultdialog.xml
+SHA1-Digest: l94IwJ9o4Yn06p8pZu2RSvCqixk=
+
+Name: assets/mmiap/01/btn_1.9.png
+SHA1-Digest: CxUYQ8fcSVk9u1/DivLHx725MyM=
+
+Name: assets/mmiap/02/bg.png
+SHA1-Digest: jw7jPI8qk7Y8k32a3oQYBUhNT58=
+
+Name: assets/mmiap/image/vertical/button1_disable.9.png
+SHA1-Digest: Fe5B55l3HnCziGXxbV080YrwRkw=
+
+Name: assets/res/Effect/5.png
+SHA1-Digest: L0RBLc6JypTZjkkB1yaVzn7Tbko=
+
+Name: assets/res/game.zip
+SHA1-Digest: B6M94gxxtIDE6Aw3YRoGQoufTbk=
+
+Name: assets/res/Main/loveframe.png
+SHA1-Digest: Z3illKg8ApMvDS49VE6BkwNum98=
+
+Name: assets/res/ExitGame/bg.png
+SHA1-Digest: qUfW/yB9zEA7hhQg+6c8PpDWa+E=
+
+Name: assets/res/Shop/knapsackNum.png
+SHA1-Digest: xqjZw+SHpzSwtX1qp+DgS7/daqk=
+
+Name: assets/mmiap/image/vertical/keyboard_bg.png
+SHA1-Digest: GnCr2GutRQYoVsr4r1qyMfjXiTY=
+
+Name: assets/mmiap/02/vertical/savingdialog.xml
+SHA1-Digest: osvLiIXGlm8evroxG11/OOrHpFY=
+
+Name: assets/res/Main/text_lip.png
+SHA1-Digest: WIz7w1wyAXhVprMxJ3kwTKZwYBE=
+
+Name: assets/res/NovicePackage/bg.png
+SHA1-Digest: DCzZZ/pJEmciWirWJUcZx4r2RXg=
+
+Name: assets/res/popupBox/propBlackBottom.png
+SHA1-Digest: 2i1dY8ST0dFJHU9xl/ijJSfkbVs=
+
+Name: assets/res/resurgence/BG.png
+SHA1-Digest: zOEuItIAO8GlKWA7WEVFQ3uZZ1U=
+
+Name: assets/res/BG/mainGameSceneBG.png
+SHA1-Digest: D8xhfxHV9tP+PIykAATptAWFGqY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: jaCkek4HgmxSCVDcLw6UrgLQrGI=
+
+Name: assets/mmiap/image/vertical/get_verificationcode_press.9.png
+SHA1-Digest: sF1uzohtuLbvDYX488yol4DooA8=
+
+Name: assets/res/Back/continueGameText.png
+SHA1-Digest: 2w+0J0TQfbFEv5xPYKLU2NVBWAo=
+
+Name: assets/res/PassReward/bg.png
+SHA1-Digest: SoNuo0SaH7AwZHrNZ3HSR5q3vbM=
+
+Name: assets/res/Main/propBG1.png
+SHA1-Digest: yX1KpbpVjhGY/m6D27yF9uMj99k=
+
+Name: assets/mmiap/02/btn_orange_click.9.png
+SHA1-Digest: CvY7SzD+uS2BdqTOmRCHFJqui3Q=
+
+Name: assets/mmiap/image/vertical/line.png
+SHA1-Digest: vGDlkCHqLFw6/uZlJQpEuyXlvxI=
+
+Name: assets/res/NovicePackage/getButton.png
+SHA1-Digest: R7KC0S6mUUoBIGJ7NkEs0JZZr8A=
+
+Name: assets/mmiap/03/infoline.png
+SHA1-Digest: X0jzFbqYneYPWQtt/qvhenged20=
+
+Name: assets/res/Start/discountGiftBag.png
+SHA1-Digest: LsljX2kiBSU6TXPmvzoAhV83FSc=
+
+Name: assets/mmiap/image/vertical/keyboard_button.png
+SHA1-Digest: BvS0LgZOW5xk9cYvM+mkb34FPI4=
+
+Name: assets/mmiap/image/vertical/editbg_a.9.png
+SHA1-Digest: bqCwT0i//apZZ8mXgXWuhRy/XMQ=
+
+Name: assets/res/Update/updateButton.png
+SHA1-Digest: KOo2aScUzmMlxTFaOhmYkRqNBrA=
+
+Name: assets/res/Shop/prices/1.png
+SHA1-Digest: cxGuFXT8C1Q0VfZrhu3AvOnSKZ4=
+
+Name: assets/mmiap/03/horizontal/failresultdialog.xml
+SHA1-Digest: iM4zmJHVyLXOHyaBERchwFynHo8=
+
+Name: assets/mmiap/image/vertical/icon_false.gif
+SHA1-Digest: qve3nGhkohOJDdB4/UwG4tKk+Nc=
+
+Name: assets/res/BG/m_bg_top_3.png
+SHA1-Digest: wDWpoWujHFVsCQ3BWHe7bf0UAQQ=
+
+Name: assets/res/popupBox/diamondNotEnough.png
+SHA1-Digest: VxHYYwwOwmeeNWMB66VdIL499Vg=
+
+Name: assets/mmiap/03/button_back.png
+SHA1-Digest: 8V+UiTuhUJUSjFfykePoETSDjt4=
+
+Name: assets/res/Start/continueGameTextGreen.png
+SHA1-Digest: U/Jy9FShBliH4LCWkkqzDi2CjO8=
+
+Name: assets/mmiap/02/line.png
+SHA1-Digest: ZVlDPxWvY2PccXfOM1VuD6Fyr3w=
+
+Name: assets/res/Shop/prices/2.png
+SHA1-Digest: NW8pCMRSIZPv9wFcfwncDicnFuE=
+
+Name: assets/res/CDkey/cashBox.png
+SHA1-Digest: CXqK083nI995lQQeryM5wYE6uJ8=
+
+Name: assets/mmiap/01/money_rmb.png
+SHA1-Digest: 8gkL0gbLDU4tLBlU0uS/SfjPhOg=
+
+Name: assets/res/Start/title.png
+SHA1-Digest: dWXKew3vamgZM17LBwI6gAKJemE=
+
+Name: assets/mmiap/01/vertical/failresultdialog.xml
+SHA1-Digest: 6A0MGoyBm3upfOCpQS/xAHAV/VQ=
+
+Name: assets/res/continueLoginReward/nexyLight.png
+SHA1-Digest: 6dsHsCUdfhEhXgV6C87OkTqGyHc=
+
+Name: assets/mmiap/image/vertical/infoline.png
+SHA1-Digest: MIA1CnfMJ527kyABKGTtlQ2FOaU=
+
+Name: assets/res/Shop/bg.png
+SHA1-Digest: C59ORvGNflhr+kg3Om/jR6NtZSg=
+
+Name: assets/mmiap/02/logo_02.png
+SHA1-Digest: NN7E1FvMsVf1hYZID3+mwWyI1X0=
+
+Name: assets/mmiap/01/horizontal/savingdialog.xml
+SHA1-Digest: eeE3n7rHn6dB2+BhRFr29XLcCi8=
+
+Name: assets/res/MP3/pop.mp3
+SHA1-Digest: LIINgwYCjGU6FhQHa2jv0jLhNUU=
+
+Name: assets/res/Button/pink.png
+SHA1-Digest: tdQ6hznoDn7Cc9j3MEkCzHmblEw=
+
+Name: assets/mmiap/01/bg.png
+SHA1-Digest: 9SGJ7QoPjm+bXfUCdxDTKjbmoxU=
+
+Name: assets/mmiap/03/btn_gray_click.png
+SHA1-Digest: fVzQDgH53g20NiA5EM4tzRV6N10=
+
+Name: assets/mmiap/03/vertical/sucresultdialog.xml
+SHA1-Digest: ejsD/3wuRHaOY2t2oxKFy3qps2A=
+
+Name: assets/res/Effect/firework0.plist
+SHA1-Digest: lmf5BYNvHaviq89xRxBysQ+9UoY=
+
+Name: assets/res/Start/loginSceneFollow.png
+SHA1-Digest: thXX+3Xj035Mbd1uh/zDnhcWeIk=
+
+Name: assets/res/resurgence/greenEnterButton.png
+SHA1-Digest: +mtzj16FIrRoWly+OlNftENUINQ=
+
+Name: assets/res/Main/text_kiss.png
+SHA1-Digest: Bm/dMxfDj2NVUuSR4Fj7gcyuHAA=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: GwZkpqbd9TegEDiBfrczu6hnBng=
+
+Name: assets/res/Update/updateText.png
+SHA1-Digest: GTFKMjkvyLnIwxIJlswVE3pUe4o=
+
+Name: lib/armeabi/libcmcc_rusteze.so
+SHA1-Digest: 7b1Alk4Ss1zEEypZSJASclUucik=
+
+Name: assets/res/MP3/passLevel.mp3
+SHA1-Digest: pDadsQNIa+lPibKL2BSWcMxkfLU=
+
+Name: assets/res/Score/high-score.png
+SHA1-Digest: ZcK65XbkOJvHfsPbbFo15quQ+aM=
+
+Name: assets/res/Update/updatebg.png
+SHA1-Digest: 4koWfyra87l5uZcC3eG5vP4ClFY=
+
+Name: assets/mmiap/image/vertical/icon_success.gif
+SHA1-Digest: Pd0m3rRjH5RV6Fb7C5U8+CQu7XQ=
+
+Name: assets/res/Shop/diamond/3.png
+SHA1-Digest: 5U3HgQELmfihA/XMUx7x14T0pnc=
+
+Name: assets/mmiap/image/vertical/keyboard_button_hide.png
+SHA1-Digest: ESNf4bT7i3hTt1dM+oGwJpNLt7w=
+
+Name: assets/res/popupBox/refreshNotEnough.png
+SHA1-Digest: zcq0G2xpZBzbXj6DGVuE2or7mcY=
+
+Name: assets/mmiap/02/title1_bg.png
+SHA1-Digest: Kb71CPoo0i9NGc4prGfYIYQu5YA=
+
+Name: assets/mmiap/01/logo1.png
+SHA1-Digest: AN/wF6UcHNra09eV1j78htuP89k=
+
+Name: assets/res/Start/back.png
+SHA1-Digest: UWw9/ejo9wnvCeZxxXp2rB63gJQ=
+
+Name: assets/res/PassReward/refresh.png
+SHA1-Digest: +Duzwq8TZa8o4KrT7rF4002udlo=
+
+Name: assets/res/continueLoginReward/todayLight.png
+SHA1-Digest: HmV3UgJFdXyAy0Qe+E2WExdKCoo=
+
+Name: assets/res/MP3/bg.mp3
+SHA1-Digest: IVQSoNiatbpS18+QqLZTf1+6enY=
+
+Name: assets/res/Start/continueGameTextGray.png
+SHA1-Digest: bcYIjIOkej4fHvfoNLHlUp0yuls=
+
+Name: assets/res/Shop/magicText.png
+SHA1-Digest: E8DgWsxFUPWy+7jUqinT0/BbqMM=
+
+Name: lib/armeabi/libDexHelper_mmb.so
+SHA1-Digest: udzssQ9vt+JMadfM2EBcKl4WDcg=
+
+Name: assets/res/Main/propBG2.png
+SHA1-Digest: sXk8uPRcNjFUu6IuMTqe+PXkH2k=
+
+Name: assets/res/Main/bgs/mainStar1.png
+SHA1-Digest: Bq/EmVh+YhSCUal/ukSQXyzEuDc=
+
+Name: assets/res/MP3/failLevel.mp3
+SHA1-Digest: UKj1Wnb1zTpGzzTJ+xFh4YZqvjE=
+
+Name: assets/res/popupBox/propWhiteBottom.png
+SHA1-Digest: oz6hH0kw3CLruaL7jUzJHx7/PUU=
+
+Name: assets/res/Shop/magic/4.png
+SHA1-Digest: Jf/T3572Uz79DGFEbMBsimbU8xQ=
+
+Name: assets/mmiap/03/logo1.png
+SHA1-Digest: krE0/SWgk2+jld6Iz4d/OuGCocE=
+
+Name: assets/mmiap/01/icon_success.png
+SHA1-Digest: p6JJI3w5AiURpjtdUVuOFPcYMFE=
+
+Name: assets/res/Bomb/bomb.plist
+SHA1-Digest: MqMZl3Co3UWM3sQ+Lbw10/8VEsU=
+
+Name: assets/mmiap/02/vertical/sucresultdialog.xml
+SHA1-Digest: CeGXwu0R7rMTEFi0WqDdYcRZhpE=
+
+Name: assets/res/Back/backHome.png
+SHA1-Digest: UX6mqdCE2fXN9+ylb/5/QzPhhRE=
+
+Name: assets/res/Bomb/bomb.png
+SHA1-Digest: 2MahqNlySS+umBs0qLIe8anjdGs=
+
+Name: assets/mmiap/01/vertical/savingdialog.xml
+SHA1-Digest: CKh1LGflcKX8K791pxzf+l1w0Hk=
+
+Name: assets/mmiap/03/vertical/progressdialog.xml
+SHA1-Digest: IjDa3+hlQ3mYE2pc/YLy59xDlzE=
+
+Name: assets/mmiap/02/horizontal/sucresultdialog.xml
+SHA1-Digest: binh0DUIBuajn9IChUzuTs5PkmM=
+
+Name: assets/mmiap/02/vertical/purchasedialog.xml
+SHA1-Digest: 2fiTd677R8AqlTVizksBULMf5/A=
+
+Name: assets/mmiap/03/bg.png
+SHA1-Digest: XLx44iPIy+qsNAZAzRTsCu4SeX4=
+
+Name: assets/mmiap/03/vertical/purchasedialog.xml
+SHA1-Digest: nu54Y9pkrJhbMFvg017birEFBrE=
+
+Name: assets/res/Shop/diamondContent.png
+SHA1-Digest: 1ewTTgppNuClqC5x3hxmc4tDAJc=
+
+Name: assets/mmiap/01/infoline.png
+SHA1-Digest: nVTCO5Pd+5iniATZQZlnmxawOCU=
+
+Name: assets/res/Shop/bombContent.png
+SHA1-Digest: WGSOPk2eeUDMKyqVHmyN/CSqdVM=
+
+Name: assets/res/popupBox/refreshTip.png
+SHA1-Digest: KpjMiwLDL/QQWd0MkvJeZ3OmiPA=
+
+Name: assets/res/Shop/diamond/2.png
+SHA1-Digest: 4N1hAjIIzmjvF1+IOTb8n7i+hnI=
+
+Name: assets/res/Shop/diamond/5.png
+SHA1-Digest: tm6k65h7F89E6e6n/U3wxHPJEp0=
+
+Name: assets/res/Shop/refresh/4.png
+SHA1-Digest: 53pe49fSoiBg0v85bk8xO5DuPFQ=
+
+Name: assets/res/continueLoginReward/todayGet.png
+SHA1-Digest: EOkgPZnZuRy95NQRlU9IqIwXo4I=
+
+Name: assets/res/GiftBag/bg.png
+SHA1-Digest: Q2UOJFpgl3SGOXA25rKm+7zMauI=
+
+Name: assets/res/Button/yellow.png
+SHA1-Digest: YILSHr/wrtd2CJx/Fuawc9Yi0Jw=
+
+Name: assets/mmiap/03/icon_success.png
+SHA1-Digest: tAezrOly6ig/YEcfCf2taswzrwg=
+
+Name: assets/res/resurgence/continuePlayBeyondSelf.png
+SHA1-Digest: 329O8kCYagrgQJL9RT383RJdIHY=
+
+Name: CopyrightDeclaration.xml
+SHA1-Digest: 32m3AgKVcJ2LrNzrn9FiNAEwQS8=
+
+Name: assets/mmiap/03/title1_bg.png
+SHA1-Digest: Pgu3qXzwVKrCYv0T3OnbFryq8hg=
+
+Name: assets/mmiap/02/icon_success.png
+SHA1-Digest: lHvMSIU19X0jAgPfFx8e38EMOGI=
+
+Name: classes.dex
+SHA1-Digest: vDCvW86nWN7CU5FdR7MZH+RIWAo=
+
+Name: assets/mmiap/02/horizontal/failresultdialog.xml
+SHA1-Digest: FzHj1AsuDc9EecOvljyORCe0Ics=
+
+Name: assets/res/MP3/enterButton.mp3
+SHA1-Digest: bNeHMwXEn6NwUCIp38v4sW9VtbY=
+
+Name: assets/res/MP3/refreshProp.mp3
+SHA1-Digest: c9KHfpcOoxSj2CYu5ALu5VJwPqU=
+
+Name: assets/res/Effect/3.png
+SHA1-Digest: Cc0E+d6hJOjW9VfRf71tEYKdth4=
+
+Name: assets/res/Effect/bigwin_blowout_2.plist
+SHA1-Digest: yjWCcEmKX4u0brK+V7oJ+dbfhcE=
+
+Name: assets/mmiap/image/vertical/button_back_Press.png
+SHA1-Digest: y/1AR3KU+ZLtZL43YenMAyXpS9I=
+
+Name: assets/res/BG/rect.png
+SHA1-Digest: TCAYOf0UV0jl1Impg9FJboJxIks=
+
+Name: assets/res/MP3/congratelationPassLevel.mp3
+SHA1-Digest: DwZjSOnIVsZWCr/nf+MwhaZuST0=
+
+Name: assets/res/Shop/giveAwayRedText.png
+SHA1-Digest: zCyb8A8U7E4rjieyqrBX7PU4/IE=
+
+Name: assets/mmiap/image/vertical/splash_h.jpg
+SHA1-Digest: d474QW7mpYrEp1f5JFdR8hg1oTw=
+
+Name: assets/res/resurgence/secText.png
+SHA1-Digest: XACFAnfjzgXFN9SxYZaxlsVFsEo=
+
+Name: assets/res/MP3/bomb.mp3
+SHA1-Digest: LlNxuiG+neDIKGidf5bkigKQATA=
+
+Name: resources.arsc
+SHA1-Digest: gyhsgMFF/T1aKSLZqxNe36rIuBw=
+
+Name: assets/mmiap/image/vertical/splash_v.jpg
+SHA1-Digest: n0cV1ad8vFnXag/qZYhG3h9JykE=
+
+Name: assets/res/ExitGame/aperture.png
+SHA1-Digest: egOMLOncwJeaa6JRzyvWm0n3fr8=
+
+Name: assets/res/Main/bgs/mainStar1.plist
+SHA1-Digest: 9+1I7yGhAvCSjUdGGxJRCah97CM=
+
+Name: assets/mmiap/03/btn_blue01_click.png
+SHA1-Digest: HW8R6vez4/jUU3jQmf18vsWzKxc=
+
+Name: assets/mmiap/02/logo1.png
+SHA1-Digest: 8PydcFzQFBsZQUkxaWHuZND9OxA=
+
+Name: assets/res/Main/mainStar.plist
+SHA1-Digest: x6BIPrwmdy2xCt2JK8PyUTg4eWI=
+
+Name: assets/mmiap/01/vertical/progressdialog.xml
+SHA1-Digest: HPUuaENIKJ8+addrQAWFtuBts/Y=
+
+Name: assets/res/PassReward/diamond.png
+SHA1-Digest: JkF3721ykR7zHQHmeMTOnPk7QlI=
+
+Name: assets/res/Shop/prices/5.png
+SHA1-Digest: qUXC8vCC6O72wO7Pc2b7GPOopI0=
+
+Name: assets/res/Main/text_bomb.png
+SHA1-Digest: QUhVhYSg3pLY3iQGbMu2+UNXj1o=
+
+Name: assets/res/Main/bomb.png
+SHA1-Digest: U3M5hjlGJ90y6xdbN//ScDueWGk=
+
+Name: assets/mmiap/01/close.png
+SHA1-Digest: YJz8VOJypZNe6n3uEoMvsR7MAac=
+
+Name: assets/res/PropNum/propNum.png
+SHA1-Digest: gASYMclS/jLyjJeof7feeRiRBDg=
+
+Name: assets/res/MP3/fireworks.mp3
+SHA1-Digest: KsysIF3Z9fpNvr5jaVX2APXdoKE=
+
+Name: assets/res/Main/propBG3.png
+SHA1-Digest: 7yos+5hKy2OFvnkHfECH7F4rmFk=
+
+Name: assets/res/ExitGame/playAgain.png
+SHA1-Digest: +4fsACJlJp/53fZlqGqI5pp1ARI=
+
+Name: assets/res/Main/magic.png
+SHA1-Digest: lwp7TrMXmgd0uT6s4UfGZjCf8Q0=
+
+Name: assets/res/MP3/getReward.mp3
+SHA1-Digest: ofUuaAPrqiiQ1K84Hi2zEUdgtJE=
+
+Name: lib/armeabi/libgame.so
+SHA1-Digest: F+pCeDSSGGoT8QFyKbUSZ6kckPI=
+
+Name: assets/mmiap/03/infobg.9.png
+SHA1-Digest: h/fZ8bKtyWyDs9ey/6Wlw5pxOVo=
+
+Name: assets/res/Copywriter/right.png
+SHA1-Digest: /jXqzNRScVSw+l823QeZLbmf72E=
+
+Name: assets/mmiap/03/btn_gray.png
+SHA1-Digest: IrW8B4bfkwB3jiWU3HVjzgOZZJU=
+
+Name: assets/mmiap/image/vertical/logo1.png
+SHA1-Digest: Ykr+sDDlwEj+FtvLzFz6gNjOOMk=
+
+Name: assets/mmiap/image/vertical/button1_Confirm_Press.9.png
+SHA1-Digest: TdwpmE1Fpdzz9NL9hzvGwQM3a5Y=
+
+Name: assets/res/Shop/refresh/1.png
+SHA1-Digest: /WGxTa94jHy572rhi77/Kl6OkvY=
+
+Name: assets/res/Copywriter/pretty.png
+SHA1-Digest: ZxxtSYW8kafTL6bdHKh3Dz27T0I=
+
+Name: assets/mmiap/03/horizontal/purchasedialog.xml
+SHA1-Digest: PgwJbKlwOy3gfzPVaPtciZh8s0Y=
+
+Name: assets/res/Main/revival.png
+SHA1-Digest: C2AaOEo5fuAZMRUyGnAvspAiY6w=
+
+Name: assets/res/Main/processBarStar/1.png
+SHA1-Digest: 6P2s+bW+MRz7Xd/OtHiyIXxM+7M=
+
+Name: assets/res/continueLoginReward/num.png
+SHA1-Digest: SUagTd1Ct0CVGwsV4kdpY24D8Cc=
+
+Name: assets/res/Shop/bombText.png
+SHA1-Digest: Se3YWYu842aNc2WbRcb6ZcJNRZQ=
+
+Name: assets/mmiap/image/vertical/button1_Confirm.9.png
+SHA1-Digest: Ps3nbK4QZ+TFmEjPDjFvixcskYw=
+
+Name: mmiap.xml
+SHA1-Digest: l08wsIC+Yv/THGQ/FBXuRi3D0KM=
+
+Name: assets/mmiap/03/button1_confirm.9.png
+SHA1-Digest: 9o5njnpn/yQT92qsuu36RMsfsrw=
+
+Name: assets/mmiap/03/loading.png
+SHA1-Digest: 0yYWXgxvlM+19jomzcKgtMS6AZA=
+
+Name: assets/mmiap/01/btn_2.9.png
+SHA1-Digest: t1qwwcJhmv2OHJIGwrwkmZ1khWU=
+
+Name: assets/res/PassReward/rewardButton.png
+SHA1-Digest: 7iKryJp8yx0LAi+iOyUZ0pdWQ0w=
+
+Name: assets/res/Shop/twoYuan.png
+SHA1-Digest: JDx/5FhH8K1yVLnjyw1ZMz62Pqg=
+
+Name: assets/res/continueLoginReward/nextDayLight.png
+SHA1-Digest: tVOMgR5U3z4Xn/x5Fcb6Qte6dB8=
+
+Name: assets/res/popupBox/magicNotEnough.png
+SHA1-Digest: vB68wSZMckyiX3xmpyPLf2gRfAE=
+
+Name: assets/res/Copywriter/great.png
+SHA1-Digest: W2ogCMyVhpk6ruwwh6gr1r1lkZA=
+
+Name: assets/res/Effect/2.png
+SHA1-Digest: DKw9K0smK3T1XQPREXOHiEEqy6o=
+
+Name: lib/armeabi/libcasdkjni.so
+SHA1-Digest: xsKjBkkLkBNxMOOpE6ikfwgv7Jg=
+
+Name: assets/mmiap/image/vertical/checkbox_uncheck.png
+SHA1-Digest: +rRfhW2cJrLQKhkA9bwZaGg8Eeg=
+
+Name: assets/res/BG/m_bg_top_1.png
+SHA1-Digest: Z8fsEc6SwFyHsRtjfqUbgHkKBWU=
+
+Name: assets/res/Shop/diamondText.png
+SHA1-Digest: wZ/EZSgBSZiAXsCQfigT7sGhygQ=
+
+Name: assets/res/Main/purplePinkButton.png
+SHA1-Digest: qUZ2eQKep4JQTSA0jchHvpu4p6s=
+
+Name: assets/res/Copywriter/good.png
+SHA1-Digest: 1AjxFSHxykpZM55DANkWjnXm01c=
+
+Name: assets/mmiap/02/close_click.png
+SHA1-Digest: KTq2yXPuSqlXHohRadLJS8+0XSA=
+
+Name: assets/mmbclasses.jar
+SHA1-Digest: Sxk8mrzfYz4t/TRnGxYN9I82XnU=
+
+Name: assets/mmiap/01/horizontal/sucresultdialog.xml
+SHA1-Digest: WWgS3x3qXr0PVaWPd9H8AKlcLG8=
+
+Name: lib/armeabi/libcmcc_haze.so
+SHA1-Digest: 6Ii8UlpbGUfln5+/qDymEYlwt30=
+
+Name: assets/mmiap/image/vertical/keyboard_button_delete.png
+SHA1-Digest: uEYG0/YbmnXNE1kpJnNrinJOc+k=
+
+Name: assets/res/Back/continueButton.png
+SHA1-Digest: uqNyq2BZ54TuGlUZPIlg1Ikmnxc=
+
+Name: assets/res/PassReward/light.png
+SHA1-Digest: ksdtJ+newwH22gmwMlNq2HhxsFM=
+
+Name: assets/mmiap/03/icon_info.png
+SHA1-Digest: vQzaXbVUN16cTyelImIvudBDGJY=
+
+Name: assets/mmiap/03/button1_confirm_press.9.png
+SHA1-Digest: lMGodyjb7C/ff4yPYhdkNgRMaeU=
+
+Name: assets/res/Start/shop.png
+SHA1-Digest: ccxQ2GjmHtE02R8QnDptd+OsCBw=
+
+Name: lib/armeabi/libidentifyapp.so
+SHA1-Digest: WaNYtCC91hq7NJj0njKbCRPnEBU=
+
+Name: assets/mmiap/03/horizontal/savingdialog.xml
+SHA1-Digest: Lnxz44N7Ob5rYZNvVlY7gvQ+r6c=
+
+Name: assets/res/BG/m_bg_bottom.png
+SHA1-Digest: xo1IUmsi6SF3zc/WUhP4HJ9GvdE=
+
+Name: assets/res/Score/yellowItalic.png
+SHA1-Digest: EtMa/NZBvwXasf6/dL/Lu7I4K2M=
+
+Name: assets/res/Main/close.png
+SHA1-Digest: Q53K+jOlPbuUyA0NafmdNaoJbDE=
+
+Name: assets/mmiap/image/vertical/btn_smalltitle_close.png
+SHA1-Digest: EUf2S1apvLBe9t4pDhGPuDhFDJc=
+
+Name: assets/res/Shop/magicContent.png
+SHA1-Digest: buuhmScVkS6FuagOkxCRgK2WfR0=
+
+Name: assets/res/CDkey/bg.png
+SHA1-Digest: VXHfLn7RSlGBs8owMI+AeEge464=
+
+Name: assets/res/MP3/heartDown.mp3
+SHA1-Digest: K48yxjabamPt8qvjlYZ0c0T6TLY=
+
+Name: assets/res/Back/pleaseComeBackText.png
+SHA1-Digest: SHw5vFwh4zttpVg2VU4cLCDErVU=
+
+Name: assets/mmiap/image/vertical/checkbox_checked.png
+SHA1-Digest: iO62bvaGZUuQ+yTGdJhBO3TniKQ=
+
+Name: assets/mmiap/image/vertical/keyboard_button_hide_press.png
+SHA1-Digest: 7kS6kTlvANzMDU/AdKd1CHApxXU=
+
+Name: assets/res/Start/newGameText.png
+SHA1-Digest: 4vw1WuHHCMsZP09nvstdvgyjhgw=
+
+Name: assets/res/GiftBag/content.png
+SHA1-Digest: YfJmKSNrhQC8BzyydxPscMQrqno=
+
+Name: assets/mmiap/01/horizontal/purchasedialog.xml
+SHA1-Digest: CgpgDbg729N2Bpi1tjh5/34ba48=
+
+Name: assets/res/Shop/magic/1.png
+SHA1-Digest: 7xZgR0UHfzYF/o7cOQhqhl4Fqm8=
+
+Name: assets/res/framework_precompiled.zip
+SHA1-Digest: m7zXlLoVUhrSZkpkqc+9vpRg3HE=
+
+Name: assets/res/Main/processBarStar/4.png
+SHA1-Digest: EbBjl/6aTdjJ9LT6XP/m4nrmccI=
+
+Name: assets/res/Main/confirm.png
+SHA1-Digest: DrOqzxyltYD8i6VW1/mBYV+CwJY=
+
+Name: assets/res/PassReward/magic.png
+SHA1-Digest: Ejv/MqUZJ3/vtk/Z9RjpNhCAjG0=
+
+Name: assets/res/MP3/good.mp3
+SHA1-Digest: ISvAKt5FVmNMdUVUktZn+PEdf64=
+
+Name: assets/mmiap/02/btn_orange.9.png
+SHA1-Digest: Ry+UMrCkQN9z5PTX8ia6ZTkD1E4=
+
+Name: assets/res/Shop/refresh/5.png
+SHA1-Digest: Qd6pHYqJnDuRLsMPNGUTBJrzt9E=
+
+Name: assets/res/Start/sound-on.png
+SHA1-Digest: Q5LEBWTIulHhhkSoprQUeuZlleY=
+
+Name: assets/res/MP3/startGame.mp3
+SHA1-Digest: BPvbz5vtJ1qa4zqt5iU1yXXenCQ=
+
+Name: assets/res/Main/mainStar.png
+SHA1-Digest: Jm5VKQG7d2jsUcDaOM8TKOYE0rI=
+
+Name: assets/res/Shop/magic/3.png
+SHA1-Digest: b3q/zb8AwpzYEveCzBIQnJooiVg=
+
+Name: assets/res/Shop/refresh/2.png
+SHA1-Digest: Cy5qehewBizenXKOrIqJc2wP7lk=
+
+Name: assets/res/popupBox/NrefreshTip.png
+SHA1-Digest: gMY3XpFMh4kAC8DfGN/RTkvxOb4=
+
+Name: assets/res/Button/gray.png
+SHA1-Digest: Ak33XumL/s+q6KJJHIRzXfwO/HU=
+
+Name: assets/res/Main/processBarStar/2.png
+SHA1-Digest: UE1rjdnSOh+NcXTXfodQiR416Kg=
+
+Name: assets/res/Start/CDkey.png
+SHA1-Digest: +1zmjVkjMucCtdHWF4TPp6s1TR4=
+
+Name: assets/mmiap/03/bg2.png
+SHA1-Digest: BvxkkSVigT2v/Zy1pNLj2ouq0aw=
+
+Name: assets/mmiap/02/horizontal/progressdialog.xml
+SHA1-Digest: ME+sxVTpaKYsi9SblY4yCzQ0qRw=
+
+Name: assets/mmiap/image/vertical/keyboard_button_press.png
+SHA1-Digest: gnFoYX27Oq7kcmGWaU38r3AWPAo=
+
+Name: assets/res/popupBox/NmagicTip.png
+SHA1-Digest: 94ihchwF9r0+mrxT7B9kAunXuN0=
+
+Name: assets/mmiap/01/btn_4.9.png
+SHA1-Digest: VZSehxjaq7WXXEL8MJQYLhWXrxE=
+
+Name: assets/res/Shop/gifBagBG.png
+SHA1-Digest: rpdpFlDAxe3gCQxF9qNixQ8ajQ0=
+
+Name: assets/mmiap/02/close.png
+SHA1-Digest: 7++1HgkcTXHXkqS4we0pyNucxMk=
+
+Name: assets/res/CDkey/getButton.png
+SHA1-Digest: 0gTIvmNsS586KVk2g9c4PieOlcA=
+
+Name: assets/res/Effect/firework2.plist
+SHA1-Digest: qPrN2XTwselhYWTZ5EljiUtimSU=
+
+Name: assets/res/Shop/magic/5.png
+SHA1-Digest: yPTb1m/01v3K0NgSyw3JrjynC4Q=
+
+Name: assets/res/Start/giftBag.png
+SHA1-Digest: NPn64VNSsBfGBarJ4v2R5FRrN8s=
+
+Name: assets/res/BG/PropTopFollow.png
+SHA1-Digest: 9Nbw8nWsk5/vzfuoWafoM+jw888=
+
+Name: assets/res/Back/bg.png
+SHA1-Digest: OtowS3o7e02RXbobdps/zixvOwE=
+
+Name: assets/mmiap/image/vertical/editbg.9.png
+SHA1-Digest: aCF3z/V7XuKFiXUEqkr0L4wlenA=
+
+Name: assets/res/Shop/yellowButton.png
+SHA1-Digest: 6/+/cE4ckP7oLhhIZYpAVhT0OIs=
+
+Name: assets/mmiap/image/vertical/top_button_back.png
+SHA1-Digest: MiAInbFn7+STI50iiMeLaeB8h/I=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: 7kswYaeTYRkC5bWqe4oFITDdodE=
+
+Name: assets/res/Shop/giveAwayText.png
+SHA1-Digest: K4OXEkc/ATSTGVMGfxSAjfcnkMo=
+
+Name: assets/mmiap/image/vertical/pay_record.png
+SHA1-Digest: LICSXgKug0C0wRxTNPhjP7DuzZg=
+
+Name: assets/res/Shop/diamond/4.png
+SHA1-Digest: myb2cDttQ8UeFJTA9aYFwYlyYQw=
+
+Name: assets/res/Shop/shopText.png
+SHA1-Digest: 4A8YU/UHP7zdkA2TjOdv8wV67Yg=
+
+Name: assets/mmiap/03/btn_blue01.png
+SHA1-Digest: yNgJh/nh17if2Po0cFptOVN2jq0=
+
+Name: assets/mmiap/image/vertical/infobg.9.png
+SHA1-Digest: vulc8HHGY29DkwOekbMVDp4VaU0=
+
+Name: assets/res/Main/frame.png
+SHA1-Digest: 2F2CocOYdQC6ngILYR+zjsL3tWE=
+
+Name: assets/res/Main/diamond.png
+SHA1-Digest: EsLfvCKNZBoyoLitgZ4ar3kMd/c=
+
+Name: assets/res/Shop/refreshContent.png
+SHA1-Digest: hxK6BFYC5wirfZfck4PJpE3bm2Y=
+
+Name: assets/mmiap/03/icon_false.png
+SHA1-Digest: DtrMlaQD7/vCqq7bpLgXvc3FvDU=
+
+Name: assets/mmiap/image/vertical/btn_weiview_close.png
+SHA1-Digest: TI/FE7ZxeR5fexA98dkZqWMaqVo=
+
+Name: assets/mmbclasses.dgc
+SHA1-Digest: N4wVvWKYu4Yo9xU3sEk4N/dOtR8=
+
+Name: assets/mmiap/03/title2_bg.png
+SHA1-Digest: 0paSNEGGQbSV3Q/O7s4CVg7LxLU=
+
+Name: assets/mmiap/02/icon_info.png
+SHA1-Digest: 9wXSHHv49tWgH5/qvsTnivjwYok=
+
+Name: assets/res/Effect/effectStaining.png
+SHA1-Digest: SZG37IAj5cAmo73DMpOAxjIdjwY=
+
+Name: assets/res/Start/sound-on1.png
+SHA1-Digest: iuXSWHjdL7apJx3M7tmwYHcPIdo=
+
+Name: assets/res/Notice/bg.png
+SHA1-Digest: BcOQOh26q9VmnuErYeHKNxCRrOY=
+
+Name: assets/mmiap/02/btn_gray.9.png
+SHA1-Digest: TdLPtGIOlxU6fwJUiOudJua98cg=
+
+Name: assets/mmiap/02/vertical/failresultdialog.xml
+SHA1-Digest: ncKcGdIcrvTBcAaCuXQTN8DO+EI=
+
+Name: assets/res/Start/sound-off1.png
+SHA1-Digest: RGYGa3WEbsZD2b4EcGlYsXc1lQ0=
+
+Name: assets/res/Effect/4.png
+SHA1-Digest: Tw5eKyvqCpYP+Z2fKNv4rhIwTf0=
+
+Name: assets/res/beThankfulBag/text.png
+SHA1-Digest: QJBtlYsLll5Pnfbdk0O2gETjAbI=
+
+Name: assets/res/Main/close2.png
+SHA1-Digest: OpsHdjG4PQgHNyEnMSc8+kdzJBs=
+

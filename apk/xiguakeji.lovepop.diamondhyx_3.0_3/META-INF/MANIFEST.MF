@@ -1,0 +1,787 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: assets/res/PassReward/rewardButton.png
+SHA1-Digest: CRkkkZ4vdoeCPDJ/RHmUkC6OR5I=
+
+Name: assets/res/Shop/magic/5.png
+SHA1-Digest: D4Bjc1fRkuPQj6c6QyG5tQP4iow=
+
+Name: assets/res/Main/bgs/mainStar1.plist
+SHA1-Digest: lg4SOYS8zfCWMj9b+xc5YhBBQSU=
+
+Name: assets/res/Shop/refresh/3.png
+SHA1-Digest: ncTrWW3UDv78F+mvnTjFPPrevFQ=
+
+Name: res/drawable-hdpi/gc_arrow_little.png
+SHA1-Digest: 4pGMp747bRpkgNfuG30kPXZWgj0=
+
+Name: assets/res/PropNum/propNum.png
+SHA1-Digest: stXW1lAd3YfkMHLaJtsndBwcr1c=
+
+Name: res/drawable-hdpi/gc_share_sina.png
+SHA1-Digest: oZLDz/oeszo2UfL3idAMBfpLLBI=
+
+Name: assets/res/Shop/giveAwayRedText.png
+SHA1-Digest: VTS13trFTniyEgVrfKnOkDr0Oak=
+
+Name: assets/res/Main/processBarStar/4.png
+SHA1-Digest: k2hnj9sJm+zD5uWuDH1JMMKEmFk=
+
+Name: assets/res/MP3/passLevel.mp3
+SHA1-Digest: 10W9Vn+qTGREF09rc02pltwJ7qk=
+
+Name: assets/res/Copywriter/right.png
+SHA1-Digest: SFKyTczTNpZYLHdHUgGTGFkWZf4=
+
+Name: res/drawable-hdpi/gc_share_sms.png
+SHA1-Digest: P3VVN9UcG2QAYVgjUd5MhVAYVS8=
+
+Name: res/drawable-hdpi/gc_icon_shrink.png
+SHA1-Digest: tyulp1QK2DtXX4FG62Q0NkFm32o=
+
+Name: assets/res/GiftBag/bg.png
+SHA1-Digest: 4l22QDmXFnbUQ1PxJTdigdI9EWc=
+
+Name: assets/res/Shop/gifBagBG.png
+SHA1-Digest: Rc22FiaYTlv9bCLILS7XwxBu7ng=
+
+Name: res/drawable-hdpi/gc_center_online_service.png
+SHA1-Digest: 33uCd3DvsYVic7UUxDRo3gNffA8=
+
+Name: assets/res/PassReward/light.png
+SHA1-Digest: 8nDpCWKWhybws4cxma1sl1CQYJI=
+
+Name: assets/res/MP3/getReward.mp3
+SHA1-Digest: n8/gSwbSe9+KYVskV9z/Vl7cHK8=
+
+Name: assets/res/GiftBag/getButton.png
+SHA1-Digest: v8dGnq3zgkXQ4Raxq2sqBC92tVE=
+
+Name: res/drawable-hdpi/gc_center_save.png
+SHA1-Digest: IyDXwj6VbhMO5VxDbmQwxzLAJrI=
+
+Name: assets/res/Main/text_lip.png
+SHA1-Digest: kHdkWjQyi7mkx4Ogx4Q6LzmX2JQ=
+
+Name: assets/res/Start/CDkey.png
+SHA1-Digest: 3LfZWk1NaYZjftHjUdk8LCLb+kQ=
+
+Name: assets/res/Shop/twoYuan.png
+SHA1-Digest: aNVwlRwKYMlGb1Um6NxIZVKLSPY=
+
+Name: assets/res/MP3/enterButton.mp3
+SHA1-Digest: gOCWCg86hdHhZQROajknIZLPm3s=
+
+Name: assets/res/Effect/firework.png
+SHA1-Digest: F9L434jopRyLCADH21Og7biVh6g=
+
+Name: assets/res/Shop/diamond/2.png
+SHA1-Digest: eR8JQ9n17S6BLsONrmTQZGen3kA=
+
+Name: assets/res/Start/help.png
+SHA1-Digest: QUrtYo0UouPca1WD3Lff63a3NsI=
+
+Name: assets/res/Help/bg.png
+SHA1-Digest: XWzRZ70EctDuNlCSiAU/Q3tIOss=
+
+Name: assets/res/Start/title.png
+SHA1-Digest: 83Tm4oUVrVuyXL69LEXdopVSub4=
+
+Name: assets/res/Shop/refresh/5.png
+SHA1-Digest: zSu8zEq1904FQuGBR6wqZpJBG40=
+
+Name: assets/res/Shop/diamond/3.png
+SHA1-Digest: aaUrq6f7er8lC5wLmNlay1YQwjI=
+
+Name: res/drawable-hdpi/gc_center_transaction_details.png
+SHA1-Digest: i84nDtmT7mjbORJDDV4pvOEeUHA=
+
+Name: assets/res/Start/sound-on1.png
+SHA1-Digest: StbbLADFukjw+M1Nv6iNjOWiYGs=
+
+Name: assets/res/continueLoginReward/todayGet.png
+SHA1-Digest: 4HPobmSB134unji5W0nnXFBSn8k=
+
+Name: assets/res/Button/pink.png
+SHA1-Digest: TJl67JVESXeQv4nP5GGt8b4Y2Cs=
+
+Name: assets/res/Shop/diamondContent.png
+SHA1-Digest: ERMNFYp9xeQIxYmK1uVsU45hIEw=
+
+Name: assets/res/MP3/refreshProp.mp3
+SHA1-Digest: WW66gKP/Bma5vU8j8JhPlf4G9Lg=
+
+Name: assets/ConsumeCodeInfo.xml
+SHA1-Digest: jojY22HWQD94Caoom+o72S8OiDs=
+
+Name: assets/res/Main/text_bomb.png
+SHA1-Digest: CqrJZ6nhYKTEqlxWKKqtIKD7hLc=
+
+Name: assets/res/Effect/5.png
+SHA1-Digest: fYzsxFMRvCLItm7PRRO2154WgFI=
+
+Name: res/drawable-hdpi/gc_center_about.png
+SHA1-Digest: f88xHd6QNG/yMZ73lBYlJLL4C58=
+
+Name: assets/res/beThankfulBag/text.png
+SHA1-Digest: +cEBP5QVnS+YOldMqnX/BIb+RoM=
+
+Name: assets/res/continueLoginReward/bg.png
+SHA1-Digest: 8wdwcglPdFWFu0H2go+fd8QL3M8=
+
+Name: assets/res/popupBox/refreshTip.png
+SHA1-Digest: HxxLyuBPUfhBk4Fh/8EO0M50Kjo=
+
+Name: assets/res/Shop/refresh/2.png
+SHA1-Digest: wijKsgXOlvIlxn3y0Lnx29wovyk=
+
+Name: assets/res/Start/back.png
+SHA1-Digest: qYG9brQKZF4zlV4wDlAQnXtHlIM=
+
+Name: assets/res/resurgence/greenEnterButton.png
+SHA1-Digest: nLRN1eEZ/gM/fVqnytPUdXMuBgU=
+
+Name: assets/res/Main/purplePinkButton.png
+SHA1-Digest: aTiowMavkTLjosRYHJRb37/xwV8=
+
+Name: assets/res/Effect/effectStaining.png
+SHA1-Digest: gdZVevOijhbq66IwDRLdsHeNkj0=
+
+Name: assets/res/Shop/redButton.png
+SHA1-Digest: UX8iDcf1CC7tKHEEhlwEO/m7Apc=
+
+Name: assets/res/Shop/eightYuan.png
+SHA1-Digest: 8pTKeMCyusepMFHuJ92ZvyX0uqg=
+
+Name: res/raw/opening_sound.mp3
+SHA1-Digest: THBh5nBFTKNGvNYMj0Q+1iHcySo=
+
+Name: assets/res/continueLoginReward/todayLight.png
+SHA1-Digest: Yxgw3j0ZstY2APZNBUr5UsMW5CM=
+
+Name: assets/res/popupBox/NpropWhiteBottom.png
+SHA1-Digest: GQfAeSMzTbb82K+P2h2/pqp0k6M=
+
+Name: res/drawable-hdpi/gc_title_exit.png
+SHA1-Digest: sXbNVIP6Fm9ZjT4XVr9jpIPnFKo=
+
+Name: res/drawable-hdpi/gc_share_weixinfriend.png
+SHA1-Digest: uREDWp1dPgGs4jG7cpagXPQBK1E=
+
+Name: res/drawable-hdpi/gc_online_service_logo.png
+SHA1-Digest: E68GHaR/wb/KhmZPpbe/l1VQVXM=
+
+Name: assets/res/popupBox/NrefreshTip.png
+SHA1-Digest: /TdMP/0zwRJnN+mq+HsigLqUEh8=
+
+Name: res/drawable-hdpi/gc_piccode.jpg
+SHA1-Digest: KeVM83RPxSkO1j/GzwaQpkYWsDA=
+
+Name: assets/res/BG/m_bg_top_1.png
+SHA1-Digest: HCLCB5RJegDyKQOYujkC0gKm+EA=
+
+Name: assets/res/popupBox/refreshNotEnough.png
+SHA1-Digest: jfnWPLdEdxurSRfwDmqb8AiNUcw=
+
+Name: assets/res/Main/magic.png
+SHA1-Digest: 1ilcj+WaMCvvG9bFCXP9txckaWA=
+
+Name: assets/d_data_store.dat
+SHA1-Digest: aMFUXqMLJeYpni5hwHopJSbhHQo=
+
+Name: res/drawable-hdpi/gc_member_yellow.png
+SHA1-Digest: nVbA/Hu0EeBCTha5vKkhvzh7fQY=
+
+Name: res/drawable-hdpi/gc_title_logo.png
+SHA1-Digest: Spp5bzEIAVSNBMJYKX5OAOYWDqs=
+
+Name: assets/res/Copywriter/great.png
+SHA1-Digest: VK/Dgs3WBqUdBM6lJSYg5Or1pmM=
+
+Name: assets/res/Start/continueGameTextGray.png
+SHA1-Digest: b8Mu1R+hMLhv8scpUeNwtjXI9fM=
+
+Name: assets/res/Main/diamond.png
+SHA1-Digest: aC2ZPZvRy60M35vy+sFPIGrSHQo=
+
+Name: assets/res/Main/text_kiss.png
+SHA1-Digest: rmgM6Z9QMP+0RwESknb8PkqH/FA=
+
+Name: assets/res/Main/propBG1.png
+SHA1-Digest: xTh4/QLWB1+4HIlHm+jzryDBbNI=
+
+Name: assets/res/Main/processBarStar/1.png
+SHA1-Digest: Lx5Z8vh/hRFCw1qU2jhrHX0a52o=
+
+Name: assets/res/Main/add.png
+SHA1-Digest: CsjpAWH8mXwV5Y/PXPM6r5ejnuQ=
+
+Name: res/drawable-hdpi/gc_more_game.png
+SHA1-Digest: i14z3jVt+jKoeS4nXvAvxFwPpdY=
+
+Name: res/drawable-hdpi/gc_gamehall.png
+SHA1-Digest: e2JK23o482kMRxMRARup2X3zHwc=
+
+Name: assets/res/Score/high-score.png
+SHA1-Digest: dmnwsyJ8+oTt2KundNFFjLAO02U=
+
+Name: res/drawable-hdpi/gc_recommend_flow_two.png
+SHA1-Digest: dEN3aaCX8GibCOej+32OJcda8Vc=
+
+Name: assets/res/NovicePackage/bg.png
+SHA1-Digest: ttN/psN8BMR/y/WN63ydE397sB8=
+
+Name: assets/res/resurgence/secText.png
+SHA1-Digest: grkiwu7asSeKYZUxNuNTkJpdtys=
+
+Name: assets/res/Main/finger.png
+SHA1-Digest: 1C3hoHsk2Ik6+InYkkiVdS/CGbI=
+
+Name: res/drawable-hdpi/gc_sound_on.png
+SHA1-Digest: wC8RR8/Bc6R5Jo5V+wiVw5FjKwU=
+
+Name: assets/res/Main/refresh.png
+SHA1-Digest: eLo6RsQcsr0hauSaztoXi0K2uWQ=
+
+Name: assets/res/Main/frame.png
+SHA1-Digest: WRZwdQhPVpTDjDcVbqxwd5qv93E=
+
+Name: assets/res/Shop/giveAwayText.png
+SHA1-Digest: n/VV6wdzcgm2+nqmigQduqXOyw8=
+
+Name: assets/res/Shop/diamond/5.png
+SHA1-Digest: 6Lm2ijFmWwlgkGgsdebNdXCR+uI=
+
+Name: res/drawable-hdpi/gc_edit_del.png
+SHA1-Digest: GYGG1Rd7rWa+0yMnN9vf4yHus9I=
+
+Name: assets/res/Main/mainStar.plist
+SHA1-Digest: AGd9D6Vt6GLAIqfrkvE7xgIj5Go=
+
+Name: assets/AndGame.Sdk.Lib_20121_A79D0053BE1B56EBDF86C897EB06450A.da
+ t
+SHA1-Digest: uG8gHztmxGYhC+VzMy/qIDiIiDM=
+
+Name: assets/res/MP3/heartDown.mp3
+SHA1-Digest: d+36QXxDUoW68hUvgpOd1b8+EV8=
+
+Name: assets/res/Main/propBG3.png
+SHA1-Digest: +2qUu/qlNGBzRvnuHOPUC9WnxZM=
+
+Name: assets/res/Notice/bg.png
+SHA1-Digest: S1d/qDtpdXsjpDBTiOukV2/yp2o=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: txP6OarRLgs1Xgo7n7NuQWp/yuQ=
+
+Name: assets/res/MP3/startGame.mp3
+SHA1-Digest: Tae/TWvGZO3K/2PaKPh5sojmDSU=
+
+Name: assets/res/Back/backHome.png
+SHA1-Digest: WnRfB+sFkxTnxCjuRhSgnQg/y6Q=
+
+Name: assets/res/Start/sound-on.png
+SHA1-Digest: uHnfxfTBCnVcEu3uMaVEvTWWchQ=
+
+Name: res/drawable-hdpi/gc_arrow_big.png
+SHA1-Digest: WujsSMHMaBKMh8pe2LNadSlwqAM=
+
+Name: assets/res/Effect/stat.png
+SHA1-Digest: l/2vtEZwqQxKKDaooL5/CunM5fE=
+
+Name: res/drawable-hdpi/gc_center_safely.png
+SHA1-Digest: WTbP4uJldJQE1lmcIuYTAV2RfVs=
+
+Name: res/drawable-hdpi/gc_start_login.png
+SHA1-Digest: ERwpf8L6HU7gNydrdtlf8u98fR0=
+
+Name: assets/res/Shop/yellowButton.png
+SHA1-Digest: hBNnifBp2T0mgtiCQlD3IPmhuT0=
+
+Name: assets/res/ExitGame/giftBag.png
+SHA1-Digest: 4XlOsWu8qG2c8lCsgn+klmiQxzw=
+
+Name: assets/res/BG/m_bg_top_3.png
+SHA1-Digest: DqGV97mG+q2ti5K6tshZBOGYoHg=
+
+Name: assets/res/BG/m_bg_bottom.png
+SHA1-Digest: oHumCGJLGFh2krN/kakwIOfmKK4=
+
+Name: assets/res/Shop/prices/4.png
+SHA1-Digest: EZpoqgwNrfhBfyEpiGExUPcjt4M=
+
+Name: res/drawable-hdpi/gc_exit_share.png
+SHA1-Digest: x5hnrDv+H8oxiOALMggDwuHkFmI=
+
+Name: res/drawable-hdpi/gc_anim_title.png
+SHA1-Digest: iCxQwyxMjXDCariqTv+fmAfMa8Q=
+
+Name: assets/res/Help/crushStarAwardText.png
+SHA1-Digest: p++sOQ3bRVwXdZIi1gNPoHP6EVQ=
+
+Name: assets/res/Shop/magic/4.png
+SHA1-Digest: MOX+hwcxCkn+2wrtkqhXBJWQJUE=
+
+Name: assets/res/CDkey/getButton.png
+SHA1-Digest: CRkkkZ4vdoeCPDJ/RHmUkC6OR5I=
+
+Name: res/drawable-hdpi/gc_drag_hide.png
+SHA1-Digest: ZCTP+oMEbpRZoXg3ShBEvZP2CPI=
+
+Name: assets/res/Main/processBarStar/3.png
+SHA1-Digest: Bsmb+08d1pR8xz+Dcvc0DavtSg8=
+
+Name: assets/res/Shop/diamondText.png
+SHA1-Digest: KyFz18AJ9Ibehq1SjnN/eyXTf+Y=
+
+Name: assets/res/Start/continueGameTextGreen.png
+SHA1-Digest: 9TI+3Rw4rCdAtaVYQTIE4AvwzSQ=
+
+Name: res/drawable-hdpi/gc_user_center.png
+SHA1-Digest: iNNihr4IcIdnOkp6fWquaXd69IA=
+
+Name: res/drawable-hdpi/gc_title_arrow.png
+SHA1-Digest: 3bJx1+PCYhrQ0CuV21bWH85yors=
+
+Name: assets/res/Shop/prices/2.png
+SHA1-Digest: KJm0z7/8Q7Kc7FJX2kRR+17I5dQ=
+
+Name: assets/Charge.xml
+SHA1-Digest: 7cOyKHiPt59rUekUKzqL3rM3lOU=
+
+Name: assets/libmegbpp_02.02.12_01.so
+SHA1-Digest: kEhwlc84TnV0I9XTGTtXc/QyB9I=
+
+Name: assets/res/Bomb/bomb.png
+SHA1-Digest: ltpjf6Ptki7UqncLwZbKzMaPxn8=
+
+Name: assets/res/Back/pleaseComeBackText.png
+SHA1-Digest: tRNZxBzgB6K0pO5HI9J/6YiX2GQ=
+
+Name: assets/res/Shop/refreshContent.png
+SHA1-Digest: PZJQWQ7G7yAROmwy0M6ChgAP5gM=
+
+Name: assets/res/Update/updateButton.png
+SHA1-Digest: PvB7iVw1l6vsMWzdJ2coxgk+Awg=
+
+Name: res/drawable-hdpi/gc_center_gameshare.png
+SHA1-Digest: 0ePplZuzjTrgRqhDkAcEqfrwsXc=
+
+Name: res/drawable-hdpi/gc_window.png
+SHA1-Digest: GACSoHc8+f3bmn6J0NhZrAKcfRE=
+
+Name: assets/res/popupBox/magicTip.png
+SHA1-Digest: qNcypkkqc40ydBng0R0SyOzluhc=
+
+Name: assets/res/Main/blood.png
+SHA1-Digest: RZi0LvaFx6eK3albeNsL0BpKdAc=
+
+Name: assets/res/game.zip
+SHA1-Digest: nD4YKDztBudiGPWReRamLpnZbBQ=
+
+Name: assets/res/popupBox/NmagicTip.png
+SHA1-Digest: j9muFjcL5PRX7XPJ5tNkshSw99g=
+
+Name: assets/res/MP3/bg.mp3
+SHA1-Digest: slPfjjl3dUdWTw11n+HBUiNpNSk=
+
+Name: assets/res/popupBox/propBlackBottom.png
+SHA1-Digest: kdqun2zIxBT5hpFpL+hVXm380t8=
+
+Name: assets/res/Shop/diamond/1.png
+SHA1-Digest: Pmjztah4YUvLEGA6Lae1YnviPOQ=
+
+Name: res/drawable-hdpi/gc_recharge_sale.png
+SHA1-Digest: Mxafzg8GnH6ynLtKU2qN8RsbRo4=
+
+Name: assets/res/Shop/magic/3.png
+SHA1-Digest: ttmfABCgg8aKEZjL2hx66gFU43Q=
+
+Name: assets/res/Main/revival.png
+SHA1-Digest: FYV9mwG8uGIExr+pbZN5d9+k+zc=
+
+Name: assets/res/Shop/magicContent.png
+SHA1-Digest: Zoq1BwFQ0HxZWtPpQ0JgACqzrU4=
+
+Name: assets/res/MP3/good.mp3
+SHA1-Digest: prz4LCiZOgiS18QXtDqyFUzTLXs=
+
+Name: assets/res/Shop/myBagText.png
+SHA1-Digest: +J1+ok644juaz4T6EHgNtR2tOws=
+
+Name: assets/res/Button/purple.png
+SHA1-Digest: aTiowMavkTLjosRYHJRb37/xwV8=
+
+Name: assets/res/Shop/shopText.png
+SHA1-Digest: q9MVHvQw7en3tWU9MeAhJOnJ2qg=
+
+Name: assets/res/MP3/congratelationPassLevel.mp3
+SHA1-Digest: YvmAUIZ2bmcUTorLiOjpSeXbR/U=
+
+Name: assets/res/CDkey/inputCDKey.png
+SHA1-Digest: gFufOf16DH/M4otErroS3Hy6o/M=
+
+Name: assets/res/Start/loginSceneFollow.png
+SHA1-Digest: OOdaHP0uq7U/Rh3mZ3u/gAw2Nb8=
+
+Name: assets/res/BG/mainGameSceneBG.png
+SHA1-Digest: dkTp3dyswJt07Ddzjd9tWRD7kUY=
+
+Name: res/drawable-hdpi/gc_contract_press.png
+SHA1-Digest: T4nijU0bhTlFRG8ckIwXcOYOt04=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: txP6OarRLgs1Xgo7n7NuQWp/yuQ=
+
+Name: assets/res/PassReward/refresh.png
+SHA1-Digest: qsOOeV/hoNSoeOuOpk1ZK9jwqjQ=
+
+Name: assets/res/Shop/bombText.png
+SHA1-Digest: WtECwDKAwKuNfHxSzBWe17UJgvc=
+
+Name: assets/res/BG/t_p_bg.png
+SHA1-Digest: swyWGj4nHIqRcobyT4x8SEzTjEI=
+
+Name: assets/res/continueLoginReward/nexyLight.png
+SHA1-Digest: qUKTHiuivBH24uGsonJqy8cnobo=
+
+Name: res/drawable-hdpi/gc_default_icon.png
+SHA1-Digest: wStKpluF3kY9+EjGiZaZPW2Idck=
+
+Name: assets/res/Main/close2.png
+SHA1-Digest: PFhgf5YSJSRhLi5o312EuqXvpQE=
+
+Name: assets/res/GiftBag/content.png
+SHA1-Digest: 0iS2iQeFctT//V6poCKSysXZOp4=
+
+Name: assets/res/PropNum/propN.png
+SHA1-Digest: XVypUiWFIRk/orIda7Y6eMs8JTw=
+
+Name: assets/res/PassReward/diamond.png
+SHA1-Digest: DK4W/IxNeMgsSSYviNK5Acyg5Ac=
+
+Name: res/drawable-hdpi/gc_share_qq.png
+SHA1-Digest: 7E4D8jreFqumboNhHdPLKZgklu0=
+
+Name: res/drawable-hdpi/gc_icon_extend.png
+SHA1-Digest: xT6UUapsihVEMYSJ679Br1EO5gs=
+
+Name: lib/armeabi/libgame.so
+SHA1-Digest: KB+wBiuBNYEtkBDvVmTegAgL6D0=
+
+Name: res/drawable-hdpi/gc_step_unfocus.png
+SHA1-Digest: dRhGfI5bTobse1FF9zIjenqmdvw=
+
+Name: res/drawable-hdpi/gc_notification_icon.png
+SHA1-Digest: +53B82q34N5hSHzbygerf690LLU=
+
+Name: res/drawable-hdpi/gc_recommend_hall.png
+SHA1-Digest: rDewc1tzymFcsMjC7YXdPOTduIU=
+
+Name: assets/res/Main/loveframe.png
+SHA1-Digest: UYKuJc0etN32+oY7XGk1tR9KGec=
+
+Name: assets/res/Effect/bigwin_blowout_2.plist
+SHA1-Digest: H9AwexYGOOLfzcV10VSk5zc9Uw0=
+
+Name: assets/res/Shop/magic/2.png
+SHA1-Digest: p3qMZVgNsSZQY/QtgWd7OaVFdZk=
+
+Name: assets/res/Effect/firework1.plist
+SHA1-Digest: ApoeVYJ0I9aAIFfRu4BU1n2tKVk=
+
+Name: assets/res/Button/green.png
+SHA1-Digest: BxEVZhx30hso1XKwj/RoBJ8KPws=
+
+Name: assets/res/popupBox/propWhiteBottom.png
+SHA1-Digest: gSUG5d36y1UFTZy+SnfjKVDKWdU=
+
+Name: assets/res/CDkey/cashBox.plist
+SHA1-Digest: RuS6PPTPTgWpVSYzFDYmjEQF9PM=
+
+Name: assets/res/Main/processBarStar/5.png
+SHA1-Digest: DqTPevxKv1YPOvXUsGgCfsMvNMg=
+
+Name: assets/res/ExitGame/bg.png
+SHA1-Digest: CWTTdBFwZ5qmc7IY2DVU9hSsvk0=
+
+Name: assets/res/Update/updateText.png
+SHA1-Digest: HXlowlaJKE1DvYqtlKPzxsXcDd4=
+
+Name: resources.arsc
+SHA1-Digest: sVc9UlcGUHWmFqtXi+wAMs0Mt4I=
+
+Name: res/drawable-hdpi/gc_arrow_text.png
+SHA1-Digest: hX0pH86Vt7csmB9nb+SjN21EW5Y=
+
+Name: assets/res/Main/propBG2.png
+SHA1-Digest: NxT624gJpic0AQp0APIR/ugE948=
+
+Name: assets/res/Start/newGameText.png
+SHA1-Digest: aT0hlk50AYawGI7b/6CmBfYoqzw=
+
+Name: assets/res/Effect/firework0.plist
+SHA1-Digest: pDun4nvoN/hjl6beaR9OoS+vaAk=
+
+Name: assets/res/Shop/refresh/1.png
+SHA1-Digest: ojUNa60kRznrIEV6M7KPjVeHpNo=
+
+Name: AndroidManifest.xml
+SHA1-Digest: lZxVX4fv/e2APIvCS5OZy5g2zXs=
+
+Name: res/drawable-hdpi/gc_center_help.png
+SHA1-Digest: 7tN90O+slzYiK7uVrPEyj0eAagA=
+
+Name: assets/res/Effect/firework2.plist
+SHA1-Digest: 6mVXLcR/peuyMjl7qTTvFQQK/nc=
+
+Name: assets/res/Score/yellowItalic.png
+SHA1-Digest: pn2kvQO/zPnKSpd76fkqTgeeVE8=
+
+Name: assets/res/MP3/bomb.mp3
+SHA1-Digest: WVWINgI8zd/XvJYgozmbh3Rbsgk=
+
+Name: assets/res/Start/shop.png
+SHA1-Digest: /CXlPO+2mxJH5VRluGXlcy8yG9M=
+
+Name: assets/res/Update/updatebg.png
+SHA1-Digest: Wnju51TC0FrsaOzTPVtBPZcvRvM=
+
+Name: assets/res/Effect/2.png
+SHA1-Digest: Tk6Ib2lAQhx0Tv4/ZZfZ3l7R/g8=
+
+Name: res/drawable-hdpi/gc_member_green.png
+SHA1-Digest: Cy00ZHjfewFCIAl+bBRYDb/liDM=
+
+Name: assets/res/Shop/bg.png
+SHA1-Digest: V8493IDAPgrSE9nPW24TMeIXioA=
+
+Name: assets/res/popupBox/magicNotEnough.png
+SHA1-Digest: GFVTJAe1BgZY9BWVhKTw8S3YPc8=
+
+Name: classes.dex
+SHA1-Digest: gx8i95s3TjSh5CeBW/r+ruB4Vag=
+
+Name: assets/res/MP3/great.mp3
+SHA1-Digest: lxUuVU6BEsePl315VZFBYz1srto=
+
+Name: assets/res/Effect/effectStaining.plist
+SHA1-Digest: WLDOr5o7JhrRRgtBnTZbo+59e38=
+
+Name: assets/res/PassReward/magic.png
+SHA1-Digest: CAEQUTHYL86uHYcaz5uqHy6wbM8=
+
+Name: assets/res/Effect/1.png
+SHA1-Digest: 8ID3WIh4os9Quj37aYDWRO2RN4Y=
+
+Name: assets/iridver.dat
+SHA1-Digest: aYyatyV68UnMfO75oEMfGqA9zRg=
+
+Name: res/drawable-hdpi/gc_center_recharge.png
+SHA1-Digest: pbqxtSr+a+KJXcw/28FxjYV5aEM=
+
+Name: assets/res/Main/bgs/mainStar1.png
+SHA1-Digest: IoT2/XA/HrvXY0+8206Zqn+Btq8=
+
+Name: assets/res/MP3/failLevel.mp3
+SHA1-Digest: FHUfhHQ36qIn7vtI8AK1yeeyTyQ=
+
+Name: assets/res/ExitGame/Exit.png
+SHA1-Digest: X/Fq5zRZCQJX/LD4MwM2yBraZGE=
+
+Name: assets/res/Shop/bombContent.png
+SHA1-Digest: Xn0iykrjf7GYcH7MOANC0ECSgXM=
+
+Name: res/drawable-hdpi/gc_center_look.png
+SHA1-Digest: bAohfULTxTxoS/aRm26MO1dknwA=
+
+Name: assets/res/resurgence/BG.png
+SHA1-Digest: 4AD5nJNntWehAUbVAzztDNT1uyQ=
+
+Name: assets/res/popupBox/diamondNotEnough.png
+SHA1-Digest: 6z8W2CSePJPaDh9wt9p7zesEkH0=
+
+Name: assets/res/CDkey/cashBox.png
+SHA1-Digest: SwR44BEXQX3xWntyq3uaYAum99k=
+
+Name: res/drawable-hdpi/gc_game_service_tel.png
+SHA1-Digest: 4AR3nvOBWXQ2Xd7IHNs/A/O3kWE=
+
+Name: assets/c_data_store.dat
+SHA1-Digest: UYLVAZ8odxp4te/E4Ptp3WVvsxY=
+
+Name: assets/res/Copywriter/pretty.png
+SHA1-Digest: HHUvkVhDfM8qdC1dR9RXeIYAyWY=
+
+Name: assets/res/Main/mainStar.png
+SHA1-Digest: LDLvar0ojuAyMfvw2ahWOoyvP2E=
+
+Name: assets/res/continueLoginReward/num.png
+SHA1-Digest: zjFh3lMlwUVvhRb9rRNogC9CL6Q=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: txP6OarRLgs1Xgo7n7NuQWp/yuQ=
+
+Name: assets/res/BG/PropTopFollow.png
+SHA1-Digest: s01+b+UUFRXz5IKmDTnZNexxiBQ=
+
+Name: assets/res/Effect/4.png
+SHA1-Digest: RK0sJqlWk7pnNsPfK22mMlfHrlY=
+
+Name: assets/res/Start/sound-off1.png
+SHA1-Digest: jC11RfnZC+yFuUooTwHjpahY+C0=
+
+Name: assets/res/Start/discountGiftBag.png
+SHA1-Digest: DVDXlXYqFYDwd5lI3ek+t2l7MFE=
+
+Name: assets/res/Shop/magic/1.png
+SHA1-Digest: OmcCAfrI+jHewL5UFrl40yUN2Hw=
+
+Name: assets/CMGC/ConfigExtend.xml
+SHA1-Digest: WSLuFXLDHOs3HAcNTBUFur46Uw0=
+
+Name: assets/res/Shop/prices/1.png
+SHA1-Digest: +IKUW+XAWWVBkfNeawfcKSwkLIM=
+
+Name: assets/res/Main/processBarStar/2.png
+SHA1-Digest: aNqvM+0bkiCgdSo4LVeeqHYl8+k=
+
+Name: assets/res/Start/giftBag.png
+SHA1-Digest: /CeEO52AQbufVHIHWAn6Szekobk=
+
+Name: assets/res/Shop/prices/3.png
+SHA1-Digest: 8uceIy1/VCdPyeLAUul+Z2yCBpU=
+
+Name: assets/res/Shop/prices/5.png
+SHA1-Digest: OUMsb9wjlOEGpekcbHTcJlAnZo0=
+
+Name: assets/res/resurgence/continuePlayBeyondSelf.png
+SHA1-Digest: nRIi1q6rXW8ptrDm/2m+2NFClGY=
+
+Name: res/drawable-hdpi/gc_share_weixin_timeline.png
+SHA1-Digest: w+nDE0C8Yx9PyCnr/dfEx9Zmm+g=
+
+Name: assets/res/Main/bubble.png
+SHA1-Digest: QiIWvst5grD5vgZ14te5QE2QpVc=
+
+Name: res/drawable-hdpi/gc_step_focused.png
+SHA1-Digest: YoE5N/l9IdIli856zxpI0uNX+5k=
+
+Name: assets/res/continueLoginReward/nextDayLight.png
+SHA1-Digest: yW2mkqRfRt1HxpBoJlCnDD9fQQI=
+
+Name: assets/res/Button/gray.png
+SHA1-Digest: W6Bc8yhXDd7nWggyUF8sges9I/I=
+
+Name: assets/res/Back/continueGameText.png
+SHA1-Digest: BPxeN2YNQs+H8CIbUXGwXZue+ng=
+
+Name: assets/res/MP3/pop.mp3
+SHA1-Digest: lcVSToiwHY7/3vLaq7newFbaGE0=
+
+Name: assets/res/Button/yellow.png
+SHA1-Digest: HnOPfKmZwo/k7I30G6A2iRIuCPA=
+
+Name: assets/res/ExitGame/playAgain.png
+SHA1-Digest: A6ZCHZ1XCXWWEPL8hhB6dxHi/TI=
+
+Name: assets/res/Main/restart.png
+SHA1-Digest: w2UW1CL4YFD3111JjsB+sMnpI+Y=
+
+Name: res/drawable-hdpi/gc_start_logo.png
+SHA1-Digest: hc+xvkOmDdQ05l+wyhdmF+pa3HU=
+
+Name: assets/res/Main/close.png
+SHA1-Digest: T74syvoKdYfuMgT9kjMke4onXhI=
+
+Name: assets/res/Back/continueButton.png
+SHA1-Digest: OMIS0Pws8ac+p9W6lR0poi/6jlQ=
+
+Name: assets/Config.xml
+SHA1-Digest: bQUtUPiOMkEOvJm5XWEeh/ot0ts=
+
+Name: assets/res/beThankfulBag/icon.png
+SHA1-Digest: fq5c6fX2A63wD9svfbOcsqk8FjI=
+
+Name: assets/res/Main/bomb.png
+SHA1-Digest: qld5ECh7Ps1uzlVdNeOH6UlVjms=
+
+Name: assets/res/Copywriter/good.png
+SHA1-Digest: gklfVBk0F7kSLjXP9VgF9eJVK1Y=
+
+Name: assets/res/BG/rect.png
+SHA1-Digest: 7e11JfBYWxZ4cccZGgc3VqbIBTc=
+
+Name: assets/res/Shop/refresh/4.png
+SHA1-Digest: CTsrcRo3HOL7tBObfUpDD0yhJ+0=
+
+Name: assets/res/Start/sound-off.png
+SHA1-Digest: va83JZjIGt32qWiPM1rGFoK5DVQ=
+
+Name: assets/res/CDkey/bg.png
+SHA1-Digest: 6bbygFsakUIWI8ryxgZQssyvMuo=
+
+Name: assets/res/Back/bg.png
+SHA1-Digest: 82ADOdgb25V+BcZuWdIAiwQobdM=
+
+Name: res/drawable-hdpi/gc_sound_off.png
+SHA1-Digest: Sdy65qOJLw49VycnF3LopU+NPCs=
+
+Name: assets/res/Main/confirm.png
+SHA1-Digest: gXtx6RkNUHW5pPk3R+FTSvN3AH4=
+
+Name: assets/res/Shop/diamond/4.png
+SHA1-Digest: bNpMEDOTMKrdNN8VtcYn7Fid18c=
+
+Name: assets/res/Shop/magicText.png
+SHA1-Digest: 5q+7/5vZY+sR1uHpK+QgcOzK3nE=
+
+Name: res/drawable-hdpi/gc_start_game.png
+SHA1-Digest: NebYB1eRBwZvFGjaVPKhWJ7Y+u0=
+
+Name: res/drawable-hdpi/gc_start_cmcc.png
+SHA1-Digest: 91Ly/MN95J9fvNUGd5iWho7UD+I=
+
+Name: assets/res/MP3/fireworks.mp3
+SHA1-Digest: eWIK/JdfSX7L2R4sf8p2clk7sXk=
+
+Name: assets/res/Bomb/bomb.plist
+SHA1-Digest: bZ5c+6+M6qD8IFW8yhEVA5xYgUw=
+
+Name: assets/res/Shop/knapsackNum.png
+SHA1-Digest: iuy6SakS4eaPg9UQ161C2RWkT+g=
+
+Name: assets/res/PassReward/bg.png
+SHA1-Digest: 5yhZA2oV6ZXkZHSvdj4ofOzfZuE=
+
+Name: assets/res/beThankfulBag/light.png
+SHA1-Digest: iUV6Phv4lMsJZJ9ScDiBiclt8w0=
+
+Name: assets/res/resurgence/residueTime.png
+SHA1-Digest: wJTUqumjmSAS7kZm7k6KVPhGL9w=
+
+Name: assets/res/Effect/3.png
+SHA1-Digest: qipFxWZB8izHV/gPO976meXoIN8=
+
+Name: assets/res/Main/congratulationPassLevel.png
+SHA1-Digest: VupS/AH6mT91M/1QI/8hAhdqYhA=
+
+Name: assets/res/ExitGame/aperture.png
+SHA1-Digest: dXKYjUmcCNxqXs5XUbmd3Fh2LWI=
+
+Name: assets/res/framework_precompiled.zip
+SHA1-Digest: E6j/3BLHhr/zrLWiZqXBDi6myHg=
+
+Name: assets/res/Shop/refrestText.png
+SHA1-Digest: DgIJ1Cvr8QIFaChscE19FtDgTu4=
+
+Name: lib/armeabi/libmegjb.so
+SHA1-Digest: ayPVe8wMZuBLUZFImE0CEPYShJQ=
+
+Name: res/drawable-hdpi/gc_piccode_refresh.png
+SHA1-Digest: lDjYNypM8PqBMVhA5g/1kig6U5M=
+
+Name: res/drawable-hdpi/gc_center_edit.png
+SHA1-Digest: WQtn6ekMWKBycDTEtOXpWHwQa7Y=
+

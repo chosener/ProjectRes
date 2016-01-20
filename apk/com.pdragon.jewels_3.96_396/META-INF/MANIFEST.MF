@@ -1,0 +1,4779 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_45 (Sun Microsystems Inc.)
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_instapaper.png
+SHA1-Digest: UQhfUim8A/vWb8xJlXoGtV6oiWg=
+
+Name: assets/PublicRes/zh/MoreExciting/Bg.jpg
+SHA1-Digest: 2SaH94wzQlky6KScrRIWeODraVw=
+
+Name: assets/PopstarCommon/en/AllRankList/8c7dd210b141cc00f0859f0cfce4
+ 3801.dtx
+SHA1-Digest: f4XV+v1gH1JayqFUBd+ZQx8w/kU=
+
+Name: assets/webview_bar_next_grey.png
+SHA1-Digest: Mijnv7XOas3h3HHc/4j3lh2+6+I=
+
+Name: assets/PopstarCommon/en/ReName/2c6cd2f2b7dc125a788a5eb1e480dd2e.
+ dtx
+SHA1-Digest: C9+qYFDqjeoQP4FMdJAqymw+oRY=
+
+Name: assets/PopstarCommon/zh/PauseLayer/4c3405442f5835c9e63bf7596a549
+ c46.dtx
+SHA1-Digest: 0qzVd7kYB7ez7DqBckY5k5aWhOc=
+
+Name: assets/splash_bg.png
+SHA1-Digest: UXiYgiRYYbJAYkx8DAFq1pTWxds=
+
+Name: assets/PopstarCommon/en/Achievement/8dcf875bce0fc4546ee93f12f194
+ ddcb.dtx
+SHA1-Digest: v/p5OTPd++Vo4+znfKMNJJWfOlQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_shortmessage.png
+SHA1-Digest: 4H/bO7i2hEzasr4BNgRhFtXdOoE=
+
+Name: res/drawable-xhdpi/ssdk_oks_auth_title_back.png
+SHA1-Digest: 8EcpaCKgMqZtOt/JhCiOEs6yIKI=
+
+Name: assets/PopstarCommon/zh/AllRankList/cb14469eeea80a9012bbcdda8391
+ a0e1.dtx
+SHA1-Digest: KoVRSA8qnSNuYmTH+a5vt3bnHbg=
+
+Name: assets/PopstarCommon/en/str/6e7a6d64824de97d2c217c2037715da2.dtx
+SHA1-Digest: moW7KG/SZByLyQcxoUHAtmZ0ahE=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_yixinmoments.png
+SHA1-Digest: yOHeCDuZ4Pny/1OCO+L9w4wMick=
+
+Name: assets/dm_banner.png
+SHA1-Digest: TBlrzvDkjnGYpIIkzp6gzJwiAZQ=
+
+Name: assets/PopstarCommon/zh/StartScene/166a7f403f583634c853b0d0f29cf
+ 866.dtx
+SHA1-Digest: F6/8p53Gdgdp/vi/mkaMhITqaJo=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_tencentweibo.png
+SHA1-Digest: KVTIckfY7uUyZjVp183pl2qwZpY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_alipayshare_checked.png
+SHA1-Digest: 3bEAfxNrUGTOXpnsanHFcoJr+X0=
+
+Name: res/layout/gd_tab_content.xml
+SHA1-Digest: E2uB5Dz7K8FiJSKaaNXwy1R291w=
+
+Name: assets/PopstarCommon/zh/DailyAthletics/03b31534a6314fa112663f9cf
+ cf915bb.dtx
+SHA1-Digest: 7fBr5ToP5Pguuzt8bzPSu8TJRpg=
+
+Name: assets/PopstarCommon/zh/ShareScene/8ca88aeaa8e8a39d2774d60086016
+ 2f9.dtx
+SHA1-Digest: gqm9rUNoUk7I/7h/rwfcAyF2i7M=
+
+Name: assets/res-jewels/zh/guide_time/f3ccdd27d2000e3f9255a7e3e2c48800
+ .dtx
+SHA1-Digest: ifokqxT73DO2T0loWJ86B44tqRw=
+
+Name: assets/PopstarCommon/en/AllRankList/9eccc2499a382fd18f31802bcd7f
+ 3274.dtx
+SHA1-Digest: DHXtPzEQQc0WsEno8RBDyQglg3Q=
+
+Name: res/drawable-xhdpi/ssdk_oks_auth_follow_cb_unc.png
+SHA1-Digest: Du78zAJA6b0nLhl6JhpMJyA3Qwo=
+
+Name: assets/PopstarCommon/zh/ShareScene/3971530a131819a8a54ae90bf730b
+ 628.dtx
+SHA1-Digest: L5s6HRslb21yK62AMKRrgL4jsAQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_youdao_checked.png
+SHA1-Digest: BwZDgwOJUq9rMdFUQFJpY9/47KI=
+
+Name: assets/PopstarCommon/en/LuckyDial/3cc5e3484cd61df51a73a0fd03d5b3
+ 67.dtx
+SHA1-Digest: D967uzR1+fVGYpbQ5GFqRoZB104=
+
+Name: assets/PopstarCommon/ranklist/a55e6881106c096daf2e015a6c57bb09.d
+ tx
+SHA1-Digest: ZEpuKaoK0UtZE136EGcdExqzKX8=
+
+Name: assets/res-jewels/pub/0999b7fb87b02bce79671d60d523b68a.dtx
+SHA1-Digest: mWgHw11Wost08gqOAayM3Pht34M=
+
+Name: assets/icon_call.png
+SHA1-Digest: rbIhIaH7UbqRlyfTeR7Ovad6C5E=
+
+Name: assets/res-jewels/en/Achievement/4d6bcd7385988a668e4c3742098a7ac
+ 3.dtx
+SHA1-Digest: 7YPEF85RtDe4waDVhmegQkc8VQo=
+
+Name: res/drawable-hdpi/umeng_fb_write_pressed.png
+SHA1-Digest: /mR5ug1ARAvkMzXHb3WTcmTrAQQ=
+
+Name: res/layout/gd_quick_action_grid_item.xml
+SHA1-Digest: q+fO78Pf7lH1ljw9+wz0oGQ5wXA=
+
+Name: assets/PopstarCommon/pub/StartScene/a0c7fa09e5b0b47ddbfdd1086126
+ 6d74.dtx
+SHA1-Digest: ohLOyc4z691Ij27vmG8ObyCFEY0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sinaweibo.png
+SHA1-Digest: MZ3KM28yNE+sGubfQBDnkcInsz8=
+
+Name: assets/PopstarCommon/en/block/53ed75b5e02df39a0384aa635bfe96e0.d
+ tx
+SHA1-Digest: Lsh2Vj1h/rl+l+/t153bs/HtSz4=
+
+Name: assets/PopstarCommon/pub/CoinShowResult/908f6fb5b992d0c755cdcf6a
+ 3626bc29.dtx
+SHA1-Digest: /qikFeo56HdWLnZlYQE1Hhnrzu8=
+
+Name: assets/PopstarCommon/pub/AllRankList/f19c9085129709ee14d013be869
+ df69b.dtx
+SHA1-Digest: v9GYhzV9x3NILAVdP48jdoigG6U=
+
+Name: assets/PopstarCommon/pub/block/10a3a0bbe18b5ef87a628f36d0d0c4a1.
+ dtx
+SHA1-Digest: 5GVPaeUbZOzj+bKwunLYLHCXfgs=
+
+Name: assets/PopstarCommon/pub/GameOverScene/ed67e72bd4ac6ce822bed0e35
+ ca078d1.dtx
+SHA1-Digest: /KXSzNjWN5DjOaTnPOHjZpVxrtw=
+
+Name: assets/res-jewels/pub/particles/d29fc9cfae64c7c76f8066fa7f4919af
+ .dtx
+SHA1-Digest: sktxUVZWbvT+mR8VLjEGiSl4qGE=
+
+Name: assets/dm_loading.png
+SHA1-Digest: gGrzf8khBxeRKDzWqxWSMSCN6ys=
+
+Name: res/drawable-hdpi/icon_classify.png
+SHA1-Digest: TX1mGkxDy1DmRGUQIgZ6x2gyO8k=
+
+Name: assets/PopstarCommon/pub/LocalRecord/a462a42be9d972510a0afbd63a1
+ 52ecc.dtx
+SHA1-Digest: ojIjgin4FRhqhuZma56UmbmknIw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_divider.9.png
+SHA1-Digest: wWcCnRoRMdFsRpYyHE+UUu3eb+A=
+
+Name: assets/PopstarCommon/pub/GameOverScene/aa62124a32b0bfdf717df7979
+ eba861c.dtx
+SHA1-Digest: o5ZgIwLjcO5BSmeWgqhGrjlWfkQ=
+
+Name: assets/PopstarCommon/en/CoinShowResult/890b6d680653810181e4e9df5
+ 97faaf3.dtx
+SHA1-Digest: 8RzOu8dgisZdmL/Vs2XzbTyGhKM=
+
+Name: assets/PopstarCommon/pub/6a9f94879cef4698b58f1fc56021de28.dtx
+SHA1-Digest: SM7V/1/UKm9lQLuBpwGXyihVX9s=
+
+Name: res/drawable/gd_quick_action_bar_item.xml
+SHA1-Digest: JRLxvrPUkT0KsSDHHRw2xetj/kU=
+
+Name: assets/PopstarCommon/pub/block/ca6426ad03659dac28e2e6b053ff0271.
+ dtx
+SHA1-Digest: HMzwv2QsrCHDsdFmNQX6A3GdXrA=
+
+Name: res/drawable/umeng_update_button_check_selector.xml
+SHA1-Digest: hGsxbzHp2I2/8pkojVc9Pe3XB3o=
+
+Name: assets/PopstarCommon/pub/block/9cb21512586bdcf2686b1f6f939b4213.
+ dtx
+SHA1-Digest: R4uyLxhRk1IQiwMQoaey/z+qcMQ=
+
+Name: assets/dm_video_logo.png
+SHA1-Digest: DOl2+UjVBB90x86HA2TD5zRRLK4=
+
+Name: assets/PopstarCommon/pub/DailyAthletics/87c012f974b1d837bd80e45b
+ 0318181c.dtx
+SHA1-Digest: O8M4Iu7C06e7X+Ou4lcVHbCfJdE=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_d.png
+SHA1-Digest: J64fpPPWnNeU54EHRpzBfSZMpWk=
+
+Name: assets/res-jewels/pub/eea30bb2467960898678001fb2f3525d.dtx
+SHA1-Digest: EtZ8/lcuSbl722uQn5gmWGYGZkc=
+
+Name: assets/PopstarCommon/en/Setting/2cf05da5c2a8c04cd54cd1dacaaec29f
+ .dtx
+SHA1-Digest: exvxX2N0eFAjVUjrjuRgCd46AOA=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_back_grey.png
+SHA1-Digest: AA1dmBHncSuntb7JEF6VzIyR3RY=
+
+Name: assets/PopstarCommon/pub/Achievement/29c28d0924df317ad4aca0db8c0
+ c2454.dtx
+SHA1-Digest: wYHG3E9k0un6IVEnTL17MjgJmVw=
+
+Name: res/drawable-hdpi/marker_gpsvalid.png
+SHA1-Digest: AwBaIFVzxEmmxmSKi0gIiIBVpsA=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_sinaweibo.png
+SHA1-Digest: CsfppKIyRI6USroAlDnRYR3ptEA=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_pinterest.png
+SHA1-Digest: V+j2izib2w7IeIZxgFbLOivyrDg=
+
+Name: assets/PopstarCommon/en/reputation/62e322decf66b4bc24c6f76439c65
+ 6e0.dtx
+SHA1-Digest: jjoxug6EPLcYMmrkuBkQxqzZ7GQ=
+
+Name: assets/PopstarCommon/en/911b41a9ce7a77ad9be647501aa7c410.dtx
+SHA1-Digest: 3kZEXkUumnqBlAG0ik0Pqv61l4I=
+
+Name: assets/PopstarCommon/fonts/e82212c40ba2897c182d5c6499855d5e.dtx
+SHA1-Digest: PW7/sXav8BuQFEZGwR8zPy/Exgk=
+
+Name: res/drawable/btn_cal_del_all.xml
+SHA1-Digest: 6ujae5g96VrtwAQxczId9A+jzO0=
+
+Name: assets/PopstarCommon/en/ContinueLogin/5da8e3163763da6a171ba0ddf8
+ 84d081.dtx
+SHA1-Digest: UCsG4ZGXy6ypfOLA+2946S6mTCE=
+
+Name: assets/res-jewels/pub/ReName/f5a93acde7fe62b26c7eab3eb2266cda.dt
+ x
+SHA1-Digest: HUbQRnob4LvcADMKSH/PN9iiubo=
+
+Name: assets/PopstarCommon/en/ContinueLogin/3299b5c84c31466a1a22eece23
+ 1ae489.dtx
+SHA1-Digest: tjeV4kCfG2mw5XpQYwYPlFP5rng=
+
+Name: res/anim/popup_exit_toptobottom.xml
+SHA1-Digest: TejVtJbIuHOHFAMRK4CfD7b28UQ=
+
+Name: com/pdragon/ads/mg/assets/mg_fill_bgb.png
+SHA1-Digest: Duc4Dvwk0uei+w4LDK3MTnE8iEw=
+
+Name: res/drawable-hdpi/header_back.png
+SHA1-Digest: q6tPE9T1OQG6NH8lI0qpjEjtuSg=
+
+Name: assets/PopstarCommon/fonts/s_number_score.fnt
+SHA1-Digest: KiPYJPLyCKH2gunHG7ZBDzAsC68=
+
+Name: res/drawable-hdpi/icon_user.png
+SHA1-Digest: Xa5TEXq3fmLF/5Ky6tJGRJw0iDI=
+
+Name: res/drawable-hdpi/icon_del.png
+SHA1-Digest: yjJDfPQ3rqBPoPMfke5Lqi9taTo=
+
+Name: assets/PopstarCommon/zh/Achievement/d0e398c95edc25802491fc41eb84
+ 8c8d.dtx
+SHA1-Digest: HeZfzbSPV6NrTiTl23OyETL2cUE=
+
+Name: assets/PublicRes/en/MoreExciting/Title.png
+SHA1-Digest: ZlDfNvBe2XPySc3dLOAENjp2z/Y=
+
+Name: com/pdragon/ads/mg/assets/mg_rm_closeBtn.png
+SHA1-Digest: +QJKBBJsADbmL/N4rJkWuJganao=
+
+Name: assets/PopstarCommon/en/DailyAthletics/2f4598259dd25c69f73614734
+ a973c6a.dtx
+SHA1-Digest: NlAIOCdFa2Ag63wUvdM0U4KOOj8=
+
+Name: assets/PopstarCommon/pub/156a4b6365905ea1ccd1598dbf13f6cb.dtx
+SHA1-Digest: OlX6sOYLusxVeppTON/82PUjqx8=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_whatsapp.png
+SHA1-Digest: 2i3QuMmwTysY42uYxYZq5SFGIF4=
+
+Name: res/drawable-hdpi/direct_mapsearch_loc_pressed.png
+SHA1-Digest: ru9z4jI2HwlFIBAXiGZ+9U8hu08=
+
+Name: res/layout-v9/umeng_common_download_notification.xml
+SHA1-Digest: TtTVWNXS1q8Vos3G585YGzlREmQ=
+
+Name: assets/PopstarCommon/pub/GameReputationLayer.json
+SHA1-Digest: 1+PeEK1MgOoYTKvYOInnlwNQ/4c=
+
+Name: assets/webview_bar_back_grey.png
+SHA1-Digest: IgNYXGgbv1o0dV0wetjQT7VtYwc=
+
+Name: res/drawable-hdpi/btn_cal_del_all_normal.png
+SHA1-Digest: YX4GKZoeEQ+CzzlAre3vvTWW8lQ=
+
+Name: assets/PopstarCommon/pub/LocalRecord/42f6ca147b0b02e0cd8f833c6b6
+ f2835.dtx
+SHA1-Digest: 5NQSWtjqbCXsHFEtHk8IEnlIm5U=
+
+Name: assets/PopstarCommon/en/Achievement/549f1ceec39576b4e059413108e4
+ 0ac0.dtx
+SHA1-Digest: Znqh7SnYuQKqt236As6hI2MJOBs=
+
+Name: res/layout/gd_action_bar_normal.xml
+SHA1-Digest: qSzoOZUz5Afg6qj8+X7RWGN8KMk=
+
+Name: assets/PopstarCommon/en/CashGift/ede6520fc7a55e9a3a3d382f064719c
+ 2.dtx
+SHA1-Digest: l6oAkyqioFFLNTBL2KIsMZjLRys=
+
+Name: assets/PopstarCommon/en/Achievement/8ce22eac745569444599e1f44ecc
+ 5bf5.dtx
+SHA1-Digest: u7Tq/RW7TytntdEskAKfw7nRxK0=
+
+Name: assets/PopstarCommon/en/str/9e4c2193e1316f6306eaa852cce57397.dtx
+SHA1-Digest: KrD9OZH3rdxykPF2IwOY6yh3qWs=
+
+Name: assets/PopstarCommon/en/ChooseGift/08ef352a344dfabcba4795ca9ca01
+ e66.dtx
+SHA1-Digest: /YPbER8NGHX5jpMCbf9Bq6kSr8g=
+
+Name: res/drawable-hdpi/icon_start.png
+SHA1-Digest: tk5OkPR4Z+um4qJIrMITfv4Dcv0=
+
+Name: assets/PopstarCommon/zh/ShareScene/2bc70588fbd8a698db6f82374f43f
+ 291.dtx
+SHA1-Digest: 9xtbrs8gIsN5OzXG/0yuUYXWFNY=
+
+Name: res/layout/gd_action_bar_empty.xml
+SHA1-Digest: Yo/Pw1eHMqRTKqmURHPDjedxvnA=
+
+Name: assets/PopstarCommon/en/StartScene/445a57f3e2bf6a314e9289d37caaf
+ 30b.dtx
+SHA1-Digest: joiX4u770sfsQsg0DknL8MR1OeY=
+
+Name: assets/PopstarCommon/en/StartScene/d800ba254d69e283fa0397296ff55
+ 53e.dtx
+SHA1-Digest: NInLagCOdh6utZFirifb5X3lA+0=
+
+Name: assets/PopstarCommon/pub/DailyAthletics/5c4a1105d38a034fe9e8f222
+ 405ad9f0.dtx
+SHA1-Digest: JQopM64JwrYP2QXpPfgpU21hqhM=
+
+Name: assets/res-jewels/pub/StartScene/2be246fd9a4cc144218cab9be5b5606
+ 4.dtx
+SHA1-Digest: FAd12Zptnr3nXHilN/lX5GllDvE=
+
+Name: res/drawable-hdpi/logo_qq.png
+SHA1-Digest: l6Mt/NymIDCKCXmdZp3jvXbHDpQ=
+
+Name: assets/PopstarCommon/zh/StartScene/7a611ba07efec47659644b62a681b
+ ef6.dtx
+SHA1-Digest: kH43WAcOQ6Sws6lf0rc7+lnptAk=
+
+Name: res/anim/gd_shrink_from_topleft_to_bottomright.xml
+SHA1-Digest: FecA68RFt24POBsGjCrOAav2QME=
+
+Name: assets/PopstarCommon/en/StartScene/166a7f403f583634c853b0d0f29cf
+ 866.dtx
+SHA1-Digest: 8FT7wKznwqUXADK5930HcoK48TM=
+
+Name: assets/PopstarCommon/zh/Achievement/c8151b668d7180ebf05d070da3a3
+ fbf1.dtx
+SHA1-Digest: dPKlSbCfg4AOfX7NKs+rpTNhMvE=
+
+Name: assets/PopstarCommon/pub/TigerMachine/d5c68633c2d38d83d82837ad06
+ 05a779.dtx
+SHA1-Digest: 3p2ftXcNBMJo2MdtpZTjw2XdmmA=
+
+Name: res/drawable-hdpi/umeng_fb_tick_normal.png
+SHA1-Digest: DC/zA3DYqb4GZ9zvQ0V2M/tDH/o=
+
+Name: assets/PopstarCommon/en/8fcef1b2c5349bfce42c8399ae5caf2e.dtx
+SHA1-Digest: RfC5wAlE/KuAPyUDIesZZCHPTmU=
+
+Name: assets/PopstarCommon/zh/DailyAthletics/7da28a8f0f82092df98a94ccf
+ efb0a8f.dtx
+SHA1-Digest: 1x6HLRcKMRNgcRZ/l8DdLrTtc90=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_yixin.png
+SHA1-Digest: bk+CKdBTkZYc/Od7LgK+Gjetvs8=
+
+Name: res/layout/gd_expandable_list_content_empty.xml
+SHA1-Digest: A5iRykJNwu9dNxbgY5SZE7/WDcw=
+
+Name: res/drawable-xhdpi/edittext_back.9.png
+SHA1-Digest: MckapfoGDrtqi6hM5gmfdvtVuOo=
+
+Name: res/drawable-hdpi/gd_action_bar_locate_myself.png
+SHA1-Digest: rCvE0A5yB70JW3DT4sc1CR+OOCw=
+
+Name: assets/PopstarCommon/zh/LocalRecord/d84f67f75944ee59615d9c66e780
+ 6d38.dtx
+SHA1-Digest: a+QdF7bESaIJxRe+PdCqEGugTuE=
+
+Name: res/layout/cv_act_adswall.xml
+SHA1-Digest: Eb2A3kEkkaYIDxFuBMqX+KGPxRE=
+
+Name: res/layout/umeng_update_dialog.xml
+SHA1-Digest: M811ol+/Y9VOwmzfsHMDVVW8lIU=
+
+Name: assets/PopstarCommon/pub/StartScene/69dd81f8348096ebd4964a26a53e
+ ec25.dtx
+SHA1-Digest: G516FKucsgdurj3GFKs8BXJxvCA=
+
+Name: assets/PopstarCommon/pub/LocalRecord/font_number_time.fnt
+SHA1-Digest: w+ufaVGipAIJo8dr/6EwbTBEv/o=
+
+Name: assets/PopstarCommon/en/ShareScene/2bc70588fbd8a698db6f82374f43f
+ 291.dtx
+SHA1-Digest: x8OUlr+Q/WVgM/pk183JhNzHXYM=
+
+Name: assets/PopstarCommon/zh/StartScene/d800ba254d69e283fa0397296ff55
+ 53e.dtx
+SHA1-Digest: H9w7ZEh8Q47HUrX40Fl7N+O1jUw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_flickr_checked.png
+SHA1-Digest: Zp/VlQ1rjH8B0Id3ztLV45RguP8=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_dropbox_checked.png
+SHA1-Digest: L8uHeHUe7yBwKmbczBjgijBEinM=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/8b2ee09d9472cc80c3a1324f77
+ b4aab1.dtx
+SHA1-Digest: yGm/s//j7VfWv2AgsyT1viQSFIU=
+
+Name: assets/PopstarCommon/pub/DailyAthletics/76376a884bd53abc01e93771
+ 481b3491.dtx
+SHA1-Digest: Q289XXdBa6wu6963czT+H4xs9ck=
+
+Name: res/drawable-hdpi/btn_det2.png
+SHA1-Digest: JFuumqR2LABDAxDd74DwT07KnqU=
+
+Name: assets/PopstarCommon/zh/DailyAthletics/d04d3b56d5071680dc6840a4e
+ 1418775.dtx
+SHA1-Digest: 5UgR7Ue1ZrGFq+TvMM4dUMKDmM8=
+
+Name: res/drawable-hdpi/icon_other2.png
+SHA1-Digest: DM+cJZTzqRTJD2xF+U0PY8ArCag=
+
+Name: assets/PopstarCommon/zh/str/0a1bf7bc903a9723b6ef4595655983d3.dtx
+SHA1-Digest: H715CTioObzVgOjqznN6HopINHE=
+
+Name: assets/PopstarCommon/zh/DailyAthletics/eede400d8991c550eece7581d
+ 9adebb9.dtx
+SHA1-Digest: 2SfZ/oIylg7J/wE1LAdpIzQysCU=
+
+Name: assets/PopstarCommon/en/DailyAthletics/d04d3b56d5071680dc6840a4e
+ 1418775.dtx
+SHA1-Digest: snJbeywA3gVqJ2k10IPK7/4iUSs=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_linkedin.png
+SHA1-Digest: lW2RZaRiu+Hk8DdaNc4/ThNFWdg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_evernote_checked.png
+SHA1-Digest: y79IqNSAVrM9vr4XYscbpKnjICM=
+
+Name: assets/PopstarCommon/reputation/6d3c6348be1d2fd73cc51db5cd9af45d
+ .dtx
+SHA1-Digest: vjvWAqDFtZRh3CjwQfecWAPw9/A=
+
+Name: res/drawable-xhdpi/ssdk_oks_pin.png
+SHA1-Digest: tkJyNZCYIH5408q/BJl7FHhCnrc=
+
+Name: res/drawable-hdpi/close_16.png
+SHA1-Digest: H8nJNm7JQr1GQIfitfpxk0l61ho=
+
+Name: assets/PopstarCommon/pub/TigerMachine/6c7a0af727cdc2c4182e99e140
+ c9859b.dtx
+SHA1-Digest: /qikFeo56HdWLnZlYQE1Hhnrzu8=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_renren.png
+SHA1-Digest: UclB2VYHlAlsuNNMrJkFoBcl8hI=
+
+Name: res/drawable-hdpi/gd_segment_label_pressed.9.png
+SHA1-Digest: CX4YYsqvcE8eFMg9TOfitJLzvHs=
+
+Name: assets/webview_bar_close.png
+SHA1-Digest: NPU0mnN+xvcCO1cL6SZWS5duc30=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/8e391409bd78f22d1a9fdad44b
+ 0ad803.dtx
+SHA1-Digest: Ig4uYTEdvl6fQ2fRJ30V20tUs8I=
+
+Name: assets/PopstarCommon/pub/ContinueLogin/15b489c8f3d2050dba55f2cfe
+ 94309ab.dtx
+SHA1-Digest: lQRACfGjkE9d86KiwdFJZ9tS8mM=
+
+Name: lib/armeabi/libcocklogic.so
+SHA1-Digest: KbkxydHQ1FaxMtK9NBFaBWVKKC8=
+
+Name: assets/PopstarCommon/zh/str/9e846f301d6348389dbbcb90a4ff4e4b.dtx
+SHA1-Digest: dkoiBWvM43cU+LQIvYWc84dYoLo=
+
+Name: assets/PopstarCommon/pub/LocalRecord/dianji.ExportJson
+SHA1-Digest: iOYE+aaCrMmBMgxg0SKbP+Y2krg=
+
+Name: assets/res-jewels/zh/Achievement/4bb9ddf6e05cacda6143454d65dddf1
+ 0.dtx
+SHA1-Digest: W/beAzYQGLgOO2yHAfv9yXHfxQ8=
+
+Name: res/drawable-hdpi/icon_pwd.png
+SHA1-Digest: UnH2nv2nbczu9MZYEE0qZ9/UMME=
+
+Name: assets/dm_exit_on.png
+SHA1-Digest: 5CMs8jfgvZosxU7CDtFHjsOqk7E=
+
+Name: assets/PopstarCommon/en/8b81655805378aa2a63ae90dfa45d993.dtx
+SHA1-Digest: U+1QH94VSwYVUSs6cXQSGCJUzrU=
+
+Name: assets/PopstarCommon/en/ShareScene/263b2339710493d913f404017b171
+ b85.dtx
+SHA1-Digest: VhL1DFITM/nbGYWkGOsDpXBKjas=
+
+Name: assets/res-jewels/pub/particles/spark_b.plist
+SHA1-Digest: V9ZW5Ow5WlYfggKqM/87TIKCXSI=
+
+Name: res/drawable-xhdpi/ssdk_back_arr.png
+SHA1-Digest: Rxbe81v2AIEM7XxW8FOEQrQfDqA=
+
+Name: assets/PopstarCommon/zh/block/327321bca53434395c0532fe856af6fc.d
+ tx
+SHA1-Digest: U7GlH4lGQsZXHiuX1Ci8zkPhC+0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sohusuishenkan.png
+SHA1-Digest: gnMgutQKSnY4bpe58htpChrL/Kw=
+
+Name: assets/PopstarCommon/sounds/click.mp3
+SHA1-Digest: v3L7hUYK6UO+dczf20m4CaAQcq0=
+
+Name: assets/PopstarCommon/zh/b6d177094ad8d0099f8a97d1aedbfc12.dtx
+SHA1-Digest: 8Hb3+zkg34UIC3nQuI+eNoFBGl8=
+
+Name: res/drawable-hdpi/gd_action_bar_refresh.png
+SHA1-Digest: XurqNO4ukbZPTBSsW9fkms+8GzY=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_wechat.png
+SHA1-Digest: G/pXSTfACj3pSNAdyPhi9GP04a0=
+
+Name: assets/PopstarCommon/zh/Achievement/d342be2fb2126710dcabf07c2d55
+ ca9f.dtx
+SHA1-Digest: kF37ndlsifuxG8oqqnJV6R01pE8=
+
+Name: assets/PopstarCommon/zh/TigerMachine/3b03cb6247dcfcc83543cd5d11e
+ e4dff.dtx
+SHA1-Digest: o80udGQG81ROcjh0lyI3Cd04f94=
+
+Name: res/drawable-hdpi/logo_shortmessage.png
+SHA1-Digest: 8gOeSPh6k3WTbKX4jsi9XqjnZ2s=
+
+Name: assets/PopstarCommon/pub/LuckyDial/f0529070dea650ff0a251fb4ade32
+ 0c8.dtx
+SHA1-Digest: 3orEQJK4G++zPopYvlfBgPdMsCc=
+
+Name: assets/PublicRes/en/MoreExciting/Line.png
+SHA1-Digest: UlezmSfs17TMqZbNJekJCW4PyRE=
+
+Name: assets/PopstarCommon/pub/AllRankList/09dd8c2662b96ce14928333f055
+ c5580.dtx
+SHA1-Digest: hjkQmvSsgnQ94/z8qSlpxMa5gUQ=
+
+Name: res/drawable-hdpi/logo_foursquare.png
+SHA1-Digest: pGnWLuHsan8LpHDB3JdJNRISqrM=
+
+Name: assets/logo_instl.png
+SHA1-Digest: 3x6B0EYF0M//kK3k2Xv5AcCbErU=
+
+Name: res/drawable/gd_tab_indicator.xml
+SHA1-Digest: 7dy3pKfJZ6IyPkVEGwNsKhQJ+9s=
+
+Name: assets/PopstarCommon/en/str/a15e34498606780d5e3aa5d8f5fc97ed.dtx
+SHA1-Digest: ekXlMmmuLX7bcM02azjLq9zLIB0=
+
+Name: assets/PopstarCommon/zh/str/6875240ee93669afd9c2637ea828840b.dtx
+SHA1-Digest: xzMZCqGvIN0/VLGSv5aDprAr5LQ=
+
+Name: assets/PopstarCommon/ranklist/rename/cce50b424ee82fac4f5075d9f0c
+ 17e9d.dtx
+SHA1-Digest: aA2Zr7RJ2rLtYnKHWnZNyoxHqZk=
+
+Name: assets/PopstarCommon/en/b6d177094ad8d0099f8a97d1aedbfc12.dtx
+SHA1-Digest: 4NZGM+80DGBQCTtPVEjgC5JPUv0=
+
+Name: assets/PopstarCommon/zh/LocalRecord/f2467ed3fc4bfe54a2169ae85750
+ 172b.dtx
+SHA1-Digest: Qw2cGbNPvZvdQ01rfDpRKN8gqpA=
+
+Name: assets/PopstarCommon/zh/GameOverScene/f12d51ae10822402f0f566764f
+ e93cf2.dtx
+SHA1-Digest: qh1IoUHIYpytQV0dq8iziGxT8qk=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_platform_checked_disabled.pn
+ g
+SHA1-Digest: knruN4XslE9zL23iJ0w2VqtKYcI=
+
+Name: assets/PopstarCommon/en/LuckyDial/49bbdc4cfd4cb490ab9f86405549e9
+ 62.dtx
+SHA1-Digest: qiJXgW0aD68hXMxZCu29VIFjoVw=
+
+Name: res/drawable-hdpi/ic_menu_feedback.png
+SHA1-Digest: n9sX7IeeZfjCVIKbCpLKG2t+aSE=
+
+Name: res/layout/gd_separator_item_view.xml
+SHA1-Digest: dBIGb8ooBcLNNcuVR6jh6Nl26+o=
+
+Name: assets/PopstarCommon/zh/AllRankList/3b0b7fbef7fbe962a8539a9b23d0
+ c79c.dtx
+SHA1-Digest: lKtUL6fldelMBtYfmzfsfcYeAKs=
+
+Name: res/drawable-xhdpi/auth_follow_cb_unc.png
+SHA1-Digest: Du78zAJA6b0nLhl6JhpMJyA3Qwo=
+
+Name: assets/PopstarCommon/pub/TigerMachine/010d1a7495de74932aec08500d
+ ea7096.dtx
+SHA1-Digest: KyAAb4JmH56ch+L/SFQZA+aEb6o=
+
+Name: assets/PopstarCommon/pub/LocalRecord/45137107a7a454043e2ffc87c0f
+ 9e5ff.dtx
+SHA1-Digest: CeveATgn/2K7Wz3Ixw9G5AhuTtc=
+
+Name: res/drawable-hdpi/umeng_fb_logo.png
+SHA1-Digest: r989FH1tphCKYX8IvOBPo6ti2u4=
+
+Name: assets/PopstarCommon/reputation/6b0b39e12d66e1e1154c7347a69f1020
+ .dtx
+SHA1-Digest: hsPz+w36KYPXLGHKocWh86F3fxo=
+
+Name: assets/ShareSDK.xml
+SHA1-Digest: tQJLdKC3M48FWqwFpXTAVDU6V+U=
+
+Name: res/drawable-hdpi/umeng_fb_reply_left_bg.9.png
+SHA1-Digest: zkproNwtFu7wHoYmXw9xQS+cd8M=
+
+Name: res/anim/gd_rack.xml
+SHA1-Digest: Tu8RdR/KgZMBPu9BZCbeXdKvlHU=
+
+Name: res/drawable-hdpi/btn_icon_ar_pressed.png
+SHA1-Digest: uewBTnEHvEjeM+jLKvf0cWFULIM=
+
+Name: assets/res-jewels/pub/cba439d697120e9b026f0fd72d2bd160.dtx
+SHA1-Digest: gCijzNB62/Ljdlsi6qUx8thdAAo=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_youdao.png
+SHA1-Digest: 1609/0hV1dsNrBs+h0km+47cI+c=
+
+Name: assets/PopstarCommon/en/str/faf86f6046167e39a24b524250883158.dtx
+SHA1-Digest: 3wIDL1GAKAlrvA8CZBPvPxlMZsQ=
+
+Name: res/drawable-hdpi/logo_douban.png
+SHA1-Digest: 5E0CPO8uieVHBurp1a80VrMb8E4=
+
+Name: res/layout/ssdk_oks_skyblue_editpage_inc_image_layout.xml
+SHA1-Digest: 6JJ7e6aQSNJrvJPNMi/4sXMGPbE=
+
+Name: assets/PopstarCommon/animation/flower/4a47a0db6e60853dedfcfdf08a
+ 5ca249.dtx
+SHA1-Digest: fQBg3xYZadhSAE5Ae6oQ5e7+aS4=
+
+Name: assets/res-jewels/pub/147f3d3fa075cbba369780dbd01571ae.dtx
+SHA1-Digest: Z3d4dpOe1Sxs/cDW0CfuHZrKEjw=
+
+Name: assets/res-jewels/zh/str/0d4e0c3b9282cad1f94f6304742a3d6b.dtx
+SHA1-Digest: nh/LxDle5qLUraKhkqEtLGit1Tg=
+
+Name: res/layout/umeng_fb_activity_contact.xml
+SHA1-Digest: 9+mbNJ/+6bx+Ni0aHS3sqV8cyZM=
+
+Name: assets/PopstarCommon/sounds/select.mp3
+SHA1-Digest: aqrzNrAxrv8qjQgwhNB0vVfpsY0=
+
+Name: assets/PopstarCommon/zh/StartScene/0e9b12df30e9bfc66cabe62679ecb
+ ba0.dtx
+SHA1-Digest: ULSpyrwPPmyqz8IuKtTpyIa0MyE=
+
+Name: assets/PopstarCommon/en/CashGift/8fbc2806b1b7b1f30315f3b6a2645e2
+ 8.dtx
+SHA1-Digest: Zk8p04aEY7OfjzmrAUKIF+pM93A=
+
+Name: res/drawable-xhdpi/ssdk_oks_shake_to_share_back.xml
+SHA1-Digest: uHJhgi1FfQrlh5OkNincSfjxQno=
+
+Name: assets/PopstarCommon/zh/LuckyDial/c93ef40c3e6b5e94cf6a8e663b7f1f
+ e8.dtx
+SHA1-Digest: HsDFVBz7eoW3iRAsZq6DgTOw9c8=
+
+Name: com/pdragon/ads/mg/assets/ycm_btnconfirm.png
+SHA1-Digest: GENLZjbflHBWPlBg3hSyNeToeYE=
+
+Name: res/layout/umeng_fb_activity_conversation.xml
+SHA1-Digest: ThrEc323UbWX4zY+clujmNKRKEw=
+
+Name: assets/PopstarCommon/en/StartScene/a59cd0e5a68c7b4de1382da4bfefc
+ 24c.dtx
+SHA1-Digest: mBURcldnfEDaxspaNwES2Ra336E=
+
+Name: assets/PopstarCommon/en/DailyAthletics/eede400d8991c550eece7581d
+ 9adebb9.dtx
+SHA1-Digest: CPa8tGGs6R9WqQE+p3bc+RfpomM=
+
+Name: assets/PopstarCommon/zh/StartScene/74a3aa5b260a361b0487e2c45650d
+ e99.dtx
+SHA1-Digest: MvRxgm6K5I9m91t3QVnfhqaFJoI=
+
+Name: assets/PopstarCommon/animation/flower/8266e4bfeda1bd42d8f9794eb4
+ ea0a13.dtx
+SHA1-Digest: tm2HSmINQ3wHPh9sQqOfCQW3XqU=
+
+Name: assets/PopstarCommon/zh/reputation/0aed98ccabac2fec8749ab1a5bf89
+ 5b5.dtx
+SHA1-Digest: Z8FrReQp0Yu4dWUikth5ROjZcRw=
+
+Name: res/drawable-hdpi/reputation_yes_zh.png
+SHA1-Digest: gf7TUEAUFehk+t0k9UGSI9pv/lA=
+
+Name: assets/res-jewels/zh/StartScene/b39869c9bf5ce202bf2e7449fe566e47
+ .dtx
+SHA1-Digest: jhTL2vN5PVW++wOyr5+Hepinbbs=
+
+Name: assets/PopstarCommon/en/Achievement/5cb31f9fafe1c262b057b93580cc
+ b70d.dtx
+SHA1-Digest: FB43FNeDkLuCnXm4Q5H+8/rN1jQ=
+
+Name: assets/icon_email.png
+SHA1-Digest: aqhOI5AEX6UHrfuWkmPEHuCwPmo=
+
+Name: res/drawable-hdpi/arrow_right.png
+SHA1-Digest: lNidSRwR5iRDs33YOJESHoe8HzI=
+
+Name: res/layout/ssdk_oks_skyblue_share_actionbar.xml
+SHA1-Digest: dQveooVsoC24u8tCzK1AdJE9IQQ=
+
+Name: assets/PopstarCommon/animation/flower/f19c9085129709ee14d013be86
+ 9df69b.dtx
+SHA1-Digest: cOR2tMRP7MC3LxzoIWFaVdzj4oY=
+
+Name: assets/PopstarCommon/ranklist/rename/9f038b97a794800830ad261b612
+ 69681.dtx
+SHA1-Digest: AfHp6HvGygOLM2uwQlKhblLZc70=
+
+Name: res/drawable-xhdpi/ssdk_oks_title_back.png
+SHA1-Digest: 8EcpaCKgMqZtOt/JhCiOEs6yIKI=
+
+Name: assets/res-jewels/en/guide_time/f3ccdd27d2000e3f9255a7e3e2c48800
+ .dtx
+SHA1-Digest: d8gPq1Y7n3g4M1DaYyiaARNHnAo=
+
+Name: assets/PopstarCommon/pub/ShareScene/e9d19246534700e576fcd795e12f
+ aae7.dtx
+SHA1-Digest: ETHZLBkofgOqrDJKoiXkprKwKz8=
+
+Name: assets/PopstarCommon/en/ContinueLogin/bd9314d7234bff9cdb717b550e
+ 8e02db.dtx
+SHA1-Digest: qXAU/ssZ1lLF9GRkShIuCurSjt4=
+
+Name: res/layout/gd_list_content_normal.xml
+SHA1-Digest: MIZBhjiT6ogTP5caFD0xM0jhnKY=
+
+Name: res/drawable-hdpi/logo_more.png
+SHA1-Digest: /JCb9QdgwjKZNWalUUchLKHqwGU=
+
+Name: res/layout/gd_expandable_list_content_normal.xml
+SHA1-Digest: Ajg0jc2jllGp7GZQToBSbsbTxHg=
+
+Name: res/layout/gd_progress_item_view.xml
+SHA1-Digest: OT/1twtK3J/I+haa+4kS0pf/vHg=
+
+Name: assets/dm_preview_off.png
+SHA1-Digest: b/t3THmIpHAv/89burQdDA+FPwk=
+
+Name: res/layout/act_login.xml
+SHA1-Digest: uau/QF0337QfDI90DX+o3TKFFi8=
+
+Name: assets/res-jewels/pub/particles/spark_r.plist
+SHA1-Digest: Ns5cxEnWYS9uITMj/sUnU6L02h8=
+
+Name: assets/dm_next_off.png
+SHA1-Digest: grInRNpOLXjWa5hDSdT5DS/AaLg=
+
+Name: assets/PopstarCommon/pub/LocalRecord/0b22ff3c5e1ea60aa72de62ef59
+ c5084.dtx
+SHA1-Digest: XD00YHFAmZh0f78IIQ7Z387sHN0=
+
+Name: res/drawable-hdpi/upbgb.png
+SHA1-Digest: ElN8sPnvo7fvL3XMGohwQU3XeT0=
+
+Name: res/drawable/umeng_common_gradient_green.xml
+SHA1-Digest: ZDyisfAamRM9mdew8+tq1DegzP8=
+
+Name: assets/PopstarCommon/en/TigerMachine/f4a1b908b2017887ffd6ab61817
+ 0dfae.dtx
+SHA1-Digest: sXK2zD5eMxmvOWCbyECjtaSVEBc=
+
+Name: assets/res-jewels/pub/particles/spark_y.plist
+SHA1-Digest: wBNKFpZPQuLGhlXJtXtJw4PV6wk=
+
+Name: assets/dm_video_full_not_selected.png
+SHA1-Digest: szVCYcZaLU428BddkidWQ4QyL/0=
+
+Name: res/drawable-hdpi/gd_quick_action_top_frame.9.png
+SHA1-Digest: aB6wOQtYcALPv9F03YqXan6cHD8=
+
+Name: assets/res-jewels/pub/particles/upsideDown.plist
+SHA1-Digest: 600CvmrlUKjYyzuXl5LqHwZs3bQ=
+
+Name: res/layout/gd_quick_action_bar_item.xml
+SHA1-Digest: bYF0K2k8fpx/t6xCsh5qFaT9UBA=
+
+Name: assets/PopstarCommon/pub/block/number/9eb9cd58b9ea5e04c890326b5c
+ 1f471f.dtx
+SHA1-Digest: wp4WOdhmZVhaxygI84vGDucajA4=
+
+Name: assets/PopstarCommon/pub/LuckyDial/45f665493b6ed032420a913795ceb
+ e5c.dtx
+SHA1-Digest: GvI7dC1nTWnO0HbES2vF1Qik69Q=
+
+Name: assets/PopstarCommon/en/AllRankList/c63964168b5bc2b3ec6184e98b57
+ f452.dtx
+SHA1-Digest: krwnimspEpnVXIbpFQZIIUbV5Nk=
+
+Name: res/layout/gd_tab_indicator.xml
+SHA1-Digest: Juoo+FER9WEvQ5uZLQyskRv0sp8=
+
+Name: assets/PopstarCommon/pub/StartScene/135c3f14bffb1d0a86594057fb75
+ 199c.dtx
+SHA1-Digest: l9C9hP3yxC7PH+lccFtuvsw3l7Y=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_yixinmoments_checked.pn
+ g
+SHA1-Digest: usC0FWYD6HxXeorNBkqQY8rVThM=
+
+Name: res/drawable/tb_munion_icon.xml
+SHA1-Digest: M1Dge11Jzdq637340e/yQhDQ45c=
+
+Name: res/drawable-xhdpi/ssdk_oks_img_cancel.png
+SHA1-Digest: NsZVk5t/jVR+MDbSD8IrRZ2uWkM=
+
+Name: assets/PopstarCommon/pub/LuckyDial/bbe00151ed17ac7e6c57da1245686
+ 587.dtx
+SHA1-Digest: TpiBzxymnBW36nV11zghHOAx/B0=
+
+Name: assets/PopstarCommon/pub/LocalRecord/dbec86397aea7cbb92c1f80e1c8
+ 0abfc.dtx
+SHA1-Digest: L5HjWQzQ8yQbToC5rLF2gNCO4UI=
+
+Name: assets/icon_map.png
+SHA1-Digest: xdsG487elj3/EkVX5+/QoSIgHqA=
+
+Name: assets/webview_bar_refresh_hover.png
+SHA1-Digest: gSLqbGIBSkHoBnIzOWi0elHY0Vg=
+
+Name: assets/PopstarCommon/en/CashGift/eb39f057e31ae0a918f7a48209e1c96
+ a.dtx
+SHA1-Digest: AUHOrnDjYTjG1idlHTm5QW1dGhw=
+
+Name: res/layout/mobile7_ge_notidown.xml
+SHA1-Digest: ZF3laHQHBqfKZF8Qc3sZzRqxDhY=
+
+Name: assets/PopstarCommon/zh/GameOverScene/2a391cb80609cb2154d69d5580
+ e887ec.dtx
+SHA1-Digest: GvhCzm0s/qnShXbLdtwmj6836Vw=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_background.png
+SHA1-Digest: Y5SgHKWqlYU8qiLf4/hgzCIwLag=
+
+Name: res/drawable-hdpi/gd_segment_divider.png
+SHA1-Digest: NOPmT9gQcPbqwdeyr//2oOXDF/E=
+
+Name: res/layout/act_showwebview.xml
+SHA1-Digest: IQRdB3jx4kPByo2Pm2hHUQAlnok=
+
+Name: assets/PopstarCommon/pub/StartScene/4a7d962e0aad4c1a2056f0c5d4f9
+ eeca.dtx
+SHA1-Digest: OEz5Ak47zBc/jPoEVwz1QMJckpE=
+
+Name: assets/icon_down.png
+SHA1-Digest: 3kF8glSF8Cvw+m6RCoJ/9NCwoNE=
+
+Name: assets/dm_video_not_full_not_selected.png
+SHA1-Digest: SqE351ahHaPd8PBBxZizXXTsfIw=
+
+Name: assets/PopstarCommon/zh/GameOverScene/100cfadddbf76a0fe9816efa39
+ 7d080d.dtx
+SHA1-Digest: fQdc8zUdbBfVSWgmKUVeOLeY95g=
+
+Name: res/drawable-hdpi/v2_icon_biaoji.png
+SHA1-Digest: n1h7qpXACv6XBg2V+Mq9WB7P+VM=
+
+Name: assets/PopstarCommon/zh/FixReferrer/551b4ea357ed0ef5706d53232eb3
+ 6f9d.dtx
+SHA1-Digest: kjsTY+zcDJ2kHffzVbQlwOviSmY=
+
+Name: assets/PopstarCommon/en/StartScene/36e17e23bf7a7a50f491d0464e0dd
+ e07.dtx
+SHA1-Digest: nosZ5f7LS0TPejKO2s6LzoEAXIc=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_facebookmessenger.png
+SHA1-Digest: L9e+JG6HB5q6EvHo940bOc1L4PI=
+
+Name: res/drawable/center_select.xml
+SHA1-Digest: VWvrDn8jMQvYfDr9HtbGY5BsAGg=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/b34fd7ec6d5ca4761aaf06cf1f
+ 37d02d.dtx
+SHA1-Digest: J5K9TwT/3gY0JEKTLZkcI31N4FY=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_item_pressed.9.png
+SHA1-Digest: Zk9QdlUPN0D5NB+cjNE8iljKBs4=
+
+Name: assets/PopstarCommon/en/DailyAthletics/781dbf1525fec1db04434d7b5
+ daa5331.dtx
+SHA1-Digest: lgbCxZ/DkJ5+0SZWQCZ8QGawrNo=
+
+Name: assets/PopstarCommon/en/AllRankList/2adf3557305f97ceae684bf9aa18
+ ff90.dtx
+SHA1-Digest: Rk0r22BprUBQN4NhVHv2/vr6IN0=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_vkontakte.png
+SHA1-Digest: qH3X3wSssc9hsXk+fDOLTcQ9HXE=
+
+Name: assets/PopstarCommon/pub/LocalRecord/cd6c684bf08874371665efb2f12
+ fc85f.dtx
+SHA1-Digest: M6w5uBP7vrmVDpTbTP3azopogTg=
+
+Name: assets/PopstarCommon/sounds/wino.wav
+SHA1-Digest: Zevyn83WpWFizyVpRClCPQQl9oY=
+
+Name: assets/PopstarCommon/pub/AllRankList/602e8f042f463dc47ebfdf6a94e
+ d5a6d.dtx
+SHA1-Digest: TZxLmPBTSWtVSc181coWjvL135k=
+
+Name: assets/PopstarCommon/zh/CoinShowResult/56da8be7390b5b592ee913770
+ f053d90.dtx
+SHA1-Digest: tvlGQHDLIsC8iRh5Hi1ge2wBMI8=
+
+Name: res/drawable/ssdk_oks_skyblue_platform_list_selector.xml
+SHA1-Digest: NTHYn46ah2kCAGJHxkmQ9+1JGzM=
+
+Name: assets/PopstarCommon/zh/LocalRecord/c84938d31e5e4643acde84b51fa3
+ d0dc.dtx
+SHA1-Digest: epZ+aDDcx6/DsxqonIHDKUByPP8=
+
+Name: assets/PopstarCommon/en/ShareScene/f780d97e0bfe0d35b4b02d1389a1f
+ f5e.dtx
+SHA1-Digest: 5h6tafhilwG9M0vC9Lic0lOrC/I=
+
+Name: assets/PopstarCommon/en/PauseLayer/4c3405442f5835c9e63bf7596a549
+ c46.dtx
+SHA1-Digest: 4ovdEqVnjIgWf1S9eBGHP68G4d4=
+
+Name: assets/res-jewels/pub/particles/6bb348daa28783b539631ae5d5cac1fb
+ .dtx
+SHA1-Digest: bp6apML5B2sD9d9lS5bP8AEfNdw=
+
+Name: res/drawable-hdpi/ic_menu_share.png
+SHA1-Digest: 3e2Ocvh6wlvtmdtputUPQVizVJo=
+
+Name: assets/PopstarCommon/pub/TigerMachine/f0529070dea650ff0a251fb4ad
+ e320c8.dtx
+SHA1-Digest: uVjPwVC7Qh6M2vHIlTn/ZYg7xKE=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_h.png
+SHA1-Digest: GoU0gFzvO+cqLiIsycNiow0SdDo=
+
+Name: assets/PopstarCommon/en/ReviveLayer/95d77e0329272ec233aff2dd3b85
+ aa9b.dtx
+SHA1-Digest: j6LQ71C+zVVVkHywbyo+31ueK7I=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/3299b5c84c31466a1a22eece23
+ 1ae489.dtx
+SHA1-Digest: EhcbXaPHjaiMcGBSExNOGv7FFk8=
+
+Name: assets/PopstarCommon/pub/ContinueLogin/c5e3552a870fd254610290bba
+ bce5e30.dtx
+SHA1-Digest: LjXJqPYjBSQxvWPeiqi5DYPQjIA=
+
+Name: assets/PopstarCommon/en/str/0e7bd3909c1e7ce25c732995d6fcfddc.dtx
+SHA1-Digest: oYniJ1/KnoQ1NurHfHyoQZMglbo=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_selected_normal.png
+SHA1-Digest: h/rFXp+4xFooFuytbg4/HDtx7O8=
+
+Name: assets/PopstarCommon/pub/block/e2a5826fa05e63e5c7c26d04469df457.
+ dtx
+SHA1-Digest: ldzIUPG1dhVvxqaeijeOiDBFrso=
+
+Name: assets/res-jewels/pub/particles/spark_g.plist
+SHA1-Digest: RanEaJRYASNo0prSuR4S6PGKfDQ=
+
+Name: assets/PopstarCommon/zh/CoinShowResult/890b6d680653810181e4e9df5
+ 97faaf3.dtx
+SHA1-Digest: unT6sdA1zrVyhjYCh3SNizzmjyM=
+
+Name: res/drawable-hdpi/umeng_fb_reply_right_bg.9.png
+SHA1-Digest: MkX5Q1zjVQVwFz7Do1gJJtpR7Xk=
+
+Name: assets/PopstarCommon/en/StartScene/fe9f466806427e2630af34bf06faa
+ 3a2.dtx
+SHA1-Digest: Y+tKNst1gCRVKizJbI4en6rRtw0=
+
+Name: res/drawable-hdpi/umeng_update_btn_check_off_focused_holo_light.
+ png
+SHA1-Digest: q2aDAtDEQelrCYZBDuVXGd/tmCY=
+
+Name: assets/PopstarCommon/pub/block/3e0962ea80a62d142ae25910b18a81bc.
+ dtx
+SHA1-Digest: HMzwv2QsrCHDsdFmNQX6A3GdXrA=
+
+Name: assets/PopstarCommon/en/LuckyDial/d25f39f9be82f960d1cec4f2cc4953
+ d0.dtx
+SHA1-Digest: bGzrvNCuKHYyBBY2WDPeLF0UPRM=
+
+Name: res/drawable-hdpi/footbg02.png
+SHA1-Digest: Cbn0z44idlPOesRW+bF9V0F46II=
+
+Name: assets/PopstarCommon/en/ContinueLogin/7e2c1ce72d6e58657135f49b9d
+ 8d4f70.dtx
+SHA1-Digest: E6sx9eM0kKEZR0+FTQ0m4WAFzrI=
+
+Name: res/drawable-hdpi/ggt.png
+SHA1-Digest: 7hfL9G9XKsi1nVeycgjRU2lCxyg=
+
+Name: res/drawable-xhdpi/pin.png
+SHA1-Digest: tkJyNZCYIH5408q/BJl7FHhCnrc=
+
+Name: lib/armeabi/libbase64encoder_v1_4.so
+SHA1-Digest: v2Wbk/7wcXd0DETmmzbG+IVVO6k=
+
+Name: assets/PopstarCommon/pub/b891d1141ca0f3cfd9d4817887beef4e.dtx
+SHA1-Digest: Y5CdTAC5FLqeSAdSK6ri2rgZLzc=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_foursquare.png
+SHA1-Digest: g8gR6icP+IKE25mWXl7B4W+2AzM=
+
+Name: assets/PopstarCommon/pub/LocalRecord/87bb5dcb9750d2b68c71aaf62f4
+ 40a83.dtx
+SHA1-Digest: 7kJVwbPE2wbZ+AGRDhbJsn/M6sI=
+
+Name: assets/PopstarCommon/zh/reputation/62e322decf66b4bc24c6f76439c65
+ 6e0.dtx
+SHA1-Digest: 8s0QIww7wG8TY76EJAx9waIlCP8=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_normal_focused.png
+SHA1-Digest: /c985YUZUX5uFp7fAhtbCEselbc=
+
+Name: assets/PopstarCommon/fonts/79b09ee21f9f87898929245bb48f9e08.dtx
+SHA1-Digest: 2bJ4bh5BCOIziAA5vWsGpDdDc8c=
+
+Name: res/drawable/bg_button_default.xml
+SHA1-Digest: 6Gte2iQyQPvn91C8JjtWR+yWxB8=
+
+Name: res/drawable-hdpi/upbg.png
+SHA1-Digest: GDEwBIVHlmd3/7akLwQCp66fLnU=
+
+Name: assets/PopstarCommon/en/LocalRecord/4f20cc7748b27fec80adc7179600
+ cfa9.dtx
+SHA1-Digest: oURtLsZ9ecvozhdgvnlmaE41J2E=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_image_remove.png
+SHA1-Digest: o4aH9//dYubOBnt7xM3t4h9wERQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_tumblr.png
+SHA1-Digest: VdJ0TwqSTAnSmL40tuG6r6Y90is=
+
+Name: assets/PopstarCommon/zh/StartScene/fe9f466806427e2630af34bf06faa
+ 3a2.dtx
+SHA1-Digest: 2uFEdjibP5MVFDI0xuWKamL5bGA=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_kakaostory.png
+SHA1-Digest: Zm/eChRJp7wNPv9OTMU1mxGDoos=
+
+Name: assets/PopstarCommon/zh/StartScene/6c59c3d9a561c7ace31fc4cbd4eb5
+ 0a9.dtx
+SHA1-Digest: oB/a/QZVgXCDtjqbfnhfGYDXkFA=
+
+Name: res/layout/act_feedback.xml
+SHA1-Digest: T7MojjZYxpunQYPiXe1bft4JNJw=
+
+Name: assets/PopstarCommon/pub/block/6b11f6c01abfd4f55de095f60f8aaef4.
+ dtx
+SHA1-Digest: vSWMR5BCb8B8/NaCwQ8cQvdo5Xo=
+
+Name: assets/res-jewels/pub/CashGift/31d98e230cdffe7c309d06edc3608e3c.
+ dtx
+SHA1-Digest: szaTyETOVrAGe3viKGmnmnJQAxE=
+
+Name: assets/PopstarCommon/en/str/cd2d45bfe1b230600c9fce16d88b9476.dtx
+SHA1-Digest: MBRriSiZXzPX9bz+q0+Ny2BIE2Y=
+
+Name: assets/PopstarCommon/zh/AllRankList/f6ea060e013eacd2e78ff9708e41
+ f72f.dtx
+SHA1-Digest: 7hnlUJjH2fkeLQIKFa1ZUP1LlHE=
+
+Name: assets/PopstarCommon/zh/StartScene/525e2ebd0c4d71b2f7aefba06a792
+ 9af.dtx
+SHA1-Digest: DsjaJ/OJOsU0TfztCXwQJysO+aU=
+
+Name: assets/PopstarCommon/ranklist/rename/0d89cb82c287adc44d4bca1c5bc
+ 80c6e.dtx
+SHA1-Digest: yJ1uQaCEt/gvfWHrb47wA//C1rc=
+
+Name: res/drawable-hdpi/gd_quick_action_grid_bg.9.png
+SHA1-Digest: EENTLL5+tqNl/UezdG06OivlpcA=
+
+Name: assets/icon_video.png
+SHA1-Digest: C0SXHhTU2kPLRaG1MYcCX/RB9Ss=
+
+Name: res/drawable-hdpi/icon_copya2.png
+SHA1-Digest: lvNUAYTCMyk3RLY8Ts0FzVrqT4c=
+
+Name: assets/PopstarCommon/pub/block/c2547207673f12ea58742517c906140b.
+ dtx
+SHA1-Digest: Hn9KmTRPNZkPh/PjYHGuFNFCDxc=
+
+Name: assets/PopstarCommon/zh/str/facb92c6912a906f4d3f95e6b4a10b10.dtx
+SHA1-Digest: KZ/sSI9+jq0onR42TZIiM+kyYxk=
+
+Name: res/drawable-hdpi/btn_refresh.png
+SHA1-Digest: Gci474/gZoNacKsWkB/F6rOFmtQ=
+
+Name: assets/PopstarCommon/zh/CoinShowResult/f2e5fe4ccfacfa4ba963ee42f
+ 66eb213.dtx
+SHA1-Digest: C+Mxdt0AImcfCwBL3/cuSwr/OVY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_tencentweibo_checked.pn
+ g
+SHA1-Digest: e4IZ4I90u08w0F4ViAYsQGSjwz8=
+
+Name: res/drawable/gd_action_bar_item.xml
+SHA1-Digest: dwdEMWhEStlrBI4m6005cmlWAw0=
+
+Name: assets/PopstarCommon/en/ContinueLogin/b444b15c2c92d191c90f68f1a1
+ 3e19cf.dtx
+SHA1-Digest: 9fxigntGB3L+6IUHZAITIrN6se4=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_neteasemicroblog_checke
+ d.png
+SHA1-Digest: Q3TH2Y3262J36uqhiRjGocrT/Rk=
+
+Name: assets/PopstarCommon/pub/LuckyDial/2a85e483d32fd803f953adfe8f23e
+ ad2.dtx
+SHA1-Digest: vA6iHBe11PW25nWJm+BlPQfM9D8=
+
+Name: assets/webview_bar_close_hover.png
+SHA1-Digest: e13ZtEBgU91C9Pl3vTt4Bz3PgQk=
+
+Name: assets/PopstarCommon/en/GameOverScene/f12d51ae10822402f0f566764f
+ e93cf2.dtx
+SHA1-Digest: 1dhhQGL2PWNUB+nJQhAsK1b/0bg=
+
+Name: assets/PopstarCommon/pub/block/number/10fb15c77258a991b0028080a6
+ 4fb42d.dtx
+SHA1-Digest: HchR2su2/WqhDZOHZps2/lZh0sM=
+
+Name: assets/PopstarCommon/pub/LuckyDial/d5c68633c2d38d83d82837ad0605a
+ 779.dtx
+SHA1-Digest: XiXilGjH1nkHDbqQ6sX9avuS/QU=
+
+Name: assets/PublicRes/zh/MoreExciting/Line.png
+SHA1-Digest: UlezmSfs17TMqZbNJekJCW4PyRE=
+
+Name: res/layout/act_about.xml
+SHA1-Digest: T5Vfn71JzrVKxezPbQHsnTBmbEw=
+
+Name: assets/PopstarCommon/pub/LuckyDial/bfc876344ec8fdbed52aa75ddb869
+ c14.dtx
+SHA1-Digest: /8MWdLjiLJOw8crZPPu8lvIRFAc=
+
+Name: res/layout/no_data.xml
+SHA1-Digest: smznFwV+Y4lMjBoXZ+CWqsbly80=
+
+Name: assets/PopstarCommon/en/TigerMachine/26a1d737ec349821a9d374bef0c
+ 46abe.dtx
+SHA1-Digest: Ab2YrQpwgVnIcryLFscSfc2fxRM=
+
+Name: assets/PopstarCommon/zh/GainCoin/937a2df3cbf22dfeafcc784aabbe011
+ a.dtx
+SHA1-Digest: XQp8RTHsaC0hSj0A3OZ7DYVg+Ik=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_qzone.png
+SHA1-Digest: tcfUq77aOBQoDGD0UI105dbRL3s=
+
+Name: res/drawable/footer_feedback_button.xml
+SHA1-Digest: JAUsl1difMfTSW8bJhya63PKp9Q=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_pinterest.png
+SHA1-Digest: lHYnXTLW6v9sDl57uaTYu/6n2NE=
+
+Name: res/drawable-hdpi/icon_map.png
+SHA1-Digest: 3CYMaRHNBhFE22tF7q5+vDJ3QrU=
+
+Name: assets/PopstarCommon/pub/570f308f4483b7cf00f544fb09846666.dtx
+SHA1-Digest: IsRufzkN1QfNfZ1FV5TC1OdfygY=
+
+Name: res/drawable-xhdpi/ssdk_title_div.png
+SHA1-Digest: DloK2NAixcsnyoNpzHoN1vuEAzU=
+
+Name: res/layout/gd_thumbnail_item_view.xml
+SHA1-Digest: /4bHwT0V1HEA5wNR0U4VmfLqcBA=
+
+Name: assets/PopstarCommon/animation/magic/f19c9085129709ee14d013be869
+ df69b.dtx
+SHA1-Digest: KMi47ub02yKilt5Mlu48lju06z0=
+
+Name: res/drawable-hdpi/inbgb.png
+SHA1-Digest: Y83p0O+Y23xpKTxpu+rrmccL8l4=
+
+Name: res/drawable-hdpi/arrow_left.png
+SHA1-Digest: Qfg1porZMdZOGzbIjLw1iDXCP/g=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_yixin_checked.png
+SHA1-Digest: PUsGUKPuDbXMz4/ulmuOd0aKYMA=
+
+Name: res/layout/gd_quick_action_grid.xml
+SHA1-Digest: jH9mwfepacKBbnM3crBeMghW/AY=
+
+Name: assets/PopstarCommon/en/DailyAthletics/03b31534a6314fa112663f9cf
+ cf915bb.dtx
+SHA1-Digest: kIa72x9r46NiVTUftLPOy2Z+sKU=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/12daf418c5ee2d1219426325f7
+ fa72cb.dtx
+SHA1-Digest: LY9CVjqb8Md09jDW+1POGMDyctE=
+
+Name: res/layout/gd_action_bar_item_loader.xml
+SHA1-Digest: kRPCqI7CoFbBaP1yFfc/l8fqMW4=
+
+Name: assets/PopstarCommon/pub/ChooseGift/dfec410bad49f6aa8ec2ca1d628d
+ 9071.dtx
+SHA1-Digest: PsMiiWoHE6w6WhE3QWoBRMcQGp4=
+
+Name: assets/PopstarCommon/pub/StartScene/ed67e72bd4ac6ce822bed0e35ca0
+ 78d1.dtx
+SHA1-Digest: Zvx8Ym67M5zzG3Qk03Uu7y6yxDc=
+
+Name: res/layout/ssdk_oks_skyblue_share_platform_list.xml
+SHA1-Digest: naQLxo55rvezRUepBA1XemgoNz0=
+
+Name: assets/PopstarCommon/pub/AllRankList/fb5c81ed3a220004b71069645f1
+ 12867.dtx
+SHA1-Digest: 1vUzWvIeyMBcME534Rs19KffAQ4=
+
+Name: assets/PopstarCommon/zh/str/6e7a6d64824de97d2c217c2037715da2.dtx
+SHA1-Digest: RZotr44dgKipr+VanlUTuGZKAUc=
+
+Name: com/pdragon/ads/mg/assets/webview_ad_bar_bgimg.png
+SHA1-Digest: 87vMa6EZcU1ardtoSrSTQiY3xvU=
+
+Name: assets/PopstarCommon/en/LuckyDial/c93ef40c3e6b5e94cf6a8e663b7f1f
+ e8.dtx
+SHA1-Digest: sXK2zD5eMxmvOWCbyECjtaSVEBc=
+
+Name: assets/PopstarCommon/en/AllRankList/cb14469eeea80a9012bbcdda8391
+ a0e1.dtx
+SHA1-Digest: 3Pmn3J522nap+XUIQUbr/VR4p2o=
+
+Name: assets/res-jewels/en/guide_clear/f3ccdd27d2000e3f9255a7e3e2c4880
+ 0.dtx
+SHA1-Digest: tXHTThCAGGMAjeseykjLk+dAZOc=
+
+Name: assets/PopstarCommon/en/LuckyDial/90a0e3483855c4c1186c00bdcfca68
+ c7.dtx
+SHA1-Digest: IQoi1grk1CEUEJ6FHqBvjIalrUI=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/4024dc4dfcd32af076162385f7
+ 7fd302.dtx
+SHA1-Digest: jxu4G5Al8YvvSVQ5T+GQZQ471W0=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_8.png
+SHA1-Digest: o1659DR+MmZ2r1XyMB0oROKIw/c=
+
+Name: res/drawable-hdpi/umeng_update_close_bg_tap.png
+SHA1-Digest: SNDG2U8SkuWqLIV19ogQGjNLlU8=
+
+Name: assets/PopstarCommon/pub/ReName/3e4bf9246236cf0987028a64c0be99ec
+ .dtx
+SHA1-Digest: ennruCnXTnxvPnqiM/5IRCukJT4=
+
+Name: assets/res-jewels/en/guide_standard/f3ccdd27d2000e3f9255a7e3e2c4
+ 8800.dtx
+SHA1-Digest: iofdKG1utcsRheWCPJPlFPmp3d0=
+
+Name: assets/PopstarCommon/en/StartScene/d96b8bb36d58fd4c50e520200f9d3
+ 575.dtx
+SHA1-Digest: HiGIs8NcqCtiHigypGPfDSPmLaY=
+
+Name: assets/PopstarCommon/en/ContinueLogin/c0e96acd6d49737fdab68d498c
+ b5be43.dtx
+SHA1-Digest: CF8Cv1NryhGlTdhfTMZ8NZzvkr4=
+
+Name: assets/PopstarCommon/pub/FixReferrer/8d518ec30fc7fc94ef9e6caa76e
+ ad271.dtx
+SHA1-Digest: aA2Zr7RJ2rLtYnKHWnZNyoxHqZk=
+
+Name: assets/PopstarCommon/zh/StartScene/36e17e23bf7a7a50f491d0464e0dd
+ e07.dtx
+SHA1-Digest: 3tnjeRqx7aiZH5clV5JkWE96kmk=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_shortmessage.png
+SHA1-Digest: a2Tz3Cg/Bly7PHtb/frO8yH/Ybk=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_e.png
+SHA1-Digest: lrRun6kmOxzzAOfysHNli9QuJk8=
+
+Name: assets/res-jewels/zh/guide_standard/f3ccdd27d2000e3f9255a7e3e2c4
+ 8800.dtx
+SHA1-Digest: 3Uzk4q+q0kc9TGuKPs2z2e41UiY=
+
+Name: com/pdragon/ads/mg/assets/tow_click_download_btn_320.gif
+SHA1-Digest: eFgJUFrWVFXGUj1hVZ7iG9TFfPM=
+
+Name: res/drawable/edit_button.xml
+SHA1-Digest: 3wTJXhGZPhwORZWuCBq2yCl069U=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_sohusuishenkan.png
+SHA1-Digest: /wnkEd+7eD35JRHXdIpZWWAvf/k=
+
+Name: res/layout/umeng_fb_list_item.xml
+SHA1-Digest: 4pKl4zNDf1JeO1qKwzAUnI9OTXY=
+
+Name: assets/PopstarCommon/en/GainCoin/a8e36be4a98a918ac0a4e7e2ce109f9
+ 1.dtx
+SHA1-Digest: pol84/nKuLcYUVNEDcwfvQVZ7o0=
+
+Name: assets/PopstarCommon/zh/AllRankList/2adf3557305f97ceae684bf9aa18
+ ff90.dtx
+SHA1-Digest: 6v8Y0hlb2++TpvmBJrVumLEamR8=
+
+Name: assets/PopstarCommon/pub/ChooseGift/0ccda1f4ae9e9f15dafd273216a8
+ f118.dtx
+SHA1-Digest: /8MWdLjiLJOw8crZPPu8lvIRFAc=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/b444b15c2c92d191c90f68f1a1
+ 3e19cf.dtx
+SHA1-Digest: 4bWEtADIwTlb+BkwWJIQA93VR9I=
+
+Name: assets/PopstarCommon/zh/Achievement/a77208ef230d2ef3b6a4137cdafa
+ 551a.dtx
+SHA1-Digest: HCsx7P36X0brqpU4N1TfHG8AVGI=
+
+Name: res/anim/popup_exit_righttoleft.xml
+SHA1-Digest: 8heXTWNE9TBiCPuFDwlVmu7INz4=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_tumblr_checked.png
+SHA1-Digest: y3p5uPOSqhbFeG6nCl9ou2JzI3k=
+
+Name: assets/PopstarCommon/animation/flower/9eb9cd58b9ea5e04c890326b5c
+ 1f471f.dtx
+SHA1-Digest: 4B2IttKjZwNkzZ1c35tjMJsA76A=
+
+Name: assets/PopstarCommon/en/LocalRecord/4e8573901da54b046e576a9a0a79
+ 41da.dtx
+SHA1-Digest: RicV4ra4yfRc+h0XnJkdAnL8/hM=
+
+Name: res/drawable-hdpi/btn_refresh2.png
+SHA1-Digest: pNFYdBisV9xs+o76+faorriJfhI=
+
+Name: res/drawable/gd_segment_checkmark.xml
+SHA1-Digest: P0BGoJ9qrF+o24tJa0M8DHCyiLI=
+
+Name: assets/PopstarCommon/pub/ShareScene/6d8adf73fafb9bf0a3b0fc94a5aa
+ 98e9.dtx
+SHA1-Digest: Q15xg+1zPyNdqAfdLgHWiXF3dSY=
+
+Name: assets/PopstarCommon/pub/sound/s_move.wav
+SHA1-Digest: zGmuXWqwQ9QktoG2jgB54Wenvgg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kakaotalk_checked.png
+SHA1-Digest: VBWHAahQ2QFTYlPRW+DqQi2+xTQ=
+
+Name: assets/res-jewels/zh/guide_clear/f3ccdd27d2000e3f9255a7e3e2c4880
+ 0.dtx
+SHA1-Digest: 27yDsyRDX6Wht4KBV9k+f6Ua6JI=
+
+Name: res/layout/cv_act_paymentlist.xml
+SHA1-Digest: flO33LyxatM3SWYTMMT9pU9ztrU=
+
+Name: assets/PopstarCommon/zh/Achievement/b2c50ce3a5616577c5a913861acc
+ 9ebd.dtx
+SHA1-Digest: Qi4PFnBbIpTTQktyW4vaet1H/fk=
+
+Name: assets/PopstarCommon/en/TigerMachine/aaf0168ca15108b5742ad32d4e5
+ d8721.dtx
+SHA1-Digest: Ab2YrQpwgVnIcryLFscSfc2fxRM=
+
+Name: res/drawable-hdpi/umeng_fb_user_bubble.9.png
+SHA1-Digest: u9Gupn9QNFoYozLA7Ra+yE7rIbw=
+
+Name: res/drawable-hdpi/ic_menu_fav.png
+SHA1-Digest: 7dGPsR008Mk33NlEZez4T6VWfz4=
+
+Name: assets/PopstarCommon/en/ChooseGift/9b86aa9d5ec4751e213095eec492c
+ d88.dtx
+SHA1-Digest: cg4FpV7H6BvnniyzIis2DOR1mSE=
+
+Name: assets/webview_bar_pause_hover.png
+SHA1-Digest: eGvfBo39/WVfVHdABg2BqCXHcYI=
+
+Name: assets/PopstarCommon/en/Achievement/15503afbd1283123cfea672e2903
+ 28cb.dtx
+SHA1-Digest: zaKy52bnnKoWxflPLTAAFwKKak0=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_foursquare.png
+SHA1-Digest: u2Wxcxc96GE/pg+7IjUn6WPjn8M=
+
+Name: assets/PopstarCommon/en/StartScene/d8f4651159a16da562f73f03594ca
+ 781.dtx
+SHA1-Digest: rCZwKaJEZLToxYqCxHeLkp2CQIU=
+
+Name: res/anim/umeng_fb_slide_in_from_right.xml
+SHA1-Digest: hQ5uS5IfNVGpKLnTl1l5fNNsyNg=
+
+Name: res/drawable/footer_collection_button.xml
+SHA1-Digest: m3O6uG6pLDL8gde1GYAgCdyk4WQ=
+
+Name: assets/PopstarCommon/pub/LuckyDial/9d8096ff4eae65c6cb4b71893bd4a
+ 62a.dtx
+SHA1-Digest: pTzSE/7rNA1TEUsQ+8F9Jq6vzZY=
+
+Name: res/drawable-hdpi/xlistview_arrow.png
+SHA1-Digest: SJakT8RpH2kU71okfQWpwe1M8WU=
+
+Name: assets/PopstarCommon/pub/PauseLayer/aa312a42ffdb1ca76e58a213d91a
+ f554.dtx
+SHA1-Digest: HjglYqDPEKrCroOd4TWvuYD0ZaI=
+
+Name: assets/PopstarCommon/zh/AllRankList/759170479bed987c5485833eaec2
+ e82c.dtx
+SHA1-Digest: TTAYyMwBIph0CduZGVtPTc2ixUc=
+
+Name: assets/progressbarbg.png
+SHA1-Digest: 0N33ShE8ctaZriW3oW75uXOX+Gs=
+
+Name: res/drawable/bg_button_default_green.xml
+SHA1-Digest: H1SgCZWbNIzhO7yIOaPKHNIJOKU=
+
+Name: assets/dm_video_muted_not_selected.png
+SHA1-Digest: 9IqFHqW9V6J8FiuJBrfh9Opt0Xk=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/5379eca7b34b561709f5ac112e
+ 052f03.dtx
+SHA1-Digest: EkD1Vew4Zq5xLPxlYZkbBYN4b6U=
+
+Name: res/drawable-hdpi/gd_action_bar_settings.png
+SHA1-Digest: gjK+nbSTH8+XC2Zic2RUi1n8tIY=
+
+Name: assets/PopstarCommon/fonts/433ccc57aac06114d2fcb82bf2cc6325.dtx
+SHA1-Digest: r3e+F8U9mq30Av6HuyZFJXzSTNs=
+
+Name: assets/PopstarCommon/pub/FixReferrer/f7757c099c5fbf943f3ee7a5bc1
+ 9872d.dtx
+SHA1-Digest: a+O9n84Zfskbv2G2A7zscefD0X8=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_pocket_checked.png
+SHA1-Digest: 8+uA/a75AuZf5ngwKR22gujSpp0=
+
+Name: assets/webview_bar_refresh.png
+SHA1-Digest: rv+41evktaJguYVo6iTBePaSqrU=
+
+Name: res/drawable-hdpi/tip_pointer_button_selected.9.png
+SHA1-Digest: kO/tlfTojWUTiAMNDep/0R9Ykkw=
+
+Name: assets/PopstarCommon/en/LuckyDial/f40a8e13dd45d086daeb24f8704ee5
+ b2.dtx
+SHA1-Digest: JCmZSwQGstaWiIUP+NKrpnmHDLs=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sinaweibo_checked.png
+SHA1-Digest: Kulfk871JU3GtJcYNIc2qrDhwIU=
+
+Name: assets/PopstarCommon/en/GameOverScene/6d1533a0d69a864100b47d2f9b
+ e9ff5b.dtx
+SHA1-Digest: f6rwhW533e18/Q+iq2Hq57IrRac=
+
+Name: res/drawable/blue_long_button.xml
+SHA1-Digest: lOsqZc9TEf+uUVRPrfPygtjSrvo=
+
+Name: res/drawable/button_gray.xml
+SHA1-Digest: /U4NYnhMkbGZ2Z4P07byjlTyCDE=
+
+Name: assets/PopstarCommon/en/ContinueLogin/12daf418c5ee2d1219426325f7
+ fa72cb.dtx
+SHA1-Digest: /ZEO/+u9C7d4a6S8djlSW/cW1nw=
+
+Name: assets/PopstarCommon/en/str/0a1bf7bc903a9723b6ef4595655983d3.dtx
+SHA1-Digest: yXxK5H+7Y+BjPH42jarc+TQa8SA=
+
+Name: res/drawable/btn_map_loc.xml
+SHA1-Digest: 2AyQdMee4kXI2sU0lblpjd2+fcc=
+
+Name: res/drawable-hdpi/ic_menu_share2.png
+SHA1-Digest: Dt1sZRTaH5SeinWg8p3Wem0zMH8=
+
+Name: res/drawable-hdpi/ic_menu_feedback2.png
+SHA1-Digest: Sn0pcNBxQm1GFxWbKI/omEF4DSA=
+
+Name: assets/PopstarCommon/zh/AllRankList/b0d14ab027bb2c0522d0f4ebbd1b
+ ae68.dtx
+SHA1-Digest: HF2XyKACjkN/kt0RsmnmAnkG4Mo=
+
+Name: assets/PopstarCommon/zh/PauseLayer/22aada6da023a7030691e43ff3408
+ b21.dtx
+SHA1-Digest: GtaSNF0K4ACUqk0EFU1igsJoCUU=
+
+Name: res/drawable/button_yellow.xml
+SHA1-Digest: CUrYLUqI6LLHDX7jUVIoMJUK21M=
+
+Name: res/layout/gd_list_content_empty.xml
+SHA1-Digest: sTx8i5ZGFh3IrKIgxiSReJQB98g=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_line_checked.png
+SHA1-Digest: 1lSlUV9JRR2dW79IvD4Qen9kuqg=
+
+Name: assets/PopstarCommon/pub/block/number/8266e4bfeda1bd42d8f9794eb4
+ ea0a13.dtx
+SHA1-Digest: Jqd/07vSAl/aiEW8NCCd5/Y+jcE=
+
+Name: assets/PopstarCommon/pub/TigerMachine/27e31adb7660ef9a80b23fb6fd
+ 7189dd.dtx
+SHA1-Digest: cbxJ7xceC2yaOFRV/QIdKVwADRk=
+
+Name: res/drawable/checkbox_selector.xml
+SHA1-Digest: U4fqTyb61fPivy2xbimpnTfIcgs=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_twitter.png
+SHA1-Digest: eihcoRBDg1aU0w/5JyZMRXn8dOQ=
+
+Name: assets/res-jewels/en/Achievement/12c5cfedf5f184214ba76ee554ff5e0
+ f.dtx
+SHA1-Digest: ZNFXJETI0XPeqUU35OjCD2txGX4=
+
+Name: assets/res-jewels/zh/Achievement/88c73bb6b7dd443d5cf216f5735b678
+ 7.dtx
+SHA1-Digest: OX644YljEKg3vLn1sy9YUE9HtjA=
+
+Name: res/anim/gd_shrink_from_top.xml
+SHA1-Digest: 7deM/MXeUXWYQcgCOVZkRXtZcD4=
+
+Name: assets/PopstarCommon/zh/reputation/c5a5ad753cd7a520b2e48959fb76c
+ 6c0.dtx
+SHA1-Digest: LYwRKKGWE7WPzJEHfLmzGXWn0V4=
+
+Name: assets/PopstarCommon/pub/AllRankList/8266e4bfeda1bd42d8f9794eb4e
+ a0a13.dtx
+SHA1-Digest: lleuQUlKxHhOHuRZlLo6tEGtpI0=
+
+Name: res/drawable-hdpi/gd_action_bar_list.png
+SHA1-Digest: npyOmzt/OLgTHNeWavYbDcyCzeY=
+
+Name: res/drawable-hdpi/logo_wechat.png
+SHA1-Digest: w5oDxyy/FK2/lH5lX0iaCOmnIlI=
+
+Name: assets/dm_video_learnmore_not_selected.png
+SHA1-Digest: BbfMLGhJvJxOEPXp/NJUc0e/2bw=
+
+Name: assets/PopstarCommon/en/StartScene/74a3aa5b260a361b0487e2c45650d
+ e99.dtx
+SHA1-Digest: V2s+B0gRNemFVfzWakXo7+FqvTU=
+
+Name: res/drawable-hdpi/logo_neteasemicroblog.png
+SHA1-Digest: ih4cXmJlGfETcS3P+xtkZHFv1Yg=
+
+Name: res/drawable-hdpi/logo_sinaweibo.png
+SHA1-Digest: 1uIgeXiaT041BYy7ttSKa/horCg=
+
+Name: assets/PopstarCommon/en/LuckyDial/1e86ed56f247422509cae86d9a921e
+ 9e.dtx
+SHA1-Digest: mXmMa4kfn2DTE4UnCA+KpeZT+kQ=
+
+Name: res/layout/gd_subtitle_item_view.xml
+SHA1-Digest: BLzNft7Oh1meX+xYOCGX8dgVad0=
+
+Name: assets/res-jewels/pub/StartScene/1f63e6671c01a7207ba19289b4b3625
+ 7.dtx
+SHA1-Digest: +siv3T/C1ATKiiV09xqq55e3QeU=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_evernote.png
+SHA1-Digest: 0DGl6QNxUlv6RgGSBQLWcv8Kr1U=
+
+Name: res/drawable-hdpi/btn_icon_nears_normal.png
+SHA1-Digest: K/ARVcTC2odkZXZz7ZQ4eY130mo=
+
+Name: assets/PopstarCommon/en/PauseLayer/22aada6da023a7030691e43ff3408
+ b21.dtx
+SHA1-Digest: wo7x0m2ZE4KIpWKaCNoIGEIDAl0=
+
+Name: res/drawable-xhdpi/title_shadow.png
+SHA1-Digest: LALhXzWajUQxP3OEPz9GPgH0DTc=
+
+Name: assets/PopstarCommon/en/ContinueLogin/8e391409bd78f22d1a9fdad44b
+ 0ad803.dtx
+SHA1-Digest: nNcgBLqiCbbfFNQCcqvu5jtjSso=
+
+Name: assets/PopstarCommon/pub/9dbbcf2b91dfb222ce156b372ccac9dd.dtx
+SHA1-Digest: DftBWRRd2W1aHDuX4jYGTfjKcjA=
+
+Name: assets/res-jewels/pub/StartScene/d63f4ec515570525331bd7301b9389b
+ f.dtx
+SHA1-Digest: jEb2ABOiTBeRB8dfBknoQAaWy0Q=
+
+Name: res/layout/gd_subtext_item_view.xml
+SHA1-Digest: Nn0KJxBw5FysoiWdvC3BmA+fGvQ=
+
+Name: assets/PopstarCommon/animation/flower/09dd8c2662b96ce14928333f05
+ 5c5580.dtx
+SHA1-Digest: IpUFWA/wQAhKMQcfMPLIYWNEUm8=
+
+Name: res/anim/gd_shrink_from_topright_to_bottomleft.xml
+SHA1-Digest: JvApDXaEcjuor+E48nxPFQrN8hg=
+
+Name: res/layout/gd_quick_action_bar.xml
+SHA1-Digest: ll88WL3Q1G+7SNoo1dYlcg2LK4Q=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_instapaper.png
+SHA1-Digest: jhWkyVf15pr1PmKZAopLnCqXyBs=
+
+Name: res/drawable/umeng_update_button_cancel_bg_tap.xml
+SHA1-Digest: 5PlQdd2SrCHfO5IKG+rk9ZAH99c=
+
+Name: assets/dm_out_on.png
+SHA1-Digest: gkEO+eSklPysdNgbHyPeyAsXEoM=
+
+Name: res/drawable-hdpi/icon_copya.png
+SHA1-Digest: CJQcu3gManlD0tfss0wBN/30p9k=
+
+Name: res/drawable/ssdk_oks_skyblue_platform_list_item_selected.xml
+SHA1-Digest: yAY1vrUv0JAB7nzyNRfPzZd5RBE=
+
+Name: res/drawable-hdpi/gd_segment_checkmark_on.png
+SHA1-Digest: kqlmxzhOvvaWgBg8oW46uMyVxvc=
+
+Name: res/drawable-hdpi/map_switch_icon.png
+SHA1-Digest: 974L1NzfkL/soKNh8JLT0A+Dr2k=
+
+Name: assets/PopstarCommon/pub/progress/7c82b2ff5a74ab94c5aa5f6581dfc5
+ ac.dtx
+SHA1-Digest: FZMC3tW+ejfu/4UDEcTDEf/N8S0=
+
+Name: assets/PopstarCommon/pub/AllRankList/2637aeb58616bbf8a8d1030cb34
+ ad5fb.dtx
+SHA1-Digest: bwAnbDnnYksH0oi8iHU/UNkozA8=
+
+Name: assets/PopstarCommon/en/StartScene/80ab17b9ca38cfddf1cf7703f063d
+ c3e.dtx
+SHA1-Digest: CXT88J2Q8TwTzsuVi1p9MT4txy4=
+
+Name: assets/PopstarCommon/en/LocalRecord/2bc70588fbd8a698db6f82374f43
+ f291.dtx
+SHA1-Digest: crhlwLF8OgPdRwNtSJVMCozJrCw=
+
+Name: assets/mixed_bg.jpg
+SHA1-Digest: jilE52XFCH7MBP8rWbRjwbZom0o=
+
+Name: res/drawable/button_blue.xml
+SHA1-Digest: Ira2BBwOm7Ke+HMCbYU/R4A2kcc=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_bg.9.png
+SHA1-Digest: P7IRxfdiUsTRzM4tMuJnE7aTWf8=
+
+Name: res/drawable-xhdpi/logo_qzone.png
+SHA1-Digest: ygwro4okMJjfWFvNLPk1hTobe1g=
+
+Name: assets/PopstarCommon/en/CoinShowResult/ec0d61247d56d41d34734b4d8
+ 7e3df62.dtx
+SHA1-Digest: ez2n//MpuMXnwgdUe2GZnMOh/Nw=
+
+Name: assets/PopstarCommon/pub/block/0564d4ec4885448fc55b26b11c1ae743.
+ dtx
+SHA1-Digest: 63gSRLhgpy+xQs4SgKu67jUZ5O4=
+
+Name: assets/PopstarCommon/pub/StartScene/d0b04cf586a872de944359c0b93c
+ 331b.dtx
+SHA1-Digest: 3ud1q6Nc8m9PwU5CQXzjw8EWsMU=
+
+Name: assets/dm_video_close_not_selected.png
+SHA1-Digest: zUJvYC1AVMs9JcDZ4WetBx7W1ok=
+
+Name: res/anim/umeng_fb_slide_out_from_right.xml
+SHA1-Digest: 2yA/OnTKWaohE+ewbY9QbRQgUxo=
+
+Name: assets/PopstarCommon/en/PauseLayer/d8f4651159a16da562f73f03594ca
+ 781.dtx
+SHA1-Digest: e23xoaSSPrE17izjKk0+loc+CIE=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sohumicroblog.png
+SHA1-Digest: wNZEO/0ZsxJboLnC/iN9/LPVJ8g=
+
+Name: assets/PopstarCommon/pub/c0cc03484b7d6e09c6a1f1a93a0d626d.dtx
+SHA1-Digest: rHSpJSCscKNNl3UXjOXtVtCsvto=
+
+Name: assets/res-jewels/pub/particles/53931b1d52bb2444516a9ac83300bb24
+ .dtx
+SHA1-Digest: b/gDIc2b2pVCe9kR3d21gJK8QlA=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_back.png
+SHA1-Digest: REOpjNmY+cAQpC12hO0mrUZ1nbI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kakaostory_checked.png
+SHA1-Digest: aDr5R258V2DFztmGw5FGMuWWHrE=
+
+Name: res/drawable-hdpi/ic_menu_refresh2.png
+SHA1-Digest: E6UdAVBuCyG3jEzT5OyYZDzLWCA=
+
+Name: assets/PopstarCommon/zh/ReviveLayer/2e88372bf755d96a117dee8b33da
+ d3c0.dtx
+SHA1-Digest: 9Q68EfrPKgWjvhajQ5vZYx2IIm0=
+
+Name: assets/PopstarCommon/zh/AllRankList/8c7dd210b141cc00f0859f0cfce4
+ 3801.dtx
+SHA1-Digest: DD95T8f9tfFG29wctcP/CepCOgQ=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_4.png
+SHA1-Digest: fgJ8m8jSGwmjyJkQm81wjNVzTJ4=
+
+Name: res/drawable-hdpi/recommend_on.png
+SHA1-Digest: 4vCS5Oxfjk025MQXqNBuww3fBmw=
+
+Name: assets/PopstarCommon/sounds/destroy.mp3
+SHA1-Digest: HolriTRNOYN9eBzNJoMta/qFDyo=
+
+Name: assets/PopstarCommon/zh/GainCoin/b39869c9bf5ce202bf2e7449fe566e4
+ 7.dtx
+SHA1-Digest: NSV5J4NRZWmAUoip0MV06yzsw+U=
+
+Name: res/drawable-hdpi/gd_segment_label_normal.9.png
+SHA1-Digest: RGY/aNhWmrRCQJditikNsw4LtrA=
+
+Name: assets/res-jewels/en/str/0d4e0c3b9282cad1f94f6304742a3d6b.dtx
+SHA1-Digest: QolBJkHsrJLKIlCk6xlpQW6DxI4=
+
+Name: assets/dm_video_learnmore_selected.png
+SHA1-Digest: 5M4aJuNXokHVpr8tPjIAzYCucu0=
+
+Name: assets/PopstarCommon/en/GainCoin/986ca332aa354525dc5172a0bb49d15
+ 5.dtx
+SHA1-Digest: +0rY6GUuZLaCwAK7A2xUyUrU+M0=
+
+Name: res/drawable/footer_share_button.xml
+SHA1-Digest: ykWkB87OjunO51PrOiIBjZHEhLA=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_pause.png
+SHA1-Digest: U9BRIfmPodCvRB150xykbw5SRec=
+
+Name: assets/PopstarCommon/zh/StartScene/d96b8bb36d58fd4c50e520200f9d3
+ 575.dtx
+SHA1-Digest: to0yC8Nz60RIRzYYo7jgty1nRJQ=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_close.png
+SHA1-Digest: 8LPHtN+Cv6+i3gWL/TZ8XZ+uQAo=
+
+Name: assets/PopstarCommon/en/DailyAthletics/7da28a8f0f82092df98a94ccf
+ efb0a8f.dtx
+SHA1-Digest: lRx+8kowu4pJYDQbjIJzYhLYbIs=
+
+Name: res/layout/act_guide.xml
+SHA1-Digest: WR/nKkMY9PCwWXeTkKyxutRE4Jw=
+
+Name: assets/PopstarCommon/pub/progress/3c5c1588599251c298175a1325e12f
+ 2c.dtx
+SHA1-Digest: r/FvV1QgPiXbKo7aLuRfZ7Rz+0c=
+
+Name: res/drawable-hdpi/logo_youdao.png
+SHA1-Digest: IS6EWoTCk32hwxiGXKikFdKlRIc=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_tencentweibo.png
+SHA1-Digest: S64oIECwol9stSkn2QUM7XgZGlI=
+
+Name: assets/dm_out.png
+SHA1-Digest: QjbAqO7Cvx4Lzx7rv+bf91HeqPk=
+
+Name: assets/PopstarCommon/en/StartScene/ab3f6c7941be801ba10338e0e9363
+ dbe.dtx
+SHA1-Digest: K3ld5RbeNmIsKVGhVfdBoOGIvFs=
+
+Name: assets/PopstarCommon/pub/LocalRecord/b468bf78d4abf81ac149b56b5b5
+ c4012.dtx
+SHA1-Digest: s7qgeXMYFDaKGg+4lNXtmIcvO8c=
+
+Name: assets/PopstarCommon/zh/GainCoin/de75cbfb152b466dc55223e4eeade8a
+ 5.dtx
+SHA1-Digest: 5YKkorL9ebVwkrHGNYScRmwvzLo=
+
+Name: res/drawable-hdpi/umeng_update_btn_check_on_focused_holo_light.p
+ ng
+SHA1-Digest: OPd6H183jIbgtjLlC2gEX9NZh4w=
+
+Name: res/drawable-hdpi/btn_det.png
+SHA1-Digest: xijEnv0SwdDxMvmJA9gptx7BO4s=
+
+Name: assets/res-jewels/zh/guide_standard/156005c5baf40ff51a327f1c34f2
+ 975b.dtx
+SHA1-Digest: 4Hku/cp5V4wXYhxCigd2Ak/8VyA=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_evernote.png
+SHA1-Digest: zPCWHzvLx9zwRR5LKrPwMdj1U00=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_a.png
+SHA1-Digest: Jxwz8UkUG4/AGFyi5vk0GNJJoSY=
+
+Name: assets/PopstarCommon/en/ContinueLogin/4024dc4dfcd32af076162385f7
+ 7fd302.dtx
+SHA1-Digest: 6IIlXG7cyThWq0OLdaJ9n+Fgc1M=
+
+Name: res/anim/gd_shrink_from_bottomleft_to_topright.xml
+SHA1-Digest: phgk0yLn+JHsggQAPeWFg+szyp0=
+
+Name: assets/PopstarCommon/pub/Setting/2aee456a2de86972cb6412b0abd7dfc
+ b.dtx
+SHA1-Digest: kg0cQsPMBoHSy2TW6DsGBzuixb0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_facebook_checked.png
+SHA1-Digest: g4h2BnVv/+jiRoSUOpJL80JEkjE=
+
+Name: assets/PopstarCommon/zh/LuckyDial/aaf0168ca15108b5742ad32d4e5d87
+ 21.dtx
+SHA1-Digest: BCWmVs7+mL/aG0YyssR9IZvDusc=
+
+Name: assets/PopstarCommon/zh/GameOverScene/38fb821c949597c213631a4159
+ c680da.dtx
+SHA1-Digest: 0B4Mpwozb15eDq44ryvajHUL2Zk=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_g.png
+SHA1-Digest: KJCLIism3rFk13jf+f+Lexi+Qvw=
+
+Name: assets/PopstarCommon/pub/block/2551e51ae04cc67e0ca06aef4af35fcc.
+ dtx
+SHA1-Digest: kFE+L6ISy/kuiMgL3hLYC6qh0mI=
+
+Name: res/layout/adswalllist_common.xml
+SHA1-Digest: 3yH4Q0ObrkAJQ+wzNjVONeCxLZA=
+
+Name: res/drawable-hdpi/icon_other.png
+SHA1-Digest: XeoVK304HazN3fLSIaygBdzwKhk=
+
+Name: assets/res-jewels/zh/Achievement/3eae1646322c1fb99e6636b89279025
+ 2.dtx
+SHA1-Digest: hGQSTtE/7HNv/rqWp9fYXMGWFqo=
+
+Name: res/anim/in_from_left.xml
+SHA1-Digest: 5O+r6oBYwkKMg6AI7ysCTkL/h+A=
+
+Name: assets/PopstarCommon/pub/block/7ea0e40e1c0bbb9a085d76ed944b9d69.
+ dtx
+SHA1-Digest: uYFiztY8ttW+R4juAE9QwOKojec=
+
+Name: assets/PopstarCommon/zh/Achievement/549f1ceec39576b4e059413108e4
+ 0ac0.dtx
+SHA1-Digest: HT/+IjziYSO01vV6QgAmmC7USOQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_yaoyiyao.png
+SHA1-Digest: dqUGQ19sqlrOmEx9v50fZTnajpI=
+
+Name: res/drawable-hdpi/logo_qzone.png
+SHA1-Digest: q6uPDk7S89oNsdwQSMiIcIzbnKM=
+
+Name: assets/PopstarCommon/zh/GainCoin/986ca332aa354525dc5172a0bb49d15
+ 5.dtx
+SHA1-Digest: AaOWVrB/PxSxyvt3SMB45MEvZtQ=
+
+Name: assets/PopstarCommon/pub/Achievement/8506fef7ffed496fe7fcd85c0df
+ a9af8.dtx
+SHA1-Digest: sjkHQle3tfaY3CLZehLllHuTt3c=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_item_normal.9.png
+SHA1-Digest: fqVonWZFdTvpfm7hztGa/lUhWoY=
+
+Name: res/layout/umeng_fb_new_reply_alert_dialog.xml
+SHA1-Digest: 8yPw8MxA3QzfGVusd51WZwQOzpw=
+
+Name: res/drawable/ssdk_oks_skyblue_platform_list_item.xml
+SHA1-Digest: CT7T8KxNHcPCUNih0qsUSBesFzk=
+
+Name: assets/PopstarCommon/ranklist/a991fe079a2a9a10363c2dc2e6fbaafb.d
+ tx
+SHA1-Digest: 59MQsUvWQbvx18KanO3yFuoOFZ0=
+
+Name: res/drawable/loading_pp.xml
+SHA1-Digest: /GzSxQba5PHaZgSicHZomBJ4T9c=
+
+Name: assets/PopstarCommon/en/ContinueLogin/fb08f72fa06ed943a07ce25f26
+ 070469.dtx
+SHA1-Digest: zFsWegnEpnOrhQbnMkkT2DrUGxY=
+
+Name: assets/PublicRes/en/MoreExciting/Back.png
+SHA1-Digest: +LEH6J+CVVjHebwn7T2oq8WYD6Q=
+
+Name: res/anim/push_in_senter.xml
+SHA1-Digest: SZRp39s9sdOSAC6dOvO0gVXdIuk=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_actionbar_ok_btn.png
+SHA1-Digest: oXmkDeSiTuz+JPINuzlzysTBKxc=
+
+Name: assets/PopstarCommon/sounds/music.ogg
+SHA1-Digest: inGOH4xaNSlhCfPjLlsZHGFziv8=
+
+Name: assets/webview_bar_next.png
+SHA1-Digest: 9HVe1jjUId7r49SlEwjPI0/4tiA=
+
+Name: assets/PopstarCommon/en/StartScene/525e2ebd0c4d71b2f7aefba06a792
+ 9af.dtx
+SHA1-Digest: hYBg2rtkxBRQ0qm/UbqtXR9qwVQ=
+
+Name: res/layout/adswalllist_common_en.xml
+SHA1-Digest: CvzpYE9yYfnfsT655nN3ecun2Qw=
+
+Name: assets/PopstarCommon/en/AllRankList/61b408d310d055b48ce7e344d314
+ 89a7.dtx
+SHA1-Digest: x/JIWE7aI+4BjrSelsQy6vn5hdw=
+
+Name: assets/PopstarCommon/pub/ddd3c6409cdee59dd5f70daef274e17d.dtx
+SHA1-Digest: kSW5cEQWwXJPRhcDdQXxJr1pzIs=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_bottom_frame.9.png
+SHA1-Digest: 01NLc0LvtWs8crW7QEhULp87dJk=
+
+Name: assets/PopstarCommon/pub/progress/a8e7cf444749e9ea4b7a65c5deda1b
+ 33.dtx
+SHA1-Digest: oe9K78lsOvxqnZOo4uEEhvZpyJI=
+
+Name: res/anim/popup_enter_lefttoright.xml
+SHA1-Digest: xmgR/02s6wiL1OnO/83fD2zfh7w=
+
+Name: res/drawable/login_input_button.xml
+SHA1-Digest: 9LR7UrCYeHQQJnhCTkZzz0BtE+E=
+
+Name: res/drawable/umeng_fb_top_banner.xml
+SHA1-Digest: Mwlie4mN7jzddP1D5t6qo0dhBhA=
+
+Name: assets/PopstarCommon/pub/sound/s_gameover.wav
+SHA1-Digest: fCUx2Q/jrIg67/wKLTd3dymeFXQ=
+
+Name: assets/PopstarCommon/pub/AllRankList/0564d4ec4885448fc55b26b11c1
+ ae743.dtx
+SHA1-Digest: ZF99CInfLwI+oktV06z88apnkAs=
+
+Name: assets/PopstarCommon/zh/GainCoin/a8e36be4a98a918ac0a4e7e2ce109f9
+ 1.dtx
+SHA1-Digest: wXWe/hY2HYKO+9Kh/A1j1WXhMLQ=
+
+Name: assets/PopstarCommon/zh/911b41a9ce7a77ad9be647501aa7c410.dtx
+SHA1-Digest: 0IIwUCHs5oOzWkZiIkDYAu3ZSZI=
+
+Name: res/drawable-hdpi/icon_fujin.png
+SHA1-Digest: koLypu1SCzrfMym1SE0C8bHeKn4=
+
+Name: assets/PopstarCommon/pub/734df56c86c9b49f708f33fe0840ec69.dtx
+SHA1-Digest: OEz5Ak47zBc/jPoEVwz1QMJckpE=
+
+Name: assets/res-jewels/pub/particles/spark.plist
+SHA1-Digest: ksF8x3EjmKdKe7W1AzaUu54Dasc=
+
+Name: assets/dm_refresh.png
+SHA1-Digest: uOG5gW7P0+WIJBJqQv+OGU4U0pg=
+
+Name: assets/PopstarCommon/zh/block/53ed75b5e02df39a0384aa635bfe96e0.d
+ tx
+SHA1-Digest: gOhWRuZL9whm4HYif+ul60YCB30=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_pocket.png
+SHA1-Digest: DhxOmAU0WHszniqYLS60YdOHZwI=
+
+Name: assets/PopstarCommon/en/AllRankList/f6ea060e013eacd2e78ff9708e41
+ f72f.dtx
+SHA1-Digest: PufZOwxyMWDVlO61RQD3rarWdQg=
+
+Name: assets/res-jewels/zh/Achievement/6ed85c5747036843c182376e89fc515
+ 5.dtx
+SHA1-Digest: h7yq7n0icBcEq3Y+WgWFOXbxrSM=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_i.png
+SHA1-Digest: nUbTcQ789mDZ3NRP5JgsnjoQyFY=
+
+Name: assets/PopstarCommon/zh/LuckyDial/f40a8e13dd45d086daeb24f8704ee5
+ b2.dtx
+SHA1-Digest: gq1CFJGIZVd8xLonwkJVuWopyUE=
+
+Name: assets/PopstarCommon/zh/str/0e7bd3909c1e7ce25c732995d6fcfddc.dtx
+SHA1-Digest: uB3A+fw3jStLEHsB7SCfCNmI6Gs=
+
+Name: assets/PublicRes/en/MoreExciting/DownLoad.png
+SHA1-Digest: cRfmaU3SzyZ1Aw23IIwGY6L0ZTo=
+
+Name: assets/PopstarCommon/en/GainCoin/b39869c9bf5ce202bf2e7449fe566e4
+ 7.dtx
+SHA1-Digest: nYkmdHz5wmUJvDtCN7XjTDVuzaw=
+
+Name: assets/PopstarCommon/pub/ReviveLayer/bddcfe8163182f1253b8f95ebe7
+ 07ec4.dtx
+SHA1-Digest: 4Yg3Rjd9lTGEtiP9W7xoS3+NlN8=
+
+Name: res/drawable-hdpi/ic_menu_search2.png
+SHA1-Digest: 4h/VCujP0Da9tXKRjBecIQ5zrLM=
+
+Name: assets/PopstarCommon/pub/TigerMachine/eb1a4de749f43ec59d2682b317
+ aecfdc.dtx
+SHA1-Digest: 1Y6tvkrPcorYa3O8w30IHI2P+8c=
+
+Name: res/drawable/ssdk_oks_classic_platform_corners_bg.xml
+SHA1-Digest: w8g3q9huSgY8YosXI70sLXH036I=
+
+Name: res/drawable/umeng_fb_back_selector.xml
+SHA1-Digest: 3IX/p5KNgJbGFxw4yzFBGIFMwmY=
+
+Name: assets/PopstarCommon/en/GameOverScene/03457b175d1ab08552146d40cb
+ 285e87.dtx
+SHA1-Digest: COjyvtNQ4TPK/2SejP+HgOAszgA=
+
+Name: res/drawable/footer_search_button.xml
+SHA1-Digest: vyhrpf7rYZD4RsqkOeTIARV0jHU=
+
+Name: assets/PopstarCommon/zh/TigerMachine/aaf0168ca15108b5742ad32d4e5
+ d8721.dtx
+SHA1-Digest: dbMilvcA70Eg6PMFcRlJpWbOj/Y=
+
+Name: assets/PopstarCommon/en/ReviveLayer/bd9314d7234bff9cdb717b550e8e
+ 02db.dtx
+SHA1-Digest: /rB1jpjqLSecKFweFOEsvmyIC88=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_arrow_down.png
+SHA1-Digest: 4GFT+rQyV9EY9mA2lVv/jD1ojtw=
+
+Name: assets/PopstarCommon/pub/sound/s_change.wav
+SHA1-Digest: Le3PMn0mEV19y0YGsgCoF55UuMk=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_item_selected.9.png
+SHA1-Digest: XLXDgwXUwhsXd5IVlEwTu/5gnKY=
+
+Name: assets/PopstarCommon/pub/Achievement/fbf14b4d883c3cf1a36b46c6c74
+ 68408.dtx
+SHA1-Digest: 2CQ8kmkrfAcBwEwp7TaYBCPU5Ko=
+
+Name: assets/PopstarCommon/pub/Setting/98c0f1cb43c82b49c63e34cf075fb41
+ 6.dtx
+SHA1-Digest: LpN4Igvw8sz7jmqZjGNSyTvXXfI=
+
+Name: assets/PopstarCommon/en/ShareScene/03457b175d1ab08552146d40cb285
+ e87.dtx
+SHA1-Digest: e6aFbfJoRXq6nfRkQbcGWs5/NfY=
+
+Name: assets/PopstarCommon/en/Achievement/2c5366987eb78f3200575264672c
+ 4ba1.dtx
+SHA1-Digest: OArcN4ItF1wpHTxC5gOlbA3MF9I=
+
+Name: assets/res-jewels/en/Achievement/6ed85c5747036843c182376e89fc515
+ 5.dtx
+SHA1-Digest: AbKdRlUupqHofiB/UHobLzaSDLA=
+
+Name: assets/PopstarCommon/en/str/facb92c6912a906f4d3f95e6b4a10b10.dtx
+SHA1-Digest: LqoqD1fc7pjduVHdLYTl1IekGFk=
+
+Name: assets/PopstarCommon/ranklist/5d432f356e6db4f84b657cc6b167d33a.d
+ tx
+SHA1-Digest: o99ZOyVXrwj092xliYqD/rDtzmY=
+
+Name: assets/PopstarCommon/zh/CoinShowResult/ec0d61247d56d41d34734b4d8
+ 7e3df62.dtx
+SHA1-Digest: XIAy/pdnPTMOj/z+u6ltGw++aDE=
+
+Name: com/pdragon/ads/mg/assets/tow_click_open_webview_btn_320.gif
+SHA1-Digest: uB+9ayXFumAP3UO02XQiN03PsYI=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_youdao.png
+SHA1-Digest: pgvpHenF7cpbjw5ZaLfBs+H2lto=
+
+Name: assets/res-jewels/pub/particles/quanquan.plist
+SHA1-Digest: nLlwAiWL7rvcWwy5HyHL0265wEc=
+
+Name: com/pdragon/ads/mg/assets/mg_fill_bgw.png
+SHA1-Digest: t6VAw9sfb/07UbT6FuQ0pkjkhN0=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_2.png
+SHA1-Digest: qBWXUNMcwxv6qgcPtzC6KhoJ2/c=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_baidutieba_checked.png
+SHA1-Digest: cPp1SjgjCzU8+Frycw4b91A80d0=
+
+Name: res/drawable/umeng_update_button_close_bg_selector.xml
+SHA1-Digest: mdrl9WqGj+YJNMOMAucf9pyt8KU=
+
+Name: assets/PopstarCommon/zh/DailyAthletics/e0d7c17374b23b3abffacf455
+ 55982ed.dtx
+SHA1-Digest: g+K3OWL1T5laoJYom+yiFTnXxrU=
+
+Name: assets/PopstarCommon/en/GameOverScene/d800ba254d69e283fa0397296f
+ f5553e.dtx
+SHA1-Digest: YOaWUoYn7qpKpfny0s6qvIdgJqY=
+
+Name: assets/PopstarCommon/pub/block/586e508f161f26ce94633729ac56c602.
+ dtx
+SHA1-Digest: b/E5qZGyfrKLJWZS/1qUEeDSlSU=
+
+Name: res/anim/gd_grow_from_bottomright_to_topleft.xml
+SHA1-Digest: 5hHQJ90nXdg5g8w872ovo7w1iEY=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_selected_pressed.png
+SHA1-Digest: EhetKMudFZnkZuXGFHNjY99xf9s=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kakaotalk.png
+SHA1-Digest: +gFL82w/C/wPGQhfzBdvwRcT3n4=
+
+Name: res/drawable-hdpi/alonebgb.png
+SHA1-Digest: A7agtETNfExA+02evxB+ciZMp70=
+
+Name: assets/PopstarCommon/pub/DailyAthleticsLayer.json
+SHA1-Digest: TXw4pY1iuhgtY7+kShlDkewT+1Y=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_selected.png
+SHA1-Digest: tL2nwmMLT5Sv89yRC64FaOYTFMw=
+
+Name: assets/PopstarCommon/animation/magic/8266e4bfeda1bd42d8f9794eb4e
+ a0a13.dtx
+SHA1-Digest: sGjveFMY62kVz/bGYvYxkO6mZjo=
+
+Name: res/drawable-xhdpi/btn_cancel_back.9.png
+SHA1-Digest: Ex24ZC+U0vnb0fzyZZd6z134NIs=
+
+Name: assets/PopstarCommon/zh/Achievement/2c5366987eb78f3200575264672c
+ 4ba1.dtx
+SHA1-Digest: kO5IXi8ggpBU4GG3hD9bwSxbzQ4=
+
+Name: assets/PopstarCommon/zh/Setting/ed722f1a8e6f26115881ca1f042745c2
+ .dtx
+SHA1-Digest: DfpJtz/2LMNnCVxJ6zSEvku+06Q=
+
+Name: assets/res-jewels/pub/GameItemLayer.json
+SHA1-Digest: o174a2fTUx2RByA7gc6u7+XLLso=
+
+Name: res/drawable-hdpi/icon_refresh.png
+SHA1-Digest: Gci474/gZoNacKsWkB/F6rOFmtQ=
+
+Name: assets/PopstarCommon/pub/AllRankList/d71499774c7a52f1455dc90d08a
+ c23a8.dtx
+SHA1-Digest: FxyTbMzVuGSYUoI6IBMZy+9w+DA=
+
+Name: assets/PopstarCommon/zh/str/8b144e90d8c4dfc73620b2ebf83f760d.dtx
+SHA1-Digest: w0X6sEPDy53uEJqvTDfdp1ssDjc=
+
+Name: res/drawable-hdpi/header_back1.png
+SHA1-Digest: pUOITdoD7VtD3iRCr4mTvCIBYX0=
+
+Name: res/drawable-hdpi/noresult.png
+SHA1-Digest: k+k13PI/5u9vY6GkSiaFVg8FRYw=
+
+Name: res/layout/gd_action_bar_item_base.xml
+SHA1-Digest: ElQxVA97aj48MA6RhnFLEK+IIXg=
+
+Name: assets/PopstarCommon/fonts/titleinfo.fnt
+SHA1-Digest: BQZuMeXp3wsAUcxwQxBvUwwmRM4=
+
+Name: assets/PopstarCommon/zh/GainCoin/274c6e940ae0bc9b3749e3a03975f72
+ a.dtx
+SHA1-Digest: Q4x3hUCzEEsKdGapWx1/wfafAgE=
+
+Name: res/drawable-hdpi/downbg.png
+SHA1-Digest: Yv8yHeOYg0R9lgLSyOHytHw2KFU=
+
+Name: assets/PopstarCommon/zh/LocalRecord/4e8573901da54b046e576a9a0a79
+ 41da.dtx
+SHA1-Digest: RwOR3eJHzOafmOweqVXu9FrY92Y=
+
+Name: assets/PopstarCommon/zh/GainCoin/c18f705c7b6c5c1f4cd21d558b9a8a0
+ f.dtx
+SHA1-Digest: tc93PPtCwrFtRezvVUKESRqCh2U=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_laiwangmoments_checked.
+ png
+SHA1-Digest: 6ALJXhEChYNSpGT/+7XCK9XXdoY=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_next.png
+SHA1-Digest: cW16i5R3s7+xc+xBnjqAxeLnduI=
+
+Name: com/pdragon/ads/mg/assets/mg_close_h.png
+SHA1-Digest: 9SMtGvqpCV5MSS0mdi1nsO9vmD4=
+
+Name: assets/PopstarCommon/pub/AllRankList/bd8baabb70aaa079e37764f44e8
+ 23790.dtx
+SHA1-Digest: kJtBCLzLjf2NBdnPwtznGRYHKY4=
+
+Name: assets/PopstarCommon/en/ReviveLayer/40aef7a7a7976f1447af945209a2
+ b04b.dtx
+SHA1-Digest: +iDm8Qch89hf5b0jYqPhlUwe7SI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_douban.png
+SHA1-Digest: ABF6lvBi+H2OTIuqKF57IFEgUok=
+
+Name: assets/PopstarCommon/pub/StartScene/b71991c14b468ea9f230580b36e8
+ 105f.dtx
+SHA1-Digest: HVcZS6xSltbrWYm6ojs8x7j38Cs=
+
+Name: assets/PopstarCommon/zh/ChooseGift/08ef352a344dfabcba4795ca9ca01
+ e66.dtx
+SHA1-Digest: +u3V8hV/nHab3ze4IqV8PMtf6AA=
+
+Name: assets/PopstarCommon/pub/block/number/602e8f042f463dc47ebfdf6a94
+ ed5a6d.dtx
+SHA1-Digest: Y/HGOgr800ZjxpoI+tKcgP62Q1s=
+
+Name: assets/dm_close_interstitial.png
+SHA1-Digest: LI4TIZq/nT33rz/wY1nk4gtKYQE=
+
+Name: res/drawable-hdpi/icon_end.png
+SHA1-Digest: vbBDG0JBX3KtqXB7K4+/hkrqowI=
+
+Name: assets/PopstarCommon/pub/block/d851f0f313a2f6ae5a0c01d0c96ab396.
+ dtx
+SHA1-Digest: U4DCQCnmVO9ETMlOojJJUuz4K+Q=
+
+Name: assets/PopstarCommon/zh/Achievement/95a0cae5afd52565f36842f0121c
+ 6ee1.dtx
+SHA1-Digest: zypflQS2zF5b3Phq+msIm/VCR50=
+
+Name: assets/PopstarCommon/pub/TigerMachine/c309c6c077afd8d62db72cf3cb
+ 55d9cb.dtx
+SHA1-Digest: o4kMNCDC6UxkGzY3t3/MIYF/IlE=
+
+Name: res/drawable/umeng_fb_see_list_selector.xml
+SHA1-Digest: pFeiuq2uedjN0cYebSBNyVIA1a4=
+
+Name: res/layout/ssdk_oks_skyblue_editpage_at_layout.xml
+SHA1-Digest: /aOPDHg5TaB0hAuq8zqOeb4HefI=
+
+Name: assets/PopstarCommon/en/ContinueLogin/1c837fcb62c86159b3842af2c3
+ 93aa7e.dtx
+SHA1-Digest: os17wGq2U11WVmOKel239hKtqJg=
+
+Name: com/pdragon/ads/mg/assets/tow_click_download_btn_640.gif
+SHA1-Digest: k0NQVKIOILHxIShXb4f2F0lq024=
+
+Name: res/drawable-hdpi/btn_friend_add_normal.png
+SHA1-Digest: 7cQMuhCPKEGhvQDqepxSJbYjSDw=
+
+Name: assets/PopstarCommon/pub/sound/s_clean_11.mp3
+SHA1-Digest: DCE3KEqTWzRcr8Mr6fnclE3/b1Q=
+
+Name: res/drawable-hdpi/umeng_update_btn_check_on_holo_light.png
+SHA1-Digest: 5bekrm7fAjxp9kmeL6/TVFPIphg=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/bd9314d7234bff9cdb717b550e
+ 8e02db.dtx
+SHA1-Digest: PWBlNm+UX6EK0GpUevRSLDCtMcU=
+
+Name: res/anim/gd_grow_from_topright_to_bottomleft.xml
+SHA1-Digest: nmO3SGiJnh7UwoWA1CFpZ6xrGio=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_shortmessage_checked.pn
+ g
+SHA1-Digest: dRwd/P2IYH47aqVb0ltlPzvDGtA=
+
+Name: res/drawable/refresh_button.xml
+SHA1-Digest: 6XbZvEqqx2snZtX3NSv9fd5gIvQ=
+
+Name: res/layout/umeng_fb_list_header.xml
+SHA1-Digest: 2XllSwvi3eeaS8LxwUYG38WlPwE=
+
+Name: res/drawable-hdpi/gd_action_bar_export.png
+SHA1-Digest: AZ0ZF7SJ2csFYMdqSfi2BQq1R3k=
+
+Name: assets/PopstarCommon/animation/magic/9eb9cd58b9ea5e04c890326b5c1
+ f471f.dtx
+SHA1-Digest: vg+EnN7TrWxgJ8uF4UJ2AVm8wn8=
+
+Name: assets/dm_preview.png
+SHA1-Digest: 6Y9EeULY7glb/qlxc1DArMG8B0Q=
+
+Name: assets/PopstarCommon/zh/LocalRecord/97d365d1ca48f405df77e743eee6
+ f030.dtx
+SHA1-Digest: kZ9rhslvUQzlgo6LQozviaqAWfE=
+
+Name: res/drawable-hdpi/logo_sohumicroblog.png
+SHA1-Digest: jNP6P0O8aomC7ZmJtO8Y4ssIo5Q=
+
+Name: assets/PopstarCommon/en/GainCoin/5ecbc7fc6b05d9895af7a822172fea3
+ 8.dtx
+SHA1-Digest: H9POs4Mecig59Dyut3T1APOmnyQ=
+
+Name: assets/PopstarCommon/en/GainCoin/de75cbfb152b466dc55223e4eeade8a
+ 5.dtx
+SHA1-Digest: +YyloTPBjyeLrEtp4YRL9wtb3/Q=
+
+Name: assets/PopstarCommon/zh/GainCoin/100cfadddbf76a0fe9816efa397d080
+ d.dtx
+SHA1-Digest: bvDRUmBxhUr1bhyJ/Fktd4yx9ys=
+
+Name: assets/PopstarCommon/pub/block/c594309c82691757b46c628ac78e2361.
+ dtx
+SHA1-Digest: 4JzHFlOGpqp6wvczCLaUU0W5KHs=
+
+Name: assets/res-jewels/pub/FixReferrer/a01245796ff810bd534b6126d3b085
+ d5.dtx
+SHA1-Digest: hbfKpxnNRbmELacvGSh12Eg1SQM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_twitter_checked.png
+SHA1-Digest: JIvX1bHs9K3rrsgrT+gRi9mOh9A=
+
+Name: res/drawable-hdpi/arrow_down.png
+SHA1-Digest: yS2s12bA4Q5ouFXwQ7VmMICCqJI=
+
+Name: res/drawable-hdpi/ic_menu_search.png
+SHA1-Digest: bryAPNDjZxDFOBbl7suaGGsVoWU=
+
+Name: assets/PopstarCommon/zh/Achievement/f29f361efc9058695fbd48e20e3d
+ 0407.dtx
+SHA1-Digest: P+UYEGr3h2W27Q7qzJk2Dp7z798=
+
+Name: assets/PopstarCommon/zh/Setting/20e0bd447d9ad711ff0f2bc5285f4e12
+ .dtx
+SHA1-Digest: /stgGBJmTEffDBzUbHLBNRU05Y4=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_email.png
+SHA1-Digest: ulb4rEsmI3ikw1G1TaUd/AWfIbQ=
+
+Name: res/drawable-xhdpi/ssdk_auth_title_back.png
+SHA1-Digest: KcOU9zRA4LnWnGrzTb4Jvm+VpMQ=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_9.png
+SHA1-Digest: av2+6ClCFx5b8UArkszz/V8eilU=
+
+Name: assets/PopstarCommon/zh/ShareScene/263b2339710493d913f404017b171
+ b85.dtx
+SHA1-Digest: g5ZsAjRsO1qG5bhC4fjHv+mSrhs=
+
+Name: res/drawable-hdpi/logo_twitter.png
+SHA1-Digest: coBbsAgRa63qiqgMDe9Set8+OrE=
+
+Name: res/drawable-hdpi/btn_sharea2.png
+SHA1-Digest: 4/aKjKvA7ruv8/QDcZz+qcR1EqY=
+
+Name: res/drawable-hdpi/umeng_fb_list_item_pressed.9.png
+SHA1-Digest: 5ogIBBDF4t1zBWqHnAG0v0S9jAc=
+
+Name: res/layout/header.xml
+SHA1-Digest: abr2q3JQG6WfhFvyqhoc0Lj6OLQ=
+
+Name: res/drawable-xhdpi/blue_point.png
+SHA1-Digest: FQdLF8wVGjyb2ECZHwx1j7hDuRY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechatfavorite_checked.
+ png
+SHA1-Digest: sTaDtp7viaocnWq+GScKvY5Ylw0=
+
+Name: res/drawable-xhdpi/btn_back_nor.9.png
+SHA1-Digest: PkrrhzSS4LlDlm1qP6Q22ss9iqk=
+
+Name: assets/PopstarCommon/pub/10c47d2fcc96087efccac4615be19bb1.dtx
+SHA1-Digest: 5xXylVrklHHIwGU/R2NGzBed+Q4=
+
+Name: res/drawable-hdpi/icon_target.png
+SHA1-Digest: yRrCyo8qZCGfwFyYU2GWp9s3P8E=
+
+Name: assets/PopstarCommon/en/str/8b144e90d8c4dfc73620b2ebf83f760d.dtx
+SHA1-Digest: Gw5jWqqSe2tHU6gvxx6hcjPe/pg=
+
+Name: assets/PopstarCommon/zh/Achievement/bab53c0f5fb6b4f255cb974dbbb0
+ 894f.dtx
+SHA1-Digest: 4RJpx8MUGzIgYVw43lzlT/afkIQ=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: K92WgDyVDhKzyLqAWWnQacyBG1w=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_next_grey.png
+SHA1-Digest: Ap8zrUsVQWot/QZq4bKNxhp0sUU=
+
+Name: assets/PopstarCommon/fonts/Marker Felt.ttf
+SHA1-Digest: Ul8qSkVFD87LPYpf1H07D0hPYps=
+
+Name: assets/PopstarCommon/ranklist/rename/cc5983947de3ad1f5b80de40275
+ 86856.dtx
+SHA1-Digest: kFYOavvAzqhH9r7grg+LcmhOS/k=
+
+Name: assets/PopstarCommon/en/FixReferrer/551b4ea357ed0ef5706d53232eb3
+ 6f9d.dtx
+SHA1-Digest: OID2lqPUbrwgv5l9I+4L+rAEumw=
+
+Name: assets/PopstarCommon/en/GameOverScene/100cfadddbf76a0fe9816efa39
+ 7d080d.dtx
+SHA1-Digest: Mz1Ct8BPR46YMbhCmxQ5QMwTAPU=
+
+Name: assets/PopstarCommon/zh/ReviveLayer/40aef7a7a7976f1447af945209a2
+ b04b.dtx
+SHA1-Digest: 7PIUw2M2OmqmIiye9Yg5YF7Ped4=
+
+Name: res/anim/push_out_senter.xml
+SHA1-Digest: xN3HXoTH6jNdxpduN9hQOYHwbZo=
+
+Name: assets/PopstarCommon/animation/magic/fb5c81ed3a220004b71069645f1
+ 12867.dtx
+SHA1-Digest: 80JIIZM9y3+lBuPV0vsdz0zlnlw=
+
+Name: res/drawable-hdpi/gd_action_bar_edit.png
+SHA1-Digest: 928c2THzvjGv7nVxzDnfz7P+vck=
+
+Name: assets/PopstarCommon/pub/DailyAthletics/62c99332ecc836321e04c84e
+ 4878dac6.dtx
+SHA1-Digest: QMFPvOpzmLKMG+2n6UunxgB1mc8=
+
+Name: res/drawable/umeng_update_button_ok_bg_focused.xml
+SHA1-Digest: 2uXmUeTOACRxvRjhuMuYEEgixoQ=
+
+Name: assets/PopstarCommon/pub/GameOverScene/bd9314d7234bff9cdb717b550
+ e8e02db.dtx
+SHA1-Digest: gpBBUNa0JPyfDuz5zgBGddNdlsU=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_normal_normal.png
+SHA1-Digest: OC/EiMsMO98WBSzBJgFpaKWbfCE=
+
+Name: res/drawable-hdpi/checkbox_b.png
+SHA1-Digest: V3jWcXwAGOcBs36yzeli/yC2kXc=
+
+Name: res/drawable-xhdpi/auth_follow_cb_chd.png
+SHA1-Digest: XRvmpZADzcwYRVQhbiXBiVbiwvw=
+
+Name: assets/PopstarCommon/en/reputation/c5a5ad753cd7a520b2e48959fb76c
+ 6c0.dtx
+SHA1-Digest: YF7WPkWS3mcd3/5t+LEkqn3Vjlk=
+
+Name: assets/res-jewels/pub/PauseLayer/29c28d0924df317ad4aca0db8c0c245
+ 4.dtx
+SHA1-Digest: rN+WkuRksS3awl5M6FZTKequwLQ=
+
+Name: assets/res-jewels/zh/Achievement/4d6bcd7385988a668e4c3742098a7ac
+ 3.dtx
+SHA1-Digest: muXzHAh6tLF/3ohUJlCzt7rQGDE=
+
+Name: assets/PopstarCommon/en/str/cc668a4a8187ecd52130f365b36323e0.dtx
+SHA1-Digest: 96N47uVA2x8Q0fb1+JeHvjmD5pY=
+
+Name: assets/webview_bar_share_hover.png
+SHA1-Digest: bBonN7hWYqfLeb/Q8JWruf8SjMs=
+
+Name: assets/PopstarCommon/en/LocalRecord/97d365d1ca48f405df77e743eee6
+ f030.dtx
+SHA1-Digest: 8vglZJMAfDzddL6OIes2aCOLjFE=
+
+Name: assets/PopstarCommon/fonts/s_number_member_small.fnt
+SHA1-Digest: YQiMeOH8NoC9KuTgvPTtepmj/J0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_whatsapp.png
+SHA1-Digest: V4SuhcRDn2KPSJviLDwrwVXXOYE=
+
+Name: assets/PopstarCommon/en/ShareScene/3971530a131819a8a54ae90bf730b
+ 628.dtx
+SHA1-Digest: wj/6EUVJu//2ogaXaSu7WjTK0eg=
+
+Name: res/drawable-hdpi/reputation_no_zh.png
+SHA1-Digest: iNqCVNQXj3DFeqth7ZMNFfP/jVI=
+
+Name: res/drawable-hdpi/btn_sharea.png
+SHA1-Digest: kJGKvAJKkLFkdXY7v9vyKvI5HO0=
+
+Name: assets/PopstarCommon/pub/block/number/09dd8c2662b96ce14928333f05
+ 5c5580.dtx
+SHA1-Digest: MLZITFhdX0PQCHl9VWj5H7AwI6g=
+
+Name: assets/PopstarCommon/en/str/5515e8471aa05faf31526629e5533a3f.dtx
+SHA1-Digest: ofMfgtxg9qobTfErg3XJ9rGB8iQ=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_3.png
+SHA1-Digest: crRwz0uf06UYFcox80m6xx33pyo=
+
+Name: assets/PopstarCommon/en/StartScene/5699092cf0947b4e073862c8a7ac3
+ 53f.dtx
+SHA1-Digest: 4PSiVZD16MpxwIpH7b1aDWirH/k=
+
+Name: assets/PopstarCommon/en/str/ec651a22a7f8a69e6015dacf329e2a73.dtx
+SHA1-Digest: XDhYXS1Ix1oNebLbGoZXiNTAJOw=
+
+Name: assets/webview_bar_pause.png
+SHA1-Digest: 5q9/sG4vZSkrp/QgbtFDlOsnJJ4=
+
+Name: res/anim/umeng_fb_slide_in_from_left.xml
+SHA1-Digest: RsMpHEvsX1YB0+QDnMEqm9Kcrwg=
+
+Name: assets/webview_bar_bg.png
+SHA1-Digest: ojVz3V9E1K4UqsFmFPtGuDrVrIM=
+
+Name: res/drawable-hdpi/gd_action_bar_slideshow.png
+SHA1-Digest: glZVY4Ygnr2QZsiI7Lz2tyKjefI=
+
+Name: res/drawable-hdpi/recommend_off.png
+SHA1-Digest: nnSCkEbTeMSlWKmqxzOP0KfYZNI=
+
+Name: assets/PopstarCommon/en/StartScene/6c59c3d9a561c7ace31fc4cbd4eb5
+ 0a9.dtx
+SHA1-Digest: VlcvElY9o7pPIbqYIjbsilvly90=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_googleplus.png
+SHA1-Digest: Al/Nd4VJNLC7stWPPWV2Hencdsg=
+
+Name: assets/PopstarCommon/zh/GameOverScene/6d1533a0d69a864100b47d2f9b
+ e9ff5b.dtx
+SHA1-Digest: ty++eqK8qzQacyAP5QX1s6GyS8U=
+
+Name: assets/PopstarCommon/zh/str/9e4c2193e1316f6306eaa852cce57397.dtx
+SHA1-Digest: XLgvg/AZ9+zBpPMHYyJiuhhcbCg=
+
+Name: res/drawable-hdpi/ssdk_oks_ptr_ptr.png
+SHA1-Digest: 9kd0AO5yW4Cw2dCQSVxHH0y4eCM=
+
+Name: assets/dm_preview_on.png
+SHA1-Digest: /tHSR296L6Zjzr3VcJyTMv5kmsQ=
+
+Name: res/drawable/umeng_fb_submit_selector.xml
+SHA1-Digest: tT0lRgy13nvRJZ1ddIXUdp7aFzU=
+
+Name: assets/PopstarCommon/reputation/cae75555ec700066a2d4b4fbdd7e913a
+ .dtx
+SHA1-Digest: SqmyHzEBgI5oJv/sG/Z1MLSg8Ts=
+
+Name: assets/res-jewels/pub/MainLayer.json
+SHA1-Digest: Ns7vxtdcPsPZIHmFl+75a3qzRxA=
+
+Name: assets/PopstarCommon/pub/block/5612fce6d62150d63626b5484dd56469.
+ dtx
+SHA1-Digest: szNkdCZUtHgPvtozwH/tXcw7x4I=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_10.png
+SHA1-Digest: JuPAy8RJl3Mla2byAcgxlgtqdqk=
+
+Name: res/drawable/umeng_update_button_cancel_bg_selector.xml
+SHA1-Digest: yNCENp0t2cy88etWrqL6qPcoumQ=
+
+Name: assets/PopstarCommon/reputation/e04bf55bd6a6acf6034ebb4874eb6150
+ .dtx
+SHA1-Digest: 8s0QIww7wG8TY76EJAx9waIlCP8=
+
+Name: assets/PopstarCommon/pub/ShowInputInfo/d8580e191429d1743bf12b771
+ 8671ffb.dtx
+SHA1-Digest: KX2EUy/NId5QPfXHQDZ0jrv2IjQ=
+
+Name: res/drawable-xhdpi/ssdk_logo.png
+SHA1-Digest: HIt2w5nGrGRMEzuoWuXFFeykfU4=
+
+Name: assets/PopstarCommon/en/TigerMachine/3b03cb6247dcfcc83543cd5d11e
+ e4dff.dtx
+SHA1-Digest: llE9QcsFP4c2Rjz2Hy+8c/iuCXM=
+
+Name: assets/res-jewels/pub/particles/7d204e800baa312bd2c93f40b0aff22c
+ .dtx
+SHA1-Digest: cMZiJUhnrWkzSDYGe54hmMihqaE=
+
+Name: assets/PopstarCommon/zh/Achievement/15503afbd1283123cfea672e2903
+ 28cb.dtx
+SHA1-Digest: dAYf9kUM3mHu4hgT8hFqffG6uhQ=
+
+Name: res/drawable/bg_checkbox_menus.xml
+SHA1-Digest: /G9NwPVrIgxkpa9kbTjlQlwYPtw=
+
+Name: res/drawable/umeng_fb_gradient_green.xml
+SHA1-Digest: ZDyisfAamRM9mdew8+tq1DegzP8=
+
+Name: res/drawable/bg_button_press_gray.xml
+SHA1-Digest: I9eDYenO8Xz8BqlT0oYDzCAf9OQ=
+
+Name: res/drawable/goout_menu_button.xml
+SHA1-Digest: dv2T9rTyc7Ae4VPZ1sYxlhkyUB0=
+
+Name: assets/PopstarCommon/pub/block/0341f8398d8fabf6c78b64fcb637a37f.
+ dtx
+SHA1-Digest: lOqVtdO63DL/w0AsJ6fyxaV+cpo=
+
+Name: assets/PopstarCommon/zh/StartScene/d8f4651159a16da562f73f03594ca
+ 781.dtx
+SHA1-Digest: ccyaqtwIlWlincTZ4nIngilVabQ=
+
+Name: assets/PopstarCommon/zh/StartScene/41ff0cc0f5435f6d185519d6518fb
+ d52.dtx
+SHA1-Digest: Em6UkBNsGYvI1oSA1101FpqMoIc=
+
+Name: assets/PopstarCommon/zh/LocalRecord/4f20cc7748b27fec80adc7179600
+ cfa9.dtx
+SHA1-Digest: 2jw8nuyV6j0JCYp2FcLFEY0G4jI=
+
+Name: assets/PopstarCommon/pub/AllRankList/7afbb1602613ec52b265d7a54ad
+ 27330.dtx
+SHA1-Digest: cly0zys9VuxsJGmILjrkKEqWuyM=
+
+Name: assets/res-jewels/pub/RankLayer.json
+SHA1-Digest: F77FWVt8+wwrZwnTQM24ff1g8Hg=
+
+Name: assets/webview_bar_share.png
+SHA1-Digest: GNVutQ74C9jzDXPnsHH5DyCibBI=
+
+Name: assets/PopstarCommon/zh/GameOverScene/eb9657414c3640757ce791ca64
+ d54e30.dtx
+SHA1-Digest: 4vq7fxhSWlCzFhYJlvUqK5Z4vDM=
+
+Name: assets/PopstarCommon/en/AllRankList/759170479bed987c5485833eaec2
+ e82c.dtx
+SHA1-Digest: 11vrq/WWHePIpMbJ610BfT42134=
+
+Name: assets/PopstarCommon/ranklist/92f0c11890073b2f6a25458d9f7ece35.d
+ tx
+SHA1-Digest: V5y8I0WwNRiMcsVAGtIDWMenV4I=
+
+Name: res/drawable/auto_login_radio_button.xml
+SHA1-Digest: DdYi8oCeGrzLPW9crNEKHny0lmQ=
+
+Name: assets/PopstarCommon/pub/f2cb21c59aeebaed9dec27a5bc3cf5e3.dtx
+SHA1-Digest: RPVSwxNMm8sk/kO8Al6R2LxMzbY=
+
+Name: res/drawable-hdpi/logo_wechatmoments.png
+SHA1-Digest: 6kpwiGw7VhkTvY8tdBWJPw+l4hc=
+
+Name: assets/PublicRes/zh/MoreExciting/Title.png
+SHA1-Digest: ZlDfNvBe2XPySc3dLOAENjp2z/Y=
+
+Name: assets/res-jewels/pub/particles/spark_p.plist
+SHA1-Digest: kvNUDdaDM5ntd8TKkkcfbM8nJXY=
+
+Name: assets/PopstarCommon/en/Achievement/f29f361efc9058695fbd48e20e3d
+ 0407.dtx
+SHA1-Digest: e6aFbfJoRXq6nfRkQbcGWs5/NfY=
+
+Name: assets/PopstarCommon/sounds/tip.wav
+SHA1-Digest: eGsyUlw96npfI9wpxUUT/cXLOJI=
+
+Name: res/drawable/progress_bar_layer.xml
+SHA1-Digest: JWInHAuGvWhTnhA3JHv0sHptS9M=
+
+Name: assets/PopstarCommon/zh/Achievement/772eeba98eed9548a4fb8aafe38a
+ 54ee.dtx
+SHA1-Digest: hnQ6VeNLXMPs/xgS6BGU8yucxAs=
+
+Name: res/drawable/gd_quick_action_grid_selector.xml
+SHA1-Digest: 77LIilxH8nfzL2kI4LY54HqbCY0=
+
+Name: assets/PopstarCommon/pub/Achievement/68bf8cc2f218547419f77056699
+ 858af.dtx
+SHA1-Digest: N2v3GrM/r7oU6HdCqlCsEXOsIcs=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_actionbar_back_btn.png
+SHA1-Digest: P16+zxy9aQLYvjckxI/moudVZTU=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_share.png
+SHA1-Digest: BU+CPjHNpJM6HrAxC9wvWMZjRHQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kaixin_checked.png
+SHA1-Digest: +BFKzibOJB7FxmdhaqhQYv4ciHM=
+
+Name: res/drawable/umeng_update_title_bg.xml
+SHA1-Digest: lKUqlCtptduTaz4NroijWqTnGRI=
+
+Name: assets/PopstarCommon/en/CoinShowResult/56da8be7390b5b592ee913770
+ f053d90.dtx
+SHA1-Digest: AqzBOahcqFNuoyGUIVDwXqUPpvg=
+
+Name: assets/PopstarCommon/sounds/stageclear.mp3
+SHA1-Digest: Pu4AdgORl+Yz71eiSzJGweRcIu0=
+
+Name: res/drawable-hdpi/gd_action_bar_locate.png
+SHA1-Digest: KUDCKmNcazMmaDXotwdd/0422Vs=
+
+Name: assets/PopstarCommon/zh/TigerMachine/2663275eaec02a35bd358afc5f1
+ 9f8a5.dtx
+SHA1-Digest: AmbhLv2GPKy1tcE3xwCXlSUb2Vk=
+
+Name: assets/res-jewels/en/guide_clear/156005c5baf40ff51a327f1c34f2975
+ b.dtx
+SHA1-Digest: GttJZWnbdEQW6lkhSQs4EyJOSOg=
+
+Name: res/drawable-hdpi/arrow_down_gray.png
+SHA1-Digest: a98Otv8+n6TiUVgC85O7mdad5w4=
+
+Name: res/drawable-hdpi/gd_action_bar_search.png
+SHA1-Digest: yfbnAc7StIOln2hFgJlMG9hluSI=
+
+Name: assets/PopstarCommon/zh/CashGift/21720a8a8c7f82c5a3d6601ca648b74
+ 5.dtx
+SHA1-Digest: MJzER4g1BNJKVNiqkrNHR1twKis=
+
+Name: assets/PopstarCommon/zh/str/faf86f6046167e39a24b524250883158.dtx
+SHA1-Digest: 8xG3FEtbOymsVfzYu/6d8jFB+sk=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_instapaper_checked.png
+SHA1-Digest: Npv7k1Ej/dq1H39q1aOZaDfw/K0=
+
+Name: res/drawable-hdpi/gd_action_bar_item_focused.9.png
+SHA1-Digest: luq5JAxkuatlELHzTCip9T8CaIM=
+
+Name: res/drawable-hdpi/nopic.png
+SHA1-Digest: aPqgnBF5DjQHUadQRD2TLNkQpK0=
+
+Name: assets/PopstarCommon/en/ContinueLogin/13023b0bb725a50223c0c705db
+ 26412a.dtx
+SHA1-Digest: KuolIREGvflxHA/oFXhp8yL01v8=
+
+Name: res/drawable-hdpi/gd_tab_indicator_normal.9.png
+SHA1-Digest: xCNLe2/Cud8iHGXUjuyep9EIiYE=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/5da8e3163763da6a171ba0ddf8
+ 84d081.dtx
+SHA1-Digest: whSmx7xysbGICfamdvAPrkZTugw=
+
+Name: res/drawable-hdpi/gd_quick_action_grid_selector_focused.9.png
+SHA1-Digest: A0WVMHwyGb+WJFttqyq2EXQdRiQ=
+
+Name: assets/PopstarCommon/pub/LuckyDial/f3210f5cc830b5591201ae3b1c8f2
+ 8e3.dtx
+SHA1-Digest: TH0/EhNsMj5m2V+NfOC6nSPXCbk=
+
+Name: assets/PopstarCommon/zh/AllRankList/39f57c8fc12deeb1e2cb5271e79b
+ f951.dtx
+SHA1-Digest: Ok05XeL0AGWhv4g8yqtBp0tmuIM=
+
+Name: assets/icon_ems.png
+SHA1-Digest: 58ANjFau1vJvUoT3DakN0FewiwM=
+
+Name: assets/PopstarCommon/zh/LuckyDial/1e86ed56f247422509cae86d9a921e
+ 9e.dtx
+SHA1-Digest: +tbahDNBeUZQde8Ftyk13/DwHXc=
+
+Name: assets/PopstarCommon/zh/GainCoin/8651c385a035ac866884ae2f2b7164a
+ c.dtx
+SHA1-Digest: IddQX/+b5LF2bS215m1QY8CjBUc=
+
+Name: assets/res-jewels/zh/Achievement/6b7e1453a59f03b345871d4ed97c8aa
+ 3.dtx
+SHA1-Digest: rLsRWBR8wXwOXqlIO49LjAewio4=
+
+Name: assets/gdt_plugin/gdtad.jar
+SHA1-Digest: T3FtaDHvrMJBIK94D2AkzYwxdRQ=
+
+Name: assets/PopstarCommon/en/CashGift/21720a8a8c7f82c5a3d6601ca648b74
+ 5.dtx
+SHA1-Digest: AlZQnnpuGQYIseq+eTKzebwlOA4=
+
+Name: assets/PopstarCommon/en/ReviveLayer/2e88372bf755d96a117dee8b33da
+ d3c0.dtx
+SHA1-Digest: NwPDO2orOtjXHIgxImhg3bst2Ek=
+
+Name: res/drawable-hdpi/umeng_fb_arrow_right.png
+SHA1-Digest: cpWZeFvnTunnVoDbEmobrTrIxHQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_renren_checked.png
+SHA1-Digest: Mf3ZNqa532NbKelQoiM9z5mRWE8=
+
+Name: assets/PopstarCommon/zh/Setting/eef2e1b28ae7e09f6a2e8e4ada57bf17
+ .dtx
+SHA1-Digest: QIkJ1lJ0f29OetuoIGSOWRejv8g=
+
+Name: res/drawable-xhdpi/logo_qq.png
+SHA1-Digest: PnKP+VU7vsqNnuIlvle9QL70ILY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechatmoments_checked.p
+ ng
+SHA1-Digest: q4emQ6Ys2q95U3GIH0dDqX//XvM=
+
+Name: assets/res-jewels/zh/guide_time/156005c5baf40ff51a327f1c34f2975b
+ .dtx
+SHA1-Digest: KtoTcs5ioDq3cHe6RwEKIgkULA0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_pocket.png
+SHA1-Digest: UgYdb/0e+hJZlg1oxOlk9OhomDU=
+
+Name: res/drawable/gd_segment_label.xml
+SHA1-Digest: S8c7CIU2mxuQbzjog0oR6TDopNc=
+
+Name: assets/PopstarCommon/pub/Setting/b9f2b76b950bef1ea6492afdabf7cbc
+ e.dtx
+SHA1-Digest: o99ZOyVXrwj092xliYqD/rDtzmY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_email_checked.png
+SHA1-Digest: KdYmSgB2ykwuttgvpDLqNfnI0wc=
+
+Name: assets/PopstarCommon/zh/StartScene/5699092cf0947b4e073862c8a7ac3
+ 53f.dtx
+SHA1-Digest: l8utSvbMerhulbEyV5XerfIXrOo=
+
+Name: assets/PopstarCommon/en/PauseLayer/e3056fef8a23fde3a60f8c8a890c4
+ e1a.dtx
+SHA1-Digest: ifsiDc0ujY4iNuBHLgFccpQ0nd0=
+
+Name: com/pdragon/ads/mg/assets/mg_dialog_bg.png
+SHA1-Digest: 4oW8j9pv8oluSzizqZTKzlqoXz4=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_7.png
+SHA1-Digest: g0ebpb8oOIFuwux6USJ00/4t+TY=
+
+Name: res/drawable-xhdpi/logo_wechat.png
+SHA1-Digest: bNbQ9/75U+74JFWu18fziBjLekc=
+
+Name: assets/PopstarCommon/en/GainCoin/8651c385a035ac866884ae2f2b7164a
+ c.dtx
+SHA1-Digest: OlwwANxTS+9OAIfBhOvITR/RGoc=
+
+Name: res/drawable/footer_publish_button.xml
+SHA1-Digest: JAUsl1difMfTSW8bJhya63PKp9Q=
+
+Name: assets/PopstarCommon/pub/DailyAthletics/1e9466472d87562a505e76b2
+ c5d74195.dtx
+SHA1-Digest: D+yExzgEF2pSt2rTB5godKybPZ4=
+
+Name: assets/dm_next.png
+SHA1-Digest: +uGKKyJoKCab/qzUTuqPSb1f6zU=
+
+Name: assets/PopstarCommon/zh/ShareScene/f780d97e0bfe0d35b4b02d1389a1f
+ f5e.dtx
+SHA1-Digest: 5BY9nzVZ3n2/QuLJcnHK31acHgc=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_kakaotalk.png
+SHA1-Digest: QImJj+u+8YoY3je666hdD0+HePQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_alipay.png
+SHA1-Digest: ynNnUUJj1QHrcPhL7peZTjHJKB0=
+
+Name: assets/PopstarCommon/sounds/gameover.mp3
+SHA1-Digest: ihHXYKtPoHZL2aFM/9Mu0vzLUE0=
+
+Name: res/drawable/btn_list.xml
+SHA1-Digest: +gH/pbnD1RkNpL6FuF7N6eu6E+A=
+
+Name: assets/PopstarCommon/zh/AllRankList/9eccc2499a382fd18f31802bcd7f
+ 3274.dtx
+SHA1-Digest: +DY2+Ap3NUzEVHsUzxLh3KlntBA=
+
+Name: res/drawable-hdpi/gd_tab_indicator_selected.9.png
+SHA1-Digest: ORlqzOELsVz1J6HggPDaw3Dsg00=
+
+Name: res/drawable/rectangle.xml
+SHA1-Digest: k/O9a36Nek+mxFuHmJUA6RJl08o=
+
+Name: assets/PopstarCommon/pub/LuckyDial/112e7801827a79a452394bc9ebef7
+ a9f.dtx
+SHA1-Digest: IUV7cs9wKUxMG6hTUUH8l02r+ks=
+
+Name: assets/PopstarCommon/reputation/c983d14d29aca21d4e141ebb5af2c8d9
+ .dtx
+SHA1-Digest: Z8FrReQp0Yu4dWUikth5ROjZcRw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_bluetooth_checked.png
+SHA1-Digest: lO7DxNr1iguLG8ZyNgd2cVAa/nk=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_refresh.png
+SHA1-Digest: qgEPlKOl6/8Md91KrvXRNqZPUp4=
+
+Name: assets/PopstarCommon/pub/block/d1f8188a8d1174dfd416e42ebe780f90.
+ dtx
+SHA1-Digest: E/xR9W8v/nk0lwkcUMVd5bABXXs=
+
+Name: res/drawable/umeng_fb_gradient_orange.xml
+SHA1-Digest: AHyEGQnT7imQmkLcSm6fiGPhe3s=
+
+Name: assets/PopstarCommon/en/DailyAthletics/e0d7c17374b23b3abffacf455
+ 55982ed.dtx
+SHA1-Digest: zAl3sSkJJiMIDdGVeLJRCao/nFs=
+
+Name: assets/PopstarCommon/ranklist/81be2e9e4dfc7644879c9a8ae6dfc201.d
+ tx
+SHA1-Digest: FcLpleAL/svHHONXnR++ZmBPTRQ=
+
+Name: res/anim/popup_enter_righttoleft.xml
+SHA1-Digest: ec+zw5b39c2z1JswJAK8AQQaHV0=
+
+Name: res/drawable-xhdpi/ssdk_oks_btn_back_nor.9.png
+SHA1-Digest: PkrrhzSS4LlDlm1qP6Q22ss9iqk=
+
+Name: res/drawable-hdpi/gd_segment_checkmark_off.png
+SHA1-Digest: gjyuG9+A10e2+GIFnF8sjzo1vJ4=
+
+Name: lib/armeabi/libtnet-2.1.20.1-agoo.so
+SHA1-Digest: aijhEGhesxkalBfavj7WpdCuJRc=
+
+Name: assets/res-jewels/pub/particles/leaf_open.plist
+SHA1-Digest: QSwIZpj3VlGyDz/rQdEsKNf7qEE=
+
+Name: res/drawable-hdpi/gd_action_bar_sort_by_size.png
+SHA1-Digest: j2oUcWsSCS6ENIAKcAbtM3DWXLY=
+
+Name: assets/PopstarCommon/zh/LuckyDial/f4a1b908b2017887ffd6ab618170df
+ ae.dtx
+SHA1-Digest: HJunQ2SIJBGyvkEyqTdNGUwPXbo=
+
+Name: assets/PopstarCommon/pub/block/number/4a47a0db6e60853dedfcfdf08a
+ 5ca249.dtx
+SHA1-Digest: u43r1w2ebEYH4dKaUeVQFzpDkto=
+
+Name: res/drawable-hdpi/icon_loc_alert_normal.png
+SHA1-Digest: NJKyhe67NkooZ7WOOoznuw3gN2I=
+
+Name: res/drawable/bg_button_default_gray.xml
+SHA1-Digest: I9eDYenO8Xz8BqlT0oYDzCAf9OQ=
+
+Name: assets/PopstarCommon/zh/GameOverScene/3b100764494fbe7b5d22810076
+ e7b5d7.dtx
+SHA1-Digest: cmcJIC5KM0Q9fQgTMDpUJA2iEPM=
+
+Name: res/drawable-hdpi/gd_shadow_bottom.9.png
+SHA1-Digest: zuGtgRkabO+ekCSn6sZoUzD48SQ=
+
+Name: res/drawable-hdpi/tip_pointer_button_normal.9.png
+SHA1-Digest: THAs6LM5IPF7vkE/Nj6iHyIUwFw=
+
+Name: res/layout/gd_content_dashboard.xml
+SHA1-Digest: Dz97Cwsq+6Hf1zA78Q7RYKONb4s=
+
+Name: assets/PopstarCommon/pub/LocalRecord/8f02de5e30f812db66b0b04f8ce
+ 59c8f.dtx
+SHA1-Digest: cIogiszwqm8vHhqxlsU4OxAqKWw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechat.png
+SHA1-Digest: 61qXEU0gmvQjtYA4AD0eo6t4+UU=
+
+Name: assets/dm_close.png
+SHA1-Digest: gd5WQvwt5x63f+SBtM/5yCWq5ok=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_flickr.png
+SHA1-Digest: rzfSm+FwntK4tVkEiBZlXV2gjpQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_laiwangmoments.png
+SHA1-Digest: lfgAwp3OxIHIGMDGbRgKl1yGS8s=
+
+Name: assets/PopstarCommon/en/Achievement/6593eb95bc6df161031dd70b3eee
+ 55f6.dtx
+SHA1-Digest: iFB4pI4Q4KbvTJK9QosHGUiBC5s=
+
+Name: assets/PopstarCommon/en/LuckyDial/f4a1b908b2017887ffd6ab618170df
+ ae.dtx
+SHA1-Digest: 8KQrZpiECu5lOstcKMkGAfth3yY=
+
+Name: assets/PopstarCommon/pub/GameOverScene/8506fef7ffed496fe7fcd85c0
+ dfa9af8.dtx
+SHA1-Digest: RrUGvBabNVLiv7918aCPlIfoQzo=
+
+Name: res/anim/gd_grow_from_top.xml
+SHA1-Digest: z0oTQq41z/heohOXZdKq8OE+/Hs=
+
+Name: assets/PopstarCommon/zh/str/ec651a22a7f8a69e6015dacf329e2a73.dtx
+SHA1-Digest: RqNoUR3+yVluHkBG5v0XKPo26Rc=
+
+Name: assets/PopstarCommon/en/GameOverScene/eb9657414c3640757ce791ca64
+ d54e30.dtx
+SHA1-Digest: 4fU8U/c6/V9/XkLuAKZcfDcbUxk=
+
+Name: assets/res-jewels/pub/62e00f067e8d22e0df7ebdfb0fff8531.dtx
+SHA1-Digest: FSOlWVB/VIX4thJq5dlPKCK2V20=
+
+Name: res/drawable-hdpi/umeng_fb_conversation_bg.png
+SHA1-Digest: MgZc1ooHqMmfimA3XzVfyTNu2bE=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_laiwang.png
+SHA1-Digest: nGcwvlk7Pwxxyor+v2nVHT+qWO0=
+
+Name: assets/PopstarCommon/pub/Setting/fb628b824a97867f1a0f3c7d58d785c
+ 5.dtx
+SHA1-Digest: hfxQNveJUWa2CRW1+m+EZDJIUcw=
+
+Name: assets/PopstarCommon/en/LuckyDial/aaf0168ca15108b5742ad32d4e5d87
+ 21.dtx
+SHA1-Digest: Otsd15dFewu5KIdRFRvcoLNRtVI=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/13023b0bb725a50223c0c705db
+ 26412a.dtx
+SHA1-Digest: W/C0PxoOGUjetI9XHTBobgrAApg=
+
+Name: assets/res-jewels/pub/particles/c8cf6e4ca39376540b8b19c336042751
+ .dtx
+SHA1-Digest: lCRdELe2Tfza6A1KuZkWIgLA0Bo=
+
+Name: res/layout/gd_action_bar_dashboard.xml
+SHA1-Digest: EOXd8Z1ZkZcekbthPQ+U4FvHHHI=
+
+Name: res/drawable-hdpi/logo_evernote.png
+SHA1-Digest: 4jtZT78rukwXzhZatbtRNy7C4UQ=
+
+Name: assets/PopstarCommon/ranklist/63c6cb8e041619e5d82cfad3e1fc3873.d
+ tx
+SHA1-Digest: 3qD1xwIPBIHtlMO71K4bUlMSzf8=
+
+Name: res/drawable-hdpi/umeng_update_btn_check_off_pressed_holo_light.
+ png
+SHA1-Digest: tIG1r++3vO7AWXDg4QVX1wKrvPc=
+
+Name: assets/res-jewels/pub/StartScene/263ed7bfd425ef327c98642cf554a99
+ e.dtx
+SHA1-Digest: pXn35eaxpAU48kda48So3cRZw34=
+
+Name: assets/PopstarCommon/en/AllRankList/3b0b7fbef7fbe962a8539a9b23d0
+ c79c.dtx
+SHA1-Digest: izX0wqYE1ug3urijAT/C0eAl7VU=
+
+Name: res/drawable-hdpi/logo_email.png
+SHA1-Digest: D5aA791frGgZOeu/6ABQvr7Yrqc=
+
+Name: assets/PopstarCommon/pub/TigerMachine/4a5da66bc4ad9b2446136ffa4b
+ d51de7.dtx
+SHA1-Digest: TpiBzxymnBW36nV11zghHOAx/B0=
+
+Name: assets/PopstarCommon/en/block/297d3ae392cfe533250a9002fccd6b85.d
+ tx
+SHA1-Digest: 3kZEXkUumnqBlAG0ik0Pqv61l4I=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_instagram.png
+SHA1-Digest: kRS3lAntGEOMBphackbMtn3WJxI=
+
+Name: assets/PopstarCommon/pub/StartScene/48a26367bfc3d17c829bc673d8bd
+ 8ad3.dtx
+SHA1-Digest: TpiBzxymnBW36nV11zghHOAx/B0=
+
+Name: assets/PopstarCommon/en/TigerMachine/2663275eaec02a35bd358afc5f1
+ 9f8a5.dtx
+SHA1-Digest: zY+B0b0Pq8+Hgz7UWItbmwjxeHU=
+
+Name: res/drawable-hdpi/btn_list_down_pressed.png
+SHA1-Digest: zi7rfY/LFwW9RS8BywtLC5WURAs=
+
+Name: res/drawable/footer_copy_button.xml
+SHA1-Digest: NvFWNbfTwqNK5aakHmKnxfrpgpE=
+
+Name: assets/PopstarCommon/en/LocalRecord/d84f67f75944ee59615d9c66e780
+ 6d38.dtx
+SHA1-Digest: 6TwxrBI6InUJDwd8tVaA0/E+Rso=
+
+Name: assets/PopstarCommon/sounds/main.wav
+SHA1-Digest: GUskTLaRqB1YyrWy8WOsxO/0kcg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_linkedin_checked.png
+SHA1-Digest: sOiJwiyF1yzpScnNIAHh9zuh3eU=
+
+Name: res/drawable-hdpi/ic_menu_refresha.png
+SHA1-Digest: VLEX1uhZQd0g+9EKYxd8J3R4jsg=
+
+Name: res/drawable/umeng_fb_point_new.xml
+SHA1-Digest: f3U/QETVbH/3o7yN/GTXkh5j3jM=
+
+Name: assets/PopstarCommon/zh/Achievement/5cb31f9fafe1c262b057b93580cc
+ b70d.dtx
+SHA1-Digest: VPHpuJkfe5xQlBV7rz/u3Y6BHDs=
+
+Name: assets/PopstarCommon/zh/ReviveLayer/95d77e0329272ec233aff2dd3b85
+ aa9b.dtx
+SHA1-Digest: 3dLn2zujeclg4pTVExtvlRcJK3E=
+
+Name: res/layout/ssdk_oks_skyblue_share_platform_list_item.xml
+SHA1-Digest: MDLwa9X3CFC5qd8g6OvSq4LfDh4=
+
+Name: res/layout/act_web.xml
+SHA1-Digest: KlKDEBlaUpwDkkpY8VeqdfMWttE=
+
+Name: assets/res-jewels/en/guide_time/156005c5baf40ff51a327f1c34f2975b
+ .dtx
+SHA1-Digest: e47aEH1lZtxYEQH6oy3zXYHkehQ=
+
+Name: res/layout/gd_expandable_list_content_dashboard.xml
+SHA1-Digest: YAIxnSisFNYGO9XHreihtagyzOQ=
+
+Name: res/drawable-hdpi/direct_mapsearch_loc.png
+SHA1-Digest: QJhujSnwNRMROkIDkyMc6OTr6N8=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_qq.png
+SHA1-Digest: rGbqeKK4SIiunyk+LxzQw9BGtQU=
+
+Name: assets/PopstarCommon/en/Achievement/d0e398c95edc25802491fc41eb84
+ 8c8d.dtx
+SHA1-Digest: fT/mxOc8ZViX2j9PtbiEalq9STU=
+
+Name: assets/PopstarCommon/zh/ShareScene/d390549069c0675435d09c7792852
+ 1cd.dtx
+SHA1-Digest: XZNcEn8XAN/F2cYAkl0t9v4D5Wk=
+
+Name: res/drawable-hdpi/logo_tencentweibo.png
+SHA1-Digest: tuqOYcjm1jxJbJkr6XUCmMvGYso=
+
+Name: assets/dm_video_not_full_selected.png
+SHA1-Digest: D1q91GPZ7a7P7TwV0bAW2nUE3Ys=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_line.png
+SHA1-Digest: Nr62ij6mKO3YK9OAS/DpDVrXoIw=
+
+Name: assets/PopstarCommon/ranklist/rename/b9a2b8cad8e565582e3a4c1d77f
+ 1efb7.dtx
+SHA1-Digest: 6xIpVkgIdOJ7y5/uOpb1o8L6OKU=
+
+Name: res/drawable/umeng_update_button_cancel_bg_focused.xml
+SHA1-Digest: 3uJla6/X5071+6UuQp83K/Aqa68=
+
+Name: assets/PopstarCommon/zh/DailyAthletics/924998d65c73095507cd4fae2
+ 5b0b1f3.dtx
+SHA1-Digest: I9G2iCznWfLXIm+oU94YLgZ2I/E=
+
+Name: assets/PopstarCommon/en/ShareScene/d390549069c0675435d09c7792852
+ 1cd.dtx
+SHA1-Digest: kOARsLmlB7lVGrfd8ms+3WjfAZg=
+
+Name: res/drawable-hdpi/arrow_up.png
+SHA1-Digest: ORHLu0PKEWF1f1FbVfh4722K9Jk=
+
+Name: res/drawable-hdpi/refresh_arrow_up.png
+SHA1-Digest: dB+JO02j6g7+XnKfKFLTT1vTRCQ=
+
+Name: assets/PopstarCommon/pub/LocalRecord/dianji0.plist
+SHA1-Digest: fAoAclzrd/177lNTHazErjCAFaI=
+
+Name: res/drawable-hdpi/gd_action_bar_help.png
+SHA1-Digest: owHn1cciQFv4Au570+bobXYd3ZM=
+
+Name: res/layout/xlistview_footer.xml
+SHA1-Digest: xnCtGfg5FlqqRvr/HkfWHLSTxJs=
+
+Name: assets/PopstarCommon/zh/PauseLayer/e3056fef8a23fde3a60f8c8a890c4
+ e1a.dtx
+SHA1-Digest: 0cqDWK7AVRnxsWiydehgHUckzLg=
+
+Name: res/anim/umeng_fb_slide_out_from_left.xml
+SHA1-Digest: M3myOz22y8DCrF3diRIrKzI/ymQ=
+
+Name: res/drawable-hdpi/gd_action_bar_trashcan.png
+SHA1-Digest: BfW3caQK/WvO77u4yR12vDpkW8I=
+
+Name: res/drawable-hdpi/umeng_fb_see_list_pressed.png
+SHA1-Digest: bPPcl7rx76S9DtiqNtuWxAV5rNg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_facebookmessenger_check
+ ed.png
+SHA1-Digest: yfigC4PxDtvHWjaW4amy+pO5qlg=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_googleplus.png
+SHA1-Digest: OTMRB1YHOgrfDUEBKFFU6kLeybg=
+
+Name: assets/PopstarCommon/en/LuckyDial/3b03cb6247dcfcc83543cd5d11ee4d
+ ff.dtx
+SHA1-Digest: yBJLW54Au0AKGsK961udAzVuH4E=
+
+Name: assets/PopstarCommon/pub/block/number/0564d4ec4885448fc55b26b11c
+ 1ae743.dtx
+SHA1-Digest: P3/N4mq1EgftIMPuHvBOzLYcjQk=
+
+Name: assets/PopstarCommon/en/Setting/ed722f1a8e6f26115881ca1f042745c2
+ .dtx
+SHA1-Digest: Dp0Ze5Kb8WjO4/WQC7ky0hfw4Lw=
+
+Name: assets/PopstarCommon/en/StartScene/4c00f41e489a999677ec233be958a
+ 5ad.dtx
+SHA1-Digest: Z5XNljmIzF/vvfoPS+e39aWWZ94=
+
+Name: res/drawable-hdpi/gd_action_bar_take_photo.png
+SHA1-Digest: /AEWyndnM9Yk4i3epdIRQwJvh6c=
+
+Name: res/drawable-hdpi/gd_action_bar_compose.png
+SHA1-Digest: VNbwl+qDW3OhLeY/Y2PP4bWah3A=
+
+Name: assets/PopstarCommon/animation/magic/10fb15c77258a991b0028080a64
+ fb42d.dtx
+SHA1-Digest: aTb6GFiI0nXt5LOFeZPupVM74eg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_close.png
+SHA1-Digest: txmJxAjvgTE1qsDASiGz/Eywsbc=
+
+Name: assets/PopstarCommon/sounds/win.wav
+SHA1-Digest: KYWrcIrC4HCOChSljsYVojLOrc4=
+
+Name: res/drawable/btn_map_ar.xml
+SHA1-Digest: O7WWSsTXq2tMqpMV+9VcGuASb2w=
+
+Name: assets/PopstarCommon/fonts/6f22f9b2dabb9db6690a3baa1e34d30b.dtx
+SHA1-Digest: 6IxgUJ3jo+jpHyN/pnf4VE6gy7E=
+
+Name: assets/PopstarCommon/animation/magic/09dd8c2662b96ce14928333f055
+ c5580.dtx
+SHA1-Digest: p4qpnjrFYgn1gGUo6qp+emszc18=
+
+Name: assets/PopstarCommon/en/Setting/3f82bcc4c68e7674cbc06e32c4a13d2a
+ .dtx
+SHA1-Digest: h/OzCFy0liay9pSeOkmFlwHcWGI=
+
+Name: assets/close_ad_btn.png
+SHA1-Digest: NUOJF0Ya38zdJRaiJCzNMPeHdbk=
+
+Name: assets/PopstarCommon/en/str/6875240ee93669afd9c2637ea828840b.dtx
+SHA1-Digest: 5QwLboCJ8oLYo5AHnH4Fkx2OWzo=
+
+Name: res/drawable-xhdpi/img_cancel.png
+SHA1-Digest: NsZVk5t/jVR+MDbSD8IrRZ2uWkM=
+
+Name: res/drawable-hdpi/logo_linkedin.png
+SHA1-Digest: fjH1V4yV1wRYN5LMCCLDdOkMv98=
+
+Name: assets/PopstarCommon/reputation/7b4ca1a4f50a83f64ad3528a9e398202
+ .dtx
+SHA1-Digest: SdGeupDpK0qRnkI/WFXEdQ20nSU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 79v9VDV1PASYdXYcX/WbpgbJGpI=
+
+Name: assets/PopstarCommon/zh/str/cc668a4a8187ecd52130f365b36323e0.dtx
+SHA1-Digest: k/6Pg7s04nHeXwGA6A3yP23ygCA=
+
+Name: assets/PopstarCommon/en/ShareScene/8ca88aeaa8e8a39d2774d60086016
+ 2f9.dtx
+SHA1-Digest: 9ICBqTRx+w/NgEBLuqq6QZSWp1Y=
+
+Name: res/drawable-hdpi/logo_facebook.png
+SHA1-Digest: hGgPy3rYdIDgcsO07LvvuIO6JUw=
+
+Name: assets/dm_video_not_mute_selected.png
+SHA1-Digest: i7NuzZbjanJnXhlrUAm5a1CrbGs=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_whatsapp_checked.png
+SHA1-Digest: /jlMMHUWSMlFJ+evjPYpYSP9d/M=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechat_checked.png
+SHA1-Digest: V+oqqhtS6tC6kxKh9MVqSEeEbOc=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_tumblr.png
+SHA1-Digest: R5zc5Kq+BwUY4bVgDCqej3mezA4=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/fb08f72fa06ed943a07ce25f26
+ 070469.dtx
+SHA1-Digest: T0dTQs/2UZUeNz+2Is5E7p7w3nk=
+
+Name: res/drawable-hdpi/loading_pa.png
+SHA1-Digest: uVoB69Y6+cJSct7SHX8aVuSGyr8=
+
+Name: res/drawable/bg_button_press_yellow.xml
+SHA1-Digest: M4yWV7eJgyRYP+wewgyej8sjBdo=
+
+Name: assets/dm_exit.png
+SHA1-Digest: e2mwW+UQvyCLd4jpO1lwm1h2pxo=
+
+Name: res/layout/act_play_vedio.xml
+SHA1-Digest: QqLhWI5yl+nSVEdXf/GBx86cNr0=
+
+Name: assets/PopstarCommon/en/StartScene/271630fea8beefc70fc6044e5120f
+ 6b2.dtx
+SHA1-Digest: wPR9FdreAfo29OXAwPbzLeAB7Co=
+
+Name: res/layout/ct_loading.xml
+SHA1-Digest: 2UAh4WIEUUJ9anIxWxAbsnt/Jww=
+
+Name: res/layout/ssdk_oks_skyblue_editpage.xml
+SHA1-Digest: q8k/2p8UoGTryWhAGxeYhVEYFnE=
+
+Name: assets/PopstarCommon/en/ContinueLogin/be7db45d0d60af23285c1ee46c
+ 38c189.dtx
+SHA1-Digest: dI6a9tDM38Xe/LWrcU2rD0sOZf8=
+
+Name: assets/PopstarCommon/zh/GainCoin/3e40efc93c740c0499724ef0799c94f
+ 6.dtx
+SHA1-Digest: evAfK3BYaYGETSX9nW4/Si4KsGc=
+
+Name: res/drawable-hdpi/gd_action_bar_add.png
+SHA1-Digest: e5pjjFoul8LrBHkxBoqvXod/Kts=
+
+Name: assets/res-jewels/zh/Achievement/12c5cfedf5f184214ba76ee554ff5e0
+ f.dtx
+SHA1-Digest: vQ14DHecS/iDKagVgF3C8xzw2Kc=
+
+Name: classes.dex
+SHA1-Digest: LOBp1o4NLiDBQWZEW494RBs2uUg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_vkontakte.png
+SHA1-Digest: oZjNxZ5FqY6kaOwoSnX6wefkTdA=
+
+Name: res/drawable-hdpi/umeng_update_wifi_disable.png
+SHA1-Digest: ULFVVxHPQp6nwE7E8oZCu+VKWYE=
+
+Name: res/drawable/umeng_update_dialog_bg.xml
+SHA1-Digest: 7BrUbaYZi+GcpqrXcYVz7nuVOf8=
+
+Name: assets/PopstarCommon/en/GameOverScene/3b100764494fbe7b5d22810076
+ e7b5d7.dtx
+SHA1-Digest: BoxhYdsnsRKiUMQNcbK4qSXgIN4=
+
+Name: assets/PopstarCommon/pub/ShareLayer.json
+SHA1-Digest: Sg+W/5B4cyS39L89AZ9F/jA1kdw=
+
+Name: assets/PopstarCommon/ranklist/2e5263c8abba7f4e2d86f4c604179140.d
+ tx
+SHA1-Digest: uqYTHh0wAWKqxd6Nq8+AYnfDqmM=
+
+Name: assets/webview_bar_next_hover.png
+SHA1-Digest: DLOA1fShpF5QjXkBnA/K7eJGCm8=
+
+Name: assets/PopstarCommon/zh/str/a9e91f95efd34c37c45ececb6167c554.dtx
+SHA1-Digest: Pcv5f35c86VB7YXHfr77r69gkR4=
+
+Name: assets/res-jewels/pub/ReviveLayer/c5e3552a870fd254610290bbabce5e
+ 30.dtx
+SHA1-Digest: kpXhKD10RHA1q8w2dQXsLR9DjjE=
+
+Name: assets/res-jewels/pub/particles/spark2.plist
+SHA1-Digest: 5seTQ592RXPwpF1yQp0chKnM4Ag=
+
+Name: assets/PopstarCommon/pub/block/number/fb5c81ed3a220004b71069645f
+ 112867.dtx
+SHA1-Digest: cimdm2FVr5FmjRou2qmpgKrPsBM=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_douban.png
+SHA1-Digest: zzHxqnXLcSiVYmvCsHYimrfF/xw=
+
+Name: res/drawable-hdpi/gd_tab_indicator_pressed.9.png
+SHA1-Digest: 9iAbWheH2ovYtwg3JnCmAyN/tgw=
+
+Name: assets/PopstarCommon/en/ChooseGift/ba96ec2b66b233cedc81b2b4ab722
+ 3d7.dtx
+SHA1-Digest: x+erFprvZk17R/VLv55OhieOE5Q=
+
+Name: assets/PopstarCommon/zh/LuckyDial/26a1d737ec349821a9d374bef0c46a
+ be.dtx
+SHA1-Digest: vbhTU0LGGDvoeMpAzPrXgPXHG1o=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_kaixin.png
+SHA1-Digest: CjbX+U8hra9XNdSTos1rdkxz310=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_normal.png
+SHA1-Digest: qScgnZd55YcTkPNFveAL+N/Mib0=
+
+Name: res/drawable/footer_refresh_button.xml
+SHA1-Digest: WgDczcEol9gV3XdKlEIu04H6YuY=
+
+Name: com/pdragon/ads/mg/assets/mg_fullad_close.png
+SHA1-Digest: wysIzBRrXtyflj0u9HdtKtCOOwM=
+
+Name: assets/PopstarCommon/zh/LocalRecord/2bc70588fbd8a698db6f82374f43
+ f291.dtx
+SHA1-Digest: loFQeZUXoWAMPhwy9qQQZfvL2xg=
+
+Name: assets/PopstarCommon/pub/AllRankList/10fb15c77258a991b0028080a64
+ fb42d.dtx
+SHA1-Digest: LqvtdSfcPe3pJCnHa0U1u1QZoPI=
+
+Name: res/drawable-hdpi/img_item_gold.png
+SHA1-Digest: MsIwiw1AooJkjAffzC/Hr4/AwH0=
+
+Name: assets/PopstarCommon/en/GainCoin/c18f705c7b6c5c1f4cd21d558b9a8a0
+ f.dtx
+SHA1-Digest: wNr2Uj52naGQF4aWlcG7wAKlBD0=
+
+Name: assets/PopstarCommon/pub/70317dac683dcce36da41ee8b4763f1b.dtx
+SHA1-Digest: w2JtclS/KgJ5I1p3Be46sW1ILME=
+
+Name: res/drawable-hdpi/gd_action_bar_mail.png
+SHA1-Digest: 22fVf3Nybxs85nQUh/P4KpW3gCA=
+
+Name: com/pdragon/ads/mg/assets/ycm_mraid_close.png
+SHA1-Digest: 3HDuTLx1EhM8i6FGiPXuS4fZAw8=
+
+Name: assets/PopstarCommon/zh/Achievement/8ce22eac745569444599e1f44ecc
+ 5bf5.dtx
+SHA1-Digest: i/5RqGhZtaF5EeYKRc086KgQXGk=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_googleplus_checked.png
+SHA1-Digest: o4loFVp6GifEHe12nt7LhnnUyXI=
+
+Name: assets/PopstarCommon/en/DailyAthletics/924998d65c73095507cd4fae2
+ 5b0b1f3.dtx
+SHA1-Digest: 5kw12t5tGzSc6q6wvO2DXx4oxOk=
+
+Name: res/drawable/umeng_fb_btn_bg_selector.xml
+SHA1-Digest: 2k+dbolIY89x2+OwILv0Qx1WMPY=
+
+Name: res/drawable-hdpi/umeng_fb_statusbar_icon.png
+SHA1-Digest: dc/14UYS3XD9xi2BUhYNmVri6cw=
+
+Name: assets/PopstarCommon/zh/StartScene/ab3f6c7941be801ba10338e0e9363
+ dbe.dtx
+SHA1-Digest: aOhUeUovCOGnLF1zyWsnIMCrn+Y=
+
+Name: res/drawable-xhdpi/share_tb_back.9.png
+SHA1-Digest: +PR4ykcogq5AzMbaY9Bq7XrcBPI=
+
+Name: assets/PopstarCommon/en/block/327321bca53434395c0532fe856af6fc.d
+ tx
+SHA1-Digest: jSJKdtj+pXQyFsj3xJz9EWHM1aU=
+
+Name: assets/PopstarCommon/en/Achievement/a77208ef230d2ef3b6a4137cdafa
+ 551a.dtx
+SHA1-Digest: OBDHPfJfzuzgis+QLjWei/NvxAE=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_instagram_checked.png
+SHA1-Digest: AwSztOYTTK0nE00FIlxSLPL/Guo=
+
+Name: assets/PopstarCommon/pub/block/number/f19c9085129709ee14d013be86
+ 9df69b.dtx
+SHA1-Digest: eKQEUd30O8oTgde/qPui85Lf0rg=
+
+Name: res/layout/cv_act_adswalllist.xml
+SHA1-Digest: rSfDbGP0U1asremzrYWYhOtm4V0=
+
+Name: assets/PopstarCommon/en/GameOverScene/38fb821c949597c213631a4159
+ c680da.dtx
+SHA1-Digest: yBxR3eDTO+biati7CIE0kOI939I=
+
+Name: assets/PopstarCommon/en/DailyAthletics/b9384552c1cf2447abcea8639
+ 0d6d2b5.dtx
+SHA1-Digest: V4M1cikIwDGyzujOfqdp1HygRs0=
+
+Name: res/drawable-hdpi/gd_quick_action_arrow_up.png
+SHA1-Digest: B7js6vCAem6NX/DasthAwgbDvcc=
+
+Name: res/drawable-hdpi/gd_segment_label_focused.9.png
+SHA1-Digest: 4Z1QkGoOifAMd8tGp6mPW3o/j2s=
+
+Name: assets/PopstarCommon/zh/GameOverScene/03457b175d1ab08552146d40cb
+ 285e87.dtx
+SHA1-Digest: 8XtO7eSUK5tZWEw4EqHW3jZ5JS0=
+
+Name: res/drawable-hdpi/icon_register.png
+SHA1-Digest: 1TuOIqKWoEkHfy5ed5Mxny4Xezk=
+
+Name: assets/PopstarCommon/en/GainCoin/f7354aad3bdd575dc019fb001ddab2a
+ a.dtx
+SHA1-Digest: N/qRI1bgUZCVexV903279obhDDc=
+
+Name: res/layout/loading.xml
+SHA1-Digest: okY+fMCiJLYfzCuJygleHUSEmfk=
+
+Name: assets/PopstarCommon/zh/LuckyDial/49bbdc4cfd4cb490ab9f86405549e9
+ 62.dtx
+SHA1-Digest: h/ysRPfcNdfrY6ZeYl9qdJiZlNc=
+
+Name: assets/PopstarCommon/animation/break/09dd8c2662b96ce14928333f055
+ c5580.dtx
+SHA1-Digest: VIUED88Pa99LI3XnXbqARz6g3uw=
+
+Name: assets/PopstarCommon/zh/LuckyDial/90a0e3483855c4c1186c00bdcfca68
+ c7.dtx
+SHA1-Digest: 5mTg0HpV00D9TYplHU+Dl6w45HM=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_focused.png
+SHA1-Digest: GhYH1UPHY2U7pwKvyxRglRncE44=
+
+Name: assets/PopstarCommon/pub/LuckyDial/c309c6c077afd8d62db72cf3cb55d
+ 9cb.dtx
+SHA1-Digest: AOzKWwA3/rFEiaTcHJDkl5pJTfw=
+
+Name: assets/PopstarCommon/pub/block/aea3283171e621d3a904b1e15172ff01.
+ dtx
+SHA1-Digest: cBHCsvRnmRDjlW/VaobfhGm1Uk8=
+
+Name: assets/PopstarCommon/en/str/5c9a1d1b8564375be1f46a3a3c364748.dtx
+SHA1-Digest: uBu5duGBfnoxNb9TPOXtYoV0ges=
+
+Name: res/layout/gd_long_text_item_view.xml
+SHA1-Digest: /tpp3tm5A5Y3lwYyC/z4CemKqjI=
+
+Name: assets/PublicRes/zh/MoreExciting/DownLoad.png
+SHA1-Digest: cRfmaU3SzyZ1Aw23IIwGY6L0ZTo=
+
+Name: res/drawable-hdpi/btn_icon_nears_pressed.png
+SHA1-Digest: bs52la1nXrvK14rqZqtcCpC0I+k=
+
+Name: assets/PopstarCommon/zh/Achievement/e6974fab824934043fbc253b4be6
+ ef66.dtx
+SHA1-Digest: 4Z+yWrTx9uawL9G4I9Rjqmi2/Pw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_flickr.png
+SHA1-Digest: 4ZAgZ0zxQ1eOfQcGzFn5JvbggrU=
+
+Name: assets/logo_banner.png
+SHA1-Digest: nAsyEfk/j4Y5V249By3lcvlHgu4=
+
+Name: res/drawable-hdpi/icon_ar.png
+SHA1-Digest: eDMBNr18hUhiW+SMPEPzNpAkQYo=
+
+Name: assets/PopstarCommon/en/DailyAthletics/4e8573901da54b046e576a9a0
+ a7941da.dtx
+SHA1-Digest: meBxZd4ahwrmtj/kTVL4E4ou9oY=
+
+Name: assets/PopstarCommon/reputation/d74e8085d58f2181b8ca27f6200220c8
+ .dtx
+SHA1-Digest: LYwRKKGWE7WPzJEHfLmzGXWn0V4=
+
+Name: res/drawable-hdpi/w_icon_arrow_right.png
+SHA1-Digest: +/Vczq1j1WYv6doVTmCWHgYO3fw=
+
+Name: assets/PopstarCommon/pub/GainCoin/29c28d0924df317ad4aca0db8c0c24
+ 54.dtx
+SHA1-Digest: VIBRwl+mIl2YLEkMuEGjhZxeyCM=
+
+Name: assets/PopstarCommon/zh/Achievement/8dcf875bce0fc4546ee93f12f194
+ ddcb.dtx
+SHA1-Digest: iUOUut3zJafXWg4mImCmXbSR5Pk=
+
+Name: res/drawable-hdpi/btn_list_up_normal.png
+SHA1-Digest: Ejw2AqjgH02OpiHFHEaK5yYUFGs=
+
+Name: assets/PopstarCommon/pub/block/number/7afbb1602613ec52b265d7a54a
+ d27330.dtx
+SHA1-Digest: LNdt6c7TvzTc1iPGZdsDuC6yRFw=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_facebook.png
+SHA1-Digest: piJUVqxys3jTJlcx7kEANmv088g=
+
+Name: assets/PopstarCommon/en/Achievement/54b3cd05581edc35969aca803084
+ c7dc.dtx
+SHA1-Digest: pFsUY8RM7ykyK0q76QcVYqqMW10=
+
+Name: assets/PopstarCommon/animation/break/fb5c81ed3a220004b71069645f1
+ 12867.dtx
+SHA1-Digest: 577VSCHovflh4jRUO7v7EJEBUZg=
+
+Name: assets/PopstarCommon/en/Achievement/772eeba98eed9548a4fb8aafe38a
+ 54ee.dtx
+SHA1-Digest: /ox5BE/3kXPg83wUH9SkV+ciNiA=
+
+Name: assets/PopstarCommon/pub/LuckyDial/da0b7328a0e9a0682b4ca4d401cd3
+ 9a0.dtx
+SHA1-Digest: j2ofY8Iz00+V3pLeZcscTHbx+cA=
+
+Name: res/drawable/gd_page_indicator_dot.xml
+SHA1-Digest: VUtd7Cr6Ot8azLjD7cY6T4krY0g=
+
+Name: assets/PopstarCommon/pub/TigerMachine/3e54110b92b75331d913019008
+ 36bf39.dtx
+SHA1-Digest: /8MWdLjiLJOw8crZPPu8lvIRFAc=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/e82004f96ebac9e55cdb031191
+ 0db018.dtx
+SHA1-Digest: khHCybA3shdhmFTncZAyXF2N1+U=
+
+Name: res/drawable-xhdpi/ssdk_oks_title_shadow.png
+SHA1-Digest: LALhXzWajUQxP3OEPz9GPgH0DTc=
+
+Name: assets/PopstarCommon/pub/CoinShowResult/0b51c29b8e6cef33cafdd740
+ 3a48f4af.dtx
+SHA1-Digest: 2iBFujcz1amgTkEDAOLPDiXmBMw=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_5.png
+SHA1-Digest: K/VWxDzwSOx9GwhEp8pJbkfz5KY=
+
+Name: assets/PopstarCommon/ranklist/9303cdab551a0f4b44826728c8eac668.d
+ tx
+SHA1-Digest: Tzovp+goEmeXbSkXeh7eaiRKcF8=
+
+Name: res/drawable-hdpi/umeng_update_btn_check_off_holo_light.png
+SHA1-Digest: LV/7eNLcJG6YuRPWli/QPnabT+s=
+
+Name: assets/PopstarCommon/en/LocalRecord/f2467ed3fc4bfe54a2169ae85750
+ 172b.dtx
+SHA1-Digest: Z589amMQZOY/JK/JwKYkeotU1XE=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_bgimg.png
+SHA1-Digest: 6ZugTYlfIM0A96NSCIRiz0UJEog=
+
+Name: assets/PopstarCommon/en/ContinueLogin/b34fd7ec6d5ca4761aaf06cf1f
+ 37d02d.dtx
+SHA1-Digest: /LjV0DEJDJMGT2PVS/Uz+WyJ4lM=
+
+Name: res/anim/gd_shrink_from_bottomright_to_topleft.xml
+SHA1-Digest: 6ADYTJeWEnnmXyDnJRlJQb74vdw=
+
+Name: assets/PopstarCommon/pub/AllRankList/c3ec9420c5735c87ee978c5e22e
+ a9743.dtx
+SHA1-Digest: PZ0CATDWMBQtGVvG/EMvvuH1Tys=
+
+Name: res/anim/gd_grow_from_topleft_to_bottomright.xml
+SHA1-Digest: 7tQy7OA8VXxBosMJ2ngJWTDSlHo=
+
+Name: assets/PopstarCommon/en/str/9e846f301d6348389dbbcb90a4ff4e4b.dtx
+SHA1-Digest: MJUQF68eD68dJFS0laDBKCHzXq4=
+
+Name: assets/PopstarCommon/en/StartScene/7a611ba07efec47659644b62a681b
+ ef6.dtx
+SHA1-Digest: rr6kVkmWxf8DckQ/G8KtbKtQwaY=
+
+Name: assets/PopstarCommon/zh/DailyAthletics/b9384552c1cf2447abcea8639
+ 0d6d2b5.dtx
+SHA1-Digest: O71Gyu7KJf3Na//hDGhhx5QOMMY=
+
+Name: res/drawable/del_button.xml
+SHA1-Digest: wqEzShSvKFCinROE4nJ7chw3VnE=
+
+Name: assets/PopstarCommon/zh/PauseLayer/3b100764494fbe7b5d22810076e7b
+ 5d7.dtx
+SHA1-Digest: VytB0XOQhW/A+TjhYRcsU+cJeXY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_image_bg.9.png
+SHA1-Digest: rSb/UcjpSPAazqb0dm1UOxpwsF4=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_normal_pressed.png
+SHA1-Digest: qbWcnBgo+NKEuXiIHRSN394b0t0=
+
+Name: res/drawable-hdpi/loginbg_a.png
+SHA1-Digest: Y+1TX+MB+zlE7eRcHA6AFgDJ6vo=
+
+Name: assets/PopstarCommon/zh/CashGift/ede6520fc7a55e9a3a3d382f064719c
+ 2.dtx
+SHA1-Digest: 7kb+T63+9ct9zTezl4w43w7b5+Y=
+
+Name: assets/PopstarCommon/pub/block/625ec5df88a69d5c425e01f899becb38.
+ dtx
+SHA1-Digest: lOqVtdO63DL/w0AsJ6fyxaV+cpo=
+
+Name: assets/PopstarCommon/pub/ec8f9b0de5bcefc57047c8231b4f99aa.dtx
+SHA1-Digest: 2cFTjfSQ28ugXjTsvLcwDvkSzhE=
+
+Name: assets/PopstarCommon/ranklist/ab8e1562a5645106536e58e7a9f936fc.d
+ tx
+SHA1-Digest: FBFAPaCgmODoZZAr7V0H9RlJqUQ=
+
+Name: assets/PopstarCommon/pub/ShareScene/b25e7f805932aa4aed986d3d465a
+ 9b55.dtx
+SHA1-Digest: 7XcZGl7Ca7XnSoyakkoP5Xn1T3E=
+
+Name: assets/PopstarCommon/pub/ReName/14766e3c362f4e4175fbb90bdac7027c
+ .dtx
+SHA1-Digest: HtAVI7wwg7Za259b5MA+DbX6zos=
+
+Name: assets/PopstarCommon/zh/Achievement/6593eb95bc6df161031dd70b3eee
+ 55f6.dtx
+SHA1-Digest: 7i4zAVNKLaRd51ZbmMUmVXkPis0=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_1.png
+SHA1-Digest: es4QhsrkwVB1VLXdnhktJE1Z5lQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_facebookmessenger.png
+SHA1-Digest: 2T0MPMgUUz04KqzmxjylWtMqXJ8=
+
+Name: assets/PopstarCommon/pub/TigerMachine/0612bad135d0f1d361f2515826
+ ffe397.dtx
+SHA1-Digest: r8FIifa16pj9M9R8HqO7yQuegZc=
+
+Name: assets/PopstarCommon/en/AllRankList/39f57c8fc12deeb1e2cb5271e79b
+ f951.dtx
+SHA1-Digest: chw/yNaF6JaHYo7NXjpBYKkNiwY=
+
+Name: assets/PublicRes/en/MoreExciting/Bg.jpg
+SHA1-Digest: 2SaH94wzQlky6KScrRIWeODraVw=
+
+Name: assets/PopstarCommon/zh/AllRankList/c63964168b5bc2b3ec6184e98b57
+ f452.dtx
+SHA1-Digest: 8bs54nEOdlfdX29sSSRAo3492v8=
+
+Name: res/drawable-hdpi/alonebg.png
+SHA1-Digest: F9OEKwAJcTH6QsAujykayuqDMjo=
+
+Name: assets/PopstarCommon/zh/StartScene/4c00f41e489a999677ec233be958a
+ 5ad.dtx
+SHA1-Digest: 8s4BE5fNe8ZFXxPQuxJcexPSPEs=
+
+Name: res/drawable-hdpi/gd_action_bar_share.png
+SHA1-Digest: Q10oh4r9vweLVF/zLsJ7fHZHmgc=
+
+Name: assets/PopstarCommon/pub/6a74691448acbd0a1492319cd656d53e.dtx
+SHA1-Digest: /nqnYKULa8KLUYm82MfhjNG1XRE=
+
+Name: assets/PopstarCommon/pub/6f5619c22845846eff40a093119d7b4f.dtx
+SHA1-Digest: EecP+KQooVTYwYUZQ7JOSVh2sJs=
+
+Name: assets/PopstarCommon/pub/block/e2db03a9a0d3fd55388045b1bad29acd.
+ dtx
+SHA1-Digest: 2iBFujcz1amgTkEDAOLPDiXmBMw=
+
+Name: assets/PopstarCommon/en/str/a9e91f95efd34c37c45ececb6167c554.dtx
+SHA1-Digest: TvdYzqAv6br+xyRpunkqEn+PXa8=
+
+Name: assets/res-jewels/en/StartScene/b39869c9bf5ce202bf2e7449fe566e47
+ .dtx
+SHA1-Digest: jhTL2vN5PVW++wOyr5+Hepinbbs=
+
+Name: res/drawable-hdpi/gd_action_bar_star.png
+SHA1-Digest: 1XVhd4w+1WEIqOgV3wzo+7KFS8A=
+
+Name: res/drawable-hdpi/gd_action_bar_group.png
+SHA1-Digest: Q0fpHgFAdjZj/4VO5EkAlA+gY9I=
+
+Name: assets/PopstarCommon/en/LuckyDial/4f20cc7748b27fec80adc7179600cf
+ a9.dtx
+SHA1-Digest: NFlicFAzh+5BqtoElUaoNd5wdL4=
+
+Name: assets/PopstarCommon/zh/DailyAthletics/4e8573901da54b046e576a9a0
+ a7941da.dtx
+SHA1-Digest: Z5UgBjnsk/ajFjUY8NEfW8Hfs6M=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_selected_focused.png
+SHA1-Digest: aBIMrX7GyUw6zMJ/4yv7fTUkzQ4=
+
+Name: res/layout/xlistview_header.xml
+SHA1-Digest: l+Kk1PeWWdG+kLODt8zWCFPYZVI=
+
+Name: assets/PopstarCommon/en/LuckyDial/9d2738cca0968c2c50da7da8626609
+ ce.dtx
+SHA1-Digest: uS2LS8eKhnrwzjRpuyn4DrQIEfg=
+
+Name: res/drawable-hdpi/gd_tab_indicator_unselected.9.png
+SHA1-Digest: PevYCl/A4P1h1mENl4fHeCc6yUo=
+
+Name: res/drawable-hdpi/close_32.png
+SHA1-Digest: lN8J66Jm7INomdJ3Uo6OLs7zTDI=
+
+Name: assets/PopstarCommon/en/LuckyDial/8049530444dc8406edf62575df61cb
+ 33.dtx
+SHA1-Digest: yEit3RRNT+kUS63esZkxZ83Sdls=
+
+Name: assets/res-jewels/pub/StartScene/a3d2dd5c324bb8235ff1bce3ed03d34
+ f.dtx
+SHA1-Digest: CRwYp0hQa32EZ5fvjE2//jCf7r0=
+
+Name: assets/PopstarCommon/en/StartScene/0e9b12df30e9bfc66cabe62679ecb
+ ba0.dtx
+SHA1-Digest: KHqioq79yS3BAuOMShnHI5s0270=
+
+Name: assets/PopstarCommon/zh/ReName/2c6cd2f2b7dc125a788a5eb1e480dd2e.
+ dtx
+SHA1-Digest: MvMDgQrGZwHoQws618RZcovebA4=
+
+Name: assets/PopstarCommon/animation/magic/4a47a0db6e60853dedfcfdf08a5
+ ca249.dtx
+SHA1-Digest: OSss5R1E2uk+vDQ5mS8xmEtPSzs=
+
+Name: assets/PopstarCommon/zh/LuckyDial/3cc5e3484cd61df51a73a0fd03d5b3
+ 67.dtx
+SHA1-Digest: 5h05QmkdBfA+eFO8eHXgCjWzkVs=
+
+Name: res/drawable-hdpi/btn_long.png
+SHA1-Digest: 7NBFAD6j/LTI1sC0iI7zcIUKu8g=
+
+Name: assets/PopstarCommon/zh/LuckyDial/d25f39f9be82f960d1cec4f2cc4953
+ d0.dtx
+SHA1-Digest: PVZ/UzaCi6SaOcaJEaK1xwpLf30=
+
+Name: res/drawable-hdpi/line.png
+SHA1-Digest: XRYydF7zd7r1WpMGQcLXCg67AlQ=
+
+Name: assets/PopstarCommon/animation/flower/fb5c81ed3a220004b71069645f
+ 112867.dtx
+SHA1-Digest: COVNmgNbkepAOmV2BohKzL6v7UM=
+
+Name: res/drawable/umeng_update_button_cancel_bg_normal.xml
+SHA1-Digest: Co7HOpo2v0JY5IUHxiFUWXmkVZ8=
+
+Name: res/drawable-hdpi/umeng_fb_back_normal.png
+SHA1-Digest: +JE0DAVhnp9YdcWjXbhicsBv/qg=
+
+Name: res/layout/dialog_reputation.xml
+SHA1-Digest: 5Xm2zQeEsku0ZAwfidTPfv4wCeM=
+
+Name: assets/PopstarCommon/zh/TigerMachine/26a1d737ec349821a9d374bef0c
+ 46abe.dtx
+SHA1-Digest: 7B33m5/IpR6thIikY0kdXZe91VQ=
+
+Name: res/drawable/tip_pointer_button.xml
+SHA1-Digest: 2O1OBXEaKJ59umsqGh/r+MEchN4=
+
+Name: assets/PopstarCommon/en/Achievement/95f637219826fae0ce5c7a9f8bc3
+ cc67.dtx
+SHA1-Digest: qLCxtavi8MFjJIhi1smeDm5USYY=
+
+Name: assets/PopstarCommon/en/AllRankList/b0d14ab027bb2c0522d0f4ebbd1b
+ ae68.dtx
+SHA1-Digest: AfIyizGLCCANDcN3gyuPXpspKIo=
+
+Name: assets/PopstarCommon/pub/block/575d9f8d15ee06e02da68ed62663b504.
+ dtx
+SHA1-Digest: jYJIKvaJp22n+Y8qCeR1UCakJvE=
+
+Name: res/drawable-hdpi/logo_googleplus.png
+SHA1-Digest: 9pkHfPK0kAg9UwXGQmzLfMAZybU=
+
+Name: assets/PublicRes/zh/MoreExciting/Back.png
+SHA1-Digest: +LEH6J+CVVjHebwn7T2oq8WYD6Q=
+
+Name: assets/PopstarCommon/pub/ShareScene/bb0d9b79813af0661f226b13e1d0
+ 1937.dtx
+SHA1-Digest: Qon6OXGiuheVYTEptyPQhJs5GbE=
+
+Name: res/drawable/bg_button_default_yellow.xml
+SHA1-Digest: 6Gte2iQyQPvn91C8JjtWR+yWxB8=
+
+Name: assets/dm_btn_close_interstitial_pressed.png
+SHA1-Digest: q6gtF2YrrLnUC6SV9AmCbjKfrRU=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_qzone_checked.png
+SHA1-Digest: SpfYFk2S7oJ4oi/clGdsZV/mQ8Q=
+
+Name: assets/PopstarCommon/pub/LuckyDial/486e137e021612758532049f2b4fc
+ 8f5.dtx
+SHA1-Digest: OKZqj4LmgnxLrAooPmOHarfvkKs=
+
+Name: assets/PopstarCommon/ranklist/234840d86ad2119920f192e8fe29c49e.d
+ tx
+SHA1-Digest: E6wokneVtuDqKYyyVhgFC4RuhTY=
+
+Name: assets/webview_bar_back_hover.png
+SHA1-Digest: cbXPxQGvpSRuqSDx62ZKv1tgiYY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_linkedin.png
+SHA1-Digest: 1duZDOqYL6UtSAz/Tv9DYP26cVw=
+
+Name: assets/PopstarCommon/zh/Achievement/54b3cd05581edc35969aca803084
+ c7dc.dtx
+SHA1-Digest: FRFkgIU7y4eNdSzcVNr5Q/HhEQo=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_yixinmoments.png
+SHA1-Digest: 8m1ULKBSeNtOu4DwcBdpK+sSb8A=
+
+Name: res/layout/gd_segment.xml
+SHA1-Digest: mimZbIc1MdhuWRmEDdtP9yhdkZ0=
+
+Name: res/layout/act_welcome.xml
+SHA1-Digest: SIEcVOxq2+x8zBNP5NmvTlklz4M=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_wechatfavorite.png
+SHA1-Digest: TU1DRxLXD0h5Pqj0DuEQmhzmWGk=
+
+Name: res/drawable/umeng_update_button_ok_bg_selector.xml
+SHA1-Digest: oyJGfxWSpKuS5lRVdicqL0LEtSY=
+
+Name: assets/PopstarCommon/zh/8b81655805378aa2a63ae90dfa45d993.dtx
+SHA1-Digest: hIAPbAvyVtDh4tsaTfYPEzw+HpU=
+
+Name: assets/PopstarCommon/zh/reputation/6c4823316b000571f3187445fd248
+ d76.dtx
+SHA1-Digest: vjvWAqDFtZRh3CjwQfecWAPw9/A=
+
+Name: res/drawable-hdpi/gd_action_bar_gallery.png
+SHA1-Digest: 7TQkso2mu4MmFkuGSc6qFSUHvk4=
+
+Name: res/drawable-hdpi/inbg.png
+SHA1-Digest: tEcByiTS1hmv/4JjPrFel77Cm0Y=
+
+Name: assets/PopstarCommon/en/ContinueLogin/5379eca7b34b561709f5ac112e
+ 052f03.dtx
+SHA1-Digest: cfvxb7UnWnWQYb8YHdNwKGJ/nKg=
+
+Name: res/drawable-hdpi/gd_action_bar_eye.png
+SHA1-Digest: MYfePq1N04XdIdVfjh6nSn21ueI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_laiwangmoments.png
+SHA1-Digest: SGt1zgBgxmC3hEf1gbkC3fpagdA=
+
+Name: res/drawable-hdpi/btn_cal_del_all_pressed.png
+SHA1-Digest: DuE+Wz2CwpyLOHx9EDtFHVg5w44=
+
+Name: assets/PopstarCommon/zh/GameOverScene/d800ba254d69e283fa0397296f
+ f5553e.dtx
+SHA1-Digest: +DIOsmx9RY/m9CY4urU5w40/HrI=
+
+Name: assets/PopstarCommon/zh/StartScene/a59cd0e5a68c7b4de1382da4bfefc
+ 24c.dtx
+SHA1-Digest: poLU4UiuuJQqgLRSf2M0tQDpAwE=
+
+Name: res/drawable-hdpi/reputation_txt_zh.png
+SHA1-Digest: P1/ahJsDFV32tmpcDbyfNWi83Dc=
+
+Name: res/drawable-hdpi/icon_me.png
+SHA1-Digest: AdzkmJpM2hMS4IrOQNQqPA6OBt0=
+
+Name: assets/res-jewels/en/Achievement/3eae1646322c1fb99e6636b89279025
+ 2.dtx
+SHA1-Digest: cF5bvR/+B5g1KrUe0iFTct5Sj5Y=
+
+Name: assets/PopstarCommon/zh/str/cd2d45bfe1b230600c9fce16d88b9476.dtx
+SHA1-Digest: HLQ7wCJs5dkW2Tz5p4oFO1HfmuY=
+
+Name: assets/dm_refresh_on.png
+SHA1-Digest: bi0ZrQIIXP/tDlAFRwr6uvB0SR0=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/c0e96acd6d49737fdab68d498c
+ b5be43.dtx
+SHA1-Digest: r0PWSWZEhkJ/nDegDQmkAYNp1zs=
+
+Name: assets/dm_next_on.png
+SHA1-Digest: xiP7T4ASpjjOcl3kgdUVyFX7MH4=
+
+Name: res/layout/gd_text_item_view.xml
+SHA1-Digest: m50YspCYua7pK+cC2PUY8O3DIL0=
+
+Name: assets/PopstarCommon/pub/StartScene/4c3405442f5835c9e63bf7596a54
+ 9c46.dtx
+SHA1-Digest: 8Jw+PFdePwfoPp+ttvHPrrJ2niE=
+
+Name: assets/PopstarCommon/zh/ChooseGift/ba96ec2b66b233cedc81b2b4ab722
+ 3d7.dtx
+SHA1-Digest: HsY+GV3sEMTSPiKtgYcn0nUFwqg=
+
+Name: res/drawable-hdpi/gd_action_bar_info.png
+SHA1-Digest: 4tLuAGyjKK4/rNorB6YV2A3pt94=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_c.png
+SHA1-Digest: jNdFOtLoUDz25t6HH9P7sAnRzD0=
+
+Name: res/drawable-hdpi/gd_action_bar_home.png
+SHA1-Digest: 12MIxwHTezPOwQaSuCytHXyI3t8=
+
+Name: res/drawable/umeng_fb_gray_frame.xml
+SHA1-Digest: aWHdngf/egP9o3M/2RvzMzfHbl8=
+
+Name: res/drawable-hdpi/gd_quick_action_grid_selector_pressed.9.png
+SHA1-Digest: X8/RPwqvimHkLk37NXF7ZKgNezU=
+
+Name: assets/PopstarCommon/en/GainCoin/3e40efc93c740c0499724ef0799c94f
+ 6.dtx
+SHA1-Digest: ciXAra7oa4R1K8yqhnn1uQzdKyQ=
+
+Name: assets/dm_video_not_mute_not_selected.png
+SHA1-Digest: n3PpXIzNUAnYMh+9J36G7iBlb2I=
+
+Name: assets/PopstarCommon/animation/break/10fb15c77258a991b0028080a64
+ fb42d.dtx
+SHA1-Digest: 0APVO5TW3GN7jIoVsTIXCzLdU/o=
+
+Name: assets/PopstarCommon/zh/PauseLayer/d8f4651159a16da562f73f03594ca
+ 781.dtx
+SHA1-Digest: fqxG3oTfofc5+9dl5GnoCcMeOJA=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_b.png
+SHA1-Digest: q+ScuWb/P8/YtpPr5gg4DRJofkA=
+
+Name: assets/PopstarCommon/pub/c08022f2df998056e72223642a6d9e6c.dtx
+SHA1-Digest: +M9pFiJ/ZNCMa4e1ZpF7hsJweRk=
+
+Name: res/drawable-hdpi/loginbg_b.png
+SHA1-Digest: cGwU0OxUaUMkkGVrgCk1HCXBqjM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_qzone.png
+SHA1-Digest: BMcbBzK4BPlDZnSg+vjRpirKnUQ=
+
+Name: assets/PopstarCommon/zh/GainCoin/f7354aad3bdd575dc019fb001ddab2a
+ a.dtx
+SHA1-Digest: aV8I2ui3eDn4eJlR4Eox0Wv/anM=
+
+Name: res/drawable-hdpi/btn_headtita.png
+SHA1-Digest: vff7N+x4oPL1QcV5Twn5UaLDftc=
+
+Name: assets/PopstarCommon/en/str/8b2ee09d9472cc80c3a1324f77b4aab1.dtx
+SHA1-Digest: 1rlmTnqGi2KF+tT8CcS3s+19OXY=
+
+Name: res/anim/gd_shrink_from_bottom.xml
+SHA1-Digest: 9oweiTzDNCJFjeCLp5Ovk6ij2wk=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_11.png
+SHA1-Digest: TfxJMW9W8FHUX4d+EcUOk5hW06Y=
+
+Name: res/drawable-hdpi/btn_icon_ar_normal.png
+SHA1-Digest: 4b4q4RomzcuxQAg6rGEJkpAk9gw=
+
+Name: res/drawable/umeng_fb_point_normal.xml
+SHA1-Digest: nS6YH4+LPj4f7x4zAnSC/ExzaoU=
+
+Name: assets/PopstarCommon/zh/Setting/3f82bcc4c68e7674cbc06e32c4a13d2a
+ .dtx
+SHA1-Digest: Z4Yd6BXvCMj/dZXtpssCSOi4UN0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_vkontakte_checked.png
+SHA1-Digest: Mx0LwTzcD87CVXlCrXGLu/QeNqE=
+
+Name: res/drawable-hdpi/logo_kaixin.png
+SHA1-Digest: KGTtOOt6MPgecVAOtnJgQvZlf0I=
+
+Name: res/drawable-xhdpi/title_back.png
+SHA1-Digest: 8EcpaCKgMqZtOt/JhCiOEs6yIKI=
+
+Name: assets/PopstarCommon/animation/flower/602e8f042f463dc47ebfdf6a94
+ ed5a6d.dtx
+SHA1-Digest: Tb8/ufMdN+9Ca8L7nTCzQJsa34Y=
+
+Name: res/drawable/btn_friend_add.xml
+SHA1-Digest: LjQTbEOY2+fpoDnAcWdFgQdQRSI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_platform_checked.png
+SHA1-Digest: xbJ+ymhGGTrPNyqOFtWZ+ls29tY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_qq_checked.png
+SHA1-Digest: u09N4J8C72y3OY3OPkdHKgBzYTY=
+
+Name: lib/armeabi/libMD5_v1.so
+SHA1-Digest: FWb9IprFE2oYElAb8hSNf+UkBxE=
+
+Name: assets/PopstarCommon/pub/block/32cc799d40d1279632846294c694b75b.
+ dtx
+SHA1-Digest: AHcHDYlpDIEEKY1n0NQsTmSxPYc=
+
+Name: res/drawable/button_green.xml
+SHA1-Digest: bMiHYlRkB2BaqnZbjFRtIralO2k=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_mingdao_checked.png
+SHA1-Digest: 0SWOssntLSdzKqNIor3aEh+rmzM=
+
+Name: assets/PopstarCommon/zh/ShareScene/03457b175d1ab08552146d40cb285
+ e87.dtx
+SHA1-Digest: ZfihQPVFS5qDnWC9FEhyp/onOeg=
+
+Name: res/drawable-hdpi/logo_renren.png
+SHA1-Digest: CFrwbONhozIChH+serggVUr+wlc=
+
+Name: assets/PopstarCommon/zh/GainCoin/5ecbc7fc6b05d9895af7a822172fea3
+ 8.dtx
+SHA1-Digest: hHj7zGPgicrh9hOBkB0J4jgRPXo=
+
+Name: res/drawable-xhdpi/logo_sinaweibo.png
+SHA1-Digest: glzb02DOEZNNGd+GnVUPRrKNyxE=
+
+Name: assets/PopstarCommon/animation/break/4a47a0db6e60853dedfcfdf08a5
+ ca249.dtx
+SHA1-Digest: N1i4KHKKGsBojEDLNdoe9PD6wHI=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_pressed.png
+SHA1-Digest: CjT/X6ItImjAhzgVuRbPVD3hjGQ=
+
+Name: assets/PopstarCommon/pub/block/2af1107f158e17d085a627439408c62c.
+ dtx
+SHA1-Digest: eiIPEeTKdZ5tWfbWSnCkTq7Hv/E=
+
+Name: res/anim/gd_grow_from_bottomleft_to_topright.xml
+SHA1-Digest: 1c1Zweuq2WUd91UepJR4AXn7Msg=
+
+Name: assets/PopstarCommon/ranklist/rename/348a87abc5f0870ed4d0e6085fd
+ 032fb.dtx
+SHA1-Digest: vBxDh6YfKP5uVe3y9aKmuMK2p4k=
+
+Name: assets/PopstarCommon/en/Achievement/95a0cae5afd52565f36842f0121c
+ 6ee1.dtx
+SHA1-Digest: CsJgZ8HxCtcf4c2m36o4OElKIOE=
+
+Name: res/drawable-hdpi/gd_action_bar_talk.png
+SHA1-Digest: s6TcIQSf82TSAoqvO8a+fi8n2MA=
+
+Name: res/drawable/umeng_fb_write_selector.xml
+SHA1-Digest: LJ1MqlQoZdvAXk349GQ2n8dJK6Q=
+
+Name: res/drawable-hdpi/loading_pb.png
+SHA1-Digest: ujWqj48zrVoTPEg+7nfcHhByIgQ=
+
+Name: assets/PopstarCommon/en/PauseLayer/3b100764494fbe7b5d22810076e7b
+ 5d7.dtx
+SHA1-Digest: oNlfUSduJRDF0m3aC/LKr5lXNKs=
+
+Name: assets/dm_mr_method.js
+SHA1-Digest: Vj3WaSLYPClsDHGcwSiyvYoa1PU=
+
+Name: assets/PopstarCommon/pub/LuckyDial/d61649b89664f58a2d49f699edba0
+ 5d2.dtx
+SHA1-Digest: G5IAWp1LFnnfPkX8G0x+bHH+EvU=
+
+Name: lib/armeabi/libappJni.so
+SHA1-Digest: YUkE5fsLose3WpnkDjiaNCPMDeY=
+
+Name: res/drawable-hdpi/gd_shadow_top.9.png
+SHA1-Digest: Yz4MHPnnp4pGRI+Mi6R9o8jVx0s=
+
+Name: assets/PopstarCommon/zh/8fcef1b2c5349bfce42c8399ae5caf2e.dtx
+SHA1-Digest: 5K8m/ISLP1Mo0pC52/zJPk3EPkY=
+
+Name: res/drawable-xhdpi/logo_wechatmoments.png
+SHA1-Digest: x6DqoCd+9e0aW6cO4KMqFl0f9ZM=
+
+Name: res/drawable-hdpi/refresh_arrow_down.png
+SHA1-Digest: JQ4s7RUpogtLvv2FImZa7Raat/E=
+
+Name: assets/PopstarCommon/zh/LuckyDial/8049530444dc8406edf62575df61cb
+ 33.dtx
+SHA1-Digest: uXQSe+xtVvrKOrGxxP7y16v1sPg=
+
+Name: assets/PopstarCommon/zh/StartScene/271630fea8beefc70fc6044e5120f
+ 6b2.dtx
+SHA1-Digest: hgw/DJOkv2gO1lbVVpRHZr/0O2Q=
+
+Name: assets/PopstarCommon/pub/TigerMachine/b24b89dac1ad2384b9847181bc
+ 58972d.dtx
+SHA1-Digest: ryeaXXZRZQOYRJkpVIfErpaAejw=
+
+Name: assets/PopstarCommon/en/Achievement/4d99128cc2c84a0e9cd08ec73483
+ 1d66.dtx
+SHA1-Digest: czGLWkAajgvGENZUNzD3ULU16dY=
+
+Name: assets/res-jewels/en/Achievement/6b7e1453a59f03b345871d4ed97c8aa
+ 3.dtx
+SHA1-Digest: ll/t0E4P3sM/kNxevp/mr3dSGjs=
+
+Name: res/drawable-hdpi/umeng_fb_tick_selected.png
+SHA1-Digest: 9NP/kirw9NCnK5wgyJoRxk8KitY=
+
+Name: res/drawable-xhdpi/ssdk_oks_blue_point.png
+SHA1-Digest: FQdLF8wVGjyb2ECZHwx1j7hDuRY=
+
+Name: res/drawable-xhdpi/ssdk_oks_auth_follow_cb_chd.png
+SHA1-Digest: XRvmpZADzcwYRVQhbiXBiVbiwvw=
+
+Name: assets/PopstarCommon/en/Setting/eef2e1b28ae7e09f6a2e8e4ada57bf17
+ .dtx
+SHA1-Digest: ZkCIJl6IRr1OcS0TQi8TUvO2XwY=
+
+Name: res/drawable-hdpi/btn_friend_add_pressed.png
+SHA1-Digest: qdqqmuEX9PbD1JL5mJfXASK7Uzc=
+
+Name: assets/PopstarCommon/en/ContinueLogin/e82004f96ebac9e55cdb031191
+ 0db018.dtx
+SHA1-Digest: DDl0xMfVgcBH+upjqTlgLU06WN0=
+
+Name: assets/PopstarCommon/en/LuckyDial/26a1d737ec349821a9d374bef0c46a
+ be.dtx
+SHA1-Digest: m7OxpI/8ZAt9JjscBqP/+P+Rrgo=
+
+Name: assets/PopstarCommon/pub/AllRankList/3b61e348c524504d713d05899dc
+ 12008.dtx
+SHA1-Digest: fNLiBLOvoEyulE1wvrkVoWdFp/Q=
+
+Name: assets/PopstarCommon/zh/LuckyDial/3b03cb6247dcfcc83543cd5d11ee4d
+ ff.dtx
+SHA1-Digest: 0GeOwPCq6pHoy2dqxX4bxROa4Zc=
+
+Name: assets/PopstarCommon/zh/str/5515e8471aa05faf31526629e5533a3f.dtx
+SHA1-Digest: IXjRJfSZ1yQ58yah71QhZT5nWXg=
+
+Name: assets/PopstarCommon/fonts/0d925c735d53c61a6c43597ebf509b84.dtx
+SHA1-Digest: VQ/LDje/hyB3BASK09FqJB7d+Fk=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_line.png
+SHA1-Digest: 30kisNBr0toYZFFeTkllsiptuTc=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_j.png
+SHA1-Digest: RMVsGQI9mMykL4oc/1Np90IC/p8=
+
+Name: res/drawable-hdpi/umeng_fb_write_normal.png
+SHA1-Digest: wh9yplgll0Vfb6hMVfOMYNeYVz0=
+
+Name: res/layout/gd_drawable_item_view.xml
+SHA1-Digest: xIIwvMtTotJyDc3m8imkGDGZ98I=
+
+Name: assets/PopstarCommon/en/GameOverScene/2a391cb80609cb2154d69d5580
+ e887ec.dtx
+SHA1-Digest: gGWFJ8FQrOl/lcA57ztYg99FOGg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sohusuishenkan_checked.
+ png
+SHA1-Digest: L2o2qk7m/2PGRidHU0EHrAhgDTw=
+
+Name: assets/PopstarCommon/en/GainCoin/100cfadddbf76a0fe9816efa397d080
+ d.dtx
+SHA1-Digest: cG4YUsELgF0dWIchPBXpb4QJJnE=
+
+Name: res/drawable-hdpi/umeng_fb_back_selected.png
+SHA1-Digest: 6siWfCBMtg28kTItz2nG39qC8EY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_alipayshare.png
+SHA1-Digest: /7lF37H/xF/EMa4bX+IT89Hku24=
+
+Name: assets/PopstarCommon/pub/ReName/47e59d6fab3a0d7c9fac4f0cf676076f
+ .dtx
+SHA1-Digest: 6NNXHyaJuLlSMPwYYuTTUC/D0GQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kakaostory.png
+SHA1-Digest: fz0gUn1HdhF3Ls3VQCBxz9zcMG0=
+
+Name: assets/PopstarCommon/pub/CoinShowResult/33e05c25fd82e16263602bb4
+ 29b14740.dtx
+SHA1-Digest: mQfs0gXGObQeAY9c/u9oG8RbWdE=
+
+Name: assets/PopstarCommon/pub/5d93cab3ba4ad68485cb9abba9b6ada6.dtx
+SHA1-Digest: 6riv6yq4728zZEw5SnD0Hjn4qTE=
+
+Name: res/drawable-hdpi/checkbox_selected.png
+SHA1-Digest: At+CwXPrcTZYsRNDfmoSH5LRtxw=
+
+Name: assets/PopstarCommon/pub/StartScene/e98214f2be0b7dd59a4614319d32
+ 2aad.dtx
+SHA1-Digest: AQVvDjGYZLy8fT5V4/5mzU/qVPM=
+
+Name: res/drawable-xhdpi/white_point.png
+SHA1-Digest: hhh57YxsPTytJ6tu9DBgqN39ovs=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechatfavorite.png
+SHA1-Digest: j3hp4Cj9NVcAOa9BBYW+V09nEko=
+
+Name: assets/PopstarCommon/pub/AllRankList/4a47a0db6e60853dedfcfdf08a5
+ ca249.dtx
+SHA1-Digest: ykguQ6Ves3NiFfDPVG9Sp61xNEc=
+
+Name: assets/res-jewels/pub/particles/916a3efcde517f314a0bf789261888c9
+ .dtx
+SHA1-Digest: 0tEDlGOvJgRalLL0SVuYONwFJ1c=
+
+Name: res/drawable-hdpi/checkbox_unselected.png
+SHA1-Digest: UJL/tBcgDAq+OALeft8GVLWIGtg=
+
+Name: res/menu/main.xml
+SHA1-Digest: eC9cgGxPiSA5W4Vqsle3e9B5N20=
+
+Name: res/layout/umeng_common_download_notification.xml
+SHA1-Digest: bK5MoU8rN89MXCy2sKiMUC53gpI=
+
+Name: assets/PopstarCommon/pub/563a65b138676662ebfe031e9a197349.dtx
+SHA1-Digest: 2EIgq6izNuvaG7b/Aayiv5i3X68=
+
+Name: res/drawable/tb_munion_item_selector.xml
+SHA1-Digest: u8AkFHjFUvvY4VkZ53CwjS77pfE=
+
+Name: assets/PopstarCommon/zh/str/a15e34498606780d5e3aa5d8f5fc97ed.dtx
+SHA1-Digest: ASUl8pRJrRptt2PysupOG0sLbQY=
+
+Name: assets/PopstarCommon/pub/VersionLogLayer.json
+SHA1-Digest: CDud5NuHHYOnnkPkVPr4LsCOR+Q=
+
+Name: assets/PopstarCommon/zh/TigerMachine/4f20cc7748b27fec80adc717960
+ 0cfa9.dtx
+SHA1-Digest: HBhIDBUtc+UZJsBnT9QB7R/BUkA=
+
+Name: res/drawable-hdpi/downbgb.png
+SHA1-Digest: zx+LPuFNQoVKXynJURg6fxPA/c8=
+
+Name: assets/PopstarCommon/pub/CashGift/72019707aae6abb90258750ac55dc1
+ e0.dtx
+SHA1-Digest: or55gdyhz8qkBUqZWsYxwDsKDS4=
+
+Name: assets/PopstarCommon/en/LocalRecord/53578b17cfb3309c9321aca7b372
+ cd47.dtx
+SHA1-Digest: U7jK5Uzse84TN+CGsSbReMYB7NA=
+
+Name: res/anim/in_from_right.xml
+SHA1-Digest: 3LE7AajcgY88GFHPhlCzTFE0OJo=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_grip_right.9.png
+SHA1-Digest: 1jdiUNFwgDyt8E2swI/2pr2mayo=
+
+Name: res/drawable-hdpi/ic_menu_fav2.png
+SHA1-Digest: I+0Ei/rPQEBK5e3FVGxegK9cxNU=
+
+Name: res/drawable-hdpi/icon_locate.png
+SHA1-Digest: t3EAfJK087OUfiuLWrxXVyUvwok=
+
+Name: res/drawable-hdpi/icon_hover.png
+SHA1-Digest: fkfq5N3WJbQ+M0REVBmtAhLasqI=
+
+Name: assets/PopstarCommon/en/Achievement/c8151b668d7180ebf05d070da3a3
+ fbf1.dtx
+SHA1-Digest: 1JkdA45QaSvnguj66Cxn6xFH6Z4=
+
+Name: assets/PopstarCommon/pub/LocalRecord/2eed4b434ab9cfdc77e3eef5199
+ 722a7.dtx
+SHA1-Digest: 9fcS6bbXcsU4JNYYxx6pZl9Zic4=
+
+Name: assets/PopstarCommon/zh/CashGift/8fbc2806b1b7b1f30315f3b6a2645e2
+ 8.dtx
+SHA1-Digest: +uNyVkBUUXswpE1d2ikDB8KATG4=
+
+Name: res/drawable-xhdpi/gray_point.png
+SHA1-Digest: 3XeBPchcvfrxzttgsZmobGOHEQE=
+
+Name: assets/PopstarCommon/animation/flower/10fb15c77258a991b0028080a6
+ 4fb42d.dtx
+SHA1-Digest: 2fgXTKAJJMl82XTtasNGPIKQneE=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechatmoments.png
+SHA1-Digest: TflSNm/Jl3/CDVxRHpsxyiDyjQw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_renren.png
+SHA1-Digest: XPiXNnXcs7MvqWtCTSGGNNJ7644=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_yixin.png
+SHA1-Digest: Ynx6j0DvqB1R0Ntigj8oKizYcLo=
+
+Name: assets/res-jewels/zh/guide_clear/156005c5baf40ff51a327f1c34f2975
+ b.dtx
+SHA1-Digest: 5VCBGcX3sYhfcKnr34Z7CYQJWI0=
+
+Name: res/layout/act_guide_item.xml
+SHA1-Digest: MsOzCiXN67XK5VMSyFp1THAmLfM=
+
+Name: assets/PopstarCommon/pub/str/18e47d72debd4353862256b1837476f1.dt
+ x
+SHA1-Digest: GN1Rt4VYR3xRAdD4Ni459/dmZi0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_email.png
+SHA1-Digest: W82SFjQ3/qLS+8e3I6pQ0slofuI=
+
+Name: assets/PopstarCommon/pub/LuckyDial/ba0b1c5fb16c713c00fbfbb52324b
+ a9f.dtx
+SHA1-Digest: e3xBJQfkrCRdIe3S3Q8+UJHWCnA=
+
+Name: assets/PopstarCommon/pub/TigerMachine/f3210f5cc830b5591201ae3b1c
+ 8f28e3.dtx
+SHA1-Digest: 1o1fGd2qgSfbwqMzQYY7ucIValc=
+
+Name: res/drawable-hdpi/btn_long2.png
+SHA1-Digest: q5uBb3OBTg6HgWbdE66En/usdok=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_bgimg_prs.png
+SHA1-Digest: n/8dsqw/U64bhqEcqoY7ia9QDvk=
+
+Name: res/drawable-xhdpi/logo_shortmessage.png
+SHA1-Digest: ANDFkTFKAW9KFTmg7Gp/oNkKIOY=
+
+Name: assets/PopstarCommon/reputation/5ccfb075de263f69ef7617b8f1d01438
+ .dtx
+SHA1-Digest: aR4KcT6uY8nWaxztfWsl3IwbF4M=
+
+Name: assets/PopstarCommon/pub/TigerMachine/92d0ad1c4d92c020e927dcc2aa
+ e2215e.dtx
+SHA1-Digest: 2iBFujcz1amgTkEDAOLPDiXmBMw=
+
+Name: assets/PopstarCommon/zh/ChooseGift/9b86aa9d5ec4751e213095eec492c
+ d88.dtx
+SHA1-Digest: 5SkzoP58id5oQmCaBr/5NjHZDF0=
+
+Name: res/drawable-hdpi/gd_action_bar_compass.png
+SHA1-Digest: aXFy8e6hby73YxM+HSYvIJx3vsk=
+
+Name: res/drawable-xhdpi/ssdk_oks_edittext_back.9.png
+SHA1-Digest: MckapfoGDrtqi6hM5gmfdvtVuOo=
+
+Name: assets/PopstarCommon/zh/DailyAthletics/2f4598259dd25c69f73614734
+ a973c6a.dtx
+SHA1-Digest: wELGegVAlZq70c7jQDsSYOIkIBM=
+
+Name: assets/PopstarCommon/en/reputation/6c4823316b000571f3187445fd248
+ d76.dtx
+SHA1-Digest: fyBl9frcAifGtBeyU4N0enJrfQ4=
+
+Name: res/drawable/bg_button_press_green.xml
+SHA1-Digest: AGcUhLcodyDinUGxYq+/4gcJjSw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_qq.png
+SHA1-Digest: z5bEP1fdVQPprvplahiukd//JWI=
+
+Name: res/layout/tb_munion_adview.xml
+SHA1-Digest: YgeYc+VcQu7kftnTRFJ5QyrnJ50=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_baidutieba.png
+SHA1-Digest: l68WV7pjjtX79frbX3BHrY2Vic0=
+
+Name: assets/PopstarCommon/pub/LuckyDial/1c27a8bc86f8567e3a885a661f33d
+ 617.dtx
+SHA1-Digest: xpsMwTG8l0iDJAqSbIr5QGb/yiw=
+
+Name: res/drawable/umeng_update_button_ok_bg_normal.xml
+SHA1-Digest: HJAXzj9VGBSJHoOwlfaF6Ryg3LU=
+
+Name: res/anim/out_to_right.xml
+SHA1-Digest: I/dYB1n7sK7nrg3Slb911cP6RQY=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_mingdao.png
+SHA1-Digest: VTtOx8JAUATC69MVr1YSUNNxTAA=
+
+Name: res/drawable-xhdpi/share_vp_back.9.png
+SHA1-Digest: nwXQPmiIQvlx68Un3l+t7C+zuqM=
+
+Name: assets/PopstarCommon/en/CoinShowResult/f2e5fe4ccfacfa4ba963ee42f
+ 66eb213.dtx
+SHA1-Digest: kr+YtCwA+UwZAoL8HFMv52sFIvg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_foursquare_checked.png
+SHA1-Digest: 5D1gbfjyWkEvz0atMqkqB1ETx+s=
+
+Name: assets/res-jewels/pub/particles/ac5b03ac94e31a923a1094ed1ab3b031
+ .dtx
+SHA1-Digest: hbBoSSGfduwJtCYWw8wCvacJKBk=
+
+Name: assets/dm_method.js
+SHA1-Digest: wzkBk+D7PU8Ad60JokFwOJCr/BU=
+
+Name: assets/PopstarCommon/sounds/clear.wav
+SHA1-Digest: xcLHCk2hlE3Aqef6eMXg5bOCG1Q=
+
+Name: assets/dm_btn_close_interstitial.png
+SHA1-Digest: 6zFgKO1YZqcIpFo4sjUowKGfD1E=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_twitter.png
+SHA1-Digest: uUeEzosvKI882+kxC4xRoR1z6Iw=
+
+Name: assets/PopstarCommon/pub/LocalRecord/3e81b8c6ca451cdc547548e23cb
+ 3a291.dtx
+SHA1-Digest: hbFGjQ6z9Z2mXHuwyZog9jRqg5Y=
+
+Name: res/drawable-xhdpi/auth_title_back.png
+SHA1-Digest: 8EcpaCKgMqZtOt/JhCiOEs6yIKI=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_6.png
+SHA1-Digest: ffppQ1avkMGQy08jkxVw0CsI2tA=
+
+Name: assets/PopstarCommon/en/Achievement/bab53c0f5fb6b4f255cb974dbbb0
+ 894f.dtx
+SHA1-Digest: ESSQAN0F+M2EuWW3ZuD6AgW7N38=
+
+Name: assets/PopstarCommon/zh/str/8b2ee09d9472cc80c3a1324f77b4aab1.dtx
+SHA1-Digest: w2cnNaaxlmILfAKqwT0Zeg87GHw=
+
+Name: res/drawable/down_select.xml
+SHA1-Digest: +m3N5gjRSfouiQUFC76EaT2N+nU=
+
+Name: resources.arsc
+SHA1-Digest: 2JneOeS3h10g1zBXMlmBvIZc9TU=
+
+Name: res/drawable/umeng_common_gradient_red.xml
+SHA1-Digest: 2jLyupMAAgTIjXmw8H7uIWqHcPo=
+
+Name: res/anim/popup_enter_toptobuttom.xml
+SHA1-Digest: bT24+DrP8T63g+cJbRoHx5PNIKc=
+
+Name: assets/PopstarCommon/pub/ShowInputInfo/60b80df4acff22004f76fb4eb
+ 07933ee.dtx
+SHA1-Digest: mwatPHFuKbleCuqxql11KzxrGyE=
+
+Name: assets/PopstarCommon/pub/progress/0c0582338159340a20dc42d8d35e0d
+ b8.dtx
+SHA1-Digest: /i5KBoqaE8XDQVfoTCsan8WPaZA=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_douban_checked.png
+SHA1-Digest: jeIZHoAJ0cmQ6KEmHYsoe32ohDM=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_instagram.png
+SHA1-Digest: W8HByjvYzRb6tgdgyHvti44ukyI=
+
+Name: res/layout/gd_content_normal.xml
+SHA1-Digest: GHem8mdrf3zDmqaqtOSs2dfy2S0=
+
+Name: assets/PopstarCommon/zh/ReviveLayer/bd9314d7234bff9cdb717b550e8e
+ 02db.dtx
+SHA1-Digest: pOpwb2k9hex52lMZW+eW9p4Ef+U=
+
+Name: assets/PopstarCommon/pub/30d4128570cd9e4a83ef5922e41bb729.dtx
+SHA1-Digest: bwfBeGURIN7+d7dJZ4/XodNdcNQ=
+
+Name: assets/PopstarCommon/pub/ShareScene/f4e460fdb2f3a243515b0b717b15
+ 0647.dtx
+SHA1-Digest: VopMFAhMHMCWj83GkvLpvgDAjLk=
+
+Name: res/drawable-hdpi/umeng_update_btn_check_on_pressed_holo_light.p
+ ng
+SHA1-Digest: LRfTTUEUavLv1hy7gIc9D3NfFno=
+
+Name: assets/PopstarCommon/zh/AllRankList/61b408d310d055b48ce7e344d314
+ 89a7.dtx
+SHA1-Digest: 3y3jdYbSU//4WN7DN4rwgGu4VO4=
+
+Name: assets/res-jewels/en/Achievement/4bb9ddf6e05cacda6143454d65dddf1
+ 0.dtx
+SHA1-Digest: koCXvc/n1XhtbTJkR2Vop1/fArE=
+
+Name: res/layout/cv_act_adswalllist_en.xml
+SHA1-Digest: wC7qK8W/IkJSCdIBY+pXyxsF1qA=
+
+Name: res/drawable-hdpi/btn_headtita2.png
+SHA1-Digest: Bba0r73TwZRzMBFimoUN63gfhrY=
+
+Name: assets/PopstarCommon/pub/LuckyDial/010d1a7495de74932aec08500dea7
+ 096.dtx
+SHA1-Digest: oh09kku7C885ACM7ZB5qTeG58rY=
+
+Name: assets/PopstarCommon/zh/LuckyDial/4f20cc7748b27fec80adc7179600cf
+ a9.dtx
+SHA1-Digest: SmoKn/IHntJyv/BpNou9urbf4j4=
+
+Name: res/drawable-hdpi/gd_quick_action_grid_bottom_frame.9.png
+SHA1-Digest: CnyxorfdKOcbIAwgatoNgp74W+8=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_dropbox.png
+SHA1-Digest: 9rS980XHIIAplisYZi5XKBpLPvY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_dropbox.png
+SHA1-Digest: lnOQwcn4cwygNDFQBjQpRok/XCM=
+
+Name: assets/PopstarCommon/ranklist/9b41e52f89db8a13736564505c4cc7a4.d
+ tx
+SHA1-Digest: mfODWtAt80cnrSORU6T1dEhjVBs=
+
+Name: res/layout/gd_content_empty.xml
+SHA1-Digest: Dun1cNc7GtMr25UiHqjOM6jw4Nc=
+
+Name: res/drawable/alone_select.xml
+SHA1-Digest: 25XGCyIOuOE1PAH0NDhuMHAhUnU=
+
+Name: assets/5700fd4009374039b99d0bfdbff4a4df.config
+SHA1-Digest: fna2jupXobtJHmRmIi8B42JhogU=
+
+Name: res/layout/gd_description_item_view.xml
+SHA1-Digest: HdC8dMMyEDw0ARPkW4cYC8fxUx0=
+
+Name: assets/PopstarCommon/en/Achievement/d342be2fb2126710dcabf07c2d55
+ ca9f.dtx
+SHA1-Digest: CYTXRA3gMpsqPwY7kPmB0b3Qx0k=
+
+Name: res/drawable-hdpi/checkbox_a.png
+SHA1-Digest: /LQCVWqdEyKlVoMs3KmYn9TLs4E=
+
+Name: assets/PopstarCommon/sounds/broken.mp3
+SHA1-Digest: vhBs44ycrUn96nUzGA3wDrVJpW4=
+
+Name: res/drawable-hdpi/ic_menu_copy.png
+SHA1-Digest: /or9YfO/DQFpiYVFAxv8C2PB3RY=
+
+Name: res/layout/tb_munion_aditem.xml
+SHA1-Digest: mYCq4CwE6DJfzAIpsqblOIoMWd8=
+
+Name: assets/webview_bar_back.png
+SHA1-Digest: 6Ej6mfo+KlLLZr/xtGLLFd+o/JQ=
+
+Name: assets/libadwo.png
+SHA1-Digest: cSVYCNE6YEtVsDSXbYl9TMWjI0s=
+
+Name: assets/PopstarCommon/pub/LocalRecord/6379cb4ec8be5dc3a2ce89d142d
+ f46cc.dtx
+SHA1-Digest: ErySTR3VrUfDSWhsykWOf75V0sY=
+
+Name: assets/PopstarCommon/zh/str/5c9a1d1b8564375be1f46a3a3c364748.dtx
+SHA1-Digest: pYx3IlDO8FiRTedZzVvfXLqYbqk=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_neteasemicroblog.png
+SHA1-Digest: /rV4R5Mq9VG4F/nAUyZlGUtHX9s=
+
+Name: assets/PopstarCommon/zh/StartScene/80ab17b9ca38cfddf1cf7703f063d
+ c3e.dtx
+SHA1-Digest: BMT2+SNqjgJTKqFmKHQngZoYhAE=
+
+Name: res/drawable-hdpi/umeng_fb_list_item.9.png
+SHA1-Digest: 7q2oAmsuTIdGdDUC1q1WdMu0Ac8=
+
+Name: res/drawable-hdpi/umeng_fb_bar_bg.9.png
+SHA1-Digest: zTF3mPGO8XIUaaZ0RJDAPnmH/vc=
+
+Name: res/anim/out_to_left.xml
+SHA1-Digest: oawPZAy7P5w60/SvLmA0D2EJvhg=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_f.png
+SHA1-Digest: 1+5+DHH1gWITm7Z5rbLqyNn0OdU=
+
+Name: res/drawable-hdpi/umeng_fb_see_list_normal.png
+SHA1-Digest: r5E0hH7/To12bEbgFyDRQHkLKMI=
+
+Name: assets/PopstarCommon/pub/AllRankList/383b2202badc67e36a7a57ba529
+ 0430f.dtx
+SHA1-Digest: mA99HlzJPLWokXRMxBoosoRRZgk=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_mingdao.png
+SHA1-Digest: Uy0ILMhYFMFLUKOy27/92DoaqwE=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_wechatmoments.png
+SHA1-Digest: ZO2E9To4ai1HUSZU0ie/+5Jdvy0=
+
+Name: assets/PopstarCommon/zh/Achievement/4d99128cc2c84a0e9cd08ec73483
+ 1d66.dtx
+SHA1-Digest: u/RePMr1z7SEqt3V61JP4kvTGm4=
+
+Name: res/drawable-hdpi/app_icon.png
+SHA1-Digest: W4BeGPpqhvZEDd/gwUqEtSCfqf8=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/7e2c1ce72d6e58657135f49b9d
+ 8d4f70.dtx
+SHA1-Digest: +y/vpYs7bAFcsAhGUIl9BSuGWRA=
+
+Name: assets/PopstarCommon/zh/Achievement/95f637219826fae0ce5c7a9f8bc3
+ cc67.dtx
+SHA1-Digest: ZjbcBNjDYN7mgSl42VlTw82agOw=
+
+Name: assets/PopstarCommon/pub/FixReferrer/27ead73e29117523f2c3f380062
+ 082c2.dtx
+SHA1-Digest: 6xIpVkgIdOJ7y5/uOpb1o8L6OKU=
+
+Name: assets/res-jewels/pub/StartScene/f8a6839e5a1cc6e2ff439948b7126e8
+ 8.dtx
+SHA1-Digest: YGg1qD8TsXUaKrgAl7C35wKNXmg=
+
+Name: res/drawable/classic_platform_corners_bg.xml
+SHA1-Digest: w8g3q9huSgY8YosXI70sLXH036I=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_bluetooth.png
+SHA1-Digest: cnZJ7vg+t4P/O78FN6L108saBMw=
+
+Name: assets/PopstarCommon/pub/ReviveLayer/4db6fa89c7f11aeede1cf4eb177
+ 96ab6.dtx
+SHA1-Digest: qAojfTC2TCyXO56jEEyXLjruvLw=
+
+Name: res/layout/gd_list_content_dashboard.xml
+SHA1-Digest: 3ARCydZ8zKiOVvCmtRNr6jYKgnE=
+
+Name: res/drawable/bg_button_press.xml
+SHA1-Digest: M4yWV7eJgyRYP+wewgyej8sjBdo=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sohumicroblog_checked.p
+ ng
+SHA1-Digest: rC5lU6QuebrKSE5eW0Nt3lTbsIY=
+
+Name: res/drawable-xhdpi/light_blue_point.png
+SHA1-Digest: zocvd8Be5c+Qdyh/BW0VPyoFJJo=
+
+Name: assets/PopstarCommon/zh/LocalRecord/53578b17cfb3309c9321aca7b372
+ cd47.dtx
+SHA1-Digest: slu+fmqFo5qJJ1OuhHwErG2Ippk=
+
+Name: res/drawable-hdpi/umeng_update_close_bg_normal.png
+SHA1-Digest: LWoD4Rz+w9IGWLXw0ZVpPQ9QNRc=
+
+Name: assets/icon_web.png
+SHA1-Digest: H9stQg8BhGmoJwyoJcgsXd5IVwk=
+
+Name: res/drawable-hdpi/icon_positioning.png
+SHA1-Digest: QbteYSh2u/pzaYEh4VjOWjuWv3Y=
+
+Name: res/drawable-hdpi/bg_bar_bottom.png
+SHA1-Digest: VBqwQMJJITqdpo8Hf2w4P7zQnjo=
+
+Name: assets/PopstarCommon/zh/LuckyDial/9d2738cca0968c2c50da7da8626609
+ ce.dtx
+SHA1-Digest: +eSnA4UgFTToLGi6FQZWoQCWpzY=
+
+Name: res/drawable-hdpi/gd_action_bar_all_friends.png
+SHA1-Digest: Nfp4LB5NI+8S4zFGmogd/Rm0mlY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_bluetooth.png
+SHA1-Digest: fAJQ0PakAoy81UyeevZqjhss+CQ=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/1c837fcb62c86159b3842af2c3
+ 93aa7e.dtx
+SHA1-Digest: H4BKeUD8k4cSm+SQIConCPTdDkw=
+
+Name: assets/PopstarCommon/en/ContinueLogin/8b2ee09d9472cc80c3a1324f77
+ b4aab1.dtx
+SHA1-Digest: /+gKvKmutVjHFEMumXDyzOkleGQ=
+
+Name: assets/PopstarCommon/zh/DailyAthletics/781dbf1525fec1db04434d7b5
+ daa5331.dtx
+SHA1-Digest: viUqlg+BBdzOSQZoBlOrOrU0PlU=
+
+Name: assets/PopstarCommon/zh/CashGift/eb39f057e31ae0a918f7a48209e1c96
+ a.dtx
+SHA1-Digest: xZUvRH443kLrwOlmr14dCqUGXE0=
+
+Name: assets/PopstarCommon/zh/TigerMachine/f4a1b908b2017887ffd6ab61817
+ 0dfae.dtx
+SHA1-Digest: tloBgedYiwPc45q10KwD+S5Th/k=
+
+Name: assets/dm_video_full_selected.png
+SHA1-Digest: ss0A9CwcZ10pPb2WNWOCziw5Ks4=
+
+Name: assets/PopstarCommon/pub/GameOverScene/4a7d962e0aad4c1a2056f0c5d
+ 4f9eeca.dtx
+SHA1-Digest: Rw4ZfbaI2wjkMiKDwF5c64v6J2E=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_pinterest_checked.png
+SHA1-Digest: k5xRm0N72Tf620z8p9teEjs3Cbk=
+
+Name: assets/PopstarCommon/pub/Setting/3810a6311d45591d191237e63d39bff
+ 3.dtx
+SHA1-Digest: usPk27h+IJxmvW06MIIUMazDRKU=
+
+Name: assets/PopstarCommon/pub/StartScene/dfc0638a505cc506571b9d9ea21b
+ 3636.dtx
+SHA1-Digest: RWmW7CLHoqZ2lxAYAm9XaVnSx3c=
+
+Name: assets/PopstarCommon/pub/AllRankList/9eb9cd58b9ea5e04c890326b5c1
+ f471f.dtx
+SHA1-Digest: jEHFD1a2jGG8/EFJT6JwqaqpHSY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_facebook.png
+SHA1-Digest: xmIeow/+O0/xNjFkuyKPj4+Blqg=
+
+Name: res/drawable/umeng_update_button_ok_bg_tap.xml
+SHA1-Digest: X/XrX9vMfWyuz+kQ4orDHAFl7HY=
+
+Name: assets/PopstarCommon/en/TigerMachine/4f20cc7748b27fec80adc717960
+ 0cfa9.dtx
+SHA1-Digest: 8TPoO01/Ay4E7sylAKBtsLs54Wk=
+
+Name: assets/PopstarCommon/zh/StartScene/445a57f3e2bf6a314e9289d37caaf
+ 30b.dtx
+SHA1-Digest: BmqphdP0dP6ObReCZdIguA8Xi8Q=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kaixin.png
+SHA1-Digest: 0OsdZqLfcevsaDrmkXfxjUUax4M=
+
+Name: assets/PopstarCommon/zh/ContinueLogin/be7db45d0d60af23285c1ee46c
+ 38c189.dtx
+SHA1-Digest: scnsU5hBgqUWA8bGHdE0NM5X27Q=
+
+Name: res/drawable-hdpi/gd_action_bar_item_pressed.9.png
+SHA1-Digest: FzAAxguyDKYZooKgGyz6Rbvu8eU=
+
+Name: assets/dm_video_muted_selected.png
+SHA1-Digest: mY77NYE+KpQ3hzdKUUhTNLSrEPc=
+
+Name: res/drawable-hdpi/gd_action_bar_sort_alpha.png
+SHA1-Digest: 8rQKcq/VhUnxFFpAw7PFp+0iPV0=
+
+Name: assets/PopstarCommon/zh/Setting/2cf05da5c2a8c04cd54cd1dacaaec29f
+ .dtx
+SHA1-Digest: 69i8AfR/qneDqTSx305p+S/kwmg=
+
+Name: com/pdragon/ads/mg/assets/mg_close.png
+SHA1-Digest: coTpqAKOvcsEg+8SHU7wpz9cN50=
+
+Name: assets/res-jewels/en/Achievement/88c73bb6b7dd443d5cf216f5735b678
+ 7.dtx
+SHA1-Digest: D/pK/RHDWKMR/LDAYoz6LHr1jPw=
+
+Name: assets/PopstarCommon/pub/GameOverScene/035bb00a36c545673af7a0f17
+ ad12227.dtx
+SHA1-Digest: rCb0hwReSmfWzSVY+M4ED7kabRA=
+
+Name: assets/dbicon.png
+SHA1-Digest: yyO9id3rMtvt9o/0untNQ9ir3lQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_light_blue_point.png
+SHA1-Digest: zocvd8Be5c+Qdyh/BW0VPyoFJJo=
+
+Name: res/anim/gd_grow_from_bottom.xml
+SHA1-Digest: DyDHxBq4cRLNrBfjoavWqzSrU+A=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_grip_left.9.png
+SHA1-Digest: mhlVfLL8ZB5FfNYXa17VyVuDiJQ=
+
+Name: res/drawable-hdpi/welcome.png
+SHA1-Digest: Ok3XcBZINadzq1ELGTN40gJoEzs=
+
+Name: res/drawable-hdpi/icon_loc_alert_pressed.png
+SHA1-Digest: 4VxoLIaz40bYz9miQBFmJK3NH5c=
+
+Name: assets/PopstarCommon/pub/AllRankList/af345a9c99db49434d4ce211953
+ 64f79.dtx
+SHA1-Digest: /8MWdLjiLJOw8crZPPu8lvIRFAc=
+
+Name: assets/PopstarCommon/en/StartScene/41ff0cc0f5435f6d185519d6518fb
+ d52.dtx
+SHA1-Digest: 7Ht+6/qB/FCmGXZj2qcVFPzUoBg=
+
+Name: assets/PopstarCommon/pub/block/50716e57139ea9a9bb75897d0b9740aa.
+ dtx
+SHA1-Digest: evddx7imfpijaKByna0/qTgiCeQ=
+
+Name: res/drawable/bg_checkbox_menus_checked.xml
+SHA1-Digest: GQvy9JTsLklCL4NUirMlmP5ZR4k=
+
+Name: res/drawable-hdpi/gd_quick_action_grid_arrow_down.png
+SHA1-Digest: X7Roa0G9GOLEAkmsE+Rl8prcKdU=
+
+Name: res/drawable/bg_bottom_bar.xml
+SHA1-Digest: SsAKlv8sG/t0iQq+t6NgeAkUaig=
+
+Name: res/drawable-hdpi/ic_menu_copy2.png
+SHA1-Digest: VGD1cGXiX01FQcDa/u1iREN311E=
+
+Name: assets/PopstarCommon/en/Setting/20e0bd447d9ad711ff0f2bc5285f4e12
+ .dtx
+SHA1-Digest: 7QuXXFRiTROf5GIAF9ieyCuvtN4=
+
+Name: res/drawable-hdpi/ic_menu_refresh.png
+SHA1-Digest: svKr0lv9k/CVyEHS9MMtyCGSWhc=
+
+Name: assets/PopstarCommon/en/reputation/0aed98ccabac2fec8749ab1a5bf89
+ 5b5.dtx
+SHA1-Digest: hsPz+w36KYPXLGHKocWh86F3fxo=
+
+Name: assets/PopstarCommon/en/GainCoin/274c6e940ae0bc9b3749e3a03975f72
+ a.dtx
+SHA1-Digest: RnD91LpiBSQvIQVQOIoWV6n3pmA=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_12.png
+SHA1-Digest: t4ZZuuIJT0EqKZ+6QfhtfUscNo8=
+
+Name: res/drawable/umeng_common_gradient_orange.xml
+SHA1-Digest: AHyEGQnT7imQmkLcSm6fiGPhe3s=
+
+Name: res/drawable-hdpi/icon_layer.png
+SHA1-Digest: pHOUuoblgOae5x4KYifcdkh1u0g=
+
+Name: res/drawable-hdpi/headtitbg.png
+SHA1-Digest: +59ARbDi6vqD/BiIIJ8Ayh6Vbks=
+
+Name: assets/PopstarCommon/en/Achievement/b2c50ce3a5616577c5a913861acc
+ 9ebd.dtx
+SHA1-Digest: iEKkqE7kPRFjQaZ3Z8pguclLNzE=
+
+Name: assets/res-jewels/en/guide_standard/156005c5baf40ff51a327f1c34f2
+ 975b.dtx
+SHA1-Digest: GXnZ94pvpgdBaZtUtn2gYV2tHTo=
+
+Name: assets/PopstarCommon/en/Achievement/e6974fab824934043fbc253b4be6
+ ef66.dtx
+SHA1-Digest: sF3UlZU4cCAYVAtg/HQZPonFGxM=
+
+Name: assets/PopstarCommon/en/GainCoin/937a2df3cbf22dfeafcc784aabbe011
+ a.dtx
+SHA1-Digest: uOJjZcHs8aSQ/Wre7vg3veuQBK0=
+
+Name: assets/PopstarCommon/pub/block/297d8a208f19e9e29a795171d855d3fb.
+ dtx
+SHA1-Digest: xVb0DIfOHRhS/7oX01rCcXkUuEY=
+
+Name: res/drawable/umeng_fb_tick_selector.xml
+SHA1-Digest: uME8zQ4BPQPbr2CoW0slQKyX9wo=
+
+Name: com/pdragon/ads/mg/assets/tow_click_open_webview_btn_640.gif
+SHA1-Digest: Y2u5H+NdD9P9+kzYQ6sR8UP0HP8=
+
+Name: assets/PopstarCommon/pub/AllRankList/8483f6087dac5e6d75f4faf3338
+ f7d8c.dtx
+SHA1-Digest: /Pw+dGUjaLXSltUVcJAh4NkcnpM=
+
+Name: res/drawable/up_select.xml
+SHA1-Digest: SnaDPEzPs8bAxF0FqoGWlWZHgbk=
+
+Name: res/drawable/umeng_fb_list_item_selector.xml
+SHA1-Digest: VWEydyDeIbBV5ve54BNhLvig7Yc=
+

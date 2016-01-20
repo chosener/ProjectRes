@@ -1,0 +1,3817 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_37 (Sun Microsystems Inc.)
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_instapaper.png
+SHA1-Digest: UQhfUim8A/vWb8xJlXoGtV6oiWg=
+
+Name: assets/PublicRes/zh/MoreExciting/Bg.jpg
+SHA1-Digest: 2SaH94wzQlky6KScrRIWeODraVw=
+
+Name: assets/res-1010/zh/LocalRecord/ico_description.png
+SHA1-Digest: 4Wf7I/ze0jYq9agHGb7nmmLfHfI=
+
+Name: assets/res-1010/pub/cell/flower13.png
+SHA1-Digest: jO4uHlqbf2i+66oe+y65n8rX658=
+
+Name: assets/PublicRes/pub/com_weixin/copy.png
+SHA1-Digest: IbVycElpnaSKydIo6A7lo9GcfhM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_shortmessage.png
+SHA1-Digest: 4H/bO7i2hEzasr4BNgRhFtXdOoE=
+
+Name: res/drawable-xhdpi/ssdk_oks_auth_title_back.png
+SHA1-Digest: 8EcpaCKgMqZtOt/JhCiOEs6yIKI=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_yixinmoments.png
+SHA1-Digest: yOHeCDuZ4Pny/1OCO+L9w4wMick=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_tencentweibo.png
+SHA1-Digest: KVTIckfY7uUyZjVp183pl2qwZpY=
+
+Name: assets/res-1010/zh/str/ico_amazing_str.png
+SHA1-Digest: fKGMBZVsfX7heHtWNKlulTcfIFg=
+
+Name: assets/res-1010/en/CoinShowResult/ico_get_tiger_str.png
+SHA1-Digest: lPb+wvWAIl1tFSXnkTk2Z+xvfe8=
+
+Name: assets/res-1010/pub/TigerMachine/CTMfm.png
+SHA1-Digest: XQo6xrvTLSrTQAlUZYkeWEZOEoQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_alipayshare_checked.png
+SHA1-Digest: 3bEAfxNrUGTOXpnsanHFcoJr+X0=
+
+Name: res/layout/gd_tab_content.xml
+SHA1-Digest: E2uB5Dz7K8FiJSKaaNXwy1R291w=
+
+Name: assets/res-1010/pub/animation/break/1.png
+SHA1-Digest: tERRDmBlQLipRjInIhO4JMZtEzA=
+
+Name: assets/res-1010/pub/rank/ico_dialog_bg.png
+SHA1-Digest: WAnBWhEO2n5IfWdcrRlE/vNKKeI=
+
+Name: res/drawable-xhdpi/ssdk_oks_auth_follow_cb_unc.png
+SHA1-Digest: Du78zAJA6b0nLhl6JhpMJyA3Qwo=
+
+Name: assets/res-1010/pub/buy_coin/result_bg.png
+SHA1-Digest: lPHskd9xqSneaHLvAWWY7j0lfCM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_youdao_checked.png
+SHA1-Digest: BwZDgwOJUq9rMdFUQFJpY9/47KI=
+
+Name: assets/res-1010/pub/LocalRecord/font_number_time.fnt
+SHA1-Digest: w+ufaVGipAIJo8dr/6EwbTBEv/o=
+
+Name: assets/res-1010/pub/animation/break/3.png
+SHA1-Digest: nzwktIQvGo5ALGN3mf6mdeeE/ss=
+
+Name: assets/PublicRes/zh/CashGift/CGLbtok.png
+SHA1-Digest: jjj9o8AgZlJ0A+5aVoxvoMzSNpM=
+
+Name: assets/res-1010/pub/TigerMachine/CTMbt2.png
+SHA1-Digest: UvLlg8m0/FQTIj6UdNI2CiC8rSU=
+
+Name: res/drawable-hdpi/umeng_fb_write_pressed.png
+SHA1-Digest: /mR5ug1ARAvkMzXHb3WTcmTrAQQ=
+
+Name: res/layout/gd_quick_action_grid_item.xml
+SHA1-Digest: q+fO78Pf7lH1ljw9+wz0oGQ5wXA=
+
+Name: assets/res-1010/zh/guide_hex/1.png
+SHA1-Digest: PO6zOgWt099Zsv2Nd+R2m4oOXWE=
+
+Name: assets/res-1010/zh/CoinShowResult/ico_get_tiger_str.png
+SHA1-Digest: bXWuRuODibrOTmf9IUM95zAtSNY=
+
+Name: assets/res-1010/en/TigerMachine/coininfo2.png
+SHA1-Digest: anfMYHtTtb9P7rVjgyA4fILZkaU=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sinaweibo.png
+SHA1-Digest: MZ3KM28yNE+sGubfQBDnkcInsz8=
+
+Name: res/drawable-hdpi/icon_classify.png
+SHA1-Digest: TX1mGkxDy1DmRGUQIgZ6x2gyO8k=
+
+Name: assets/res-1010/pub/main/ico_clean_col.png
+SHA1-Digest: 35HCTzaqdCdLw5foX6aw35i0ldg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_divider.9.png
+SHA1-Digest: wWcCnRoRMdFsRpYyHE+UUu3eb+A=
+
+Name: res/drawable/gd_quick_action_bar_item.xml
+SHA1-Digest: JRLxvrPUkT0KsSDHHRw2xetj/kU=
+
+Name: assets/res-1010/pub/cell/flower4.png
+SHA1-Digest: ODUFRdGn5YU2F7eionu/OX05OE8=
+
+Name: res/drawable/umeng_update_button_check_selector.xml
+SHA1-Digest: hGsxbzHp2I2/8pkojVc9Pe3XB3o=
+
+Name: assets/res-1010/zh/gameover/ico_over.png
+SHA1-Digest: Q5lGAzQp1ahCjb+jRfzbpBvNpGM=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_d.png
+SHA1-Digest: J64fpPPWnNeU54EHRpzBfSZMpWk=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_back_grey.png
+SHA1-Digest: AA1dmBHncSuntb7JEF6VzIyR3RY=
+
+Name: res/drawable-hdpi/marker_gpsvalid.png
+SHA1-Digest: AwBaIFVzxEmmxmSKi0gIiIBVpsA=
+
+Name: assets/res-1010/zh/rank/ico_btn_modify_name.png
+SHA1-Digest: XJco0rd+HnGzNG3zGgqbbRIfQAY=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_sinaweibo.png
+SHA1-Digest: CsfppKIyRI6USroAlDnRYR3ptEA=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_pinterest.png
+SHA1-Digest: V+j2izib2w7IeIZxgFbLOivyrDg=
+
+Name: res/drawable/btn_cal_del_all.xml
+SHA1-Digest: 6ujae5g96VrtwAQxczId9A+jzO0=
+
+Name: assets/res-1010/zh/LuckyDial/showinfo2sel.png
+SHA1-Digest: okmH+BrfdnKenrsbQPFOzE1EfWs=
+
+Name: res/anim/popup_exit_toptobottom.xml
+SHA1-Digest: TejVtJbIuHOHFAMRK4CfD7b28UQ=
+
+Name: res/drawable-hdpi/header_back.png
+SHA1-Digest: q6tPE9T1OQG6NH8lI0qpjEjtuSg=
+
+Name: com/pdragon/ads/mg/assets/mg_fill_bgb.png
+SHA1-Digest: Duc4Dvwk0uei+w4LDK3MTnE8iEw=
+
+Name: res/drawable-hdpi/icon_user.png
+SHA1-Digest: Xa5TEXq3fmLF/5Ky6tJGRJw0iDI=
+
+Name: res/drawable-hdpi/icon_del.png
+SHA1-Digest: yjJDfPQ3rqBPoPMfke5Lqi9taTo=
+
+Name: assets/PublicRes/en/MoreExciting/Title.png
+SHA1-Digest: ZlDfNvBe2XPySc3dLOAENjp2z/Y=
+
+Name: com/pdragon/ads/mg/assets/mg_rm_closeBtn.png
+SHA1-Digest: +QJKBBJsADbmL/N4rJkWuJganao=
+
+Name: assets/res-1010/pub/sound/s_clean_11.mp3
+SHA1-Digest: DCE3KEqTWzRcr8Mr6fnclE3/b1Q=
+
+Name: assets/res-1010/pub/DrMario/RedSingle.png
+SHA1-Digest: tY6D2SqhApuLLV1rg7hrjoeAa2g=
+
+Name: assets/res-1010/pub/ChooseGift/CCGrt.png
+SHA1-Digest: VoYA311c5sZ0n1p9MqbZHn9lbUY=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_whatsapp.png
+SHA1-Digest: 2i3QuMmwTysY42uYxYZq5SFGIF4=
+
+Name: assets/res-1010/pub/TigerMachine/coin3.png
+SHA1-Digest: PAFDJFtCbuMrtpwgtkR7WfwfJVA=
+
+Name: res/drawable-hdpi/direct_mapsearch_loc_pressed.png
+SHA1-Digest: ru9z4jI2HwlFIBAXiGZ+9U8hu08=
+
+Name: assets/res-1010/pub/animation/magic/1.png
+SHA1-Digest: 2v+9EhKq4aAe8PqQBFiGs2gdhLg=
+
+Name: assets/res-1010/pub/cell/flower6.png
+SHA1-Digest: 4Nk2wfjO0qiTMLQCped7zvkEQqE=
+
+Name: res/layout-v9/umeng_common_download_notification.xml
+SHA1-Digest: S+1rNQB9m+Hq6nKvPFmZonYIHvw=
+
+Name: assets/res-1010/pub/buy_coin/item_buy1.png
+SHA1-Digest: IZMX9S6WltWsx54GOczxLi1+vp4=
+
+Name: assets/res-1010/zh/str/ico_good_str.png
+SHA1-Digest: YzETlJuIfENJU6lejcw2DeJdljM=
+
+Name: res/drawable-hdpi/btn_cal_del_all_normal.png
+SHA1-Digest: YX4GKZoeEQ+CzzlAre3vvTWW8lQ=
+
+Name: assets/res-1010/zh/pasue/ico_pause.png
+SHA1-Digest: F0xbcKVYYQYjaaxWLVV0pCm4CtM=
+
+Name: res/layout/gd_action_bar_normal.xml
+SHA1-Digest: 4wjGohetLOD/XVM6xcJMuYeElz0=
+
+Name: assets/res-1010/zh/LocalRecord/ico_btn_reandRecrd.png
+SHA1-Digest: SPQ8viK6uH4U81tplBZb/pXhVIg=
+
+Name: res/drawable-hdpi/icon_start.png
+SHA1-Digest: tk5OkPR4Z+um4qJIrMITfv4Dcv0=
+
+Name: assets/res-1010/en/LuckyDial/coininfo3.png
+SHA1-Digest: kIcZpj8TyWfhO6952Hpc95PvjnI=
+
+Name: assets/res-1010/en/ShareScene/GainCoin.png
+SHA1-Digest: GDN/FE5IAgNCnp86nxxokbGzrC8=
+
+Name: res/layout/gd_action_bar_empty.xml
+SHA1-Digest: fOhz39G8Qf7DaSPRL5TZuA9In8E=
+
+Name: assets/res-1010/pub/animation/flower/2.png
+SHA1-Digest: EVvwu5Z2y4x2uJFBdDTUNYdM5rs=
+
+Name: assets/res-1010/pub/rank/ico_btn_sure.png
+SHA1-Digest: yUn/5/bgiwmSrepkL5Jk2PUMrV4=
+
+Name: res/drawable-hdpi/logo_qq.png
+SHA1-Digest: l6Mt/NymIDCKCXmdZp3jvXbHDpQ=
+
+Name: assets/res-1010/en/str/ico_praise_str.png
+SHA1-Digest: A5AEqeVF6Fwfsk8sqe9HyDeDJ4w=
+
+Name: res/anim/gd_shrink_from_topleft_to_bottomright.xml
+SHA1-Digest: FecA68RFt24POBsGjCrOAav2QME=
+
+Name: assets/res-1010/pub/sounds/destroy.mp3
+SHA1-Digest: HolriTRNOYN9eBzNJoMta/qFDyo=
+
+Name: res/drawable-hdpi/umeng_fb_tick_normal.png
+SHA1-Digest: DC/zA3DYqb4GZ9zvQ0V2M/tDH/o=
+
+Name: assets/res-1010/en/StartScene/TimerMode.png
+SHA1-Digest: OyJDpFehoXUFQnDInOmPMbv0vho=
+
+Name: res/layout/gd_expandable_list_content_empty.xml
+SHA1-Digest: A5iRykJNwu9dNxbgY5SZE7/WDcw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_yixin.png
+SHA1-Digest: bk+CKdBTkZYc/Od7LgK+Gjetvs8=
+
+Name: assets/res-1010/zh/pasue/reputation2.png
+SHA1-Digest: aLibyhkvWi3Z1EuM7V6BANbj8ns=
+
+Name: assets/res-1010/en/gameover/ico_over.png
+SHA1-Digest: tpVV4lzWxwi8DM9hHe2167XL8zg=
+
+Name: res/drawable-xhdpi/edittext_back.9.png
+SHA1-Digest: MckapfoGDrtqi6hM5gmfdvtVuOo=
+
+Name: assets/res-1010/pub/LuckyDial/CLDrt.png
+SHA1-Digest: VoYA311c5sZ0n1p9MqbZHn9lbUY=
+
+Name: assets/PublicRes/en/CashGift/gift_bg.png
+SHA1-Digest: Skw2PYAmt0yRCy51QTlKfF0GkTg=
+
+Name: res/drawable-hdpi/gd_action_bar_locate_myself.png
+SHA1-Digest: rCvE0A5yB70JW3DT4sc1CR+OOCw=
+
+Name: assets/res-1010/pub/hex/7_Light.png
+SHA1-Digest: p0naE7oUc+0u/B5QPQdjUHqbJNI=
+
+Name: assets/res-1010/pub/animation/flower/5.png
+SHA1-Digest: b5WtFjcXlyrrRPb4ou0ZiUsiLJU=
+
+Name: res/layout/cv_act_adswall.xml
+SHA1-Digest: Eb2A3kEkkaYIDxFuBMqX+KGPxRE=
+
+Name: res/layout/umeng_update_dialog.xml
+SHA1-Digest: 7NC08Im401PiW3BYxJejyqhFVjo=
+
+Name: assets/res-1010/pub/TetrisGame/CTGpause.png
+SHA1-Digest: zJTbkA5KY+tuwnbNbopbJttqejQ=
+
+Name: assets/res-1010/pub/DrMario/GreenVirus.png
+SHA1-Digest: kv3GD9hJdO68zoWdvpApdzI+On4=
+
+Name: assets/res-1010/pub/common/number/9.png
+SHA1-Digest: smKXMm4lEIw9AakRVzCFxs1VYfg=
+
+Name: assets/res-1010/pub/TetrisGame/numbersmap.png
+SHA1-Digest: muEYAX5U1qFTMvVArYYqAc3DqZk=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_flickr_checked.png
+SHA1-Digest: Zp/VlQ1rjH8B0Id3ztLV45RguP8=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_dropbox_checked.png
+SHA1-Digest: L8uHeHUe7yBwKmbczBjgijBEinM=
+
+Name: assets/res-1010/en/ShareScene/ico_share_str.png
+SHA1-Digest: YigT8MkeV+UCRyzshmeRmGHHM8Y=
+
+Name: assets/res-1010/pub/common/number/3.png
+SHA1-Digest: h4sRKZQda2TEDY+J2c2Ai2jCRJw=
+
+Name: assets/res-1010/pub/LuckyDial/coin2.png
+SHA1-Digest: YhCxfViO9jcu+HTlRhjF0eMn6bE=
+
+Name: assets/res-1010/zh/rank/ico_modity_str.png
+SHA1-Digest: y3276VERZI7RxDcmFo4CPR+P818=
+
+Name: assets/res-1010/en/start/ico_gift.png
+SHA1-Digest: np6l24k/y9SWwvL/MZdXs/LrSz0=
+
+Name: res/drawable-hdpi/btn_det2.png
+SHA1-Digest: JFuumqR2LABDAxDd74DwT07KnqU=
+
+Name: assets/res-1010/en/str/ico_superMan_str.png
+SHA1-Digest: VxRbOippXcOIQt72MNclt/n0uqI=
+
+Name: res/drawable-hdpi/icon_other2.png
+SHA1-Digest: DM+cJZTzqRTJD2xF+U0PY8ArCag=
+
+Name: assets/res-1010/pub/common/ico_audio_off.png
+SHA1-Digest: 4aWJcEJp6Ih6x8CcWmi2d6D+hKQ=
+
+Name: assets/res-1010/pub/CashGift/CGLbtok.png
+SHA1-Digest: yUn/5/bgiwmSrepkL5Jk2PUMrV4=
+
+Name: assets/res-1010/en/LuckyDial/showinfo4.png
+SHA1-Digest: w0OyP9aMe/7s87DOJpfRwNal8O0=
+
+Name: assets/res-1010/pub/particles/spark_b.plist
+SHA1-Digest: nPWgbz3jfqUkySpdyO2pIz4Um8Y=
+
+Name: assets/res-1010/zh/guide_clean/2.jpg
+SHA1-Digest: Q8kpWMX7vJVlG8xctlBpkfIMEk0=
+
+Name: assets/res-1010/en/start/ico_start_game.png
+SHA1-Digest: yRfsUkyCf0rQc+VxJPn4gUxUJGs=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_linkedin.png
+SHA1-Digest: lW2RZaRiu+Hk8DdaNc4/ThNFWdg=
+
+Name: assets/res-1010/pub/hex/1_Dark.png
+SHA1-Digest: P+VuMuvj8YG/tj+358DPa1tkdSk=
+
+Name: assets/res-1010/zh/gameover/ico_end.png
+SHA1-Digest: zh5qINQuDFY1kkvRb0VJb3CixpM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_evernote_checked.png
+SHA1-Digest: y79IqNSAVrM9vr4XYscbpKnjICM=
+
+Name: assets/res-1010/pub/LuckyDial/CLDselfm.png
+SHA1-Digest: 2G0n50nQW9Sfs/lwoEtdyuMzYMQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_pin.png
+SHA1-Digest: tkJyNZCYIH5408q/BJl7FHhCnrc=
+
+Name: assets/res-1010/zh/gameover/ico_beat.png
+SHA1-Digest: /iz9o6Gzx62i13PvkhIqSNN3BJU=
+
+Name: assets/res-1010/zh/TetrisGame/CTGpuaseright.png
+SHA1-Digest: Ea8co/HhDHozbZ5M3m1p+SSo/mY=
+
+Name: res/drawable-hdpi/close_16.png
+SHA1-Digest: H8nJNm7JQr1GQIfitfpxk0l61ho=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_renren.png
+SHA1-Digest: UclB2VYHlAlsuNNMrJkFoBcl8hI=
+
+Name: res/drawable-hdpi/gd_segment_label_pressed.9.png
+SHA1-Digest: CX4YYsqvcE8eFMg9TOfitJLzvHs=
+
+Name: assets/res-1010/pub/CashGift/cursor.png
+SHA1-Digest: riK5jqGDNmgJazCnVR7+YDPetkc=
+
+Name: assets/res-1010/zh/LuckyDial/coininfo3.png
+SHA1-Digest: 75AUXGeWi/8lp0xBSaHDESuC4BE=
+
+Name: assets/res-1010/zh/gameover/ico_player.png
+SHA1-Digest: ZhOPsHuCuSAcNO208/6GeJBjqVQ=
+
+Name: assets/res-1010/en/TetrisGame/CTGline.png
+SHA1-Digest: 6KYOqxMU7R1qK+UWoT4IkNK4t70=
+
+Name: assets/res-1010/pub/star_p.png
+SHA1-Digest: 4Q2oTTrsMzD187DMRL9424+gaDM=
+
+Name: lib/armeabi/libcocklogic.so
+SHA1-Digest: KbkxydHQ1FaxMtK9NBFaBWVKKC8=
+
+Name: assets/res-1010/pub/TigerMachine/CTMbt1.png
+SHA1-Digest: WTAA71LTDTGZZ0jifh4HQObhuf0=
+
+Name: assets/res-1010/en/pasue/share.png
+SHA1-Digest: gonyHDkEOAXNBQ35d7YZ/U0n2WY=
+
+Name: res/drawable-hdpi/icon_pwd.png
+SHA1-Digest: UnH2nv2nbczu9MZYEE0qZ9/UMME=
+
+Name: res/drawable-xhdpi/ssdk_back_arr.png
+SHA1-Digest: Rxbe81v2AIEM7XxW8FOEQrQfDqA=
+
+Name: assets/res-1010/zh/TetrisGame/CTGspeed.png
+SHA1-Digest: r6aqtir8U55Si0LxCw+MD0x6YVE=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sohusuishenkan.png
+SHA1-Digest: gnMgutQKSnY4bpe58htpChrL/Kw=
+
+Name: res/drawable-hdpi/gd_action_bar_refresh.png
+SHA1-Digest: XurqNO4ukbZPTBSsW9fkms+8GzY=
+
+Name: assets/res-1010/en/rank/ico_my_name_str.png
+SHA1-Digest: cJnn23903qikwV9n4M61X2Be/XU=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_wechat.png
+SHA1-Digest: G/pXSTfACj3pSNAdyPhi9GP04a0=
+
+Name: assets/res-1010/en/gameover/ico_end.png
+SHA1-Digest: CnczF2RuS4c3Gs3ZiJkLYqDoehQ=
+
+Name: res/drawable-hdpi/logo_shortmessage.png
+SHA1-Digest: 8gOeSPh6k3WTbKX4jsi9XqjnZ2s=
+
+Name: assets/res-1010/pub/TigerMachine/coin1.png
+SHA1-Digest: +JlEXTo/S8H8iffsxg6nM/FBL+s=
+
+Name: assets/PublicRes/en/MoreExciting/Line.png
+SHA1-Digest: UlezmSfs17TMqZbNJekJCW4PyRE=
+
+Name: assets/PublicRes/zh/CashGift/gift_bg1.png
+SHA1-Digest: 8+B0Co6gcnVi1Rniqkg8oL1sFxE=
+
+Name: res/drawable-hdpi/logo_foursquare.png
+SHA1-Digest: pGnWLuHsan8LpHDB3JdJNRISqrM=
+
+Name: assets/res-1010/pub/sound/s_change.wav
+SHA1-Digest: Le3PMn0mEV19y0YGsgCoF55UuMk=
+
+Name: res/drawable/gd_tab_indicator.xml
+SHA1-Digest: 7dy3pKfJZ6IyPkVEGwNsKhQJ+9s=
+
+Name: assets/res-1010/pub/reputation/GameReputationLayer_No.json
+SHA1-Digest: UYs1uX4OMc1/ex1u5oADKTyJ1c8=
+
+Name: assets/res-1010/pub/reputation/en/pass_barrier_reputation_no.png
+SHA1-Digest: MGc2G59+Qju86jUaQH09E6yq+TU=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_platform_checked_disabled.pn
+ g
+SHA1-Digest: knruN4XslE9zL23iJ0w2VqtKYcI=
+
+Name: assets/res-1010/pub/gameover/ico_bg.png
+SHA1-Digest: j19nb1qaOIRCm0qaMpamIVrDdlk=
+
+Name: res/drawable-hdpi/ic_menu_feedback.png
+SHA1-Digest: n9sX7IeeZfjCVIKbCpLKG2t+aSE=
+
+Name: res/layout/gd_separator_item_view.xml
+SHA1-Digest: 9tbVLqI9h95MxIhTs0rT65OY2Q8=
+
+Name: res/drawable-xhdpi/auth_follow_cb_unc.png
+SHA1-Digest: Du78zAJA6b0nLhl6JhpMJyA3Qwo=
+
+Name: assets/res-1010/zh/rank/ico_score.png
+SHA1-Digest: FssTCX8lkM5FBsZS9xikfe3dKDY=
+
+Name: res/drawable-hdpi/umeng_fb_logo.png
+SHA1-Digest: r989FH1tphCKYX8IvOBPo6ti2u4=
+
+Name: assets/ShareSDK.xml
+SHA1-Digest: +L5Ri85lYCSpPbNQgcs7vQVVRds=
+
+Name: res/drawable-hdpi/umeng_fb_reply_left_bg.9.png
+SHA1-Digest: zkproNwtFu7wHoYmXw9xQS+cd8M=
+
+Name: res/anim/gd_rack.xml
+SHA1-Digest: Tu8RdR/KgZMBPu9BZCbeXdKvlHU=
+
+Name: res/drawable-hdpi/btn_icon_ar_pressed.png
+SHA1-Digest: uewBTnEHvEjeM+jLKvf0cWFULIM=
+
+Name: assets/res-1010/pub/DrMario/BlueHalfR.png
+SHA1-Digest: kiJWAANsPMvmgbCpUeDKbaMg520=
+
+Name: assets/res-1010/en/guide/1.jpg
+SHA1-Digest: 4U2uHMGFzLE2Rxo6xiAsP6ePLg4=
+
+Name: assets/res-1010/pub/CoinShowResult/CCSRbgTiger.png
+SHA1-Digest: Nwoin6EN/jNL6SKiFhOvJUwWRb0=
+
+Name: assets/res-1010/zh/guide_tetris/1.jpg
+SHA1-Digest: ClGAzAhYHN/APnKKtHDL0fGDKdk=
+
+Name: assets/res-1010/pub/cell/3.png
+SHA1-Digest: 4Q2oTTrsMzD187DMRL9424+gaDM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_youdao.png
+SHA1-Digest: 1609/0hV1dsNrBs+h0km+47cI+c=
+
+Name: res/drawable-hdpi/logo_douban.png
+SHA1-Digest: 5E0CPO8uieVHBurp1a80VrMb8E4=
+
+Name: res/layout/ssdk_oks_skyblue_editpage_inc_image_layout.xml
+SHA1-Digest: QZcztLo/I8s+K7Vp3J5QRVwHKHo=
+
+Name: res/layout/umeng_fb_activity_contact.xml
+SHA1-Digest: PW6JcfBMD/Q8oecs/EW4fFigcK0=
+
+Name: assets/res-1010/pub/common/number/7.png
+SHA1-Digest: qh7DvI2KJph++frmWp3vuvRMHUw=
+
+Name: res/drawable-xhdpi/ssdk_oks_shake_to_share_back.xml
+SHA1-Digest: uHJhgi1FfQrlh5OkNincSfjxQno=
+
+Name: assets/res-1010/en/ico_level_str.png
+SHA1-Digest: Wb/P3fFDug/c8HQKZ+qPSawmiRM=
+
+Name: assets/res-1010/pub/number_level.png
+SHA1-Digest: kNTBuotOBeofyVtsi9N0xKA4d1w=
+
+Name: com/pdragon/ads/mg/assets/ycm_btnconfirm.png
+SHA1-Digest: GENLZjbflHBWPlBg3hSyNeToeYE=
+
+Name: assets/res-1010/zh/CoinShowResult/ico_get_str.png
+SHA1-Digest: zzJgV9QiyixmSqto9AVU+i78H1s=
+
+Name: assets/res-1010/en/LuckyDial/coininfo1.png
+SHA1-Digest: T8Mm822WWfsucvMwnzXnRTgmmpQ=
+
+Name: assets/res-1010/pub/img_item_jindaizi.png
+SHA1-Digest: j1zCpWz20PEOjNGqc8Er8SQQxSI=
+
+Name: assets/res-1010/pub/animation/addAction/3.png
+SHA1-Digest: pEu2tRi0eFRanRQM0GtN1o7dP0w=
+
+Name: res/layout/umeng_fb_activity_conversation.xml
+SHA1-Digest: BmtkViTtbhSLQGdyDA2YPvTkJq4=
+
+Name: assets/res-1010/pub/main/ico_sure.png
+SHA1-Digest: yUn/5/bgiwmSrepkL5Jk2PUMrV4=
+
+Name: assets/PublicRes/pub/com_weixin/bg.png
+SHA1-Digest: m7ouX0Xcnswp1cm8f/P/bXgCOUs=
+
+Name: assets/res-1010/pub/reputation/zh/pass_barrier_reputation_bg.png
+SHA1-Digest: YgpS1Sy7inoXrS2NX1p3g4FU/e4=
+
+Name: res/drawable-hdpi/reputation_yes_zh.png
+SHA1-Digest: gf7TUEAUFehk+t0k9UGSI9pv/lA=
+
+Name: assets/res-1010/pub/LuckyDial/coin1.png
+SHA1-Digest: 9w5jhk8J1V+6+q1EYCXujdv+ow4=
+
+Name: assets/res-1010/pub/sound/m_game_bg.mp3
+SHA1-Digest: zy/dyRUcB0DzK+YceYLzi7csJng=
+
+Name: assets/res-1010/pub/main/ico_gold.png
+SHA1-Digest: L8sN6vUCxQaw9iQF3MM6t8NZsJU=
+
+Name: res/layout/ssdk_oks_skyblue_share_actionbar.xml
+SHA1-Digest: kaPfsAaKyRmlXIqaEqEqCUw8mk0=
+
+Name: assets/res-1010/pub/common/ico_continue.png
+SHA1-Digest: uUbroXVA04qjtDbUbv45VIWO3us=
+
+Name: assets/res-1010/pub/sounds/win.wav
+SHA1-Digest: KYWrcIrC4HCOChSljsYVojLOrc4=
+
+Name: res/drawable-hdpi/arrow_right.png
+SHA1-Digest: lNidSRwR5iRDs33YOJESHoe8HzI=
+
+Name: assets/res-1010/pub/animation/addAction/5.png
+SHA1-Digest: KONjCCZiaT44sy5JHLgn+u/2ryU=
+
+Name: res/drawable-xhdpi/ssdk_oks_title_back.png
+SHA1-Digest: 8EcpaCKgMqZtOt/JhCiOEs6yIKI=
+
+Name: assets/res-1010/pub/LocalRecord/ico_close.png
+SHA1-Digest: 5pbKvUeUp6DrvII8hbMP8Clr/sQ=
+
+Name: assets/res-1010/en/TigerMachine/coininfo1.png
+SHA1-Digest: qTSP/53/EYTtsAyM3mqk8el1s+I=
+
+Name: assets/res-1010/pub/number_curent_score.png
+SHA1-Digest: px3DcUOna4O3g4N18gccj3t+6rA=
+
+Name: res/layout/gd_list_content_normal.xml
+SHA1-Digest: MIZBhjiT6ogTP5caFD0xM0jhnKY=
+
+Name: assets/PublicRes/zh/CashGift/gift_bg3.png
+SHA1-Digest: 2ZHp6xn3ARU6SK0S7Pk57tq5dz0=
+
+Name: assets/res-1010/zh/str/ico_smart_str.png
+SHA1-Digest: UvS1ajYR0EkDgPJx81zDv8uIjK0=
+
+Name: res/drawable-hdpi/logo_more.png
+SHA1-Digest: /JCb9QdgwjKZNWalUUchLKHqwGU=
+
+Name: res/layout/gd_expandable_list_content_normal.xml
+SHA1-Digest: Ajg0jc2jllGp7GZQToBSbsbTxHg=
+
+Name: res/layout/gd_progress_item_view.xml
+SHA1-Digest: F/w8xekXGaGoMkLe2lT5D4frK8U=
+
+Name: assets/res-1010/pub/LocalRecord/ico_multiplication.png
+SHA1-Digest: wyTIG6tFDDh3fMQkLMBFGnMEZaA=
+
+Name: assets/res-1010/en/ico_target_score_str.png
+SHA1-Digest: ouNLy/G2t2Q2tTCGFSxr2Us6DU0=
+
+Name: res/layout/act_login.xml
+SHA1-Digest: uau/QF0337QfDI90DX+o3TKFFi8=
+
+Name: assets/res-1010/zh/TigerMachine/coininfo4.png
+SHA1-Digest: 1wS5jmpGV3lldvleOJqbCCTba7o=
+
+Name: res/drawable/umeng_common_gradient_green.xml
+SHA1-Digest: ZDyisfAamRM9mdew8+tq1DegzP8=
+
+Name: res/drawable-hdpi/upbgb.png
+SHA1-Digest: ElN8sPnvo7fvL3XMGohwQU3XeT0=
+
+Name: assets/res-1010/pub/DrMario/RedVirus.png
+SHA1-Digest: 3HrZCDJH2jD9OBOHxa9s7cay1fc=
+
+Name: assets/res-1010/pub/hex/5_Dark.png
+SHA1-Digest: P55j+Rn++g5oHDwhsAudAOdFloM=
+
+Name: res/drawable-hdpi/gd_quick_action_top_frame.9.png
+SHA1-Digest: aB6wOQtYcALPv9F03YqXan6cHD8=
+
+Name: assets/res-1010/pub/item_ico_gold_noadd.png
+SHA1-Digest: 5SFlVk4VxE7CFJeid1yGPZWm2JY=
+
+Name: res/layout/gd_quick_action_bar_item.xml
+SHA1-Digest: bYF0K2k8fpx/t6xCsh5qFaT9UBA=
+
+Name: assets/res-1010/pub/cell/add1.png
+SHA1-Digest: A2u4YRo+D2HFJy1UnhcWlSOT9Rs=
+
+Name: assets/res-1010/en/guide_clean/1.jpg
+SHA1-Digest: qQsKk4fNwX8vWvxeGWkX9YSxcVo=
+
+Name: assets/res-1010/pub/pasue/ico_alive_no.png
+SHA1-Digest: DfvhYj/m+6vmV0O6WyFOueV8bpc=
+
+Name: res/layout/gd_tab_indicator.xml
+SHA1-Digest: Juoo+FER9WEvQ5uZLQyskRv0sp8=
+
+Name: assets/res-1010/pub/animation/break/4.png
+SHA1-Digest: /EhQDhSssrjji40aWpQ2s4YbqKY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_yixinmoments_checked.pn
+ g
+SHA1-Digest: usC0FWYD6HxXeorNBkqQY8rVThM=
+
+Name: assets/res-1010/en/ico_current_score_str.png
+SHA1-Digest: RHh2Wj8QPP14/hrjBWlNuwRe+Rk=
+
+Name: res/drawable/tb_munion_icon.xml
+SHA1-Digest: M1Dge11Jzdq637340e/yQhDQ45c=
+
+Name: res/drawable-xhdpi/ssdk_oks_img_cancel.png
+SHA1-Digest: NsZVk5t/jVR+MDbSD8IrRZ2uWkM=
+
+Name: assets/res-1010/en/pasue/fight1.png
+SHA1-Digest: xkXchX9Am/xpCGutlB9cwSlTaQc=
+
+Name: assets/res-1010/pub/main/ico_dialogBg.png
+SHA1-Digest: cp+eABxeDURDtgmUT8DQVm2HcIQ=
+
+Name: assets/res-1010/pub/main/ico_add_cell.png
+SHA1-Digest: yr3kZsudaiJAmAdXRkfrakZnHXc=
+
+Name: assets/res-1010/pub/CashGift/gift_bg3.png
+SHA1-Digest: 2ZHp6xn3ARU6SK0S7Pk57tq5dz0=
+
+Name: assets/res-1010/pub/common/number/2.png
+SHA1-Digest: B2aeUIcxajP+ezNgTuhCcm4jviY=
+
+Name: assets/res-1010/en/start/ico_tetris.png
+SHA1-Digest: XM6wNmMvTBaoYEG4I4MrB86n2XI=
+
+Name: res/layout/mobile7_ge_notidown.xml
+SHA1-Digest: nV8UNggAnJf/D2dlF2ttKfx98Q8=
+
+Name: assets/res-1010/pub/particles/fire.png
+SHA1-Digest: 4cqcIPG1NdQGcofMWBxdYQ+H4mU=
+
+Name: assets/res-1010/pub/LocalRecord/ico_saveRecordBg.png
+SHA1-Digest: lx4FOMfzk+EktesVY8fKY6BB524=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_background.png
+SHA1-Digest: Y5SgHKWqlYU8qiLf4/hgzCIwLag=
+
+Name: res/drawable-hdpi/gd_segment_divider.png
+SHA1-Digest: NOPmT9gQcPbqwdeyr//2oOXDF/E=
+
+Name: assets/res-1010/en/str/ico_smart_str.png
+SHA1-Digest: midZwJzda9xyKGKO4+gZpEQB4lI=
+
+Name: assets/res-1010/zh/LuckyDial/coininfo6.png
+SHA1-Digest: NuDWlcJbAU97e0DIiQJ6MDS9u+I=
+
+Name: res/layout/act_showwebview.xml
+SHA1-Digest: IQRdB3jx4kPByo2Pm2hHUQAlnok=
+
+Name: assets/res-1010/en/ShareScene/QQ.png
+SHA1-Digest: v7+HdOLDscDDv7HoIgrfaVG9900=
+
+Name: res/drawable-hdpi/v2_icon_biaoji.png
+SHA1-Digest: n1h7qpXACv6XBg2V+Mq9WB7P+VM=
+
+Name: assets/res-1010/pub/LuckyDial/coin5nor.png
+SHA1-Digest: chIVLgnGTwAbJi9pwXEclUGmIdM=
+
+Name: assets/res-1010/pub/item_ico_lucky.png
+SHA1-Digest: G3FNONlCs1a8Be4jL0RelYcb2hs=
+
+Name: assets/res-1010/en/str/ico_score_str.png
+SHA1-Digest: l3VifAlFlVY0yASMDj8tV6zwkAQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_facebookmessenger.png
+SHA1-Digest: L9e+JG6HB5q6EvHo940bOc1L4PI=
+
+Name: assets/res-1010/pub/pasue/weibo.png
+SHA1-Digest: pqHAjRh5wapZLtiQB/655K8N2qw=
+
+Name: res/drawable/center_select.xml
+SHA1-Digest: VWvrDn8jMQvYfDr9HtbGY5BsAGg=
+
+Name: assets/res-1010/pub/common/number/8.png
+SHA1-Digest: p5tQtRuUXMJC8p/Te1TDKIvqdeY=
+
+Name: assets/res-1010/zh/start/ico_weixin.png
+SHA1-Digest: I0kJRieVqRcaspvBE6sjE2HFveo=
+
+Name: assets/res-1010/en/buy_coin/restore.png
+SHA1-Digest: SYAvB99oDlGmvpUstvawtRY3yiE=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_item_pressed.9.png
+SHA1-Digest: Zk9QdlUPN0D5NB+cjNE8iljKBs4=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_vkontakte.png
+SHA1-Digest: qH3X3wSssc9hsXk+fDOLTcQ9HXE=
+
+Name: assets/res-1010/en/pasue/spend.png
+SHA1-Digest: ywc/VRNFWaV63NkVjeY6QueVSoQ=
+
+Name: res/drawable/ssdk_oks_skyblue_platform_list_selector.xml
+SHA1-Digest: NTHYn46ah2kCAGJHxkmQ9+1JGzM=
+
+Name: assets/res-1010/en/str/ico_reward_str.png
+SHA1-Digest: 1AdAyn3x36fLX7t1MjmMyD2o5Qc=
+
+Name: assets/res-1010/pub/rank/ico_btn_back.png
+SHA1-Digest: Jp1a/2V6wZFhOKgdsXKNPvnthTA=
+
+Name: res/drawable-hdpi/ic_menu_share.png
+SHA1-Digest: 3e2Ocvh6wlvtmdtputUPQVizVJo=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_h.png
+SHA1-Digest: GoU0gFzvO+cqLiIsycNiow0SdDo=
+
+Name: assets/res-1010/en/LuckyDial/showinfo2sel.png
+SHA1-Digest: i45BOQU25YjAB9qmjBotkWRQK1g=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_selected_normal.png
+SHA1-Digest: h/rFXp+4xFooFuytbg4/HDtx7O8=
+
+Name: assets/res-1010/pub/common/ico_bg_star_3.png
+SHA1-Digest: c2woWC/VFIWrpqw7XPBawZeuMLg=
+
+Name: assets/res-1010/en/str/ico_handsome_str.png
+SHA1-Digest: 1qNmIoplXSoJeBzIiWe8LduOCnM=
+
+Name: assets/res-1010/en/str/ico_a_str.png
+SHA1-Digest: rTk0F6jjBWC+lSc6Dmoud/qcbzs=
+
+Name: res/drawable-hdpi/umeng_fb_reply_right_bg.9.png
+SHA1-Digest: MkX5Q1zjVQVwFz7Do1gJJtpR7Xk=
+
+Name: res/drawable-hdpi/umeng_update_btn_check_off_focused_holo_light.
+ png
+SHA1-Digest: q2aDAtDEQelrCYZBDuVXGd/tmCY=
+
+Name: assets/res-1010/zh/TigerMachine/coininfo1.png
+SHA1-Digest: TevZ3nswDFWOKZDXGexErBjOA8I=
+
+Name: res/drawable-hdpi/footbg02.png
+SHA1-Digest: Cbn0z44idlPOesRW+bF9V0F46II=
+
+Name: res/drawable-hdpi/ggt.png
+SHA1-Digest: 7hfL9G9XKsi1nVeycgjRU2lCxyg=
+
+Name: res/drawable-xhdpi/pin.png
+SHA1-Digest: tkJyNZCYIH5408q/BJl7FHhCnrc=
+
+Name: lib/armeabi/libbase64encoder_v1_4.so
+SHA1-Digest: v2Wbk/7wcXd0DETmmzbG+IVVO6k=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_foursquare.png
+SHA1-Digest: g8gR6icP+IKE25mWXl7B4W+2AzM=
+
+Name: assets/res-1010/pub/cell/0.png
+SHA1-Digest: /yy4fTpvxYuIsV5HiS5FMBX4mGY=
+
+Name: res/drawable/bg_button_default.xml
+SHA1-Digest: 6Gte2iQyQPvn91C8JjtWR+yWxB8=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_normal_focused.png
+SHA1-Digest: /c985YUZUX5uFp7fAhtbCEselbc=
+
+Name: res/drawable-hdpi/upbg.png
+SHA1-Digest: GDEwBIVHlmd3/7akLwQCp66fLnU=
+
+Name: assets/res-1010/pub/cell/del4.png
+SHA1-Digest: 9rmHgFt/dM5cNQDNZGhXUszBs0E=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_image_remove.png
+SHA1-Digest: o4aH9//dYubOBnt7xM3t4h9wERQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_tumblr.png
+SHA1-Digest: VdJ0TwqSTAnSmL40tuG6r6Y90is=
+
+Name: assets/PublicRes/zh/ShowInputInfo/SIIsp.png
+SHA1-Digest: /o6C2hCW7AnBq6DdzWLZG/14zOE=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_kakaostory.png
+SHA1-Digest: Zm/eChRJp7wNPv9OTMU1mxGDoos=
+
+Name: assets/res-1010/pub/cell/flower12.png
+SHA1-Digest: 8umLntlzu8t1GhxOJBSaCf+nXL0=
+
+Name: assets/res-1010/pub/TigerMachine/CTMcbg.png
+SHA1-Digest: /UvRy3w5ci63nEAqcJ84eG7VF1k=
+
+Name: res/layout/act_feedback.xml
+SHA1-Digest: T7MojjZYxpunQYPiXe1bft4JNJw=
+
+Name: assets/res-1010/pub/number_glod.png
+SHA1-Digest: 6EowfLwBLeVCghgvmen5sqR8THo=
+
+Name: assets/res-1010/zh/LuckyDial/showinfo4.png
+SHA1-Digest: fMtPHJ5j3L+c2s3f7zC/D50PjR4=
+
+Name: assets/res-1010/pub/CashGift/gift_bg1.png
+SHA1-Digest: 8+B0Co6gcnVi1Rniqkg8oL1sFxE=
+
+Name: res/drawable-hdpi/gd_quick_action_grid_bg.9.png
+SHA1-Digest: EENTLL5+tqNl/UezdG06OivlpcA=
+
+Name: res/drawable-hdpi/icon_copya2.png
+SHA1-Digest: lvNUAYTCMyk3RLY8Ts0FzVrqT4c=
+
+Name: assets/res-1010/pub/animation/flower/8.png
+SHA1-Digest: /yJf1+cIt/3Lb5Ah3ljdbTYjhug=
+
+Name: assets/res-1010/pub/img_bars.png
+SHA1-Digest: 5GmKkJx4tda3lr1D4eP0CMH22mU=
+
+Name: assets/res-1010/zh/LocalRecord/ico_title.png
+SHA1-Digest: 1QhKpcZVp+gjDBBvpPN8sCJtZOk=
+
+Name: res/drawable-hdpi/btn_refresh.png
+SHA1-Digest: Gci474/gZoNacKsWkB/F6rOFmtQ=
+
+Name: assets/res-1010/en/Achievement/Extreme.png
+SHA1-Digest: sIcr18nAKsSjK4VyIn6Tdf1qpQ8=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_tencentweibo_checked.pn
+ g
+SHA1-Digest: e4IZ4I90u08w0F4ViAYsQGSjwz8=
+
+Name: res/drawable/gd_action_bar_item.xml
+SHA1-Digest: dwdEMWhEStlrBI4m6005cmlWAw0=
+
+Name: assets/res-1010/zh/buy_coin/restore.png
+SHA1-Digest: ulsuznUyoSShJ8Qir/AxWl/8U+s=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_neteasemicroblog_checke
+ d.png
+SHA1-Digest: Q3TH2Y3262J36uqhiRjGocrT/Rk=
+
+Name: assets/res-1010/pub/LuckyDial/CLDbg.jpg
+SHA1-Digest: x5QWv1m8KJD+3YxQBHkjP3wzIkY=
+
+Name: assets/res-1010/pub/cell/f.png
+SHA1-Digest: hIO0Vn/wOyawaJ3iLHiGkaY52zU=
+
+Name: assets/res-1010/en/LuckyDial/showinfo1sel.png
+SHA1-Digest: lPU3nLJnd8x+MV+JJLNhydIKAMo=
+
+Name: assets/PublicRes/zh/MoreExciting/Line.png
+SHA1-Digest: UlezmSfs17TMqZbNJekJCW4PyRE=
+
+Name: assets/res-1010/pub/rank/ico_no_1.png
+SHA1-Digest: pblbh+0Lwy8ev4hNDWKQ5FOCU+Y=
+
+Name: res/layout/act_about.xml
+SHA1-Digest: T5Vfn71JzrVKxezPbQHsnTBmbEw=
+
+Name: res/layout/no_data.xml
+SHA1-Digest: OEoSSLN8kRgPI8iCY0T2AzvxS+o=
+
+Name: assets/res-1010/pub/img_iosrank.png
+SHA1-Digest: UFRL+Y0Gsq7t4UvUFYBkRuG0V78=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_qzone.png
+SHA1-Digest: tcfUq77aOBQoDGD0UI105dbRL3s=
+
+Name: assets/res-1010/pub/StartScene/CoinNumbers.png
+SHA1-Digest: 6EowfLwBLeVCghgvmen5sqR8THo=
+
+Name: assets/res-1010/pub/rank/ico_no_2.png
+SHA1-Digest: ZkUOVDhNr3B22Jw0a6JwXb2T8hs=
+
+Name: assets/res-1010/zh/ico_target_score_str.png
+SHA1-Digest: pEdtswv/w5JjDIO+kJ4qlI7yYHc=
+
+Name: res/drawable/footer_feedback_button.xml
+SHA1-Digest: JAUsl1difMfTSW8bJhya63PKp9Q=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_pinterest.png
+SHA1-Digest: lHYnXTLW6v9sDl57uaTYu/6n2NE=
+
+Name: assets/res-1010/en/TigerMachine/coininfo3.png
+SHA1-Digest: arErA7Ym61F8GoAgHt7O5/i7o7s=
+
+Name: assets/res-1010/pub/main/ico_game_bg.png
+SHA1-Digest: 8jlK8+TxX21eX/IHE5p22FbfHqI=
+
+Name: res/drawable-hdpi/icon_map.png
+SHA1-Digest: 3CYMaRHNBhFE22tF7q5+vDJ3QrU=
+
+Name: assets/res-1010/pub/animation/magic/6.png
+SHA1-Digest: YGqjiextvuukwSzPzxLdDm3KVd8=
+
+Name: res/layout/gd_thumbnail_item_view.xml
+SHA1-Digest: Mllr8k8jQKdl/hxVArP+SMrn5OI=
+
+Name: res/drawable-xhdpi/ssdk_title_div.png
+SHA1-Digest: DloK2NAixcsnyoNpzHoN1vuEAzU=
+
+Name: assets/res-1010/zh/gameover/ico_score.png
+SHA1-Digest: e2gXE2xlfVzAduMwLnXbujgYo8o=
+
+Name: res/drawable-hdpi/inbgb.png
+SHA1-Digest: Y83p0O+Y23xpKTxpu+rrmccL8l4=
+
+Name: res/drawable-hdpi/arrow_left.png
+SHA1-Digest: Qfg1porZMdZOGzbIjLw1iDXCP/g=
+
+Name: assets/res-1010/en/TetrisGame/CTGpauseboth.png
+SHA1-Digest: UiGgJiprBMTqfSHlew3kt2UgzUs=
+
+Name: assets/res-1010/pub/particles/upsideDown.plist
+SHA1-Digest: 600CvmrlUKjYyzuXl5LqHwZs3bQ=
+
+Name: res/layout/gd_quick_action_grid.xml
+SHA1-Digest: Xbij2hEQ7SuA5Q7B3fsbr3GTpnQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_yixin_checked.png
+SHA1-Digest: PUsGUKPuDbXMz4/ulmuOd0aKYMA=
+
+Name: assets/res-1010/pub/hex/3_Dark.png
+SHA1-Digest: /nuq7CZk5hNLh31cn0i6nv+KntE=
+
+Name: res/layout/gd_action_bar_item_loader.xml
+SHA1-Digest: GI0TGnkopGMdsVYDFaety2X7tKY=
+
+Name: assets/res-1010/pub/reputation/GameReputationLayer.json
+SHA1-Digest: c48lViApuDB3e6RAVR/8yiGyzc8=
+
+Name: res/layout/ssdk_oks_skyblue_share_platform_list.xml
+SHA1-Digest: 4HTrrYZuOZSwg+qho948l8MJNVM=
+
+Name: assets/res-1010/pub/common/str/addscore.png
+SHA1-Digest: f8voUn+ekx7yksqrS3o3NrELTbw=
+
+Name: com/pdragon/ads/mg/assets/webview_ad_bar_bgimg.png
+SHA1-Digest: 87vMa6EZcU1ardtoSrSTQiY3xvU=
+
+Name: assets/res-1010/pub/common/ico_bg_star_4.png
+SHA1-Digest: E02pwvnI9+/yGvdoFyPkbY6/ZmE=
+
+Name: assets/res-1010/pub/ShowInputInfo/SIIsp.png
+SHA1-Digest: /o6C2hCW7AnBq6DdzWLZG/14zOE=
+
+Name: assets/res-1010/pub/reputation/zh/pass_barrier_reputation_bg2.pn
+ g
+SHA1-Digest: KNnOZJSRpX6Ur6qT7DpLKXDVXhQ=
+
+Name: assets/res-1010/zh/TigerMachine/ico_description.png
+SHA1-Digest: xDVQE8zptvCAM5CGsaevizzdars=
+
+Name: assets/res-1010/zh/start/ico_start_game.png
+SHA1-Digest: uKvJuuIe0vZoPyKraZLbPTO2AqU=
+
+Name: assets/res-1010/pub/animation/flower/7.png
+SHA1-Digest: jO4uHlqbf2i+66oe+y65n8rX658=
+
+Name: assets/res-1010/pub/img_destroy_num.png
+SHA1-Digest: LQzczWil9hQ7PsY9kZnF2JYhcII=
+
+Name: assets/res-1010/zh/TetrisGame/CTGline.png
+SHA1-Digest: L6n8kZ6dVczCvpo7AhuQk+hfWPs=
+
+Name: assets/res-1010/pub/CoinShowResult/CCSRlb.png
+SHA1-Digest: yYAYadXILz541jM2+fmyohGxoLM=
+
+Name: assets/res-1010/pub/LocalRecord/ico_sliderThumb.png
+SHA1-Digest: 3691UVRgyXZABkZe+oDUQvQ4juY=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_8.png
+SHA1-Digest: o1659DR+MmZ2r1XyMB0oROKIw/c=
+
+Name: res/drawable-hdpi/umeng_update_close_bg_tap.png
+SHA1-Digest: SNDG2U8SkuWqLIV19ogQGjNLlU8=
+
+Name: assets/res-1010/pub/cell/1.png
+SHA1-Digest: ZrbdSZGoIdWZx+tBlPm8sl6X63M=
+
+Name: assets/PublicRes/pub/MoreExciting/Back.png
+SHA1-Digest: +LEH6J+CVVjHebwn7T2oq8WYD6Q=
+
+Name: assets/res-1010/pub/star_b.png
+SHA1-Digest: ZrbdSZGoIdWZx+tBlPm8sl6X63M=
+
+Name: assets/res-1010/pub/cell/del3.png
+SHA1-Digest: 2CY3Wevn9wgTbDB65tKQaoc6Pk4=
+
+Name: assets/res-1010/pub/ShareScene/IdNumbers.png
+SHA1-Digest: MdV6LhQUJ/cDOo/2bPXvP1HuvBA=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_shortmessage.png
+SHA1-Digest: a2Tz3Cg/Bly7PHtb/frO8yH/Ybk=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_e.png
+SHA1-Digest: lrRun6kmOxzzAOfysHNli9QuJk8=
+
+Name: assets/res-1010/pub/particles/spark_g.plist
+SHA1-Digest: jKC6SlX4spY+bJMBwkCqulHW4nM=
+
+Name: com/pdragon/ads/mg/assets/tow_click_download_btn_320.gif
+SHA1-Digest: eFgJUFrWVFXGUj1hVZ7iG9TFfPM=
+
+Name: res/drawable/edit_button.xml
+SHA1-Digest: 3wTJXhGZPhwORZWuCBq2yCl069U=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_sohusuishenkan.png
+SHA1-Digest: /wnkEd+7eD35JRHXdIpZWWAvf/k=
+
+Name: assets/res-1010/en/CoinShowResult/ico_get_str.png
+SHA1-Digest: zKkq5NG2UIwxJQR3jH4xP0AOQU4=
+
+Name: res/layout/umeng_fb_list_item.xml
+SHA1-Digest: eyphFqMt/fx07N2bDyoL2fNQMhY=
+
+Name: assets/res-1010/pub/main/ico_clean_flick.png
+SHA1-Digest: fceMdZxP2BSfd1FJ2STPYLckrV4=
+
+Name: assets/PublicRes/pub/com_weixin/weixin.png
+SHA1-Digest: ObAiHlAyTYdGOCrvEa7GdcLyals=
+
+Name: assets/res-1010/en/pasue/ico_alive_nogold.png
+SHA1-Digest: RoJ+dCE3GbbzIvk2m7tWWVIapQc=
+
+Name: res/anim/popup_exit_righttoleft.xml
+SHA1-Digest: 8heXTWNE9TBiCPuFDwlVmu7INz4=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_tumblr_checked.png
+SHA1-Digest: y3p5uPOSqhbFeG6nCl9ou2JzI3k=
+
+Name: assets/res-1010/pub/common/ico_rank.png
+SHA1-Digest: mMQzcO/VluNqFIN4gcvZbWScZy8=
+
+Name: assets/res-1010/pub/TigerMachine/coin4.png
+SHA1-Digest: efnKSahwaFSdz/W5A9J825aX4IU=
+
+Name: assets/res-1010/en/LuckyDial/showinfo3.png
+SHA1-Digest: ulzD4URS9XYM4puAWFwoOqSWRmQ=
+
+Name: assets/res-1010/pub/item_ico_break.png
+SHA1-Digest: 4ccYoTak52e7qjRWZYa81lxkfic=
+
+Name: assets/res-1010/pub/sounds/broken.mp3
+SHA1-Digest: vhBs44ycrUn96nUzGA3wDrVJpW4=
+
+Name: assets/res-1010/zh/start/ico_color.png
+SHA1-Digest: K/INj86gf1m8t5UGzzQNNvZyYnE=
+
+Name: assets/res-1010/pub/hex/broadColor.png
+SHA1-Digest: dh8XlkOoMkLtHFkFho3vQW1G+/s=
+
+Name: assets/res-1010/pub/LuckyDial/coin4nor.png
+SHA1-Digest: veyFylroTL1ebDpD9JsMBgV9Yeo=
+
+Name: res/drawable-hdpi/btn_refresh2.png
+SHA1-Digest: pNFYdBisV9xs+o76+faorriJfhI=
+
+Name: assets/res-1010/zh/MoreExciting/Title.png
+SHA1-Digest: ZlDfNvBe2XPySc3dLOAENjp2z/Y=
+
+Name: res/drawable/gd_segment_checkmark.xml
+SHA1-Digest: P0BGoJ9qrF+o24tJa0M8DHCyiLI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kakaotalk_checked.png
+SHA1-Digest: VBWHAahQ2QFTYlPRW+DqQi2+xTQ=
+
+Name: assets/res-1010/en/TetrisGame/CTGcurscore.png
+SHA1-Digest: iDuPHbdHG8fbUBT0W9UyRj6hI2s=
+
+Name: assets/res-1010/pub/MoreExciting/Line.png
+SHA1-Digest: UlezmSfs17TMqZbNJekJCW4PyRE=
+
+Name: assets/res-1010/pub/sounds/stageclear.mp3
+SHA1-Digest: Pu4AdgORl+Yz71eiSzJGweRcIu0=
+
+Name: assets/res-1010/pub/FixReferrer/CFRfm.png
+SHA1-Digest: cp+eABxeDURDtgmUT8DQVm2HcIQ=
+
+Name: res/layout/cv_act_paymentlist.xml
+SHA1-Digest: G/KeKj0rifTnHs/gqxjN3bsYmQY=
+
+Name: assets/res-1010/zh/TigerMachine/ico_machine_str.png
+SHA1-Digest: JGAE6PkDLuihWnbaXYgly+brncM=
+
+Name: assets/res-1010/en/buy_coin/hot.png
+SHA1-Digest: NcJkj6LSe5L9n4Ki2tCPkPA0/Gs=
+
+Name: res/drawable-hdpi/umeng_fb_user_bubble.9.png
+SHA1-Digest: u9Gupn9QNFoYozLA7Ra+yE7rIbw=
+
+Name: res/drawable-hdpi/ic_menu_fav.png
+SHA1-Digest: 7dGPsR008Mk33NlEZez4T6VWfz4=
+
+Name: assets/res-1010/pub/StartScene/CoinLayout.png
+SHA1-Digest: 5SFlVk4VxE7CFJeid1yGPZWm2JY=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_foursquare.png
+SHA1-Digest: u2Wxcxc96GE/pg+7IjUn6WPjn8M=
+
+Name: res/anim/umeng_fb_slide_in_from_right.xml
+SHA1-Digest: hQ5uS5IfNVGpKLnTl1l5fNNsyNg=
+
+Name: assets/res-1010/pub/cell/99.png
+SHA1-Digest: LVAOYvMdg3UzyO7dFQQCMWOLCiw=
+
+Name: assets/res-1010/zh/TetrisGame/CTGpauseboth.png
+SHA1-Digest: iYjxerxkAhd5dVFkbFxa5sc5XPc=
+
+Name: assets/res-1010/pub/hex/1_Light.png
+SHA1-Digest: gZ8EJO4kOVYBRoMv16nhJzFBw1Y=
+
+Name: res/drawable/footer_collection_button.xml
+SHA1-Digest: m3O6uG6pLDL8gde1GYAgCdyk4WQ=
+
+Name: assets/res-1010/en/rank/ico_btn_modify_name.png
+SHA1-Digest: gl8AI/fPDLQp3ITp2mtJEa4G35E=
+
+Name: assets/res-1010/en/str/ico_surplus_str2.png
+SHA1-Digest: IDJMiWOvIHIRRgTpbTWwcx7ehSE=
+
+Name: res/drawable-hdpi/xlistview_arrow.png
+SHA1-Digest: SJakT8RpH2kU71okfQWpwe1M8WU=
+
+Name: assets/res-1010/pub/common/ico_replay.png
+SHA1-Digest: 5pud+qwuODz6fUYI1JalU5+DPbI=
+
+Name: assets/res-1010/pub/common/ico_scene_bg.jpg
+SHA1-Digest: d867eZXDjgyEQWIRcgqOxPSYTxw=
+
+Name: res/drawable/bg_button_default_green.xml
+SHA1-Digest: H1SgCZWbNIzhO7yIOaPKHNIJOKU=
+
+Name: assets/res-1010/zh/CoinShowResult/CCSRrt.png
+SHA1-Digest: w9Z9jxNw0S4j1imy9DY4KovKJhc=
+
+Name: assets/res-1010/en/gameover/ico_beat.png
+SHA1-Digest: cJJaTA8r+bHlckvxgB/t3WzVDvs=
+
+Name: assets/res-1010/pub/guide/ico_hand.png
+SHA1-Digest: igM/xyknx0Y7K9JOUvl7lLCEbsY=
+
+Name: assets/res-1010/zh/buy_coin/hot.png
+SHA1-Digest: ldEpSu9vmnSp9/RNV6AQ6x/3rRM=
+
+Name: assets/res-1010/en/StartScene/NewGame.png
+SHA1-Digest: c+HY5kafYWpqUATTJkPMx8L0qdc=
+
+Name: res/drawable-hdpi/gd_action_bar_settings.png
+SHA1-Digest: gjK+nbSTH8+XC2Zic2RUi1n8tIY=
+
+Name: assets/res-1010/pub/sound/s_gameover.wav
+SHA1-Digest: fCUx2Q/jrIg67/wKLTd3dymeFXQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_pocket_checked.png
+SHA1-Digest: 8+uA/a75AuZf5ngwKR22gujSpp0=
+
+Name: res/drawable-hdpi/tip_pointer_button_selected.9.png
+SHA1-Digest: kO/tlfTojWUTiAMNDep/0R9Ykkw=
+
+Name: assets/res-1010/en/start/ico_clean.png
+SHA1-Digest: /l9eCUX0FAdY6wHxAzmRfQ+lgV8=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sinaweibo_checked.png
+SHA1-Digest: Kulfk871JU3GtJcYNIc2qrDhwIU=
+
+Name: assets/res-1010/zh/MoreExciting/DownLoad.png
+SHA1-Digest: cRfmaU3SzyZ1Aw23IIwGY6L0ZTo=
+
+Name: assets/res-1010/en/ico_remainder.png
+SHA1-Digest: nbDSLwjjlfzUHUOeUyThIL6q5Gw=
+
+Name: assets/res-1010/en/rank/ico_name.png
+SHA1-Digest: m3WOP0BiOK63MVB9X+bp5UR8ur0=
+
+Name: res/drawable/button_gray.xml
+SHA1-Digest: /U4NYnhMkbGZ2Z4P07byjlTyCDE=
+
+Name: res/drawable/blue_long_button.xml
+SHA1-Digest: lOsqZc9TEf+uUVRPrfPygtjSrvo=
+
+Name: res/drawable/btn_map_loc.xml
+SHA1-Digest: 2AyQdMee4kXI2sU0lblpjd2+fcc=
+
+Name: assets/res-1010/pub/buy_coin/item_buy5.png
+SHA1-Digest: zgc54J8gw06IVdQCWIh4H/rvB50=
+
+Name: res/drawable-hdpi/ic_menu_share2.png
+SHA1-Digest: Dt1sZRTaH5SeinWg8p3Wem0zMH8=
+
+Name: res/drawable-hdpi/ic_menu_feedback2.png
+SHA1-Digest: Sn0pcNBxQm1GFxWbKI/omEF4DSA=
+
+Name: res/drawable/button_yellow.xml
+SHA1-Digest: CUrYLUqI6LLHDX7jUVIoMJUK21M=
+
+Name: res/layout/gd_list_content_empty.xml
+SHA1-Digest: sTx8i5ZGFh3IrKIgxiSReJQB98g=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_line_checked.png
+SHA1-Digest: 1lSlUV9JRR2dW79IvD4Qen9kuqg=
+
+Name: assets/res-1010/en/LocalRecord/ico_btn_reandRecrd.png
+SHA1-Digest: iZ7kTCcgUlgBRS4gh36SuWH94B0=
+
+Name: res/drawable/checkbox_selector.xml
+SHA1-Digest: U4fqTyb61fPivy2xbimpnTfIcgs=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_twitter.png
+SHA1-Digest: eihcoRBDg1aU0w/5JyZMRXn8dOQ=
+
+Name: res/anim/gd_shrink_from_top.xml
+SHA1-Digest: 7deM/MXeUXWYQcgCOVZkRXtZcD4=
+
+Name: assets/res-1010/pub/pause.png
+SHA1-Digest: d6h/sILTdfbGyqMHA4D9jfXI5zY=
+
+Name: assets/res-1010/en/rank/ico_new_name_str.png
+SHA1-Digest: B5pKuBpTkV06lIr/asqsjpijKWs=
+
+Name: res/drawable-hdpi/gd_action_bar_list.png
+SHA1-Digest: npyOmzt/OLgTHNeWavYbDcyCzeY=
+
+Name: res/drawable-hdpi/logo_wechat.png
+SHA1-Digest: w5oDxyy/FK2/lH5lX0iaCOmnIlI=
+
+Name: assets/PublicRes/pub/MoreExciting/Line.png
+SHA1-Digest: UlezmSfs17TMqZbNJekJCW4PyRE=
+
+Name: assets/res-1010/zh/pasue/gold.png
+SHA1-Digest: 4mbi2m8IRgoVjZZ/Xj/HI4Rfod8=
+
+Name: res/drawable-hdpi/logo_neteasemicroblog.png
+SHA1-Digest: ih4cXmJlGfETcS3P+xtkZHFv1Yg=
+
+Name: assets/res-1010/zh/start/ico_hex.png
+SHA1-Digest: ppHQKhvVjliH/qIKmN7Ps8O+hl0=
+
+Name: res/drawable-hdpi/logo_sinaweibo.png
+SHA1-Digest: 1uIgeXiaT041BYy7ttSKa/horCg=
+
+Name: assets/res-1010/pub/DrMario/BlueVirus.png
+SHA1-Digest: FAyRgX3ULbWmllsFn3hMPHdKfRo=
+
+Name: res/layout/gd_subtitle_item_view.xml
+SHA1-Digest: Tv1Fk7I3V2waOYoWq8ATheNWbJc=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_evernote.png
+SHA1-Digest: 0DGl6QNxUlv6RgGSBQLWcv8Kr1U=
+
+Name: assets/res-1010/en/guide_clean/2.jpg
+SHA1-Digest: YFsELZrUJkqO34zwE8YTEI3iojE=
+
+Name: res/drawable-hdpi/btn_icon_nears_normal.png
+SHA1-Digest: K/ARVcTC2odkZXZz7ZQ4eY130mo=
+
+Name: assets/res-1010/en/ShareScene/FriendsCircle.png
+SHA1-Digest: CjWS0o9zcdDfoacSt0QKZGJX2Wc=
+
+Name: res/drawable-xhdpi/title_shadow.png
+SHA1-Digest: LALhXzWajUQxP3OEPz9GPgH0DTc=
+
+Name: res/layout/gd_subtext_item_view.xml
+SHA1-Digest: uFhKJYQ9UIElSPpkZ2P1Td++YYo=
+
+Name: res/anim/gd_shrink_from_topright_to_bottomleft.xml
+SHA1-Digest: JvApDXaEcjuor+E48nxPFQrN8hg=
+
+Name: assets/res-1010/pub/animation/flower/3.png
+SHA1-Digest: 7yDuoDcXFD2gbgd/ntph/nyAg2w=
+
+Name: res/layout/gd_quick_action_bar.xml
+SHA1-Digest: q5kqdb4u3hVDuMD9yTGESAAyZ1o=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_instapaper.png
+SHA1-Digest: jhWkyVf15pr1PmKZAopLnCqXyBs=
+
+Name: assets/res-1010/zh/LuckyDial/showinfo3.png
+SHA1-Digest: RMCE5/F4pfL2s7KGx2nH45c4FQ4=
+
+Name: res/drawable/umeng_update_button_cancel_bg_tap.xml
+SHA1-Digest: 5PlQdd2SrCHfO5IKG+rk9ZAH99c=
+
+Name: assets/res-1010/pub/LuckyDial/coin1nor.png
+SHA1-Digest: h4gmgSLbgvRExm+Ov5R1tSnLXhw=
+
+Name: assets/res-1010/pub/reputation/en/pass_barrier_reputation_bg2.pn
+ g
+SHA1-Digest: 4J3XYGenPWcOdD9hZsQjpGcznkY=
+
+Name: assets/res-1010/pub/LuckyDial/coin3.png
+SHA1-Digest: HfMBzOufLCzYBmdv42gsyC7P6vU=
+
+Name: assets/res-1010/en/LocalRecord/ico_title.png
+SHA1-Digest: sjWT66Tms58AA+P2eKJ5ma8issI=
+
+Name: res/drawable-hdpi/icon_copya.png
+SHA1-Digest: CJQcu3gManlD0tfss0wBN/30p9k=
+
+Name: assets/res-1010/pub/rank/ico_btn_normal.png
+SHA1-Digest: ERDE/h5Fvj/kdqVUQ3ywQJqP+Co=
+
+Name: res/drawable/ssdk_oks_skyblue_platform_list_item_selected.xml
+SHA1-Digest: yAY1vrUv0JAB7nzyNRfPzZd5RBE=
+
+Name: assets/res-1010/pub/cell/6.png
+SHA1-Digest: qgbS+ADEc8cgvPxm2+86tj5Br6s=
+
+Name: res/drawable-hdpi/gd_segment_checkmark_on.png
+SHA1-Digest: kqlmxzhOvvaWgBg8oW46uMyVxvc=
+
+Name: assets/res-1010/pub/LocalRecord/number_time.png
+SHA1-Digest: NzXmm6oj3ZzoV2HswQT22YxG0gI=
+
+Name: assets/PublicRes/zh/ads.png
+SHA1-Digest: QEMLqAAyphGCsbyEEuo+WILmwFY=
+
+Name: assets/PublicRes/zh/CashGift/gift_bg2.png
+SHA1-Digest: 6avC8uL3c6QcS4qOLr885rbXeFc=
+
+Name: res/drawable-hdpi/map_switch_icon.png
+SHA1-Digest: 974L1NzfkL/soKNh8JLT0A+Dr2k=
+
+Name: assets/res-1010/zh/LuckyDial/showinfo1.png
+SHA1-Digest: AVwpxga0UlB2AeShhnbMt1fw2Ro=
+
+Name: res/drawable/button_blue.xml
+SHA1-Digest: Ira2BBwOm7Ke+HMCbYU/R4A2kcc=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_bg.9.png
+SHA1-Digest: P7IRxfdiUsTRzM4tMuJnE7aTWf8=
+
+Name: res/drawable-xhdpi/logo_qzone.png
+SHA1-Digest: ygwro4okMJjfWFvNLPk1hTobe1g=
+
+Name: assets/res-1010/pub/DrMario/GreenSingle.png
+SHA1-Digest: qE/ezysy8NzM5fYuguZlD/ISbl8=
+
+Name: assets/res-1010/pub/cell/4.png
+SHA1-Digest: osgzIaoPmapxhZUa+8HWYX2BfvI=
+
+Name: res/anim/umeng_fb_slide_out_from_right.xml
+SHA1-Digest: 2yA/OnTKWaohE+ewbY9QbRQgUxo=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sohumicroblog.png
+SHA1-Digest: wNZEO/0ZsxJboLnC/iN9/LPVJ8g=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kakaostory_checked.png
+SHA1-Digest: aDr5R258V2DFztmGw5FGMuWWHrE=
+
+Name: res/drawable-hdpi/ic_menu_refresh2.png
+SHA1-Digest: E6UdAVBuCyG3jEzT5OyYZDzLWCA=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_back.png
+SHA1-Digest: REOpjNmY+cAQpC12hO0mrUZ1nbI=
+
+Name: assets/res-1010/zh/ShareScene/WeiXin.png
+SHA1-Digest: 2ed58YCO7tZU4Btg4wEOQLzHuyk=
+
+Name: assets/res-1010/zh/TetrisGame/CTGchcontinue.png
+SHA1-Digest: co8g6AeLide1zafvRpCNRhryrqA=
+
+Name: res/drawable-hdpi/recommend_on.png
+SHA1-Digest: 4vCS5Oxfjk025MQXqNBuww3fBmw=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_4.png
+SHA1-Digest: fgJ8m8jSGwmjyJkQm81wjNVzTJ4=
+
+Name: assets/PublicRes/zh/ShowInputInfo/SIIbg.png
+SHA1-Digest: Qha81ZKnc4XM4JXjbmCVGgpd5xQ=
+
+Name: res/drawable-hdpi/gd_segment_label_normal.9.png
+SHA1-Digest: RGY/aNhWmrRCQJditikNsw4LtrA=
+
+Name: assets/res-1010/en/ShareScene/SinaMicroBlog.png
+SHA1-Digest: Y622mDsgOpKMBqu/CoL2qpTuXug=
+
+Name: assets/res-1010/pub/buy_coin/item_back.png
+SHA1-Digest: d2lzLfd0iFBavIg0KrmuIgAeqc0=
+
+Name: res/drawable/footer_share_button.xml
+SHA1-Digest: ykWkB87OjunO51PrOiIBjZHEhLA=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_pause.png
+SHA1-Digest: U9BRIfmPodCvRB150xykbw5SRec=
+
+Name: assets/res-1010/en/LuckyDial/coininfo5.png
+SHA1-Digest: arErA7Ym61F8GoAgHt7O5/i7o7s=
+
+Name: assets/res-1010/en/str/ico_amazing_str.png
+SHA1-Digest: UcKKPYRfJq83OnZ6iv/HVwOP2C4=
+
+Name: assets/res-1010/pub/MoreExciting/Bg.jpg
+SHA1-Digest: 2SaH94wzQlky6KScrRIWeODraVw=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_close.png
+SHA1-Digest: 8LPHtN+Cv6+i3gWL/TZ8XZ+uQAo=
+
+Name: assets/res-1010/en/start/ico_hex.png
+SHA1-Digest: k10dwzJ37E5MzohdmLqofabq7Cc=
+
+Name: res/layout/act_guide.xml
+SHA1-Digest: WR/nKkMY9PCwWXeTkKyxutRE4Jw=
+
+Name: assets/res-1010/pub/animation/magic/2.png
+SHA1-Digest: YFzNGIDgAWyuyRV1LwmxUelYMpI=
+
+Name: assets/PublicRes/zh/CashGift/cursor.png
+SHA1-Digest: riK5jqGDNmgJazCnVR7+YDPetkc=
+
+Name: assets/PublicRes/zh/reputation1.png
+SHA1-Digest: j5J1STvARjeFVdaOTVD6Ymorq7E=
+
+Name: assets/res-1010/en/gameover/ico_coin.png
+SHA1-Digest: qqUQvDzhmrClRHPGQrzVLhSEulU=
+
+Name: res/drawable-hdpi/logo_youdao.png
+SHA1-Digest: IS6EWoTCk32hwxiGXKikFdKlRIc=
+
+Name: assets/res-1010/zh/ico_current_score_str.png
+SHA1-Digest: AijoDnCilrSYGKzyFq4izpjXbaI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_tencentweibo.png
+SHA1-Digest: S64oIECwol9stSkn2QUM7XgZGlI=
+
+Name: assets/res-1010/en/gameover/ico_get.png
+SHA1-Digest: 4QFyFtmcfiDXSk84WlA+93Jt8fA=
+
+Name: assets/res-1010/zh/str/ico_handsome_str.png
+SHA1-Digest: T3BKyFyaoPhVx+94VaNhU1fPlGE=
+
+Name: res/drawable-hdpi/umeng_update_btn_check_on_focused_holo_light.p
+ ng
+SHA1-Digest: OPd6H183jIbgtjLlC2gEX9NZh4w=
+
+Name: assets/res-1010/pub/animation/magic/3.png
+SHA1-Digest: r5fHvha3C0wRBxDLpt4FYQe8j38=
+
+Name: res/drawable-hdpi/btn_det.png
+SHA1-Digest: xijEnv0SwdDxMvmJA9gptx7BO4s=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_evernote.png
+SHA1-Digest: zPCWHzvLx9zwRR5LKrPwMdj1U00=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_a.png
+SHA1-Digest: Jxwz8UkUG4/AGFyi5vk0GNJJoSY=
+
+Name: res/anim/gd_shrink_from_bottomleft_to_topright.xml
+SHA1-Digest: phgk0yLn+JHsggQAPeWFg+szyp0=
+
+Name: assets/PublicRes/zh/ShowInputInfo/SIIrt.png
+SHA1-Digest: HYfO8gq5O8R8sOhkL8q4i3Jq0vg=
+
+Name: assets/PublicRes/pub/com_weixin/coin.png
+SHA1-Digest: P06ybkVINzFCY/dta5wM9nmp0mM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_facebook_checked.png
+SHA1-Digest: g4h2BnVv/+jiRoSUOpJL80JEkjE=
+
+Name: assets/res-1010/pub/common/ico_bg_star_1.png
+SHA1-Digest: Td1cZi8ddDd21BB71yww5saJV34=
+
+Name: assets/PublicRes/en/CashGift/CGLbtok.png
+SHA1-Digest: jjj9o8AgZlJ0A+5aVoxvoMzSNpM=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_g.png
+SHA1-Digest: KJCLIism3rFk13jf+f+Lexi+Qvw=
+
+Name: res/layout/adswalllist_common.xml
+SHA1-Digest: 3yH4Q0ObrkAJQ+wzNjVONeCxLZA=
+
+Name: res/drawable-hdpi/icon_other.png
+SHA1-Digest: XeoVK304HazN3fLSIaygBdzwKhk=
+
+Name: res/anim/in_from_left.xml
+SHA1-Digest: 5O+r6oBYwkKMg6AI7ysCTkL/h+A=
+
+Name: assets/res-1010/pub/main/ico_about.png
+SHA1-Digest: 3U2jLuaGOar7u/di+321kJ9jtsc=
+
+Name: res/drawable-xhdpi/ssdk_oks_yaoyiyao.png
+SHA1-Digest: dqUGQ19sqlrOmEx9v50fZTnajpI=
+
+Name: res/drawable-hdpi/logo_qzone.png
+SHA1-Digest: q6uPDk7S89oNsdwQSMiIcIzbnKM=
+
+Name: assets/res-1010/en/TetrisGame/CTGhighscore.png
+SHA1-Digest: x48m7uOE859pwtMH0+EUE/QGDFc=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_item_normal.9.png
+SHA1-Digest: fqVonWZFdTvpfm7hztGa/lUhWoY=
+
+Name: res/layout/umeng_fb_new_reply_alert_dialog.xml
+SHA1-Digest: 8yPw8MxA3QzfGVusd51WZwQOzpw=
+
+Name: res/drawable/ssdk_oks_skyblue_platform_list_item.xml
+SHA1-Digest: CT7T8KxNHcPCUNih0qsUSBesFzk=
+
+Name: assets/res-1010/pub/cell/2.png
+SHA1-Digest: OVeElele1w93bWKenZUQPtPWJ3k=
+
+Name: assets/res-1010/en/rank/ico_modity_str.png
+SHA1-Digest: 0DXy25USkkMAyDmL62myatTZb/o=
+
+Name: assets/res-1010/pub/buy_coin/item_buy4.png
+SHA1-Digest: ayBxbgm3Jxe7YsoGzAudoaJyu+U=
+
+Name: assets/res-1010/pub/cell/flower14.png
+SHA1-Digest: 3uC87oM1w4/ZgTzJC9y0XTCwDbA=
+
+Name: assets/res-1010/zh/pasue/ico_alive_nogold.png
+SHA1-Digest: 7VBipCmqDO/xQLTNMU/HNcGVUEk=
+
+Name: res/drawable/loading_pp.xml
+SHA1-Digest: /GzSxQba5PHaZgSicHZomBJ4T9c=
+
+Name: assets/PublicRes/en/MoreExciting/Back.png
+SHA1-Digest: +LEH6J+CVVjHebwn7T2oq8WYD6Q=
+
+Name: assets/res-1010/pub/particles/spark_r.plist
+SHA1-Digest: u3Fvis1dEJX3hbCiBshOVLSDOxM=
+
+Name: res/anim/push_in_senter.xml
+SHA1-Digest: SZRp39s9sdOSAC6dOvO0gVXdIuk=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_actionbar_ok_btn.png
+SHA1-Digest: oXmkDeSiTuz+JPINuzlzysTBKxc=
+
+Name: assets/res-1010/en/ShareScene/WeiXin.png
+SHA1-Digest: BFdGp1Uz37MKljTQWKNcrlpYUSI=
+
+Name: res/layout/adswalllist_common_en.xml
+SHA1-Digest: CvzpYE9yYfnfsT655nN3ecun2Qw=
+
+Name: assets/res-1010/pub/hex/6_Light.png
+SHA1-Digest: F0hPWjZrSi0jV0Smj8MpY31jlOU=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_bottom_frame.9.png
+SHA1-Digest: 01NLc0LvtWs8crW7QEhULp87dJk=
+
+Name: res/anim/popup_enter_lefttoright.xml
+SHA1-Digest: xmgR/02s6wiL1OnO/83fD2zfh7w=
+
+Name: assets/res-1010/pub/cell/del2.png
+SHA1-Digest: VkzudyTJYWAYq1izhuEhpNHEwiE=
+
+Name: assets/res-1010/zh/start/ico_tetris.png
+SHA1-Digest: 6zA4eg4P6uEcBfF6MkzR1TUbIXY=
+
+Name: res/drawable/login_input_button.xml
+SHA1-Digest: 9LR7UrCYeHQQJnhCTkZzz0BtE+E=
+
+Name: assets/res-1010/pub/pasue/pengyou.png
+SHA1-Digest: rrTFJiVwRb3SdGgXTiz2pdPE4ww=
+
+Name: assets/res-1010/zh/StartScene/Continue.png
+SHA1-Digest: VC9zOIPptBpeV9J2UFj+w+nDzy4=
+
+Name: assets/res-1010/zh/rank/ico_rank.png
+SHA1-Digest: wGKmlHKUtcZ4aWB1L2l39uk62kQ=
+
+Name: res/drawable/umeng_fb_top_banner.xml
+SHA1-Digest: Mwlie4mN7jzddP1D5t6qo0dhBhA=
+
+Name: assets/res-1010/pub/start/ico_coin.png
+SHA1-Digest: W4V24aTCBQRDJmdBY0f/HRU60PQ=
+
+Name: assets/res-1010/pub/hex/3_Light.png
+SHA1-Digest: WipUZiVS+E1msjamM/4+qAFjRmg=
+
+Name: res/drawable-hdpi/icon_fujin.png
+SHA1-Digest: koLypu1SCzrfMym1SE0C8bHeKn4=
+
+Name: assets/res-1010/en/common/ico_share1.png
+SHA1-Digest: d+l9+AiOLHorldgIJejKgPJhj54=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_pocket.png
+SHA1-Digest: DhxOmAU0WHszniqYLS60YdOHZwI=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_i.png
+SHA1-Digest: nUbTcQ789mDZ3NRP5JgsnjoQyFY=
+
+Name: assets/PublicRes/en/MoreExciting/DownLoad.png
+SHA1-Digest: cRfmaU3SzyZ1Aw23IIwGY6L0ZTo=
+
+Name: assets/res-1010/zh/gameover/ico_coin.png
+SHA1-Digest: Tf35I5ebms6jOLMFXEVPTgG9NxM=
+
+Name: assets/res-1010/en/str/ico_miracle_str.png
+SHA1-Digest: bGMR7Tb8KAdraszvvnaHECGH3k4=
+
+Name: res/drawable-hdpi/ic_menu_search2.png
+SHA1-Digest: 4h/VCujP0Da9tXKRjBecIQ5zrLM=
+
+Name: assets/res-1010/en/LocalRecord/ico_itemTitle.png
+SHA1-Digest: GGqIfCzgZNy2uvceihzfAydp/Zc=
+
+Name: assets/res-1010/pub/rank/ico_btn_cancel.png
+SHA1-Digest: hmCc2dr61CWwGvbPwKaQ8JmMfsY=
+
+Name: res/drawable/ssdk_oks_classic_platform_corners_bg.xml
+SHA1-Digest: w8g3q9huSgY8YosXI70sLXH036I=
+
+Name: assets/res-1010/pub/Background.jpg
+SHA1-Digest: d867eZXDjgyEQWIRcgqOxPSYTxw=
+
+Name: res/drawable/umeng_fb_back_selector.xml
+SHA1-Digest: 3IX/p5KNgJbGFxw4yzFBGIFMwmY=
+
+Name: res/drawable/footer_search_button.xml
+SHA1-Digest: vyhrpf7rYZD4RsqkOeTIARV0jHU=
+
+Name: assets/res-1010/en/buy_coin/buy.png
+SHA1-Digest: w9rzlZcfDBuACnp66BFMSBIQXdc=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_arrow_down.png
+SHA1-Digest: 4GFT+rQyV9EY9mA2lVv/jD1ojtw=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_item_selected.9.png
+SHA1-Digest: XLXDgwXUwhsXd5IVlEwTu/5gnKY=
+
+Name: assets/res-1010/zh/TetrisGame/CTGchnew.png
+SHA1-Digest: ruFLl3z7dzilLiKUdbiqXYl0TtE=
+
+Name: assets/res-1010/zh/start/ioc_dr_mario.png
+SHA1-Digest: 5NY8trbAaSkCk49xDQo07goWOsk=
+
+Name: assets/res-1010/zh/pasue/fight.png
+SHA1-Digest: WcEwW7CbCDXTRCLZgc0TY0Z6qoA=
+
+Name: assets/res-1010/zh/pasue/reputation1.png
+SHA1-Digest: j5J1STvARjeFVdaOTVD6Ymorq7E=
+
+Name: assets/res-1010/pub/common/number/1.png
+SHA1-Digest: W9cXGVuBMBV/VHpphfnFwjqWidg=
+
+Name: com/pdragon/ads/mg/assets/tow_click_open_webview_btn_320.gif
+SHA1-Digest: uB+9ayXFumAP3UO02XQiN03PsYI=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_youdao.png
+SHA1-Digest: pgvpHenF7cpbjw5ZaLfBs+H2lto=
+
+Name: assets/res-1010/pub/LuckyDial/CLDctb.png
+SHA1-Digest: 5SFlVk4VxE7CFJeid1yGPZWm2JY=
+
+Name: assets/res-1010/pub/item_ico_refresh.png
+SHA1-Digest: UJtLtTnfcjkw7BlwmFa+jaGZBBE=
+
+Name: com/pdragon/ads/mg/assets/mg_fill_bgw.png
+SHA1-Digest: t6VAw9sfb/07UbT6FuQ0pkjkhN0=
+
+Name: assets/res-1010/pub/pasue/ico_alive_star.png
+SHA1-Digest: LVA5Jb2wYFfMlc94Lo/mKIrKMcU=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_2.png
+SHA1-Digest: qBWXUNMcwxv6qgcPtzC6KhoJ2/c=
+
+Name: res/drawable/umeng_update_button_close_bg_selector.xml
+SHA1-Digest: mdrl9WqGj+YJNMOMAucf9pyt8KU=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_baidutieba_checked.png
+SHA1-Digest: cPp1SjgjCzU8+Frycw4b91A80d0=
+
+Name: assets/res-1010/en/TigerMachine/ico_description.png
+SHA1-Digest: oku7Qi7Llhn+1hMoQbT28TcxIK8=
+
+Name: assets/res-1010/zh/str/ico_reward_str.png
+SHA1-Digest: 6/xIeQ2FTD8zN9rPuG43o6Jzacg=
+
+Name: assets/res-1010/en/guide_mario/1.jpg
+SHA1-Digest: Hun+mjtviqpH0Mj1wOGd6s230X4=
+
+Name: assets/res-1010/pub/common/number2.png
+SHA1-Digest: GuX4RYdlK01SFfX2JDw9Jest9H0=
+
+Name: res/anim/gd_grow_from_bottomright_to_topleft.xml
+SHA1-Digest: 5hHQJ90nXdg5g8w872ovo7w1iEY=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_selected_pressed.png
+SHA1-Digest: EhetKMudFZnkZuXGFHNjY99xf9s=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kakaotalk.png
+SHA1-Digest: +gFL82w/C/wPGQhfzBdvwRcT3n4=
+
+Name: res/drawable-hdpi/alonebgb.png
+SHA1-Digest: A7agtETNfExA+02evxB+ciZMp70=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_selected.png
+SHA1-Digest: tL2nwmMLT5Sv89yRC64FaOYTFMw=
+
+Name: assets/res-1010/zh/str/ico_check_str.png
+SHA1-Digest: LwTazwfGLqqyY7Jg6UNJvhitEMw=
+
+Name: res/drawable-xhdpi/btn_cancel_back.9.png
+SHA1-Digest: Ex24ZC+U0vnb0fzyZZd6z134NIs=
+
+Name: assets/res-1010/en/rank/ico_score.png
+SHA1-Digest: bviCFosfIcBPhqMY9hcK/DCxa0k=
+
+Name: assets/res-1010/zh/str/ico_miracle_str.png
+SHA1-Digest: T23MnX4kQJmLP7W3H/UrbftwXaM=
+
+Name: res/drawable-hdpi/icon_refresh.png
+SHA1-Digest: Gci474/gZoNacKsWkB/F6rOFmtQ=
+
+Name: assets/res-1010/pub/common/number/5.png
+SHA1-Digest: sOHSHmx9FkUvVz14BFSTSmlO/WQ=
+
+Name: res/drawable-hdpi/header_back1.png
+SHA1-Digest: pUOITdoD7VtD3iRCr4mTvCIBYX0=
+
+Name: res/drawable-hdpi/noresult.png
+SHA1-Digest: k+k13PI/5u9vY6GkSiaFVg8FRYw=
+
+Name: assets/res-1010/en/str/ico_check_str.png
+SHA1-Digest: APN15qgbMA2XKTKSZlAHy8PfQUc=
+
+Name: res/layout/gd_action_bar_item_base.xml
+SHA1-Digest: xNlSZcS1bnCLzaYK6gWPs1FN4jM=
+
+Name: assets/res-1010/pub/cell/add2.png
+SHA1-Digest: zLEF5Yhkr41uV/JLxkNL+LFsiA4=
+
+Name: res/drawable-hdpi/downbg.png
+SHA1-Digest: Yv8yHeOYg0R9lgLSyOHytHw2KFU=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_laiwangmoments_checked.
+ png
+SHA1-Digest: 6ALJXhEChYNSpGT/+7XCK9XXdoY=
+
+Name: assets/res-1010/pub/main/ico_stop.png
+SHA1-Digest: zJTbkA5KY+tuwnbNbopbJttqejQ=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_next.png
+SHA1-Digest: cW16i5R3s7+xc+xBnjqAxeLnduI=
+
+Name: assets/res-1010/zh/pasue/spend.png
+SHA1-Digest: 2/1R0GIACrUByAzPx820hjfkLxA=
+
+Name: assets/res-1010/zh/guide/1.jpg
+SHA1-Digest: u4/pyDDYkaE3xb2aepPVUtXfZDM=
+
+Name: com/pdragon/ads/mg/assets/mg_close_h.png
+SHA1-Digest: 9SMtGvqpCV5MSS0mdi1nsO9vmD4=
+
+Name: assets/res-1010/pub/cell/flower8.png
+SHA1-Digest: ek3i2+1x+lB+p+ZjalGmMW5BXO0=
+
+Name: assets/res-1010/pub/sounds/clear.wav
+SHA1-Digest: xcLHCk2hlE3Aqef6eMXg5bOCG1Q=
+
+Name: assets/res-1010/zh/guide_clean/1.jpg
+SHA1-Digest: cDS3EAUpOmt01MaSdWPIYwLMyVs=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_douban.png
+SHA1-Digest: ABF6lvBi+H2OTIuqKF57IFEgUok=
+
+Name: assets/res-1010/zh/pasue/share.png
+SHA1-Digest: HzvtVcN9pfPvWppCK9TcALXhFyo=
+
+Name: assets/res-1010/pub/pasue/ico_pause_bg.png
+SHA1-Digest: 1Lj2twI03b+PS5ZiHLrhZkoDtPg=
+
+Name: res/drawable-hdpi/icon_end.png
+SHA1-Digest: vbBDG0JBX3KtqXB7K4+/hkrqowI=
+
+Name: assets/res-1010/en/ShareScene/QQZone.png
+SHA1-Digest: 7R3vgIwXKQLJgW/NLToZFsMTMes=
+
+Name: res/drawable/umeng_fb_see_list_selector.xml
+SHA1-Digest: pFeiuq2uedjN0cYebSBNyVIA1a4=
+
+Name: assets/res-1010/pub/buy_coin/process.png
+SHA1-Digest: +9DB5elAy/FH8rxaXMUg1RgVm1w=
+
+Name: res/layout/ssdk_oks_skyblue_editpage_at_layout.xml
+SHA1-Digest: MA95uGIbxcBBKeQ8/o2FYGCEdSY=
+
+Name: assets/res-1010/pub/DrMario/GreenHalfR.png
+SHA1-Digest: wOmJblaCsnHK6Gnd1s8pwJNqQDc=
+
+Name: com/pdragon/ads/mg/assets/tow_click_download_btn_640.gif
+SHA1-Digest: k0NQVKIOILHxIShXb4f2F0lq024=
+
+Name: res/drawable-hdpi/btn_friend_add_normal.png
+SHA1-Digest: 7cQMuhCPKEGhvQDqepxSJbYjSDw=
+
+Name: res/drawable-hdpi/umeng_update_btn_check_on_holo_light.png
+SHA1-Digest: 5bekrm7fAjxp9kmeL6/TVFPIphg=
+
+Name: res/anim/gd_grow_from_topright_to_bottomleft.xml
+SHA1-Digest: nmO3SGiJnh7UwoWA1CFpZ6xrGio=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_shortmessage_checked.pn
+ g
+SHA1-Digest: dRwd/P2IYH47aqVb0ltlPzvDGtA=
+
+Name: res/drawable/refresh_button.xml
+SHA1-Digest: 6XbZvEqqx2snZtX3NSv9fd5gIvQ=
+
+Name: assets/res-1010/en/Achievement/Master.png
+SHA1-Digest: eRZ50BB1ROOhAlaHxh7Ad+1Mw7w=
+
+Name: assets/res-1010/en/gameover/usedup.png
+SHA1-Digest: hsNRCKjPM1K0L59KFmYeB+qHWKs=
+
+Name: res/layout/umeng_fb_list_header.xml
+SHA1-Digest: ahv7DaI6aL6wFroMjOu5KvPl7ZI=
+
+Name: res/drawable-hdpi/gd_action_bar_export.png
+SHA1-Digest: AZ0ZF7SJ2csFYMdqSfi2BQq1R3k=
+
+Name: res/drawable-hdpi/logo_sohumicroblog.png
+SHA1-Digest: jNP6P0O8aomC7ZmJtO8Y4ssIo5Q=
+
+Name: assets/res-1010/en/LocalRecord/ico_btn_share.png
+SHA1-Digest: 9Tdtwke188lUwl/kas6lNpbc9iY=
+
+Name: assets/res-1010/pub/particles/quanquan.plist
+SHA1-Digest: nLlwAiWL7rvcWwy5HyHL0265wEc=
+
+Name: assets/res-1010/zh/ShareScene/GainCoin.png
+SHA1-Digest: Bfre5XbEFz6YH2oscg/cZbiO5uk=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_twitter_checked.png
+SHA1-Digest: JIvX1bHs9K3rrsgrT+gRi9mOh9A=
+
+Name: res/drawable-hdpi/arrow_down.png
+SHA1-Digest: yS2s12bA4Q5ouFXwQ7VmMICCqJI=
+
+Name: res/drawable-hdpi/ic_menu_search.png
+SHA1-Digest: bryAPNDjZxDFOBbl7suaGGsVoWU=
+
+Name: assets/res-1010/pub/star_g.png
+SHA1-Digest: Uh4yhkup3N3JVBiP346Y+TQVP+I=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_email.png
+SHA1-Digest: ulb4rEsmI3ikw1G1TaUd/AWfIbQ=
+
+Name: assets/PublicRes/en/reputation2.png
+SHA1-Digest: RZJ3cUQB7DxVz4QaufHgK5gQ7Dc=
+
+Name: res/drawable-xhdpi/ssdk_auth_title_back.png
+SHA1-Digest: KcOU9zRA4LnWnGrzTb4Jvm+VpMQ=
+
+Name: assets/res-1010/zh/buy_coin/buy.png
+SHA1-Digest: /8QyMD0I0YjNUtnPQHD0UeZXFi4=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_9.png
+SHA1-Digest: av2+6ClCFx5b8UArkszz/V8eilU=
+
+Name: assets/PublicRes/zh/CashGift/CGLbtno.png
+SHA1-Digest: HYfO8gq5O8R8sOhkL8q4i3Jq0vg=
+
+Name: res/drawable-hdpi/logo_twitter.png
+SHA1-Digest: coBbsAgRa63qiqgMDe9Set8+OrE=
+
+Name: res/drawable-hdpi/btn_sharea2.png
+SHA1-Digest: 4/aKjKvA7ruv8/QDcZz+qcR1EqY=
+
+Name: res/layout/header.xml
+SHA1-Digest: iQEBojOrxX8V20Et+NY3XNIQDIw=
+
+Name: res/drawable-hdpi/umeng_fb_list_item_pressed.9.png
+SHA1-Digest: 5ogIBBDF4t1zBWqHnAG0v0S9jAc=
+
+Name: assets/res-1010/pub/LocalRecord/number_order.png
+SHA1-Digest: +slmgLt4caOhIPACtKY43S0V7VM=
+
+Name: assets/res-1010/pub/TigerMachine/CTMrt.png
+SHA1-Digest: VoYA311c5sZ0n1p9MqbZHn9lbUY=
+
+Name: res/drawable-xhdpi/blue_point.png
+SHA1-Digest: FQdLF8wVGjyb2ECZHwx1j7hDuRY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechatfavorite_checked.
+ png
+SHA1-Digest: sTaDtp7viaocnWq+GScKvY5Ylw0=
+
+Name: res/drawable-xhdpi/btn_back_nor.9.png
+SHA1-Digest: PkrrhzSS4LlDlm1qP6Q22ss9iqk=
+
+Name: res/drawable-hdpi/icon_target.png
+SHA1-Digest: yRrCyo8qZCGfwFyYU2GWp9s3P8E=
+
+Name: assets/res-1010/en/LocalRecord/ico_delete.png
+SHA1-Digest: wKfdV527sphTZyaMtcxkhOuhRNk=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_next_grey.png
+SHA1-Digest: Ap8zrUsVQWot/QZq4bKNxhp0sUU=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: EEQLNTnvzT8AYjiwEq1C4ei0sgk=
+
+Name: res/anim/push_out_senter.xml
+SHA1-Digest: xN3HXoTH6jNdxpduN9hQOYHwbZo=
+
+Name: assets/res-1010/pub/LocalRecord/ico_choice.png
+SHA1-Digest: dTieihyBTT9eE3g4xHQt7XN5ARk=
+
+Name: assets/res-1010/pub/rank/ico_list_hight_bg.png
+SHA1-Digest: 7gQVjGzDe7HUh4p5E7qkOTGpqoM=
+
+Name: assets/res-1010/zh/ShareScene/QQZone.png
+SHA1-Digest: whOlD/lkQEDaaeOMBZokAfTc2vg=
+
+Name: assets/res-1010/zh/ico_remainder.png
+SHA1-Digest: BOWcjdva1+QmxBMi8i5vWqXMF0c=
+
+Name: assets/res-1010/pub/ShowInputInfo/SIIbg.png
+SHA1-Digest: Qha81ZKnc4XM4JXjbmCVGgpd5xQ=
+
+Name: res/drawable-hdpi/gd_action_bar_edit.png
+SHA1-Digest: 928c2THzvjGv7nVxzDnfz7P+vck=
+
+Name: res/drawable/umeng_update_button_ok_bg_focused.xml
+SHA1-Digest: 2uXmUeTOACRxvRjhuMuYEEgixoQ=
+
+Name: assets/res-1010/pub/img_baozha.png
+SHA1-Digest: o/3cJHBMpTMk1cp7cVL+ZB3e/jo=
+
+Name: assets/res-1010/zh/str/ico_surplus_str2.png
+SHA1-Digest: YJFgvWZJBm2FB7Z/FRScdTNPyWw=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_normal_normal.png
+SHA1-Digest: OC/EiMsMO98WBSzBJgFpaKWbfCE=
+
+Name: res/drawable-hdpi/checkbox_b.png
+SHA1-Digest: V3jWcXwAGOcBs36yzeli/yC2kXc=
+
+Name: res/drawable-xhdpi/auth_follow_cb_chd.png
+SHA1-Digest: XRvmpZADzcwYRVQhbiXBiVbiwvw=
+
+Name: assets/res-1010/pub/animation/magic/5.png
+SHA1-Digest: grzfFf38Sv/kfuOwS2dh2INxX18=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_whatsapp.png
+SHA1-Digest: V4SuhcRDn2KPSJviLDwrwVXXOYE=
+
+Name: res/drawable-hdpi/reputation_no_zh.png
+SHA1-Digest: iNqCVNQXj3DFeqth7ZMNFfP/jVI=
+
+Name: assets/res-1010/pub/start/ico_shape1.png
+SHA1-Digest: rhUx9EoYyHDeWpVc8j/omyuUMGU=
+
+Name: assets/res-1010/en/LuckyDial/showinfo1.png
+SHA1-Digest: YrIoe08rz48RlULCp8qGqDGGWdc=
+
+Name: res/drawable-hdpi/btn_sharea.png
+SHA1-Digest: kJGKvAJKkLFkdXY7v9vyKvI5HO0=
+
+Name: assets/res-1010/pub/sound/s_move.wav
+SHA1-Digest: zGmuXWqwQ9QktoG2jgB54Wenvgg=
+
+Name: assets/res-1010/zh/LocalRecord/ico_delete.png
+SHA1-Digest: G/66ujuSYWm6JGeJxDR1YkIWQ0s=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_3.png
+SHA1-Digest: crRwz0uf06UYFcox80m6xx33pyo=
+
+Name: assets/res-1010/zh/str/ico_superMan_str.png
+SHA1-Digest: hOI6/+a+kay3mY65/G24cf5qFG8=
+
+Name: assets/res-1010/pub/ShareScene/ico_share_bg.png
+SHA1-Digest: GpEiQmZIUpds3kDN8yyUEtYaCKc=
+
+Name: res/anim/umeng_fb_slide_in_from_left.xml
+SHA1-Digest: RsMpHEvsX1YB0+QDnMEqm9Kcrwg=
+
+Name: res/drawable-hdpi/gd_action_bar_slideshow.png
+SHA1-Digest: glZVY4Ygnr2QZsiI7Lz2tyKjefI=
+
+Name: res/drawable-hdpi/recommend_off.png
+SHA1-Digest: nnSCkEbTeMSlWKmqxzOP0KfYZNI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_googleplus.png
+SHA1-Digest: Al/Nd4VJNLC7stWPPWV2Hencdsg=
+
+Name: res/drawable-hdpi/ssdk_oks_ptr_ptr.png
+SHA1-Digest: 9kd0AO5yW4Cw2dCQSVxHH0y4eCM=
+
+Name: res/drawable/umeng_fb_submit_selector.xml
+SHA1-Digest: tT0lRgy13nvRJZ1ddIXUdp7aFzU=
+
+Name: assets/res-1010/pub/LuckyDial/CLDfm.png
+SHA1-Digest: WRFvMMAxmJdKatb3MI33pk0EdX8=
+
+Name: assets/res-1010/pub/fonts/Marker Felt.ttf
+SHA1-Digest: Ul8qSkVFD87LPYpf1H07D0hPYps=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_10.png
+SHA1-Digest: JuPAy8RJl3Mla2byAcgxlgtqdqk=
+
+Name: res/drawable/umeng_update_button_cancel_bg_selector.xml
+SHA1-Digest: yNCENp0t2cy88etWrqL6qPcoumQ=
+
+Name: assets/res-1010/en/TetrisGame/CTGchnew.png
+SHA1-Digest: bOGOrs7UHJho/5oThguAEgOTiJE=
+
+Name: assets/res-1010/pub/common/number/6.png
+SHA1-Digest: Du3wuJkdILC+ZhQpb4Y2Zjfds+g=
+
+Name: assets/res-1010/zh/ChooseGift/CCGld.png
+SHA1-Digest: S8G5L6T8p8hvFmReJHf3fQTOzqE=
+
+Name: res/drawable-xhdpi/ssdk_logo.png
+SHA1-Digest: HIt2w5nGrGRMEzuoWuXFFeykfU4=
+
+Name: res/drawable/bg_checkbox_menus.xml
+SHA1-Digest: /G9NwPVrIgxkpa9kbTjlQlwYPtw=
+
+Name: res/drawable/umeng_fb_gradient_green.xml
+SHA1-Digest: ZDyisfAamRM9mdew8+tq1DegzP8=
+
+Name: res/drawable/bg_button_press_gray.xml
+SHA1-Digest: I9eDYenO8Xz8BqlT0oYDzCAf9OQ=
+
+Name: res/drawable/goout_menu_button.xml
+SHA1-Digest: dv2T9rTyc7Ae4VPZ1sYxlhkyUB0=
+
+Name: assets/res-1010/pub/cell/flower3.png
+SHA1-Digest: EVvwu5Z2y4x2uJFBdDTUNYdM5rs=
+
+Name: assets/res-1010/pub/buy_coin/item_buy3.png
+SHA1-Digest: vH0zZqWNsa20HqYk6HYk8QOG+64=
+
+Name: res/drawable/auto_login_radio_button.xml
+SHA1-Digest: DdYi8oCeGrzLPW9crNEKHny0lmQ=
+
+Name: assets/res-1010/pub/cell/del1.png
+SHA1-Digest: 2CY3Wevn9wgTbDB65tKQaoc6Pk4=
+
+Name: res/drawable-hdpi/logo_wechatmoments.png
+SHA1-Digest: 6kpwiGw7VhkTvY8tdBWJPw+l4hc=
+
+Name: assets/PublicRes/zh/MoreExciting/Title.png
+SHA1-Digest: ZlDfNvBe2XPySc3dLOAENjp2z/Y=
+
+Name: assets/res-1010/zh/pasue/ads.png
+SHA1-Digest: QEMLqAAyphGCsbyEEuo+WILmwFY=
+
+Name: res/drawable/progress_bar_layer.xml
+SHA1-Digest: JWInHAuGvWhTnhA3JHv0sHptS9M=
+
+Name: res/drawable/gd_quick_action_grid_selector.xml
+SHA1-Digest: 77LIilxH8nfzL2kI4LY54HqbCY0=
+
+Name: assets/res-1010/zh/ShareScene/SinaMicroBlog.png
+SHA1-Digest: vLFn840kaEY8FH9GxBrlS0xbqpA=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_actionbar_back_btn.png
+SHA1-Digest: P16+zxy9aQLYvjckxI/moudVZTU=
+
+Name: assets/res-1010/pub/main/ico_del_cell.png
+SHA1-Digest: 4ccYoTak52e7qjRWZYa81lxkfic=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kaixin_checked.png
+SHA1-Digest: +BFKzibOJB7FxmdhaqhQYv4ciHM=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_share.png
+SHA1-Digest: BU+CPjHNpJM6HrAxC9wvWMZjRHQ=
+
+Name: res/drawable/umeng_update_title_bg.xml
+SHA1-Digest: lKUqlCtptduTaz4NroijWqTnGRI=
+
+Name: assets/res-1010/pub/number_target_score.png
+SHA1-Digest: I8c/2hVOtVJU9xH8bjcAtFWoFxk=
+
+Name: res/drawable-hdpi/gd_action_bar_locate.png
+SHA1-Digest: KUDCKmNcazMmaDXotwdd/0422Vs=
+
+Name: res/drawable-hdpi/arrow_down_gray.png
+SHA1-Digest: a98Otv8+n6TiUVgC85O7mdad5w4=
+
+Name: assets/PublicRes/en/CashGift/gift_bg1.png
+SHA1-Digest: 8+B0Co6gcnVi1Rniqkg8oL1sFxE=
+
+Name: assets/res-1010/pub/TigerMachine/coin5.png
+SHA1-Digest: 9Cn41bj+SrJChCbOce+POVoCCEc=
+
+Name: assets/res-1010/zh/rank/ico_my_score_str.png
+SHA1-Digest: sdXjcubdUFqZH7M7A6TGuUQacmE=
+
+Name: res/drawable-hdpi/gd_action_bar_search.png
+SHA1-Digest: yfbnAc7StIOln2hFgJlMG9hluSI=
+
+Name: assets/res-1010/pub/StartScene/CoinAdd.png
+SHA1-Digest: qQwxPTctuWjYXPHo/QLBBarKRDs=
+
+Name: assets/res-1010/pub/start/ico_feedback.png
+SHA1-Digest: 3nu42Xg9AYAgMyI9xIYjbPUAYZs=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_instapaper_checked.png
+SHA1-Digest: Npv7k1Ej/dq1H39q1aOZaDfw/K0=
+
+Name: res/drawable-hdpi/gd_action_bar_item_focused.9.png
+SHA1-Digest: luq5JAxkuatlELHzTCip9T8CaIM=
+
+Name: assets/res-1010/zh/StartScene/NewGame.png
+SHA1-Digest: c+HY5kafYWpqUATTJkPMx8L0qdc=
+
+Name: res/drawable-hdpi/nopic.png
+SHA1-Digest: aPqgnBF5DjQHUadQRD2TLNkQpK0=
+
+Name: res/drawable-hdpi/gd_tab_indicator_normal.9.png
+SHA1-Digest: xCNLe2/Cud8iHGXUjuyep9EIiYE=
+
+Name: res/drawable-hdpi/gd_quick_action_grid_selector_focused.9.png
+SHA1-Digest: A0WVMHwyGb+WJFttqyq2EXQdRiQ=
+
+Name: assets/res-1010/en/StartScene/ReadProgress.png
+SHA1-Digest: D6AWKhgheqJu5OWMUX8QF/X9AYs=
+
+Name: assets/res-1010/pub/ShowInputInfo/SIIrt.png
+SHA1-Digest: HYfO8gq5O8R8sOhkL8q4i3Jq0vg=
+
+Name: assets/res-1010/pub/rank/ico_list_normal_bg.png
+SHA1-Digest: m1+lc6qacP+uhOPqlwwXH6gLOCo=
+
+Name: assets/res-1010/pub/cell/a.png
+SHA1-Digest: ypQsYTol9Ij0wtYPj3nq6b0UFBs=
+
+Name: assets/res-1010/pub/animation/break/5.png
+SHA1-Digest: sop+eE/+gMEkjdGr66a4rHKBhJM=
+
+Name: assets/gdt_plugin/gdtad.jar
+SHA1-Digest: T3FtaDHvrMJBIK94D2AkzYwxdRQ=
+
+Name: res/drawable-hdpi/umeng_fb_arrow_right.png
+SHA1-Digest: cpWZeFvnTunnVoDbEmobrTrIxHQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_renren_checked.png
+SHA1-Digest: Mf3ZNqa532NbKelQoiM9z5mRWE8=
+
+Name: res/drawable-xhdpi/logo_qq.png
+SHA1-Digest: PnKP+VU7vsqNnuIlvle9QL70ILY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechatmoments_checked.p
+ ng
+SHA1-Digest: q4emQ6Ys2q95U3GIH0dDqX//XvM=
+
+Name: assets/res-1010/zh/LuckyDial/showinfo1sel.png
+SHA1-Digest: 8Ys/NhP+ySa3AHzZX/rPZl0QXCw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_pocket.png
+SHA1-Digest: UgYdb/0e+hJZlg1oxOlk9OhomDU=
+
+Name: assets/res-1010/pub/TetrisGame/CTGpausebg.png
+SHA1-Digest: 1Hc7NJFhELEYJEi5d22HF3xeVRs=
+
+Name: res/drawable/gd_segment_label.xml
+SHA1-Digest: S8c7CIU2mxuQbzjog0oR6TDopNc=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_email_checked.png
+SHA1-Digest: KdYmSgB2ykwuttgvpDLqNfnI0wc=
+
+Name: assets/res-1010/en/TetrisGame/CTGpuaseright.png
+SHA1-Digest: XC9ZUHxLCRaCEIAntJUllKVd+8o=
+
+Name: assets/res-1010/pub/cell/b.png
+SHA1-Digest: 8uSpi+mbohjPVn5uJcVknzz0iVo=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_7.png
+SHA1-Digest: g0ebpb8oOIFuwux6USJ00/4t+TY=
+
+Name: com/pdragon/ads/mg/assets/mg_dialog_bg.png
+SHA1-Digest: 4oW8j9pv8oluSzizqZTKzlqoXz4=
+
+Name: res/drawable-xhdpi/logo_wechat.png
+SHA1-Digest: bNbQ9/75U+74JFWu18fziBjLekc=
+
+Name: assets/res-1010/pub/cell/flower2.png
+SHA1-Digest: 0nfaSrLp0wdAppm/RCUS2/R6/Hc=
+
+Name: assets/res-1010/en/LuckyDial/ico_wheel_str.png
+SHA1-Digest: P5a0256JCO0S0Rn009ZlY+VWm0k=
+
+Name: res/drawable/footer_publish_button.xml
+SHA1-Digest: JAUsl1difMfTSW8bJhya63PKp9Q=
+
+Name: assets/res-1010/pub/common/ico_glod.png
+SHA1-Digest: 5SFlVk4VxE7CFJeid1yGPZWm2JY=
+
+Name: assets/res-1010/pub/particles/spark_y.plist
+SHA1-Digest: nkJzZEEZTF0s/v78i/gHb8cD2xk=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_kakaotalk.png
+SHA1-Digest: QImJj+u+8YoY3je666hdD0+HePQ=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_alipay.png
+SHA1-Digest: ynNnUUJj1QHrcPhL7peZTjHJKB0=
+
+Name: assets/res-1010/pub/reputation/zh/pass_barrier_reputation_no.png
+SHA1-Digest: rbD8aM1COmUzIQCOtRkO4H4keCE=
+
+Name: assets/res-1010/en/rank/ico_rank.png
+SHA1-Digest: 15SKCPWFgdD7LdTA/hSx1zs8KGo=
+
+Name: res/drawable/btn_list.xml
+SHA1-Digest: +gH/pbnD1RkNpL6FuF7N6eu6E+A=
+
+Name: assets/res-1010/pub/common/ico_bg_star_2.png
+SHA1-Digest: 5/gsYsRjyvIgGQ1b88cPD08Gfto=
+
+Name: assets/res-1010/pub/animation/flower/6.png
+SHA1-Digest: w8aCkCTJ/SyVA0gSnDxA1u98GJE=
+
+Name: assets/res-1010/zh/start/ico_gift.png
+SHA1-Digest: np6l24k/y9SWwvL/MZdXs/LrSz0=
+
+Name: res/drawable-hdpi/gd_tab_indicator_selected.9.png
+SHA1-Digest: ORlqzOELsVz1J6HggPDaw3Dsg00=
+
+Name: res/drawable/rectangle.xml
+SHA1-Digest: k/O9a36Nek+mxFuHmJUA6RJl08o=
+
+Name: assets/res-1010/en/ChooseGift/CCGtm.png
+SHA1-Digest: 3WxBqILfANmNyCnlzBCInPg3pHk=
+
+Name: assets/res-1010/pub/cell/g.png
+SHA1-Digest: 3ROCcI9AouiURSJ6cVBtNqTcGug=
+
+Name: assets/res-1010/zh/str/ico_newRecord_str_.png
+SHA1-Digest: Qpvnd2JDj7DS8EG2C0Wjbh8pQ1o=
+
+Name: assets/res-1010/pub/cell/j.png
+SHA1-Digest: n4RuctlBVMEALnYGSsr/qtdUFW4=
+
+Name: assets/res-1010/zh/str/ico_congratulations_str.png
+SHA1-Digest: Ba5xwMvP8oQT8DsPBPL4dZk3/0M=
+
+Name: assets/res-1010/zh/ShareScene/ico_share_str.png
+SHA1-Digest: Gxt4ontcQM7aU5Mof+vSX5xoOC4=
+
+Name: assets/res-1010/en/pasue/ads.png
+SHA1-Digest: hGecpi0kEDtH8FMuN/2X9SBKEhM=
+
+Name: assets/res-1010/en/guide_free/1.jpg
+SHA1-Digest: pAR+44RjkoMpPhXDz/ojFck5jHw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_bluetooth_checked.png
+SHA1-Digest: lO7DxNr1iguLG8ZyNgd2cVAa/nk=
+
+Name: assets/PublicRes/en/CashGift/gift_bg3.png
+SHA1-Digest: 2ZHp6xn3ARU6SK0S7Pk57tq5dz0=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_refresh.png
+SHA1-Digest: qgEPlKOl6/8Md91KrvXRNqZPUp4=
+
+Name: assets/PublicRes/en/CashGift/CGLbtno.png
+SHA1-Digest: HYfO8gq5O8R8sOhkL8q4i3Jq0vg=
+
+Name: res/drawable/umeng_fb_gradient_orange.xml
+SHA1-Digest: AHyEGQnT7imQmkLcSm6fiGPhe3s=
+
+Name: res/anim/popup_enter_righttoleft.xml
+SHA1-Digest: ec+zw5b39c2z1JswJAK8AQQaHV0=
+
+Name: res/drawable-xhdpi/ssdk_oks_btn_back_nor.9.png
+SHA1-Digest: PkrrhzSS4LlDlm1qP6Q22ss9iqk=
+
+Name: res/drawable-hdpi/gd_segment_checkmark_off.png
+SHA1-Digest: gjyuG9+A10e2+GIFnF8sjzo1vJ4=
+
+Name: lib/armeabi/libtnet-2.1.20.1-agoo.so
+SHA1-Digest: aijhEGhesxkalBfavj7WpdCuJRc=
+
+Name: assets/res-1010/pub/common/ico_about.png
+SHA1-Digest: LrvMKtLg47Fbb2ooy5MTem3rLjI=
+
+Name: assets/res-1010/zh/LuckyDial/coininfo5.png
+SHA1-Digest: hXJnLtsCxvNZ2MDxEXEnXapZMnw=
+
+Name: res/drawable-hdpi/gd_action_bar_sort_by_size.png
+SHA1-Digest: j2oUcWsSCS6ENIAKcAbtM3DWXLY=
+
+Name: res/drawable/bg_button_default_gray.xml
+SHA1-Digest: I9eDYenO8Xz8BqlT0oYDzCAf9OQ=
+
+Name: res/drawable-hdpi/icon_loc_alert_normal.png
+SHA1-Digest: NJKyhe67NkooZ7WOOoznuw3gN2I=
+
+Name: res/drawable-hdpi/gd_shadow_bottom.9.png
+SHA1-Digest: zuGtgRkabO+ekCSn6sZoUzD48SQ=
+
+Name: res/drawable-hdpi/tip_pointer_button_normal.9.png
+SHA1-Digest: THAs6LM5IPF7vkE/Nj6iHyIUwFw=
+
+Name: assets/res-1010/zh/LuckyDial/coininfo2.png
+SHA1-Digest: wmuk6F3pLPM/QbJnn/Kj7ybfdb4=
+
+Name: res/layout/gd_content_dashboard.xml
+SHA1-Digest: Dz97Cwsq+6Hf1zA78Q7RYKONb4s=
+
+Name: assets/res-1010/pub/TetrisGame/CTGbtleft.png
+SHA1-Digest: 8afYVwFJwhDauo28j6oJ4R+CGaY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechat.png
+SHA1-Digest: 61qXEU0gmvQjtYA4AD0eo6t4+UU=
+
+Name: assets/PublicRes/pub/MoreExciting/Bg.jpg
+SHA1-Digest: 2SaH94wzQlky6KScrRIWeODraVw=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_flickr.png
+SHA1-Digest: rzfSm+FwntK4tVkEiBZlXV2gjpQ=
+
+Name: assets/res-1010/pub/TetrisGame/CTGchoose.png
+SHA1-Digest: hT0aOfvO4MeoZzdnAOoRA9VuzVo=
+
+Name: assets/res-1010/pub/DrMario/RedHalfR.png
+SHA1-Digest: NdT/qjNGC2PT8WX5Y9svoic7Zqs=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_laiwangmoments.png
+SHA1-Digest: lfgAwp3OxIHIGMDGbRgKl1yGS8s=
+
+Name: assets/res-1010/pub/animation/flower/4.png
+SHA1-Digest: +asuuhKsvzOD9jQhZzocN2V4m0c=
+
+Name: res/anim/gd_grow_from_top.xml
+SHA1-Digest: z0oTQq41z/heohOXZdKq8OE+/Hs=
+
+Name: assets/res-1010/pub/CashGift/gift_bg2.png
+SHA1-Digest: 6avC8uL3c6QcS4qOLr885rbXeFc=
+
+Name: res/drawable-hdpi/umeng_fb_conversation_bg.png
+SHA1-Digest: MgZc1ooHqMmfimA3XzVfyTNu2bE=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_laiwang.png
+SHA1-Digest: nGcwvlk7Pwxxyor+v2nVHT+qWO0=
+
+Name: res/layout/gd_action_bar_dashboard.xml
+SHA1-Digest: D/Y/QoQjuOB+BSepX2A1LSePqoY=
+
+Name: assets/res-1010/pub/animation/addAction/4.png
+SHA1-Digest: u9zO9uqikNM+QOnkUFjYOooaYQ0=
+
+Name: res/drawable-hdpi/logo_evernote.png
+SHA1-Digest: 4jtZT78rukwXzhZatbtRNy7C4UQ=
+
+Name: assets/res-1010/zh/ico_level_str.png
+SHA1-Digest: lw/51a1xcWkqdhBD5mMWGkRtS18=
+
+Name: res/drawable-hdpi/umeng_update_btn_check_off_pressed_holo_light.
+ png
+SHA1-Digest: tIG1r++3vO7AWXDg4QVX1wKrvPc=
+
+Name: assets/res-1010/en/Achievement/Expert.png
+SHA1-Digest: XHvZXECx6pFNdc14rqx+JfPeRrA=
+
+Name: res/drawable-hdpi/logo_email.png
+SHA1-Digest: D5aA791frGgZOeu/6ABQvr7Yrqc=
+
+Name: assets/res-1010/pub/LocalRecord/ico_titleBg.png
+SHA1-Digest: XjdK2SAsKe0DjOx43ML1IDxrULM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_instagram.png
+SHA1-Digest: kRS3lAntGEOMBphackbMtn3WJxI=
+
+Name: assets/res-1010/en/guide_hex/1.png
+SHA1-Digest: 49Cd4nYpCAi7/ZF95Fn7kkRcv6E=
+
+Name: res/drawable-hdpi/btn_list_down_pressed.png
+SHA1-Digest: zi7rfY/LFwW9RS8BywtLC5WURAs=
+
+Name: res/drawable/footer_copy_button.xml
+SHA1-Digest: NvFWNbfTwqNK5aakHmKnxfrpgpE=
+
+Name: assets/res-1010/pub/star_r.png
+SHA1-Digest: OVeElele1w93bWKenZUQPtPWJ3k=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_linkedin_checked.png
+SHA1-Digest: sOiJwiyF1yzpScnNIAHh9zuh3eU=
+
+Name: res/drawable/umeng_fb_point_new.xml
+SHA1-Digest: f3U/QETVbH/3o7yN/GTXkh5j3jM=
+
+Name: res/drawable-hdpi/ic_menu_refresha.png
+SHA1-Digest: VLEX1uhZQd0g+9EKYxd8J3R4jsg=
+
+Name: assets/res-1010/zh/guide_free/1.jpg
+SHA1-Digest: 6/nrXjnLMIiGkPRcV29V1O3SAt4=
+
+Name: assets/res-1010/pub/LuckyDial/coin3nor.png
+SHA1-Digest: yYxfGIN1tq1tdRZfX8dZMQEAXXg=
+
+Name: assets/res-1010/pub/ChooseGift/CCGfm.png
+SHA1-Digest: Jop5/ksDeH2uZay+X+j26glebdQ=
+
+Name: assets/res-1010/zh/str/ico_cool_strl.png
+SHA1-Digest: oqr8k4sCpDhH8Oa6A/mnW6jMQgA=
+
+Name: res/layout/ssdk_oks_skyblue_share_platform_list_item.xml
+SHA1-Digest: G98h648QYWgkD/KD5gex8qxP7kE=
+
+Name: res/layout/act_web.xml
+SHA1-Digest: KlKDEBlaUpwDkkpY8VeqdfMWttE=
+
+Name: res/layout/gd_expandable_list_content_dashboard.xml
+SHA1-Digest: YAIxnSisFNYGO9XHreihtagyzOQ=
+
+Name: assets/res-1010/en/ChooseGift/CCGld.png
+SHA1-Digest: 5eNyxXa9eroNH0GAvpw66fR8ncI=
+
+Name: res/drawable-hdpi/direct_mapsearch_loc.png
+SHA1-Digest: QJhujSnwNRMROkIDkyMc6OTr6N8=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_qq.png
+SHA1-Digest: rGbqeKK4SIiunyk+LxzQw9BGtQU=
+
+Name: res/drawable-hdpi/logo_tencentweibo.png
+SHA1-Digest: tuqOYcjm1jxJbJkr6XUCmMvGYso=
+
+Name: assets/res-1010/pub/animation/addAction/1.png
+SHA1-Digest: jkKO2nFvapIcLUaByp6f641pd8o=
+
+Name: assets/res-1010/pub/sounds/click.mp3
+SHA1-Digest: v3L7hUYK6UO+dczf20m4CaAQcq0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_line.png
+SHA1-Digest: Nr62ij6mKO3YK9OAS/DpDVrXoIw=
+
+Name: res/drawable/umeng_update_button_cancel_bg_focused.xml
+SHA1-Digest: 3uJla6/X5071+6UuQp83K/Aqa68=
+
+Name: assets/res-1010/pub/DrMario/BlueHalfL.png
+SHA1-Digest: GgQaCkzThv3L1JYyg28G/9qjV0E=
+
+Name: res/drawable-hdpi/arrow_up.png
+SHA1-Digest: ORHLu0PKEWF1f1FbVfh4722K9Jk=
+
+Name: res/drawable-hdpi/refresh_arrow_up.png
+SHA1-Digest: dB+JO02j6g7+XnKfKFLTT1vTRCQ=
+
+Name: assets/res-1010/pub/hex/2_Dark.png
+SHA1-Digest: lCNcNJfAPUv9k/g5jdJjbq6Tvag=
+
+Name: res/layout/xlistview_footer.xml
+SHA1-Digest: 5sYqsiMGglXfVE1XKKdfBw8ld1w=
+
+Name: res/drawable-hdpi/gd_action_bar_help.png
+SHA1-Digest: owHn1cciQFv4Au570+bobXYd3ZM=
+
+Name: assets/res-1010/en/TigerMachine/coininfo4.png
+SHA1-Digest: anfMYHtTtb9P7rVjgyA4fILZkaU=
+
+Name: res/anim/umeng_fb_slide_out_from_left.xml
+SHA1-Digest: M3myOz22y8DCrF3diRIrKzI/ymQ=
+
+Name: res/drawable-hdpi/gd_action_bar_trashcan.png
+SHA1-Digest: BfW3caQK/WvO77u4yR12vDpkW8I=
+
+Name: res/drawable-hdpi/umeng_fb_see_list_pressed.png
+SHA1-Digest: bPPcl7rx76S9DtiqNtuWxAV5rNg=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_facebookmessenger_check
+ ed.png
+SHA1-Digest: yfigC4PxDtvHWjaW4amy+pO5qlg=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_googleplus.png
+SHA1-Digest: OTMRB1YHOgrfDUEBKFFU6kLeybg=
+
+Name: res/drawable-hdpi/gd_action_bar_take_photo.png
+SHA1-Digest: /AEWyndnM9Yk4i3epdIRQwJvh6c=
+
+Name: res/drawable-hdpi/gd_action_bar_compose.png
+SHA1-Digest: VNbwl+qDW3OhLeY/Y2PP4bWah3A=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_close.png
+SHA1-Digest: txmJxAjvgTE1qsDASiGz/Eywsbc=
+
+Name: assets/res-1010/zh/TetrisGame/CTGhighscore.png
+SHA1-Digest: 2P/4f2OvWnoWOK7ZMU3gM/E9UwU=
+
+Name: res/drawable/btn_map_ar.xml
+SHA1-Digest: O7WWSsTXq2tMqpMV+9VcGuASb2w=
+
+Name: assets/res-1010/pub/particles/star1d.png
+SHA1-Digest: TtvCSbTsBj2I8Pi7H7OHl0uJOsc=
+
+Name: assets/res-1010/pub/str/addscore.png
+SHA1-Digest: f8voUn+ekx7yksqrS3o3NrELTbw=
+
+Name: res/drawable-xhdpi/img_cancel.png
+SHA1-Digest: NsZVk5t/jVR+MDbSD8IrRZ2uWkM=
+
+Name: res/drawable-hdpi/logo_linkedin.png
+SHA1-Digest: fjH1V4yV1wRYN5LMCCLDdOkMv98=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Ef7vkRFdq1ijkQi0GTQdEiMUpm0=
+
+Name: assets/res-1010/zh/LuckyDial/ico_wheel_str.png
+SHA1-Digest: rIjZ6UxgFC2wHfot90wxt2dr8Mw=
+
+Name: assets/res-1010/en/gameover/ico_score.png
+SHA1-Digest: JqzHN47S7cCU4k01q2q5IYm3u1Q=
+
+Name: assets/res-1010/pub/common/FallSquareGrid.png
+SHA1-Digest: v9jzUgKM0YYahb+Na8juxORYYMc=
+
+Name: res/drawable-hdpi/logo_facebook.png
+SHA1-Digest: hGgPy3rYdIDgcsO07LvvuIO6JUw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_whatsapp_checked.png
+SHA1-Digest: /jlMMHUWSMlFJ+evjPYpYSP9d/M=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechat_checked.png
+SHA1-Digest: V+oqqhtS6tC6kxKh9MVqSEeEbOc=
+
+Name: assets/res-1010/pub/TetrisGame/CTGright.png
+SHA1-Digest: BYlGLhbdVLTapHJHNXVFL7SdZOY=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_tumblr.png
+SHA1-Digest: R5zc5Kq+BwUY4bVgDCqej3mezA4=
+
+Name: res/drawable-hdpi/loading_pa.png
+SHA1-Digest: uVoB69Y6+cJSct7SHX8aVuSGyr8=
+
+Name: assets/res-1010/zh/ChooseGift/CCGtm.png
+SHA1-Digest: PMeMtZBor5CBeVWrj2IjY2S5Ypw=
+
+Name: res/drawable/bg_button_press_yellow.xml
+SHA1-Digest: M4yWV7eJgyRYP+wewgyej8sjBdo=
+
+Name: assets/PublicRes/zh/reputation2.png
+SHA1-Digest: aLibyhkvWi3Z1EuM7V6BANbj8ns=
+
+Name: assets/res-1010/en/start/ico_color.png
+SHA1-Digest: BCtaR9nogBx6MXA/ca8BLUXIFpo=
+
+Name: res/layout/act_play_vedio.xml
+SHA1-Digest: QqLhWI5yl+nSVEdXf/GBx86cNr0=
+
+Name: assets/res-1010/en/LocalRecord/ico_description.png
+SHA1-Digest: /KOFoXkz4QTfp2Jyz5dHNyDYqLo=
+
+Name: assets/libjiagu.so
+SHA1-Digest: XwwGRRAqcQa6kh+a/IF6eOAp0rU=
+
+Name: res/layout/ct_loading.xml
+SHA1-Digest: 2UAh4WIEUUJ9anIxWxAbsnt/Jww=
+
+Name: res/layout/ssdk_oks_skyblue_editpage.xml
+SHA1-Digest: jPGUNfjXzxaYfQkA2XiI4Sr+8Gs=
+
+Name: assets/res-1010/pub/LuckyDial/coin2nor.png
+SHA1-Digest: sjNTO5Fq8mH0VP8TvxTuklY3k2Q=
+
+Name: res/drawable-hdpi/gd_action_bar_add.png
+SHA1-Digest: e5pjjFoul8LrBHkxBoqvXod/Kts=
+
+Name: assets/res-1010/pub/particles/spark_p.plist
+SHA1-Digest: o3YerI9kwhXaIYMsvjC7AbPJnjc=
+
+Name: classes.dex
+SHA1-Digest: GAz3HnMDTn6z0GYiEeGmYcVgYXI=
+
+Name: res/drawable/umeng_update_dialog_bg.xml
+SHA1-Digest: 7BrUbaYZi+GcpqrXcYVz7nuVOf8=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_vkontakte.png
+SHA1-Digest: oZjNxZ5FqY6kaOwoSnX6wefkTdA=
+
+Name: res/drawable-hdpi/umeng_update_wifi_disable.png
+SHA1-Digest: ULFVVxHPQp6nwE7E8oZCu+VKWYE=
+
+Name: assets/res-1010/en/pasue/ico_pause.png
+SHA1-Digest: /uajJIieEMbuvq+o0Ash0+H16ZM=
+
+Name: assets/res-1010/pub/cell/add4.png
+SHA1-Digest: 1jPZjNCsclaQgxJmclJMHstydIg=
+
+Name: assets/res-1010/pub/LuckyDial/coin4.png
+SHA1-Digest: OI3ClhwG0mR3W0gEVuAtLnCfGo8=
+
+Name: assets/res-1010/en/rank/ico_my_rank_str.png
+SHA1-Digest: K6Dml/IARqd9JvcGoDgb0ZkoUnY=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_douban.png
+SHA1-Digest: zzHxqnXLcSiVYmvCsHYimrfF/xw=
+
+Name: res/drawable-hdpi/gd_tab_indicator_pressed.9.png
+SHA1-Digest: 9iAbWheH2ovYtwg3JnCmAyN/tgw=
+
+Name: assets/res-1010/pub/common/number/0.png
+SHA1-Digest: Tago26FSlGz0dOovDKUAv6u+4l8=
+
+Name: assets/res-1010/zh/guide_mario/1.jpg
+SHA1-Digest: EIXhcQhBUeo/VjNl/23HjA2YRq8=
+
+Name: assets/res-1010/pub/sound/s_fast_down.wav
+SHA1-Digest: VW4Ej+ZTUr9fQeTJFeJ7CU88S/w=
+
+Name: assets/res-1010/pub/pasue/qqzone.png
+SHA1-Digest: sf1R7dCAU02DzpZt3/PFDt2wcfs=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_kaixin.png
+SHA1-Digest: CjbX+U8hra9XNdSTos1rdkxz310=
+
+Name: assets/res-1010/en/ChooseGift/ico_chooseGif_str.png
+SHA1-Digest: FUlXYEqHid2XZh5UmFMu53DC0ps=
+
+Name: res/drawable/footer_refresh_button.xml
+SHA1-Digest: WgDczcEol9gV3XdKlEIu04H6YuY=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_normal.png
+SHA1-Digest: qScgnZd55YcTkPNFveAL+N/Mib0=
+
+Name: assets/res-1010/pub/main/ico_cell_bg.png
+SHA1-Digest: LVAOYvMdg3UzyO7dFQQCMWOLCiw=
+
+Name: assets/res-1010/pub/cell/add3.png
+SHA1-Digest: IxJpqzaDKZcTFx7UHoKyt2QsltM=
+
+Name: com/pdragon/ads/mg/assets/mg_fullad_close.png
+SHA1-Digest: wysIzBRrXtyflj0u9HdtKtCOOwM=
+
+Name: assets/PublicRes/pub/com_weixin/bg1.png
+SHA1-Digest: fCX2b09zTHZ9nd/5x8VsflAMykY=
+
+Name: assets/res-1010/pub/hex/7_Dark.png
+SHA1-Digest: 4DlrAUxU4CWJna1hwYQUE4q9Dr4=
+
+Name: res/drawable-hdpi/img_item_gold.png
+SHA1-Digest: MsIwiw1AooJkjAffzC/Hr4/AwH0=
+
+Name: res/drawable-hdpi/gd_action_bar_mail.png
+SHA1-Digest: 22fVf3Nybxs85nQUh/P4KpW3gCA=
+
+Name: com/pdragon/ads/mg/assets/ycm_mraid_close.png
+SHA1-Digest: 3HDuTLx1EhM8i6FGiPXuS4fZAw8=
+
+Name: assets/res-1010/pub/CashGift/CGLbtno.png
+SHA1-Digest: hmCc2dr61CWwGvbPwKaQ8JmMfsY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_googleplus_checked.png
+SHA1-Digest: o4loFVp6GifEHe12nt7LhnnUyXI=
+
+Name: assets/res-1010/pub/animation/break/2.png
+SHA1-Digest: 7knDkAQNbmmFyMWEIiRkp8x8dp4=
+
+Name: res/drawable/umeng_fb_btn_bg_selector.xml
+SHA1-Digest: 2k+dbolIY89x2+OwILv0Qx1WMPY=
+
+Name: res/drawable-hdpi/umeng_fb_statusbar_icon.png
+SHA1-Digest: dc/14UYS3XD9xi2BUhYNmVri6cw=
+
+Name: assets/res-1010/zh/rank/ico_my_name_str.png
+SHA1-Digest: n6xnNimGJQMmUowtm5CYA76WiS8=
+
+Name: assets/res-1010/pub/TetrisGame/CTGChoosebg.png
+SHA1-Digest: W3vR+88JZE7THZctIZBSXf3TUQA=
+
+Name: res/drawable-xhdpi/share_tb_back.9.png
+SHA1-Digest: +PR4ykcogq5AzMbaY9Bq7XrcBPI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_instagram_checked.png
+SHA1-Digest: AwSztOYTTK0nE00FIlxSLPL/Guo=
+
+Name: assets/res-1010/pub/item_ico_undo.png
+SHA1-Digest: n66OeBrtDldSa4uDCMy4lo0BqmY=
+
+Name: res/layout/cv_act_adswalllist.xml
+SHA1-Digest: 1WEFIzvjhhrev6CMUMTCsUn8A0Y=
+
+Name: assets/res-1010/en/pasue/ico_alive_ok.png
+SHA1-Digest: gN93B5cZ8xF8qwqt8Kr8nA0T0dI=
+
+Name: res/drawable-hdpi/gd_quick_action_arrow_up.png
+SHA1-Digest: B7js6vCAem6NX/DasthAwgbDvcc=
+
+Name: res/drawable-hdpi/gd_segment_label_focused.9.png
+SHA1-Digest: 4Z1QkGoOifAMd8tGp6mPW3o/j2s=
+
+Name: assets/res-1010/en/pasue/reputation1.png
+SHA1-Digest: womWqygRNc16siHJ7Z9t6bb6roU=
+
+Name: assets/res-1010/pub/DrMario/BlueSingle.png
+SHA1-Digest: MV942WcJwyNL9CBufMQn+2MC9Iw=
+
+Name: assets/res-1010/pub/rank/ico_input.png
+SHA1-Digest: Kjf8rKP8aNYpaV/7EDdYQK9de5k=
+
+Name: res/drawable-hdpi/icon_register.png
+SHA1-Digest: 1TuOIqKWoEkHfy5ed5Mxny4Xezk=
+
+Name: assets/res-1010/pub/ShareScene/Numbers.png
+SHA1-Digest: Fv808yT/0vwF+Fs0hPZK7IDRACA=
+
+Name: res/layout/loading.xml
+SHA1-Digest: okY+fMCiJLYfzCuJygleHUSEmfk=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_focused.png
+SHA1-Digest: GhYH1UPHY2U7pwKvyxRglRncE44=
+
+Name: res/layout/gd_long_text_item_view.xml
+SHA1-Digest: ET9JFA8nBtSZ5TLdhXdUy/YuH7E=
+
+Name: assets/PublicRes/zh/MoreExciting/DownLoad.png
+SHA1-Digest: cRfmaU3SzyZ1Aw23IIwGY6L0ZTo=
+
+Name: assets/res-1010/zh/LuckyDial/ico_description.png
+SHA1-Digest: CluKRKb1UzPazwqNHETDxlqpXhM=
+
+Name: res/drawable-hdpi/btn_icon_nears_pressed.png
+SHA1-Digest: bs52la1nXrvK14rqZqtcCpC0I+k=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_flickr.png
+SHA1-Digest: 4ZAgZ0zxQ1eOfQcGzFn5JvbggrU=
+
+Name: assets/res-1010/pub/MainLayer.json
+SHA1-Digest: BcQZCL7D1lZup98SuoOMVF4slKE=
+
+Name: res/drawable-hdpi/icon_ar.png
+SHA1-Digest: eDMBNr18hUhiW+SMPEPzNpAkQYo=
+
+Name: assets/res-1010/en/TigerMachine/ico_machine_str.png
+SHA1-Digest: waztTsIWmiDn8r7/VNbVtHXCU90=
+
+Name: res/drawable-hdpi/w_icon_arrow_right.png
+SHA1-Digest: +/Vczq1j1WYv6doVTmCWHgYO3fw=
+
+Name: res/drawable-hdpi/btn_list_up_normal.png
+SHA1-Digest: Ejw2AqjgH02OpiHFHEaK5yYUFGs=
+
+Name: assets/res-1010/en/LuckyDial/coininfo2.png
+SHA1-Digest: hrHJ1EjiN/B9s/n1Dxus0XOVY+4=
+
+Name: assets/res-1010/zh/rank/ico_my_rank_str.png
+SHA1-Digest: JRSeoxWwS4iTxSTlPL4+4mqpFu8=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_facebook.png
+SHA1-Digest: piJUVqxys3jTJlcx7kEANmv088g=
+
+Name: assets/res-1010/zh/CoinShowResult/ico_ongratulation.png
+SHA1-Digest: iZYSi0kjJnTtG840wwJvuW0kRuI=
+
+Name: assets/res-1010/pub/cell/10.png
+SHA1-Digest: OPptIAiWyO3rf0Ilx77kVxMMVLw=
+
+Name: assets/res-1010/en/rank/ico_my_score_str.png
+SHA1-Digest: iUnNpyURBmjqDTEAo5kxBs+Ik2I=
+
+Name: assets/res-1010/en/LuckyDial/showinfo2.png
+SHA1-Digest: YlyLB1SLFgb7Rb7UmmIV6Qtpt+4=
+
+Name: res/drawable/gd_page_indicator_dot.xml
+SHA1-Digest: VUtd7Cr6Ot8azLjD7cY6T4krY0g=
+
+Name: res/drawable-xhdpi/ssdk_oks_title_shadow.png
+SHA1-Digest: LALhXzWajUQxP3OEPz9GPgH0DTc=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_5.png
+SHA1-Digest: K/VWxDzwSOx9GwhEp8pJbkfz5KY=
+
+Name: res/drawable-hdpi/umeng_update_btn_check_off_holo_light.png
+SHA1-Digest: LV/7eNLcJG6YuRPWli/QPnabT+s=
+
+Name: assets/res-1010/en/pasue/reputation2.png
+SHA1-Digest: RZJ3cUQB7DxVz4QaufHgK5gQ7Dc=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_bgimg.png
+SHA1-Digest: 6ZugTYlfIM0A96NSCIRiz0UJEog=
+
+Name: res/anim/gd_shrink_from_bottomright_to_topleft.xml
+SHA1-Digest: 6ADYTJeWEnnmXyDnJRlJQb74vdw=
+
+Name: res/anim/gd_grow_from_topleft_to_bottomright.xml
+SHA1-Digest: 7tQy7OA8VXxBosMJ2ngJWTDSlHo=
+
+Name: assets/res-1010/en/Achievement/DaShi.png
+SHA1-Digest: 5lIkYAszb5isr7ABLdLqkDAgVb4=
+
+Name: assets/res-1010/pub/hex/5_Light.png
+SHA1-Digest: SUvKb4Jczsb4aQSvD4ut+YsS8wc=
+
+Name: assets/res-1010/en/start/ioc_dr_mario.png
+SHA1-Digest: N9zdxpf7AoEO+PoUDBpAZQGcVzQ=
+
+Name: assets/res-1010/zh/gameover/ico_get.png
+SHA1-Digest: 0bbcQu/NtvtpYP7MeUy3dgf0OKU=
+
+Name: assets/res-1010/en/LuckyDial/coininfo6.png
+SHA1-Digest: FlFrmPlwe2tL9MrCvUTADxi/pTE=
+
+Name: res/drawable/del_button.xml
+SHA1-Digest: wqEzShSvKFCinROE4nJ7chw3VnE=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_editpage_image_bg.9.png
+SHA1-Digest: rSb/UcjpSPAazqb0dm1UOxpwsF4=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_normal_pressed.png
+SHA1-Digest: qbWcnBgo+NKEuXiIHRSN394b0t0=
+
+Name: assets/res-1010/pub/hex/ico_clean_up.png
+SHA1-Digest: rADH5tkPYfT7FfoY6TgQGBj+fHY=
+
+Name: res/drawable-hdpi/loginbg_a.png
+SHA1-Digest: Y+1TX+MB+zlE7eRcHA6AFgDJ6vo=
+
+Name: assets/res-1010/pub/TetrisGame/CTGrorate.png
+SHA1-Digest: aJV1ryZd+b6n2RCK00PCuqua3lY=
+
+Name: assets/res-1010/zh/str/ico_surplus_str.png
+SHA1-Digest: 2+or5XXWRvY2d+E7QZ42xlFVSE4=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_facebookmessenger.png
+SHA1-Digest: 2T0MPMgUUz04KqzmxjylWtMqXJ8=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_1.png
+SHA1-Digest: es4QhsrkwVB1VLXdnhktJE1Z5lQ=
+
+Name: assets/PublicRes/en/MoreExciting/Bg.jpg
+SHA1-Digest: 2SaH94wzQlky6KScrRIWeODraVw=
+
+Name: assets/res-1010/zh/LocalRecord/ico_btn_share.png
+SHA1-Digest: yy1tVqHpBRIYAs3H0hPD78IEz/g=
+
+Name: res/drawable-hdpi/alonebg.png
+SHA1-Digest: F9OEKwAJcTH6QsAujykayuqDMjo=
+
+Name: assets/res-1010/pub/cell/flower10.png
+SHA1-Digest: NlE7npLfM0dmVEiMhHg5eNaBtvc=
+
+Name: assets/res-1010/en/CoinShowResult/CCSRrt.png
+SHA1-Digest: tnM0g/CQSJKUmYST3tbzC9OGq4U=
+
+Name: assets/res-1010/zh/ShareScene/QQ.png
+SHA1-Digest: H6amPinrfz/hKC8e0TZRQGfVpqE=
+
+Name: res/drawable-hdpi/gd_action_bar_share.png
+SHA1-Digest: Q10oh4r9vweLVF/zLsJ7fHZHmgc=
+
+Name: assets/res-1010/pub/hex/4_Light.png
+SHA1-Digest: CXDKXt0nWW20ixBExaCh9+SN/Wc=
+
+Name: assets/res-1010/zh/start/ico_clean.png
+SHA1-Digest: 1yz9BhiACNfsXFEgEupQBCLcnuc=
+
+Name: assets/res-1010/zh/str/ico_score_str.png
+SHA1-Digest: Mmd90QFPdKk8jWd/n3Ac2F8/t7s=
+
+Name: assets/res-1010/pub/TigerMachine/coin2.png
+SHA1-Digest: U0QaH1RERDDBTj+9gfFnTJ41ctU=
+
+Name: res/drawable-hdpi/gd_action_bar_star.png
+SHA1-Digest: 1XVhd4w+1WEIqOgV3wzo+7KFS8A=
+
+Name: res/drawable-hdpi/gd_action_bar_group.png
+SHA1-Digest: Q0fpHgFAdjZj/4VO5EkAlA+gY9I=
+
+Name: res/layout/xlistview_header.xml
+SHA1-Digest: GfczquPkW1GgSc6l2heOwdDrC6g=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_selected_focused.png
+SHA1-Digest: aBIMrX7GyUw6zMJ/4yv7fTUkzQ4=
+
+Name: assets/res-1010/pub/DrMario/GreenHalfL.png
+SHA1-Digest: hCBphdDfIp1vrUzTrZJOO6CG8RU=
+
+Name: res/drawable-hdpi/gd_tab_indicator_unselected.9.png
+SHA1-Digest: PevYCl/A4P1h1mENl4fHeCc6yUo=
+
+Name: res/drawable-hdpi/close_32.png
+SHA1-Digest: lN8J66Jm7INomdJ3Uo6OLs7zTDI=
+
+Name: assets/res-1010/en/Achievement/Newer.png
+SHA1-Digest: eD6BPnjbF24vqr3ZRx48k1u1a54=
+
+Name: res/drawable-hdpi/btn_long.png
+SHA1-Digest: 7NBFAD6j/LTI1sC0iI7zcIUKu8g=
+
+Name: res/drawable-hdpi/line.png
+SHA1-Digest: XRYydF7zd7r1WpMGQcLXCg67AlQ=
+
+Name: res/drawable/umeng_update_button_cancel_bg_normal.xml
+SHA1-Digest: Co7HOpo2v0JY5IUHxiFUWXmkVZ8=
+
+Name: assets/res-1010/en/str/ico_congratulations_str.png
+SHA1-Digest: RVKGcLzapqzUN9T4KqJEYfeAT7s=
+
+Name: res/layout/dialog_reputation.xml
+SHA1-Digest: WnNsn6PSvKkwBykTXHjgWehZ6d8=
+
+Name: res/drawable-hdpi/umeng_fb_back_normal.png
+SHA1-Digest: +JE0DAVhnp9YdcWjXbhicsBv/qg=
+
+Name: res/drawable/tip_pointer_button.xml
+SHA1-Digest: 2O1OBXEaKJ59umsqGh/r+MEchN4=
+
+Name: assets/res-1010/pub/ShareScene/UnclaimedNumbers.png
+SHA1-Digest: XWeACQE1BGH2xt3k9/My33bL9og=
+
+Name: res/drawable-hdpi/logo_googleplus.png
+SHA1-Digest: 9pkHfPK0kAg9UwXGQmzLfMAZybU=
+
+Name: assets/res-1010/pub/cell/flower9.png
+SHA1-Digest: b5WtFjcXlyrrRPb4ou0ZiUsiLJU=
+
+Name: assets/PublicRes/zh/MoreExciting/Back.png
+SHA1-Digest: +LEH6J+CVVjHebwn7T2oq8WYD6Q=
+
+Name: assets/res-1010/pub/TigerMachine/CTMlb.png
+SHA1-Digest: yYAYadXILz541jM2+fmyohGxoLM=
+
+Name: assets/res-1010/en/TetrisGame/CTGpauseleft.png
+SHA1-Digest: sVzDPqFBH0mkAR/WDbDcAm/VeR4=
+
+Name: assets/res-1010/pub/cell/flower5.png
+SHA1-Digest: 7yDuoDcXFD2gbgd/ntph/nyAg2w=
+
+Name: res/drawable/bg_button_default_yellow.xml
+SHA1-Digest: 6Gte2iQyQPvn91C8JjtWR+yWxB8=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_qzone_checked.png
+SHA1-Digest: SpfYFk2S7oJ4oi/clGdsZV/mQ8Q=
+
+Name: assets/res-1010/zh/StartScene/ReadProgress.png
+SHA1-Digest: D6AWKhgheqJu5OWMUX8QF/X9AYs=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_linkedin.png
+SHA1-Digest: 1duZDOqYL6UtSAz/Tv9DYP26cVw=
+
+Name: res/layout/gd_segment.xml
+SHA1-Digest: mimZbIc1MdhuWRmEDdtP9yhdkZ0=
+
+Name: res/layout/act_welcome.xml
+SHA1-Digest: SIEcVOxq2+x8zBNP5NmvTlklz4M=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_yixinmoments.png
+SHA1-Digest: 8m1ULKBSeNtOu4DwcBdpK+sSb8A=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_wechatfavorite.png
+SHA1-Digest: TU1DRxLXD0h5Pqj0DuEQmhzmWGk=
+
+Name: res/drawable/umeng_update_button_ok_bg_selector.xml
+SHA1-Digest: oyJGfxWSpKuS5lRVdicqL0LEtSY=
+
+Name: assets/PublicRes/zh/CashGift/gift_title.png
+SHA1-Digest: 4drfJ5tb2Ad8yohCjLJ/4cjt9fE=
+
+Name: assets/res-1010/pub/GameItemLayer.json
+SHA1-Digest: 4d7ocz5jJCGnBGEKAFzaWQwob+g=
+
+Name: assets/res-1010/pub/sounds/main.wav
+SHA1-Digest: GUskTLaRqB1YyrWy8WOsxO/0kcg=
+
+Name: res/drawable-hdpi/gd_action_bar_gallery.png
+SHA1-Digest: 7TQkso2mu4MmFkuGSc6qFSUHvk4=
+
+Name: res/drawable-hdpi/inbg.png
+SHA1-Digest: tEcByiTS1hmv/4JjPrFel77Cm0Y=
+
+Name: assets/res-1010/pub/cell/flower15.png
+SHA1-Digest: /yJf1+cIt/3Lb5Ah3ljdbTYjhug=
+
+Name: res/drawable-hdpi/gd_action_bar_eye.png
+SHA1-Digest: MYfePq1N04XdIdVfjh6nSn21ueI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_laiwangmoments.png
+SHA1-Digest: SGt1zgBgxmC3hEf1gbkC3fpagdA=
+
+Name: assets/res-1010/pub/particles/spark2.plist
+SHA1-Digest: 5seTQ592RXPwpF1yQp0chKnM4Ag=
+
+Name: res/drawable-hdpi/btn_cal_del_all_pressed.png
+SHA1-Digest: DuE+Wz2CwpyLOHx9EDtFHVg5w44=
+
+Name: assets/res-1010/pub/StartScene/Medal.png
+SHA1-Digest: LafO/Y9MsFl+fMdDdYx8KLBttro=
+
+Name: res/drawable-hdpi/reputation_txt_zh.png
+SHA1-Digest: P1/ahJsDFV32tmpcDbyfNWi83Dc=
+
+Name: res/drawable-hdpi/icon_me.png
+SHA1-Digest: AdzkmJpM2hMS4IrOQNQqPA6OBt0=
+
+Name: assets/res-1010/zh/str/ico_a_str.png
+SHA1-Digest: npNXMAmXFYVGoge9y5w1368+u+Q=
+
+Name: assets/res-1010/pub/sounds/tip.wav
+SHA1-Digest: eGsyUlw96npfI9wpxUUT/cXLOJI=
+
+Name: assets/res-1010/zh/rank/ico_name.png
+SHA1-Digest: icnR80uahqD3xh4qyNDwSqW2ow4=
+
+Name: res/layout/gd_text_item_view.xml
+SHA1-Digest: tE2lw7ZKjv7ZB4ThqRHZfGAtswQ=
+
+Name: assets/res-1010/pub/buy_coin/return.png
+SHA1-Digest: p+WRj4jGjiFCPzNFb7vNXD7YsYE=
+
+Name: res/drawable-hdpi/gd_action_bar_info.png
+SHA1-Digest: 4tLuAGyjKK4/rNorB6YV2A3pt94=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_c.png
+SHA1-Digest: jNdFOtLoUDz25t6HH9P7sAnRzD0=
+
+Name: assets/res-1010/pub/animation/flower/1.png
+SHA1-Digest: mLytqd81DWDp7ji8j8ndicFL0yo=
+
+Name: assets/res-1010/pub/TetrisGame/CTGdown.png
+SHA1-Digest: xdQaI0l1eTExVFHSwukcF0a0NKU=
+
+Name: assets/res-1010/en/Achievement/TopYou.png
+SHA1-Digest: hrS02CmiZyNBoTsgFxYcSQd+nMw=
+
+Name: res/drawable/umeng_fb_gray_frame.xml
+SHA1-Digest: aWHdngf/egP9o3M/2RvzMzfHbl8=
+
+Name: assets/res-1010/pub/item_ico_magic.png
+SHA1-Digest: um6xTfPTpBg1SqSWnGZsL1fHO4M=
+
+Name: res/drawable-hdpi/gd_action_bar_home.png
+SHA1-Digest: 12MIxwHTezPOwQaSuCytHXyI3t8=
+
+Name: assets/res-1010/zh/str/ico_soCool_str.png
+SHA1-Digest: d+HF0bHEeuUKiO4zzIPHW/9p9Q0=
+
+Name: res/drawable-hdpi/gd_quick_action_grid_selector_pressed.9.png
+SHA1-Digest: X8/RPwqvimHkLk37NXF7ZKgNezU=
+
+Name: assets/PublicRes/en/reputation1.png
+SHA1-Digest: womWqygRNc16siHJ7Z9t6bb6roU=
+
+Name: assets/res-1010/pub/rank/ico_btn_press.png
+SHA1-Digest: xC2hGznWi1vDiARDhOHibKvgCno=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_b.png
+SHA1-Digest: q+ScuWb/P8/YtpPr5gg4DRJofkA=
+
+Name: assets/res-1010/pub/common/ico_share.png
+SHA1-Digest: UaZws3dQS5JXD0+WZExKtP/RZGA=
+
+Name: assets/res-1010/pub/cell/e.png
+SHA1-Digest: TcCgULdGs3dtM/+QTmsHp2mG1vs=
+
+Name: res/drawable-hdpi/loginbg_b.png
+SHA1-Digest: cGwU0OxUaUMkkGVrgCk1HCXBqjM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_qzone.png
+SHA1-Digest: BMcbBzK4BPlDZnSg+vjRpirKnUQ=
+
+Name: assets/res-1010/pub/start/ico_share.png
+SHA1-Digest: aGY4SR/+jieZIondYe98o/rw5rA=
+
+Name: assets/res-1010/zh/str/ico_noBreak_str.png
+SHA1-Digest: /5AP3ZwtV+eyEL19CYuTiEbsJP0=
+
+Name: res/drawable-hdpi/btn_headtita.png
+SHA1-Digest: vff7N+x4oPL1QcV5Twn5UaLDftc=
+
+Name: assets/res-1010/en/pasue/fight.png
+SHA1-Digest: wau7+W+WSDENo8HBIyJ/ynWNCpI=
+
+Name: res/anim/gd_shrink_from_bottom.xml
+SHA1-Digest: 9oweiTzDNCJFjeCLp5Ovk6ij2wk=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_11.png
+SHA1-Digest: TfxJMW9W8FHUX4d+EcUOk5hW06Y=
+
+Name: res/drawable/umeng_fb_point_normal.xml
+SHA1-Digest: nS6YH4+LPj4f7x4zAnSC/ExzaoU=
+
+Name: res/drawable-hdpi/btn_icon_ar_normal.png
+SHA1-Digest: 4b4q4RomzcuxQAg6rGEJkpAk9gw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_vkontakte_checked.png
+SHA1-Digest: Mx0LwTzcD87CVXlCrXGLu/QeNqE=
+
+Name: res/drawable-hdpi/logo_kaixin.png
+SHA1-Digest: KGTtOOt6MPgecVAOtnJgQvZlf0I=
+
+Name: res/drawable-xhdpi/title_back.png
+SHA1-Digest: 8EcpaCKgMqZtOt/JhCiOEs6yIKI=
+
+Name: res/drawable/btn_friend_add.xml
+SHA1-Digest: LjQTbEOY2+fpoDnAcWdFgQdQRSI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_platform_checked.png
+SHA1-Digest: xbJ+ymhGGTrPNyqOFtWZ+ls29tY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_qq_checked.png
+SHA1-Digest: u09N4J8C72y3OY3OPkdHKgBzYTY=
+
+Name: lib/armeabi/libMD5_v1.so
+SHA1-Digest: FWb9IprFE2oYElAb8hSNf+UkBxE=
+
+Name: assets/res-1010/zh/LuckyDial/showinfo2.png
+SHA1-Digest: Nzh2E83VMCrb/XZNql11TcwNUfc=
+
+Name: res/drawable/button_green.xml
+SHA1-Digest: bMiHYlRkB2BaqnZbjFRtIralO2k=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_mingdao_checked.png
+SHA1-Digest: 0SWOssntLSdzKqNIor3aEh+rmzM=
+
+Name: res/drawable-hdpi/logo_renren.png
+SHA1-Digest: CFrwbONhozIChH+serggVUr+wlc=
+
+Name: res/drawable-xhdpi/logo_sinaweibo.png
+SHA1-Digest: glzb02DOEZNNGd+GnVUPRrKNyxE=
+
+Name: assets/res-1010/pub/main/ico_clean_row.png
+SHA1-Digest: Pq17xP3RlpVouD2ZGFCrq6Mtq+Y=
+
+Name: res/drawable-hdpi/gd_page_indicator_dot_pressed.png
+SHA1-Digest: CjT/X6ItImjAhzgVuRbPVD3hjGQ=
+
+Name: res/anim/gd_grow_from_bottomleft_to_topright.xml
+SHA1-Digest: 1c1Zweuq2WUd91UepJR4AXn7Msg=
+
+Name: res/drawable-hdpi/gd_action_bar_talk.png
+SHA1-Digest: s6TcIQSf82TSAoqvO8a+fi8n2MA=
+
+Name: res/drawable/umeng_fb_write_selector.xml
+SHA1-Digest: LJ1MqlQoZdvAXk349GQ2n8dJK6Q=
+
+Name: res/drawable-hdpi/loading_pb.png
+SHA1-Digest: ujWqj48zrVoTPEg+7nfcHhByIgQ=
+
+Name: assets/res-1010/pub/DrMario/DestroyStar.png
+SHA1-Digest: vNN9kkided8rIZLh2kbaYoxzGAY=
+
+Name: assets/res-1010/pub/main/ico_cancel.png
+SHA1-Digest: hmCc2dr61CWwGvbPwKaQ8JmMfsY=
+
+Name: assets/res-1010/pub/TigerMachine/ico_getGlod_dialog.png
+SHA1-Digest: Nwoin6EN/jNL6SKiFhOvJUwWRb0=
+
+Name: res/drawable-hdpi/gd_shadow_top.9.png
+SHA1-Digest: Yz4MHPnnp4pGRI+Mi6R9o8jVx0s=
+
+Name: assets/PublicRes/pub/com_weixin/return.png
+SHA1-Digest: GUNVnDR9OgayTAu1D42abrhCs4w=
+
+Name: lib/armeabi/libappJni.so
+SHA1-Digest: YUkE5fsLose3WpnkDjiaNCPMDeY=
+
+Name: res/drawable-xhdpi/logo_wechatmoments.png
+SHA1-Digest: x6DqoCd+9e0aW6cO4KMqFl0f9ZM=
+
+Name: res/drawable-hdpi/refresh_arrow_down.png
+SHA1-Digest: JQ4s7RUpogtLvv2FImZa7Raat/E=
+
+Name: res/drawable-hdpi/umeng_fb_tick_selected.png
+SHA1-Digest: 9NP/kirw9NCnK5wgyJoRxk8KitY=
+
+Name: assets/res-1010/pub/TigerMachine/CTMctb.png
+SHA1-Digest: 5SFlVk4VxE7CFJeid1yGPZWm2JY=
+
+Name: res/drawable-xhdpi/ssdk_oks_blue_point.png
+SHA1-Digest: FQdLF8wVGjyb2ECZHwx1j7hDuRY=
+
+Name: assets/res-1010/en/guide_tetris/1.jpg
+SHA1-Digest: VuBg94wiHS4l9LFE/osAQRSs2Vs=
+
+Name: assets/res-1010/zh/TigerMachine/coininfo3.png
+SHA1-Digest: h09f+3dD5K+zuPz+LEfFHZMs6f4=
+
+Name: res/drawable-xhdpi/ssdk_oks_auth_follow_cb_chd.png
+SHA1-Digest: XRvmpZADzcwYRVQhbiXBiVbiwvw=
+
+Name: assets/res-1010/zh/pasue/ico_alive_ok.png
+SHA1-Digest: CcfLtGUaFnvf6iA0hrn6o0p5yDY=
+
+Name: assets/res-1010/pub/CoinShowResult/CCSRbg.png
+SHA1-Digest: 7yNR+bNSIdctgcY5QGs3tyaugIY=
+
+Name: assets/res-1010/pub/cell/5.png
+SHA1-Digest: Uh4yhkup3N3JVBiP346Y+TQVP+I=
+
+Name: res/drawable-hdpi/btn_friend_add_pressed.png
+SHA1-Digest: qdqqmuEX9PbD1JL5mJfXASK7Uzc=
+
+Name: assets/res-1010/pub/common/ico_home.png
+SHA1-Digest: dYJIwJAJtKX4TjKeKWtTlDyG+Mg=
+
+Name: assets/res-1010/en/str/ico_surplus_str.png
+SHA1-Digest: ukSP3d/YqcpFhjRhAVQOuN/NNLU=
+
+Name: assets/res-1010/en/Achievement/Doyen.png
+SHA1-Digest: adMchyiHtsaPTSCX/eJp7gF/uK0=
+
+Name: assets/res-1010/pub/particles/ico_star.png
+SHA1-Digest: 0VpOui5lxixOC5wh8zjQiBe16Ps=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_line.png
+SHA1-Digest: 30kisNBr0toYZFFeTkllsiptuTc=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_j.png
+SHA1-Digest: RMVsGQI9mMykL4oc/1Np90IC/p8=
+
+Name: res/drawable-hdpi/umeng_fb_write_normal.png
+SHA1-Digest: wh9yplgll0Vfb6hMVfOMYNeYVz0=
+
+Name: assets/res-1010/zh/TigerMachine/coininfo2.png
+SHA1-Digest: WH8HZsk/GRCCwkcfl/L85XIbZI0=
+
+Name: assets/res-1010/pub/hex/4_Dark.png
+SHA1-Digest: EsL0SJyfdhf80CPxDYqbjnRzXy4=
+
+Name: res/layout/gd_drawable_item_view.xml
+SHA1-Digest: 3dhJtc8EGHURVF6Fv2P/27pFvak=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sohusuishenkan_checked.
+ png
+SHA1-Digest: L2o2qk7m/2PGRidHU0EHrAhgDTw=
+
+Name: res/drawable-hdpi/umeng_fb_back_selected.png
+SHA1-Digest: 6siWfCBMtg28kTItz2nG39qC8EY=
+
+Name: assets/res-1010/pub/buy_coin/background.png
+SHA1-Digest: 0p00mCWenlCEXMsp2QF9W1Jmiog=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_alipayshare.png
+SHA1-Digest: /7lF37H/xF/EMa4bX+IT89Hku24=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kakaostory.png
+SHA1-Digest: fz0gUn1HdhF3Ls3VQCBxz9zcMG0=
+
+Name: assets/res-1010/pub/cell/flower11.png
+SHA1-Digest: w8aCkCTJ/SyVA0gSnDxA1u98GJE=
+
+Name: res/drawable-hdpi/checkbox_selected.png
+SHA1-Digest: At+CwXPrcTZYsRNDfmoSH5LRtxw=
+
+Name: assets/res-1010/pub/StartScene/Setting.png
+SHA1-Digest: WF7PisbMBC+3hwAy2E8BOFokp10=
+
+Name: assets/res-1010/pub/buy_coin/item_buy2.png
+SHA1-Digest: RNkqm5yZR3NfYKduWZTq7Xiehro=
+
+Name: res/drawable-xhdpi/white_point.png
+SHA1-Digest: hhh57YxsPTytJ6tu9DBgqN39ovs=
+
+Name: assets/res-1010/pub/particles/leaf_open.plist
+SHA1-Digest: QSwIZpj3VlGyDz/rQdEsKNf7qEE=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechatfavorite.png
+SHA1-Digest: j3hp4Cj9NVcAOa9BBYW+V09nEko=
+
+Name: assets/res-1010/pub/hex/6_Dark.png
+SHA1-Digest: Jpx+AZyKmOP7x+/46C3csWokq38=
+
+Name: assets/res-1010/en/str/ico_good_str.png
+SHA1-Digest: 7F9KKNEzFY+e4i/WcHNpr+zX0AU=
+
+Name: res/menu/main.xml
+SHA1-Digest: nWIB2w4cDYFOqwCQQcDz9r8pnhA=
+
+Name: res/layout/umeng_common_download_notification.xml
+SHA1-Digest: lr4J9ett63WN2yuZMrR15oBDW30=
+
+Name: res/drawable-hdpi/checkbox_unselected.png
+SHA1-Digest: UJL/tBcgDAq+OALeft8GVLWIGtg=
+
+Name: res/drawable/tb_munion_item_selector.xml
+SHA1-Digest: u8AkFHjFUvvY4VkZ53CwjS77pfE=
+
+Name: assets/res-1010/pub/LuckyDial/CLDlb.png
+SHA1-Digest: yYAYadXILz541jM2+fmyohGxoLM=
+
+Name: assets/res-1010/pub/main/ico_reset_controller.png
+SHA1-Digest: UJtLtTnfcjkw7BlwmFa+jaGZBBE=
+
+Name: assets/res-1010/pub/common/WarningLine.png
+SHA1-Digest: UX2sMKjQm77tzHO+m0X9lM9oazA=
+
+Name: assets/res-1010/pub/reputation/en/pass_barrier_reputation_bg.png
+SHA1-Digest: pROdM6577AVsyrgTcJ/LZrWkwMw=
+
+Name: assets/res-1010/en/start/ico_weixin.png
+SHA1-Digest: BMK831oNj6XWr3vVilUN0dNyBX4=
+
+Name: res/drawable-hdpi/downbgb.png
+SHA1-Digest: zx+LPuFNQoVKXynJURg6fxPA/c8=
+
+Name: res/anim/in_from_right.xml
+SHA1-Digest: 3LE7AajcgY88GFHPhlCzTFE0OJo=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_grip_right.9.png
+SHA1-Digest: 1jdiUNFwgDyt8E2swI/2pr2mayo=
+
+Name: assets/res-1010/pub/start/ico_more.png
+SHA1-Digest: 5iyrlwa2Oiu8HzOvC9rTKVtgvxc=
+
+Name: assets/res-1010/zh/LuckyDial/coininfo4.png
+SHA1-Digest: Ysc5nhphQMlL5wQkS0wytckiKLs=
+
+Name: res/drawable-hdpi/ic_menu_fav2.png
+SHA1-Digest: I+0Ei/rPQEBK5e3FVGxegK9cxNU=
+
+Name: assets/res-1010/pub/DrMario/RedHalfL.png
+SHA1-Digest: CoQt7aYy64NuV40N4wWQ6NJElug=
+
+Name: assets/res-1010/en/LuckyDial/ico_description.png
+SHA1-Digest: O4OPi/fWrZy3Z5xEEHZR2FfgPK0=
+
+Name: res/drawable-hdpi/icon_locate.png
+SHA1-Digest: t3EAfJK087OUfiuLWrxXVyUvwok=
+
+Name: res/drawable-hdpi/icon_hover.png
+SHA1-Digest: fkfq5N3WJbQ+M0REVBmtAhLasqI=
+
+Name: assets/res-1010/pub/common/number1.png
+SHA1-Digest: muEYAX5U1qFTMvVArYYqAc3DqZk=
+
+Name: assets/res-1010/en/TetrisGame/CTGchcontinue.png
+SHA1-Digest: X0ZAbYWbJXRuc2Tcwk1kLaX39yo=
+
+Name: res/drawable-xhdpi/gray_point.png
+SHA1-Digest: 3XeBPchcvfrxzttgsZmobGOHEQE=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_wechatmoments.png
+SHA1-Digest: TflSNm/Jl3/CDVxRHpsxyiDyjQw=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_renren.png
+SHA1-Digest: XPiXNnXcs7MvqWtCTSGGNNJ7644=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_yixin.png
+SHA1-Digest: Ynx6j0DvqB1R0Ntigj8oKizYcLo=
+
+Name: assets/res-1010/pub/LocalRecord/ico_start_choice.png
+SHA1-Digest: nZXxmTppVssW708QREK/c3sLKQ0=
+
+Name: assets/res-1010/pub/rank/ico_cursor.png
+SHA1-Digest: riK5jqGDNmgJazCnVR7+YDPetkc=
+
+Name: res/layout/act_guide_item.xml
+SHA1-Digest: MsOzCiXN67XK5VMSyFp1THAmLfM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_email.png
+SHA1-Digest: W82SFjQ3/qLS+8e3I6pQ0slofuI=
+
+Name: assets/res-1010/pub/CashGift/gift_title.png
+SHA1-Digest: 4drfJ5tb2Ad8yohCjLJ/4cjt9fE=
+
+Name: assets/res-1010/pub/MoreExciting/Back.png
+SHA1-Digest: +LEH6J+CVVjHebwn7T2oq8WYD6Q=
+
+Name: res/drawable-hdpi/btn_long2.png
+SHA1-Digest: q5uBb3OBTg6HgWbdE66En/usdok=
+
+Name: assets/res-1010/en/CoinShowResult/ico_ongratulation.png
+SHA1-Digest: q5mRwKdzmywbTc6YNDxAlgsyksc=
+
+Name: com/pdragon/ads/mg/assets/webview_bar_bgimg_prs.png
+SHA1-Digest: n/8dsqw/U64bhqEcqoY7ia9QDvk=
+
+Name: res/drawable-xhdpi/logo_shortmessage.png
+SHA1-Digest: ANDFkTFKAW9KFTmg7Gp/oNkKIOY=
+
+Name: assets/res-1010/pub/reputation/en/pass_barrier_reputation_yes.pn
+ g
+SHA1-Digest: UyyzowjvqsV6IRZi8HxJwNhm3v8=
+
+Name: res/drawable-hdpi/gd_action_bar_compass.png
+SHA1-Digest: aXFy8e6hby73YxM+HSYvIJx3vsk=
+
+Name: assets/res-1010/en/TetrisGame/CTGspeed.png
+SHA1-Digest: Gy2M0eKQzih7ovPrtvHPxlVO5Ig=
+
+Name: res/drawable-xhdpi/ssdk_oks_edittext_back.9.png
+SHA1-Digest: MckapfoGDrtqi6hM5gmfdvtVuOo=
+
+Name: assets/PublicRes/en/CashGift/gift_bg2.png
+SHA1-Digest: 6avC8uL3c6QcS4qOLr885rbXeFc=
+
+Name: res/drawable/bg_button_press_green.xml
+SHA1-Digest: AGcUhLcodyDinUGxYq+/4gcJjSw=
+
+Name: res/layout/tb_munion_adview.xml
+SHA1-Digest: bHI6ulWTJ+QxrOfPqTUg/Txwd88=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_qq.png
+SHA1-Digest: z5bEP1fdVQPprvplahiukd//JWI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_baidutieba.png
+SHA1-Digest: l68WV7pjjtX79frbX3BHrY2Vic0=
+
+Name: assets/PublicRes/en/CashGift/cursor.png
+SHA1-Digest: riK5jqGDNmgJazCnVR7+YDPetkc=
+
+Name: assets/res-1010/zh/gameover/usedup.png
+SHA1-Digest: p0E6/TOF6hAmPgdhTlvCrrcFtDU=
+
+Name: assets/res-1010/en/str/ico_newRecord_str_.png
+SHA1-Digest: 371OhOnKrShtAeQ87RzU6k9YDRM=
+
+Name: assets/res-1010/pub/cell/c.png
+SHA1-Digest: g6aqJkh+wPRau+GgWCskzz70UG8=
+
+Name: assets/res-1010/zh/LocalRecord/ico_itemTitle.png
+SHA1-Digest: fWKwV3YSiIdsDNxC0d9r1kLvhbo=
+
+Name: res/drawable/umeng_update_button_ok_bg_normal.xml
+SHA1-Digest: HJAXzj9VGBSJHoOwlfaF6Ryg3LU=
+
+Name: res/anim/out_to_right.xml
+SHA1-Digest: I/dYB1n7sK7nrg3Slb911cP6RQY=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_mingdao.png
+SHA1-Digest: VTtOx8JAUATC69MVr1YSUNNxTAA=
+
+Name: assets/res-1010/pub/buy_coin/shoping.png
+SHA1-Digest: wyagzOujIqhemuimlmXjlIHNi9o=
+
+Name: res/drawable-xhdpi/share_vp_back.9.png
+SHA1-Digest: nwXQPmiIQvlx68Un3l+t7C+zuqM=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_foursquare_checked.png
+SHA1-Digest: 5D1gbfjyWkEvz0atMqkqB1ETx+s=
+
+Name: assets/PublicRes/en/CashGift/gift_title.png
+SHA1-Digest: 4drfJ5tb2Ad8yohCjLJ/4cjt9fE=
+
+Name: assets/res-1010/pub/CashGift/gift_bg.png
+SHA1-Digest: Skw2PYAmt0yRCy51QTlKfF0GkTg=
+
+Name: assets/res-1010/en/str/ico_soCool_str.png
+SHA1-Digest: 9PsTKrRNWDw2lrVDt6BDDaDCw7o=
+
+Name: assets/res-1010/pub/cell/i.png
+SHA1-Digest: Xv5dQYYi15AqoHHmQRs6ao80nxc=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_twitter.png
+SHA1-Digest: uUeEzosvKI882+kxC4xRoR1z6Iw=
+
+Name: res/drawable-xhdpi/auth_title_back.png
+SHA1-Digest: 8EcpaCKgMqZtOt/JhCiOEs6yIKI=
+
+Name: assets/res-1010/pub/rank/ico_rank_bg.png
+SHA1-Digest: 0Mda1Ze7rlWg7NnuCn0DWYySmls=
+
+Name: assets/res-1010/zh/str/ico_praise_str.png
+SHA1-Digest: /R7W5o1xmNwmmqYZIxJt5Bq8trA=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_6.png
+SHA1-Digest: ffppQ1avkMGQy08jkxVw0CsI2tA=
+
+Name: res/drawable/down_select.xml
+SHA1-Digest: +m3N5gjRSfouiQUFC76EaT2N+nU=
+
+Name: assets/res-1010/zh/LuckyDial/coininfo1.png
+SHA1-Digest: PrbNj6KCz4OXeTB14i9U+R97UH0=
+
+Name: resources.arsc
+SHA1-Digest: hFKPSB9JSTTZUHkTfzpPdXy7dJw=
+
+Name: res/drawable/umeng_common_gradient_red.xml
+SHA1-Digest: 2jLyupMAAgTIjXmw8H7uIWqHcPo=
+
+Name: res/anim/popup_enter_toptobuttom.xml
+SHA1-Digest: bT24+DrP8T63g+cJbRoHx5PNIKc=
+
+Name: res/layout/gd_content_normal.xml
+SHA1-Digest: GHem8mdrf3zDmqaqtOSs2dfy2S0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_douban_checked.png
+SHA1-Digest: jeIZHoAJ0cmQ6KEmHYsoe32ohDM=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_instagram.png
+SHA1-Digest: W8HByjvYzRb6tgdgyHvti44ukyI=
+
+Name: assets/res-1010/pub/DrMario/Grid.png
+SHA1-Digest: aGf9YHfFEoeoYNMtujQhk7Ut89M=
+
+Name: assets/res-1010/pub/animation/addAction/2.png
+SHA1-Digest: RIVCrhD1yegfuLyFf8stdMBhYyA=
+
+Name: res/drawable-hdpi/umeng_update_btn_check_on_pressed_holo_light.p
+ ng
+SHA1-Digest: LRfTTUEUavLv1hy7gIc9D3NfFno=
+
+Name: assets/res-1010/pub/cell/flower1.png
+SHA1-Digest: mLytqd81DWDp7ji8j8ndicFL0yo=
+
+Name: res/layout/cv_act_adswalllist_en.xml
+SHA1-Digest: wC7qK8W/IkJSCdIBY+pXyxsF1qA=
+
+Name: assets/res-1010/pub/pasue/ico_alive_bg.png
+SHA1-Digest: ZCV8kXExUAi62DmM8Al8R0FvzEE=
+
+Name: res/drawable-hdpi/btn_headtita2.png
+SHA1-Digest: Bba0r73TwZRzMBFimoUN63gfhrY=
+
+Name: res/drawable-hdpi/gd_quick_action_grid_bottom_frame.9.png
+SHA1-Digest: CnyxorfdKOcbIAwgatoNgp74W+8=
+
+Name: assets/PublicRes/en/ads.png
+SHA1-Digest: hGecpi0kEDtH8FMuN/2X9SBKEhM=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_dropbox.png
+SHA1-Digest: 9rS980XHIIAplisYZi5XKBpLPvY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_dropbox.png
+SHA1-Digest: lnOQwcn4cwygNDFQBjQpRok/XCM=
+
+Name: assets/res-1010/en/str/ico_noBreak_str.png
+SHA1-Digest: Oh8JpzW3j4A/W46EU0VuEjMHKT0=
+
+Name: res/layout/gd_content_empty.xml
+SHA1-Digest: Dun1cNc7GtMr25UiHqjOM6jw4Nc=
+
+Name: res/drawable/alone_select.xml
+SHA1-Digest: 25XGCyIOuOE1PAH0NDhuMHAhUnU=
+
+Name: res/layout/gd_description_item_view.xml
+SHA1-Digest: mGaDYCRldc3p70i7Lm7CPBb+y74=
+
+Name: assets/res-1010/en/LuckyDial/coininfo4.png
+SHA1-Digest: x9Kj4ZdnR34odUzrs23c3BuRLk4=
+
+Name: assets/res-1010/zh/pasue/fight1.png
+SHA1-Digest: Iy/LbZ6c7whJAgZMlx2sskVMPq4=
+
+Name: res/drawable-hdpi/checkbox_a.png
+SHA1-Digest: /LQCVWqdEyKlVoMs3KmYn9TLs4E=
+
+Name: res/layout/tb_munion_aditem.xml
+SHA1-Digest: z0D/CXNKEfAmtli7Sq3NZeWKEeo=
+
+Name: res/drawable-hdpi/ic_menu_copy.png
+SHA1-Digest: /or9YfO/DQFpiYVFAxv8C2PB3RY=
+
+Name: assets/libadwo.png
+SHA1-Digest: cSVYCNE6YEtVsDSXbYl9TMWjI0s=
+
+Name: assets/res-1010/pub/sounds/select.mp3
+SHA1-Digest: aqrzNrAxrv8qjQgwhNB0vVfpsY0=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_neteasemicroblog.png
+SHA1-Digest: /rV4R5Mq9VG4F/nAUyZlGUtHX9s=
+
+Name: res/drawable-hdpi/umeng_fb_list_item.9.png
+SHA1-Digest: 7q2oAmsuTIdGdDUC1q1WdMu0Ac8=
+
+Name: res/drawable-hdpi/umeng_fb_bar_bg.9.png
+SHA1-Digest: zTF3mPGO8XIUaaZ0RJDAPnmH/vc=
+
+Name: res/anim/out_to_left.xml
+SHA1-Digest: oawPZAy7P5w60/SvLmA0D2EJvhg=
+
+Name: res/drawable-hdpi/v2_icon_biaoji_f.png
+SHA1-Digest: 1+5+DHH1gWITm7Z5rbLqyNn0OdU=
+
+Name: assets/res-1010/zh/TetrisGame/CTGpauseleft.png
+SHA1-Digest: VthkMI6C09JBg3PBaImRDNQ93LM=
+
+Name: res/drawable-hdpi/umeng_fb_see_list_normal.png
+SHA1-Digest: r5E0hH7/To12bEbgFyDRQHkLKMI=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_mingdao.png
+SHA1-Digest: Uy0ILMhYFMFLUKOy27/92DoaqwE=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_wechatmoments.png
+SHA1-Digest: ZO2E9To4ai1HUSZU0ie/+5Jdvy0=
+
+Name: res/drawable-hdpi/app_icon.png
+SHA1-Digest: CIVpLF+TzagfvQ4szFtEQ6rQ4UE=
+
+Name: assets/PublicRes/zh/CashGift/gift_bg.png
+SHA1-Digest: Skw2PYAmt0yRCy51QTlKfF0GkTg=
+
+Name: assets/res-1010/pub/common/number/4.png
+SHA1-Digest: Ry9pLYUprwIP6/5QIxLL4I3p3VI=
+
+Name: assets/res-1010/pub/LocalRecord/ico_sliderTrack.png
+SHA1-Digest: 51CtNPvlIDY8F4YhsM+jd2UysMU=
+
+Name: res/drawable/classic_platform_corners_bg.xml
+SHA1-Digest: w8g3q9huSgY8YosXI70sLXH036I=
+
+Name: res/drawable-xhdpi/ssdk_oks_logo_bluetooth.png
+SHA1-Digest: cnZJ7vg+t4P/O78FN6L108saBMw=
+
+Name: res/layout/gd_list_content_dashboard.xml
+SHA1-Digest: 3ARCydZ8zKiOVvCmtRNr6jYKgnE=
+
+Name: assets/res-1010/pub/animation/magic/7.png
+SHA1-Digest: Q/kBzAq6Bv6Jic0PH1p4nTBfXA4=
+
+Name: res/drawable/bg_button_press.xml
+SHA1-Digest: M4yWV7eJgyRYP+wewgyej8sjBdo=
+
+Name: assets/res-1010/zh/common/ico_share1.png
+SHA1-Digest: xpnd/gJo1brn5XeQJapNqmVnBU4=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_sohumicroblog_checked.p
+ ng
+SHA1-Digest: rC5lU6QuebrKSE5eW0Nt3lTbsIY=
+
+Name: assets/res-1010/pub/hex/2_Light.png
+SHA1-Digest: P06Q8mOEDNFZ+NonZkIwCHCC27M=
+
+Name: res/drawable-xhdpi/light_blue_point.png
+SHA1-Digest: zocvd8Be5c+Qdyh/BW0VPyoFJJo=
+
+Name: assets/PublicRes/pub/com_weixin/weixin_btn.png
+SHA1-Digest: l3JiOr9+gPuFcZGFvBTM4Bjw03E=
+
+Name: assets/res-1010/pub/ico_shre.png
+SHA1-Digest: XwahS5dLxfZfg9XUcJJT9VdP89w=
+
+Name: assets/libjiagu_x86.so
+SHA1-Digest: c/IYsKb2KFkCWP484mYkt+9sLFw=
+
+Name: assets/res-1010/pub/cell/d.png
+SHA1-Digest: cOtsm4Jc88APcxUMRbP4f/4pqkw=
+
+Name: res/drawable-hdpi/umeng_update_close_bg_normal.png
+SHA1-Digest: LWoD4Rz+w9IGWLXw0ZVpPQ9QNRc=
+
+Name: assets/res-1010/pub/sounds/music.ogg
+SHA1-Digest: inGOH4xaNSlhCfPjLlsZHGFziv8=
+
+Name: assets/res-1010/pub/LuckyDial/coin5.png
+SHA1-Digest: 57JqE4lhd4Ujwm/x1vdvsEXU7iI=
+
+Name: res/drawable-hdpi/icon_positioning.png
+SHA1-Digest: QbteYSh2u/pzaYEh4VjOWjuWv3Y=
+
+Name: res/drawable-hdpi/bg_bar_bottom.png
+SHA1-Digest: VBqwQMJJITqdpo8Hf2w4P7zQnjo=
+
+Name: res/drawable-hdpi/gd_action_bar_all_friends.png
+SHA1-Digest: Nfp4LB5NI+8S4zFGmogd/Rm0mlY=
+
+Name: assets/res-1010/pub/hex/ico_clean_down.png
+SHA1-Digest: akluPDFDRMzcXr8fO55F/ZCdw24=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_bluetooth.png
+SHA1-Digest: fAJQ0PakAoy81UyeevZqjhss+CQ=
+
+Name: assets/res-1010/zh/ShareScene/FriendsCircle.png
+SHA1-Digest: hq7gyAuUOHzi2QpD3AquDirOkm4=
+
+Name: assets/res-1010/pub/cell/h.png
+SHA1-Digest: bFECkj0D3CrXVigy6gKzbo5DBT4=
+
+Name: assets/res-1010/pub/particles/spark.plist
+SHA1-Digest: ksF8x3EjmKdKe7W1AzaUu54Dasc=
+
+Name: assets/res-1010/pub/common/ico_audio_on.png
+SHA1-Digest: rNbQjEE07djWe7Eaki7M6hke6i8=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_pinterest_checked.png
+SHA1-Digest: k5xRm0N72Tf620z8p9teEjs3Cbk=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_facebook.png
+SHA1-Digest: xmIeow/+O0/xNjFkuyKPj4+Blqg=
+
+Name: res/drawable/umeng_update_button_ok_bg_tap.xml
+SHA1-Digest: X/XrX9vMfWyuz+kQ4orDHAFl7HY=
+
+Name: res/drawable-xhdpi/ssdk_oks_skyblue_logo_kaixin.png
+SHA1-Digest: 0OsdZqLfcevsaDrmkXfxjUUax4M=
+
+Name: assets/res-1010/pub/cell/flower7.png
+SHA1-Digest: +asuuhKsvzOD9jQhZzocN2V4m0c=
+
+Name: assets/res-1010/en/gameover/ico_player.png
+SHA1-Digest: s8xWcCswgctjCnotYLvMM1aNU1Q=
+
+Name: res/drawable-hdpi/gd_action_bar_item_pressed.9.png
+SHA1-Digest: FzAAxguyDKYZooKgGyz6Rbvu8eU=
+
+Name: assets/res-1010/en/pasue/gold.png
+SHA1-Digest: 6AwSBF3l9Wr4LQvJYobCmoQaOCk=
+
+Name: res/drawable-hdpi/gd_action_bar_sort_alpha.png
+SHA1-Digest: 8rQKcq/VhUnxFFpAw7PFp+0iPV0=
+
+Name: com/pdragon/ads/mg/assets/mg_close.png
+SHA1-Digest: coTpqAKOvcsEg+8SHU7wpz9cN50=
+
+Name: res/drawable-xhdpi/ssdk_oks_light_blue_point.png
+SHA1-Digest: zocvd8Be5c+Qdyh/BW0VPyoFJJo=
+
+Name: res/anim/gd_grow_from_bottom.xml
+SHA1-Digest: DyDHxBq4cRLNrBfjoavWqzSrU+A=
+
+Name: assets/res-1010/pub/star_y.png
+SHA1-Digest: osgzIaoPmapxhZUa+8HWYX2BfvI=
+
+Name: res/drawable-hdpi/gd_quick_action_bar_grip_left.9.png
+SHA1-Digest: mhlVfLL8ZB5FfNYXa17VyVuDiJQ=
+
+Name: assets/res-1010/pub/animation/magic/4.png
+SHA1-Digest: 11z1BvUUHtSR9QcxXN3W5GJfmeU=
+
+Name: assets/res-1010/zh/ChooseGift/ico_chooseGif_str.png
+SHA1-Digest: mvpGD3un3D1r3I+P7ewlLFsn7qw=
+
+Name: res/drawable-hdpi/welcome.png
+SHA1-Digest: vMsIZY85j8+u7DNF2dWjliiYDFc=
+
+Name: res/drawable-hdpi/icon_loc_alert_pressed.png
+SHA1-Digest: 4VxoLIaz40bYz9miQBFmJK3NH5c=
+
+Name: assets/res-1010/en/str/ico_cool_strl.png
+SHA1-Digest: jnjEKBPntL4GC4yjDcNLgqCzaHg=
+
+Name: assets/res-1010/pub/rank/ico_no_3.png
+SHA1-Digest: Zh7IKHCfjoNpYJaPhUM06m7Mtl8=
+
+Name: assets/res-1010/zh/rank/ico_new_name_str.png
+SHA1-Digest: sArZ483Z6Hi6J78kdzXUF0UyaWU=
+
+Name: res/drawable/bg_checkbox_menus_checked.xml
+SHA1-Digest: GQvy9JTsLklCL4NUirMlmP5ZR4k=
+
+Name: assets/res-1010/pub/StartScene/Cup.png
+SHA1-Digest: aP/6r6TvJu+q1tvQItU0xs+zlpA=
+
+Name: res/drawable-hdpi/gd_quick_action_grid_arrow_down.png
+SHA1-Digest: X7Roa0G9GOLEAkmsE+Rl8prcKdU=
+
+Name: res/drawable/bg_bottom_bar.xml
+SHA1-Digest: SsAKlv8sG/t0iQq+t6NgeAkUaig=
+
+Name: res/drawable-hdpi/ic_menu_copy2.png
+SHA1-Digest: VGD1cGXiX01FQcDa/u1iREN311E=
+
+Name: res/drawable-hdpi/ic_menu_refresh.png
+SHA1-Digest: svKr0lv9k/CVyEHS9MMtyCGSWhc=
+
+Name: assets/res-1010/pub/sounds/gameover.mp3
+SHA1-Digest: ihHXYKtPoHZL2aFM/9Mu0vzLUE0=
+
+Name: res/drawable/umeng_common_gradient_orange.xml
+SHA1-Digest: AHyEGQnT7imQmkLcSm6fiGPhe3s=
+
+Name: com/pdragon/ads/mg/assets/button_refresh_12.png
+SHA1-Digest: t4ZZuuIJT0EqKZ+6QfhtfUscNo8=
+
+Name: res/drawable-hdpi/icon_layer.png
+SHA1-Digest: pHOUuoblgOae5x4KYifcdkh1u0g=
+
+Name: res/drawable-hdpi/headtitbg.png
+SHA1-Digest: +59ARbDi6vqD/BiIIJ8Ayh6Vbks=
+
+Name: assets/res-1010/pub/sounds/wino.wav
+SHA1-Digest: Zevyn83WpWFizyVpRClCPQQl9oY=
+
+Name: assets/res-1010/zh/TetrisGame/CTGcurscore.png
+SHA1-Digest: qYMEkqVcPrqb1ObAM8NyPSAMtN8=
+
+Name: assets/res-1010/pub/img_destroy.png
+SHA1-Digest: Fgok+8wGuWdnQIShclgqDFh1DaQ=
+
+Name: res/drawable/umeng_fb_tick_selector.xml
+SHA1-Digest: uME8zQ4BPQPbr2CoW0slQKyX9wo=
+
+Name: assets/res-1010/pub/reputation/zh/pass_barrier_reputation_yes.pn
+ g
+SHA1-Digest: UQaYlo8FL5tUE6jlHCduPMCY+80=
+
+Name: assets/res-1010/pub/TetrisGame/CTGfm.png
+SHA1-Digest: kKEB9T2+Xv05Vq80T9/g019cY0Y=
+
+Name: com/pdragon/ads/mg/assets/tow_click_open_webview_btn_640.gif
+SHA1-Digest: Y2u5H+NdD9P9+kzYQ6sR8UP0HP8=
+
+Name: res/drawable/up_select.xml
+SHA1-Digest: SnaDPEzPs8bAxF0FqoGWlWZHgbk=
+
+Name: assets/res-1010/pub/ShareScene/Coin.png
+SHA1-Digest: E9lYLNvhnjvLN/VQahSdoDZHmb4=
+
+Name: res/drawable/umeng_fb_list_item_selector.xml
+SHA1-Digest: VWEydyDeIbBV5ve54BNhLvig7Yc=
+
+Name: assets/res-1010/pub/rank/ico_btn_iosrank.png
+SHA1-Digest: UFRL+Y0Gsq7t4UvUFYBkRuG0V78=
+
+Name: assets/a6e90baeecfa49288396a4179cfb8ed3.config
+SHA1-Digest: D0eu6qe3CRc+2wgp5lfp3d4Qwkg=
+
