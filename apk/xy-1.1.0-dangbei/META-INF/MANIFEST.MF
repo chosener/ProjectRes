@@ -1,0 +1,1509 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_55 (Oracle Corporation)
+
+Name: assets/MainMenu/yun1.png
+SHA1-Digest: 33+aPLSErY/Mro6fbuDwN6QEV3Y=
+
+Name: assets/MainMenu/land1.png
+SHA1-Digest: VXUzbluNZEeQs/1er0cnRlI2fsI=
+
+Name: assets/Effects/wind/wind0004.png
+SHA1-Digest: FVTUn/pJtJc9bcxeqyc79lUhafo=
+
+Name: assets/MainMenu/goldTree.png
+SHA1-Digest: +MCPSi7jmI6uO52S2ibw3Nv+z6M=
+
+Name: assets/Sound/sendSheep2.mp3
+SHA1-Digest: XS2M+1L/5icOsFVAun4ywzgANj8=
+
+Name: assets/Game/slider.png
+SHA1-Digest: VzpRTAFJz73f6SbOf+xRNDmfe1o=
+
+Name: assets/Game/title2.png
+SHA1-Digest: tJT/VhZ3aCE1HOuyv4zYRzJrxpI=
+
+Name: assets/MainMenu/shengjihou.png
+SHA1-Digest: 3KpQ85QbkxMXQ1BjLOEIXbT8drY=
+
+Name: assets/Game/btnGo_3.png
+SHA1-Digest: mYJ/XbC+VmLaBJQ76HNvRiWFPpg=
+
+Name: assets/MainMenu/chicken1.png
+SHA1-Digest: iAk+tsHiYAouJWPqedJ3qrydQD4=
+
+Name: assets/Sound/win.mp3
+SHA1-Digest: iAYLM0SuD4POciR+/tt16YwqXW8=
+
+Name: assets/Game/sheepLL.png
+SHA1-Digest: AZF3F6u93GXbQbFZ7/GgQxxAR9o=
+
+Name: assets/Effects/wind/wind0012.png
+SHA1-Digest: ir1shuXQ2FaLyhX7zIf87evmSTo=
+
+Name: assets/Effects/Hit5/hit02.png
+SHA1-Digest: vyENM9kmb7F5ACJ57SwvX8udrnc=
+
+Name: assets/Farmer/eye1.png
+SHA1-Digest: CL1hhJMFooWg0KkeRq59hs6MuJw=
+
+Name: assets/Game/Grassland_Left2.png
+SHA1-Digest: vjKgwVMiRGR/o4r6ANBFLcRXOEU=
+
+Name: assets/dangbeipay_getyzm_on.png
+SHA1-Digest: rR9mnZT68E4AzIBOsUjrCtSM81o=
+
+Name: assets/Game/btnGo4.png
+SHA1-Digest: CzErCl8F8WvtHdSemNifFL1i+9g=
+
+Name: assets/Game/Grassland_Left4.png
+SHA1-Digest: Lxh1aCER/nURbTr94dcrr7YIbdo=
+
+Name: assets/Game/btnGoStore.png
+SHA1-Digest: VX64sZ6KNJXFdCrfQemg5CGjtkE=
+
+Name: assets/Game/btnGo3.png
+SHA1-Digest: wEjZ3k1t3V1HpB8pqI47fjmuemg=
+
+Name: assets/MainMenu/leavelUpTop.png
+SHA1-Digest: 0yprL8MtphYjWUyY6UpIxovzvRk=
+
+Name: assets/Game/Grassland_Left1.png
+SHA1-Digest: xEeB41i7D6FQVbl2IyIMvfm7kY8=
+
+Name: assets/Game/endtimeback.png
+SHA1-Digest: GxwOjStrbxlRJenmEpfk0X7Nfdw=
+
+Name: assets/Effects/Hit5/hit05.png
+SHA1-Digest: uTybEDRua7+eDFL0F5fafqsE+hE=
+
+Name: assets/MainMenu/star.png
+SHA1-Digest: NZic0Teo6NqdZYuZmasRWM/AIR4=
+
+Name: assets/MainMenu/sidai5.png
+SHA1-Digest: LzImWxrgh3v6tWdHIKJyr+QZtbQ=
+
+Name: assets/MainMenu/btnXiangQing.png
+SHA1-Digest: KDXpBibwBayrl7ol3oVNOMqskvo=
+
+Name: assets/Effects/Hit7/hit02.png
+SHA1-Digest: rbtxYXFU82IPgZWOmOHGTEBa2sc=
+
+Name: assets/MainMenu/loadingText.png
+SHA1-Digest: ZqWZN5X2GEHdTxbTM7Hv/7o2kQs=
+
+Name: assets/MainMenu/sheep2_4.png
+SHA1-Digest: 6WFHDT8epl3A5rshc/AX8CqrgoI=
+
+Name: assets/Effects/Hit8/hit01.png
+SHA1-Digest: 9mSoBZYRclIYTlMXjTVqBhietz8=
+
+Name: assets/Effects/Hit2/hit03.png
+SHA1-Digest: OcKr5CFUch4vokhVXLlhLX0wEgk=
+
+Name: assets/MainMenu/loadingSheep0.png
+SHA1-Digest: rDZwf8tkYuN6RQLdYwUpfHYNOqc=
+
+Name: assets/Game/settleBack.png
+SHA1-Digest: 8xa4yD3qqfKJLsZqnleVJXWeRnw=
+
+Name: assets/Game/sheepHL.png
+SHA1-Digest: aSOi7kSUw4Snxf5NY5nhjzdaVfQ=
+
+Name: assets/Trap/stone5.png
+SHA1-Digest: ePbNANeNTCnGmdr3H2lKfYneGx4=
+
+Name: assets/Game/witheredGrass.png
+SHA1-Digest: nNxMoYq/C43Dz/zXA+LF28CK5P8=
+
+Name: assets/Sheep_Left/mini_leftSheep_run.png
+SHA1-Digest: i4lJ8kCnfWvw4pkF2LT0M5d1oto=
+
+Name: assets/MainMenu/winnowerLeaf.png
+SHA1-Digest: kVvq7Jm6u3LwXhWaRn0TJX0xZEo=
+
+Name: assets/Effects/gold/gold19.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/Game/lostBack.png
+SHA1-Digest: Ilz7iYFsTensXjEdeqwK+12eiL8=
+
+Name: assets/Game/goldBig.png
+SHA1-Digest: HvgLDcQ96EJbU14Q7Wcu3V+KC9A=
+
+Name: assets/MainMenu/shengjiqian.png
+SHA1-Digest: H5qdjcyvbDOmD62q7N2WNdiF85s=
+
+Name: assets/MainMenu/eye3.png
+SHA1-Digest: NAqlTRg95YMDjAMYmicjkzYVncI=
+
+Name: assets/Game/backgroundTop3.png
+SHA1-Digest: oTsJ9YgjpaCs2bfjF9U+CaeUkMc=
+
+Name: assets/MainMenu/btnLeavelUpBack.png
+SHA1-Digest: Gp2GvjrRP9GQ/o0foXDYqhx2s3U=
+
+Name: assets/Game/item1.png
+SHA1-Digest: D8Wslk0BjO25IQ0av043AF701M4=
+
+Name: assets/Effects/Hit6/hit02.png
+SHA1-Digest: AnQE2WjHGOZWat0o9j7v1tSnWa4=
+
+Name: assets/Effects/gold/gold6.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/Effects/goldRain/goldRain.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/MainMenu/eye1.png
+SHA1-Digest: NAqlTRg95YMDjAMYmicjkzYVncI=
+
+Name: assets/Effects/Hit4/hit03.png
+SHA1-Digest: 8YLW593Pb11ZiHZy2oMNEDtenRI=
+
+Name: assets/Farmer/talk1.png
+SHA1-Digest: h9a2QedPvYeYM0/093l5g1lwv0E=
+
+Name: assets/MainMenu/cloud_4.png
+SHA1-Digest: /tvhs4kQaeXQ9uzXOK2ceOXqnA4=
+
+Name: assets/dangbeipay_getyzm.png
+SHA1-Digest: 1Vi+qBLySfU1jzykbH/Bj48n9Eo=
+
+Name: assets/dangbeipay_editing.png
+SHA1-Digest: ishzdvZKsiqKGn/4jkhL5Yo6kWw=
+
+Name: assets/Sound/stoneSplintering.mp3
+SHA1-Digest: bdO5VUYKuNG3/nX6eUIoexuKinc=
+
+Name: assets/MainMenu/btnUpSheepfold.png
+SHA1-Digest: BBwQ9cmPsGwiVqef2Itcq6ZLG4s=
+
+Name: assets/MainMenu/MyGold.png
+SHA1-Digest: JAjrAyCJx/YKXHwDTallXgan0zs=
+
+Name: assets/MainMenu/ear.png
+SHA1-Digest: lZHKyp9i7jbnO0Zm11VcipK3U0U=
+
+Name: assets/MainMenu/btnBackLittle.png
+SHA1-Digest: /NFlgW8MQEJx2TNtlDbHQ04kpCE=
+
+Name: assets/Sound/coin.mp3
+SHA1-Digest: y12AeK1hIUEyxxZ3VuJAMnE2h3k=
+
+Name: assets/Game/msgBox.png
+SHA1-Digest: TAoPYvDA4+kSctccOunPBuTIIOo=
+
+Name: assets/Farmer/talk0.png
+SHA1-Digest: 5PVIAOoL01wfXUtSqFx/YXu8J3Q=
+
+Name: assets/MainMenu/activity.png
+SHA1-Digest: IyhfqBt4MGueZZaZgo6PqWfhIkQ=
+
+Name: assets/Sound/farmer.mp3
+SHA1-Digest: rZXnPvOZoReVS0FPJHAiEVrQuYI=
+
+Name: assets/Effects/gold/gold7.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/MainMenu/face.png
+SHA1-Digest: F/WHv0XtgmOZt61yFK63SzmCOGE=
+
+Name: assets/MainMenu/tree5.png
+SHA1-Digest: Gznckt1SiATYDAneLhsC+0Wgzm0=
+
+Name: assets/Game/coin_small.png
+SHA1-Digest: unjeYchDunqVicei0YaZ2+qK7Ak=
+
+Name: assets/MainMenu/btnLast.png
+SHA1-Digest: 3i9d7bNxL5O50kebm/owJsaB2NA=
+
+Name: assets/MainMenu/passBackground.png
+SHA1-Digest: PodpO32yoTeaWT9QKhywRE4cwpU=
+
+Name: assets/Game/vs.png
+SHA1-Digest: 9UOmCh6Px3tK7ukUxdo914KmDFQ=
+
+Name: assets/Trap/box5.png
+SHA1-Digest: Jx59vFraFeC2HlSCM/oOe4xwY68=
+
+Name: assets/Sound/sendSheep4.mp3
+SHA1-Digest: w+sNBaU/uG+4H7eVgn5f3nCdOrA=
+
+Name: assets/Effects/gold/gold5.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/Game/sliderProgress.png
+SHA1-Digest: QE+JnRPPWenp2ZrKY1ITgnHQctA=
+
+Name: assets/Effects/Hit1/hit05.png
+SHA1-Digest: pGM71yGFR1RCQgwxiKCg59NGYH0=
+
+Name: assets/MainMenu/loadingSheep3.png
+SHA1-Digest: 0wHQoXSbraPdY9713X1pHv+5gns=
+
+Name: assets/Game/charDi.png
+SHA1-Digest: WW3Ro+XBsHD9jhuUtqZ0BY+dLZI=
+
+Name: assets/Game/gold.png
+SHA1-Digest: z6qleEJV38g1mrHOdY4G2AQUnxs=
+
+Name: assets/Effects/tears/tearsFirst03.png
+SHA1-Digest: 3hkiz9JgOg0JypLqdIhxQRT5Z1g=
+
+Name: assets/Effects/gold/gold3.png
+SHA1-Digest: xU+h+8mDJrT9nn1BwyigfT6bPaI=
+
+Name: assets/MainMenu/sheep2.png
+SHA1-Digest: 2h1FyUu9kq9Yqx4AJTkoIsOIbi8=
+
+Name: assets/dangbeipay_gray.png
+SHA1-Digest: QifclP4fWiFEnyrCxxquo2TYn20=
+
+Name: assets/MainMenu/TelNum.png
+SHA1-Digest: wTUZUfQt5b+Pt4hZc07ogNJpVIk=
+
+Name: assets/Game/background2.png
+SHA1-Digest: b96OHMaFb7nPDuyP15FMThqwTlk=
+
+Name: assets/Effects/Hit3/hit05.png
+SHA1-Digest: FnMzxBMnXkOW4QonP2x3VdmAtLE=
+
+Name: assets/Game/top_1.png
+SHA1-Digest: Bw1mWjjYceCABL/0TlPNUjSA1m4=
+
+Name: assets/Game/changeFace.png
+SHA1-Digest: Pkc8vi7BOGhC75nsd/ATdHQNxXc=
+
+Name: assets/Effects/shadow4.png
+SHA1-Digest: 1B0R1FHqhIK4AHtho7SkvA9qiH8=
+
+Name: assets/Game/Grassland_Right2.png
+SHA1-Digest: zuXkCbxkAn22NtwK/XZrdAHXE2w=
+
+Name: assets/MainMenu/cloudRight_2.png
+SHA1-Digest: dapTguPNE5fvvliAY+aE1WuuTxo=
+
+Name: assets/Game/background4.png
+SHA1-Digest: xT1gnVHolnku0NbkUUFtn0EZ79w=
+
+Name: assets/Effects/Hit2/hit01.png
+SHA1-Digest: k0UNq/oIqO2MAS7mQbUOLT1KXRA=
+
+Name: assets/Farmer/mouth3.png
+SHA1-Digest: eTYsxO5UaFFmrJwcSl67IuCGzzQ=
+
+Name: assets/MainMenu/max1.png
+SHA1-Digest: uiit49etjF+kzCAlCLaOtyIcBRY=
+
+Name: assets/MainMenu/sheep3.png
+SHA1-Digest: nsK+ZaeQ/zLtkLiVWJFVGsGogzA=
+
+Name: assets/Sound/homeBgm.mp3
+SHA1-Digest: kOkx8FW6DYyepuVYQHl8e7yKv+A=
+
+Name: assets/Effects/Hit3/hit03.png
+SHA1-Digest: nNZshf05ey/yK1MLOpOepaCNdco=
+
+Name: assets/Store/item4.png
+SHA1-Digest: Nudokx5Nw90kXIg6b1chmk7R7Gw=
+
+Name: assets/MainMenu.xml
+SHA1-Digest: TAvAzV3Nmcig9MkNS1tTWWzV1D4=
+
+Name: assets/Game/num.png
+SHA1-Digest: rsyiR4/CMnSJhrGFGIeu5H/CT4I=
+
+Name: assets/dangbeipay_go.png
+SHA1-Digest: uAFGpE/5XFx+LTDDBx2kkBiReDU=
+
+Name: assets/Effects/tears/tearsSecond02.png
+SHA1-Digest: c0bh1bjE+FsNkxzLJmQ/YEvh0nc=
+
+Name: assets/Effects/Hit3/hit07.png
+SHA1-Digest: j8Vqgb1Vb3zmOCvQUTU/WOtSmts=
+
+Name: assets/Effects/Fireworks/Fireworks.plist
+SHA1-Digest: e5fzLDZoL5MoNWyDm2AFH95RaGg=
+
+Name: assets/Game/btnUpSheepfold.png
+SHA1-Digest: ICphVga0RuOS65uJQwtmQTgNwoE=
+
+Name: assets/Log.txt
+SHA1-Digest: Oo5Py/Jy+yZcjgjqFa9wrFyrMY0=
+
+Name: assets/Game/Grassland_Right4.png
+SHA1-Digest: X1Kfz0T7IoI+hFe7kGobBNp99ko=
+
+Name: assets/MainMenu/bird2.png
+SHA1-Digest: 6PZcAOhLNLc1f2vQ59wzY02TrBs=
+
+Name: assets/MainMenu/eggBase.png
+SHA1-Digest: Cho1msCHoeq1dtz+Fu76gCI/alo=
+
+Name: assets/MainMenu/sheep2_0.png
+SHA1-Digest: eGXvrP1yrSZ8MrN2tzbA5OgS7gA=
+
+Name: assets/dangbeipay_focuse.png
+SHA1-Digest: qzGju1ESqhzLY7XRYA9gW/fRLXs=
+
+Name: assets/Effects/wind/wind0007.png
+SHA1-Digest: 70UNlc3dzE9IcrOqoYemVxWao0Q=
+
+Name: assets/Game/charGuan.png
+SHA1-Digest: c43T1UwdPDSFwWqb5tZRiZEt+AI=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: mXgXoHtWTPE80of2z3Vd5deEnDA=
+
+Name: assets/Game/item_small.png
+SHA1-Digest: /wgxUZygV0Xt619YRydtKNFhQUY=
+
+Name: assets/Effects/wind/wind0001.png
+SHA1-Digest: phwCunG6D78rZf6zVrGUdqC3agw=
+
+Name: assets/MainMenu/btnHelpBack.png
+SHA1-Digest: x+lIsE+JO/eTggOHvhJ7lmrx12w=
+
+Name: assets/Effects/gold/gold9.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/MainMenu/loadingSheep5.png
+SHA1-Digest: UaVUZMXjITVfznqLj2aqWi+2b84=
+
+Name: assets/LobbyData.json
+SHA1-Digest: UfKXPeHJwmjaunREglToUHXYbeM=
+
+Name: assets/Effects/endGame/win1.png
+SHA1-Digest: 4sC2b1hg9VhQVPIl+xH6D5OYwrw=
+
+Name: assets/MainMenu/help2.png
+SHA1-Digest: LceQuo7bDmpHEe2ajTxXmvwblkU=
+
+Name: assets/Sheep_Left/little_leftSheep_run.png
+SHA1-Digest: mB18Y+dT4umDWWG4HP7NWmciN14=
+
+Name: assets/Effects/Hit8/hit06.png
+SHA1-Digest: wWPmSFqa9XyQb9j8iB9x6yZICGs=
+
+Name: assets/MainMenu/activityBack.png
+SHA1-Digest: P2bu4FWn7fmATfTNLi5i5Di0owA=
+
+Name: assets/Effects/Hit4/hit01.png
+SHA1-Digest: 9N4euQ84kt+w1uzY6Jp3NbO/gps=
+
+Name: assets/Fonts/font.png
+SHA1-Digest: MINqjmZYpb097eRZtYEun3//XE4=
+
+Name: assets/Effects/wind/wind0016.png
+SHA1-Digest: tBhXFSStWrmprdO35V/Ycg5zLBE=
+
+Name: assets/MainMenu/base2.png
+SHA1-Digest: 5d3VmkyKwsYn5bnVMqDzJxbe4q8=
+
+Name: assets/Effects/Hit1/hit02.png
+SHA1-Digest: uqRHupeVigsIvaCdlVU9aD0RFOI=
+
+Name: assets/MainMenu/caodi.png
+SHA1-Digest: UIVvhS+i4z6IJvCAzU8CJ48AUm8=
+
+Name: assets/Effects/Hit3/hit04.png
+SHA1-Digest: R9EsT/mBuMAMZElD2hhv5j/BiMQ=
+
+Name: assets/Effects/tears/tearsFirst04.png
+SHA1-Digest: 26D9O3h4CljXXO38JsW4+mKnhT8=
+
+Name: assets/Game/eave2.png
+SHA1-Digest: kwMZdYOLCyjZCwrbfa29j9GLF4Y=
+
+Name: assets/MainMenu/sheep1.png
+SHA1-Digest: VVCvIvAcAacEDyWM9dPYmJvnHNs=
+
+Name: assets/Effects/endGame/win3.png
+SHA1-Digest: 14TqrcBEUW8hlgOrGVP3B+wQG20=
+
+Name: assets/Store/goldNum.png
+SHA1-Digest: moi0/ta1lYOnCifnWdEbiX1/2oc=
+
+Name: assets/Farmer/mouth1.png
+SHA1-Digest: eTYsxO5UaFFmrJwcSl67IuCGzzQ=
+
+Name: assets/Default.png
+SHA1-Digest: 8HaUdWvQdxT/tYs8hD4+6Wmwnko=
+
+Name: assets/Effects/wind/wind0005.png
+SHA1-Digest: zOctgzgZElvO7ZHo6aCCEWtbSLA=
+
+Name: assets/MainMenu/LvUpLabel.png
+SHA1-Digest: pi58CFNpkMPwN8gBain4N3eHuHA=
+
+Name: assets/Store/item1.png
+SHA1-Digest: bxrjTYOQmOEiXy3TNeUddqvkVmw=
+
+Name: assets/MainMenu/sidai3.png
+SHA1-Digest: m5FyHLr+w7PQ1N3Cg9pbo5EnIKE=
+
+Name: assets/Sheep_Left/huge_leftSheep_run.png
+SHA1-Digest: 5ggJvs0a8kXFhejw9jFWq9kzsGA=
+
+Name: assets/Effects/endGame/win4.png
+SHA1-Digest: +iaFbiLJEl5vFX2MIP4sWpHnCro=
+
+Name: assets/MainMenu/cloud_2.png
+SHA1-Digest: A1DgWzolKFZga/FikBFanvWenGg=
+
+Name: assets/Sheep_Right/little_rightSheep_hit.png
+SHA1-Digest: 340o5DkS6Bg1ytfTt0eHZbCfKDs=
+
+Name: assets/Effects/tears/tearsSecond04.png
+SHA1-Digest: 8Epb9R8M0Pl8TRegt/a6wbxu2dE=
+
+Name: assets/Effects/gold/gold16.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/MainMenu/loadingSheep2.png
+SHA1-Digest: QBhlmNiNsHAvqxKuh+vvcG8DbL0=
+
+Name: assets/Game/sheepBL.png
+SHA1-Digest: kUCWdLI8ekTvQesjtVEhbonTAlo=
+
+Name: assets/MainMenu/btnBack.png
+SHA1-Digest: I/3uEO2guW7agPT84ZJfAg7TInc=
+
+Name: assets/MainMenu/sidai2.png
+SHA1-Digest: x6s/y9sxe72KQxsqKjtqOiB58pM=
+
+Name: assets/Effects/Dust.png
+SHA1-Digest: 2DiiBy+mhVVcNV2KSRIsvPFtYW0=
+
+Name: assets/Game/sheepMR.png
+SHA1-Digest: HMpUe0KcnztS3ovbtne4dtbb03A=
+
+Name: assets/MainMenu/xiacitisheng.png
+SHA1-Digest: 3w6fyAhHbkJ1fO9I3kY7wIFF3uw=
+
+Name: assets/MainMenu/btnTree.png
+SHA1-Digest: nzxi5JBm4ZNgcxwIYSOhAW5rWuY=
+
+Name: assets/MainMenu/btnPlay.png
+SHA1-Digest: 5oafAuvqp+7mAqwL/3fHmUJKYis=
+
+Name: assets/Sheep_Right/huge_rightSheep_run.png
+SHA1-Digest: M+ctKwvwjnEXwav+1oc3DxZ3UOI=
+
+Name: assets/MainMenu/ID.png
+SHA1-Digest: k8xPk5n84Q24nH14xKZyCyMUZY8=
+
+Name: assets/Sheep_Left/big_leftSheep_run.png
+SHA1-Digest: nOSXvGeoYeRiW71tsXYbxqTyVRs=
+
+Name: assets/MainMenu/tree1.png
+SHA1-Digest: QmvuJnu/RSQ+wrUd6sbToEMTnIA=
+
+Name: assets/ThirdpartyLogo.png
+SHA1-Digest: uSNF7wgqOINk79r6T7dVSIRHLMc=
+
+Name: assets/Game/guidance_6.png
+SHA1-Digest: GLffh7zmvxJw4d3g0MipBHknVXM=
+
+Name: assets/SceneData.xml
+SHA1-Digest: n4bdt8N6vnuGuvuuKuixGzyjX8M=
+
+Name: assets/Game/guidance_7.png
+SHA1-Digest: zUdPuudKqfnY+ZwFKyblKa6XgNg=
+
+Name: assets/Game/btnContinue.png
+SHA1-Digest: gncexDmXBbwhuERvWD8GED2V0/s=
+
+Name: assets/Effects/Hit2/hit02.png
+SHA1-Digest: fRx8UiDojMfQaVzv3jrMbIP31Po=
+
+Name: assets/Farmer/talk3.png
+SHA1-Digest: nwzi+PNi3EiKjWnGNUbcBkvYUJ0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: VQBYRBtpWDHmnBM7/rQ93VkErlA=
+
+Name: assets/Sound/Clock.mp3
+SHA1-Digest: 4jhq/dX9Q2WuWyRBFtGCMIXllOE=
+
+Name: assets/MainMenu/sheep2_1.png
+SHA1-Digest: xQxroFBK6wW0OP2fxZzuNPgBDGc=
+
+Name: assets/Effects/Fireworks/Fireworks.png
+SHA1-Digest: um/8Ok8umh8WRnrbbwDowdk3uOA=
+
+Name: assets/MainMenu/btnShake.png
+SHA1-Digest: uuskRMyWOdJLhyvOiZ47WIJBPII=
+
+Name: assets/Sheep_Left/little_leftSheep_hit.png
+SHA1-Digest: QmNGH6RSX12ZdRM7jyoX++kjGPY=
+
+Name: assets/MainMenu/loadingDian0.png
+SHA1-Digest: vwz1dx86hxGIXQEBlPsQhGD4XdM=
+
+Name: assets/Game/btnMenu.png
+SHA1-Digest: lWmgGNEY4kNDQThhMuOtXNJZHFc=
+
+Name: assets/Sheep_Right/mini_rightSheep_run.png
+SHA1-Digest: bc3yzDxdAMhVWKXdBnb7b/DWLo0=
+
+Name: assets/Effects/wind/wind0002.png
+SHA1-Digest: xw6kT4Ej67TUY2Z32jqbCp7aPTg=
+
+Name: assets/MainMenu/cloud_1.png
+SHA1-Digest: 4aO0YptUknO857kLHL3biy2eJlY=
+
+Name: assets/SrsData.xml
+SHA1-Digest: oTGOd1J/U1JZ8S+y6KjhrZVbodg=
+
+Name: assets/RechargeData.xml
+SHA1-Digest: UfMidmPj4D4cnYc3dWEXbmbK0sQ=
+
+Name: classes.dex
+SHA1-Digest: n1kmvfW4MdTM6sBr4veKTH61az8=
+
+Name: assets/Effects/Hit3/hit01.png
+SHA1-Digest: SXNO1hriIasvPpTQ0vJjxJ6tJ3g=
+
+Name: assets/Game/btnGoOnGame.png
+SHA1-Digest: HT2yvHY8OdWAy0Da7VFOhjLGvM4=
+
+Name: assets/MainMenu/star0.png
+SHA1-Digest: dvuTDAko35rNKzzRPSbi2MLXoMI=
+
+Name: assets/Trap/box2.png
+SHA1-Digest: E7WMzYK0ebDBXC2bTKrnR9ZYpFg=
+
+Name: assets/Star.plist
+SHA1-Digest: uN9YdCypLxPy+L0EXKoJhbhsGOU=
+
+Name: assets/Sheep_Left/mini_leftSheep_hit.png
+SHA1-Digest: L3F8LbNda4Ea+rPN6Hkbh1o+8KA=
+
+Name: assets/MainMenu/cloudLeft_1.png
+SHA1-Digest: aaxv2PIGm9fpqULmBsL8ZYuhrXU=
+
+Name: assets/Sheep_Left/huge_leftSheep_hit.png
+SHA1-Digest: WXHTvbaRN7decaQeFdbccKb6GF0=
+
+Name: assets/Farmer/box.png
+SHA1-Digest: BK6xS5W6C6Wmo142mmkOajXNwFY=
+
+Name: assets/Game/superSheepIcon.png
+SHA1-Digest: xw/jEIUiAUJQ2WzhQzWTJFlD++s=
+
+Name: assets/Store.xml
+SHA1-Digest: Q5+/NwKW0Oju76b/1tRErMKN0Ls=
+
+Name: assets/Effects/gold/gold1.png
+SHA1-Digest: daoERGkvNfW7NiM2LbzssgyqIag=
+
+Name: assets/dangbeipay_cha.png
+SHA1-Digest: 2NQv9xTlNulUCmsbVJ51Iu1d8og=
+
+Name: assets/Game/Grassland_Right3.png
+SHA1-Digest: kUak2D/KjPre3nQuqT9Tn7bxheY=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: mXgXoHtWTPE80of2z3Vd5deEnDA=
+
+Name: assets/Game/sheepBR.png
+SHA1-Digest: 9S7tklivReEUy4oc89a+CA9B7n4=
+
+Name: assets/Effects/Hit8/hit02.png
+SHA1-Digest: sGExeaXy7+VbLGtxzSu/+TgtFUk=
+
+Name: assets/Sheep_Right/little_rightSheep_run.png
+SHA1-Digest: pZcWfs6LtRJ9b5mcHWJqrX0yp0g=
+
+Name: assets/Farmer/eye4.png
+SHA1-Digest: CL1hhJMFooWg0KkeRq59hs6MuJw=
+
+Name: assets/MainMenu/chicken2.png
+SHA1-Digest: aVPB+ON/9plqYF0uJC/L+HvAcAQ=
+
+Name: assets/MainMenu/gameTitle.png
+SHA1-Digest: aIKL72pUVkh1ICKgKxMaWjBbyrY=
+
+Name: assets/Game/itemBase.png
+SHA1-Digest: V0hEnbe7j7g/nX0wqnBerH/P5DM=
+
+Name: assets/MainMenu/leavelUpBack.png
+SHA1-Digest: rs859Gqh7u+q578VNU4h0BV3MhE=
+
+Name: assets/Game/sheepNL.png
+SHA1-Digest: kM9cDdV1i4GP/OYY89JgY6KdJg8=
+
+Name: assets/dangbeipay_gou.png
+SHA1-Digest: Uuzs01Pxi0Hk5GyFfMXI6xPeglo=
+
+Name: assets/Game/Grassland_Right1.png
+SHA1-Digest: 7ZM0ni1AEPtbbh8IsHq3vJJOcHI=
+
+Name: assets/Game/sheepML.png
+SHA1-Digest: /pm6r9LiZ1LE/FIRqM5GMg4RpWw=
+
+Name: assets/Game/loseTitle.png
+SHA1-Digest: a2Nl6NAttjD6jfBWFddsZwA23Zc=
+
+Name: assets/Game/btnGo_1.png
+SHA1-Digest: o7YDuOjZ5fZVkcYuCjF6HcF5Lt0=
+
+Name: assets/Trap/box1.png
+SHA1-Digest: A7zTaPalV1+lZkjQTkEJa5uly+s=
+
+Name: assets/Effects/Hit7/hit04.png
+SHA1-Digest: U4V9WTWpFbLoBx6eBrymIRVC88A=
+
+Name: assets/Effects/star/star.png
+SHA1-Digest: Lw6Zjtalt5VB8//jGTqIXLMVZBY=
+
+Name: assets/Game/top2.png
+SHA1-Digest: 1r0MTXQcfl4Us0HfLG5CX3zYMNA=
+
+Name: assets/Effects/Hit5/hit07.png
+SHA1-Digest: 4y9G1y9m6e0VC5S4vdQ4z2m4jnc=
+
+Name: assets/Game/youWin.png
+SHA1-Digest: N+aWxrs4IxzkOei5oBiRvgGFU6Y=
+
+Name: assets/MainMenu/land4.png
+SHA1-Digest: v4VcB9p0mVrwcnyhKOsePAihKZM=
+
+Name: assets/Trap/stone2.png
+SHA1-Digest: hC11Bz9S6WkwWf/XdPL1I/zQ/os=
+
+Name: assets/MainMenu/btnMoneyUp.png
+SHA1-Digest: KSHGZNNGk14M+MY4Xc+BDaBk3uQ=
+
+Name: assets/dangbeipay_go_on.png
+SHA1-Digest: Zl2TAkz25KYHfG5FDAfHh4FUbXQ=
+
+Name: assets/Config.xml
+SHA1-Digest: gA8I9jjj9GbmpGK9liORXTsFDkk=
+
+Name: assets/Effects/wind/wind0006.png
+SHA1-Digest: bY+6Ar42keKmPwFQtXDlrI1B0RU=
+
+Name: assets/Game/backgroundTop1.png
+SHA1-Digest: 3FIcH7+B9NChHP4+UfXTeIaI1c8=
+
+Name: assets/Effects/Hit5/hit04.png
+SHA1-Digest: E8TXg83j+3pRxSDktFR177LCCSU=
+
+Name: assets/Game/winTitle.png
+SHA1-Digest: hvIIEmPBuiqr5djInPzPTXlBQQc=
+
+Name: assets/feeInfo.dat
+SHA1-Digest: 3vjLFAShUXE5vwSjAXeiuN7lNsw=
+
+Name: assets/Store/btnBack.png
+SHA1-Digest: /NFlgW8MQEJx2TNtlDbHQ04kpCE=
+
+Name: assets/Effects/gold/gold13.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/Game/top.png
+SHA1-Digest: qS7OO/kHsXR4LOzje8gyppohAc8=
+
+Name: assets/dangbeipay_button_weicat.png
+SHA1-Digest: 6GxJvgdeXZ9ATX98wSz9B7jTAKo=
+
+Name: assets/Trap/box3.png
+SHA1-Digest: EXpg5VkPVYoftertLca2dy3qAZk=
+
+Name: assets/Game/btnGo_4.png
+SHA1-Digest: H+4ijCehme2SoP01+9d9wFmNqgg=
+
+Name: assets/Farmer/mouth2.png
+SHA1-Digest: CxJObdKgNgZCVR/U2AcXY6UNCM4=
+
+Name: assets/Game/background3.png
+SHA1-Digest: yU7asdm9TqAfDY0FZAiVFp9Edd0=
+
+Name: assets/Sheep_Right/mini_rightSheep_hit.png
+SHA1-Digest: B/uugQnuCUxBMfUfl3kWq0Gc1e8=
+
+Name: assets/Game/btnStart.png
+SHA1-Digest: aFfW/mw0reRLwglgghE/NQYLmYI=
+
+Name: assets/Sound/sendSheep0.mp3
+SHA1-Digest: ms7IHqPglAhqOu7IqoPuQdi9mPo=
+
+Name: assets/Fonts/GBK.ttf
+SHA1-Digest: iAyOyQASkMoiOWSxXp1OUrmVEuA=
+
+Name: assets/Sheep_Right/big_rightSheep_run.png
+SHA1-Digest: b7QTyhaM3RhOAfRRWnbVIV5BrP0=
+
+Name: assets/Effects/Hit3/hit02.png
+SHA1-Digest: ll0wyw46rRolAm0ZQbVIDdzkj2o=
+
+Name: assets/Effects/Hit1/hit04.png
+SHA1-Digest: 9GMFK2i8ctee5JZQ8OOfOGa8XQk=
+
+Name: assets/Game/score.png
+SHA1-Digest: nrDQg6fVvAxBiDzieOIaCKjCaEs=
+
+Name: assets/Game/guidance_4.png
+SHA1-Digest: z2rDvNY7HVaOeC/RBp5kDKAZyY4=
+
+Name: assets/MainMenu/lock.png
+SHA1-Digest: jk5L31ruawhGg76+ehR5CzPLTYE=
+
+Name: assets/Game/background1.png
+SHA1-Digest: BRg2Gm0cM6RKVr+ll8V7mSmW8+c=
+
+Name: assets/Game/wrong.png
+SHA1-Digest: OdLjoZbC3Wf3DpARzzQAudYHqak=
+
+Name: assets/Sound/fierceWind.mp3
+SHA1-Digest: ZAOVzAie4HiGHxwDLPRTeuWir18=
+
+Name: assets/Effects/Hit4/hit04.png
+SHA1-Digest: F89xV/A2hS74HVVuMEOaMT66bEE=
+
+Name: assets/dangbeipay_exit_button_canncel.png
+SHA1-Digest: 1rwlxvtfrDeSPtoT78uTTFfCqrs=
+
+Name: assets/Game/cd_2.png
+SHA1-Digest: KpWK3ChhsLlMiSIMWQYzb9aFDF8=
+
+Name: assets/MainMenu/line.png
+SHA1-Digest: d4VNp0jS0mrYvsGQRxGI1jOX1+Q=
+
+Name: assets/MainMenu/announceBack.png
+SHA1-Digest: 0yoEO5dauOWrVqDRLnkxucQVKVw=
+
+Name: assets/MainMenu/cloudRight_1.png
+SHA1-Digest: Pe7bzBBF0nNl4nP9NSTDtXyU0O8=
+
+Name: assets/MainMenu/loadingDian2.png
+SHA1-Digest: XoIKKGO8B/jVId3KD883a0SaMTY=
+
+Name: assets/Game/btnGo2.png
+SHA1-Digest: a35hjon3q4AbV1N+a4/gWgB2+eY=
+
+Name: assets/Effects/tears/tearsSecond01.png
+SHA1-Digest: RW41hPDs03LW/vbjBIttQsAPLss=
+
+Name: assets/Game/eave3.png
+SHA1-Digest: nRVrAsuxXK8BfKSABZBM78DicQA=
+
+Name: assets/Sheep_Right/big_rightSheep_hit.png
+SHA1-Digest: Rw6RCyxC0fE9r7B+tLfVULnId+I=
+
+Name: assets/MainMenu/cloud_3.png
+SHA1-Digest: tE7jFL69b2RODKpp0hT2WTmFB74=
+
+Name: assets/Effects/Hit3/hit06.png
+SHA1-Digest: Js2MpQ2ZdB9MNFIdD8lsyntzKqA=
+
+Name: assets/Effects/gold/gold11.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/Farmer/talk20.png
+SHA1-Digest: nSnut8IFgt4PacudLQOJHeVlLIo=
+
+Name: assets/Effects/star/star.plist
+SHA1-Digest: rS5xo0yOblcORaN5hRDd9ZAM6Y4=
+
+Name: assets/Game/guidance_1.png
+SHA1-Digest: eC2sduRBeb588nhd3xO22gnnMhg=
+
+Name: assets/Store/btnBuy.png
+SHA1-Digest: M+Zbdzjs7tTkjyUmoJ9JGju576w=
+
+Name: assets/Effects/wind/wind0013.png
+SHA1-Digest: hzojwpoLNvWm2YB7BCgnrh5tT8w=
+
+Name: assets/MainMenu/cloudLeft_2.png
+SHA1-Digest: xx176wsk5ZyIAqspDo+5Bkh5Hb8=
+
+Name: assets/Game/pauseBack.png
+SHA1-Digest: BiBj0PvAEQiSBOm3gLoeh2LCn0A=
+
+Name: assets/baseSdk.jar
+SHA1-Digest: mb1Xmk5CyEx6ev0Fa4DQv6LgKGA=
+
+Name: assets/Effects/Hit4/hit07.png
+SHA1-Digest: ln3PxpAOsxOOWFB8WnIrQ2S87S8=
+
+Name: assets/Sound/GameBgm.mp3
+SHA1-Digest: IyNJQ+shweKaWt250QA/vtYuD9U=
+
+Name: assets/dangbeipay_xian.png
+SHA1-Digest: YnHh88C4MWumv2B8LsHlA36FGeQ=
+
+Name: assets/Store/item3.png
+SHA1-Digest: GwqHHTHlT9wipYyhgbzXozdEjwg=
+
+Name: assets/Effects/endGame/win2.png
+SHA1-Digest: KpgVvv8pDteQ41UwcdXxw4y3NCU=
+
+Name: assets/MainMenu/btnOK.png
+SHA1-Digest: 7I1vUXHj2RprR/PP5pc6iy266e8=
+
+Name: assets/Effects/endGame/lose1.png
+SHA1-Digest: SQk7hA1egP5uKAfrcNjqCuSsET4=
+
+Name: assets/Effects/Hit7/hit06.png
+SHA1-Digest: mb+sl/46BSFEzTP4K1SvtpAk7Lc=
+
+Name: assets/MainMenu/btnHelpLast.png
+SHA1-Digest: W8QTO/2wAzwEXI2X6TUyPOlzUr8=
+
+Name: assets/MainMenu/btnHelpNext.png
+SHA1-Digest: ppPE0+k0IbQOdJYFtCXj8kol3Z4=
+
+Name: assets/MainMenu/sheep1_2.png
+SHA1-Digest: o20IOAB10egbJPCnipW9n3i91mU=
+
+Name: assets/dangbeipay_loading.png
+SHA1-Digest: mxJHwRs5wso+5rZ8tnA2McMgF7M=
+
+Name: assets/dangbeipay_edit_on.png
+SHA1-Digest: xwWW/841t+RjEWm82rz20TMN+B4=
+
+Name: assets/Farmer/farmer.png
+SHA1-Digest: YacttMpD5sDydxpjOdtLOnm1lh4=
+
+Name: assets/Store/item2.png
+SHA1-Digest: jV0lSF2tu33M0XUY8dckmotH8xo=
+
+Name: assets/Game/fierceWindIcon.png
+SHA1-Digest: dB5Z7zzlzGDWdcwddd3QsTuVDzk=
+
+Name: assets/MainMenu/yun0.png
+SHA1-Digest: Eh2LWXodD+kpbWaccFLB9s96I/M=
+
+Name: assets/Effects/Hit4/hit06.png
+SHA1-Digest: SZptjBeeGPFr/ETyXFg0jYhJcA0=
+
+Name: assets/MainMenu/egg.png
+SHA1-Digest: vwbedigDBZ92Zl9uWhOvzK0yOd4=
+
+Name: assets/Effects/tears/tearsFirst01.png
+SHA1-Digest: CBwkWxABTBuxFcJZkoEMmIFIxpA=
+
+Name: assets/MainMenu/tree6.png
+SHA1-Digest: g7n1lx9xHc3OeBIkqLx8kLVL0/U=
+
+Name: assets/Trap/box4.png
+SHA1-Digest: YBIQByhYbTCg8+S3qG4d50lRHhM=
+
+Name: assets/Effects/tears/tearsSecond03.png
+SHA1-Digest: fyX5PObzEmyM8e6uAHikr/IzjEI=
+
+Name: assets/MainMenu/btnHelp.png
+SHA1-Digest: JHevtTe6O3RpEE1f+VGyW537Jdc=
+
+Name: assets/Bomb.plist
+SHA1-Digest: Jq7SrTFmtmwvS3DwW1pKNpbdrJI=
+
+Name: assets/MainMenu/yun2.png
+SHA1-Digest: cAN+HP//Vb7emjNzGl113X1rSGc=
+
+Name: assets/Effects/Hit1/hit06.png
+SHA1-Digest: liqcCDXDcFKu/IjCH0lFUvGjmyw=
+
+Name: assets/Game/starBig.png
+SHA1-Digest: /Biivby86e9MvUqQ7eJ1Y8F+kG8=
+
+Name: assets/MainMenu/btnClose.png
+SHA1-Digest: i/fRgbDmKeHwyrQ31RGavf/yCAA=
+
+Name: assets/Game/back.png
+SHA1-Digest: LOPMajGGgRUC8kuPA11QIkqbjhg=
+
+Name: assets/MainMenu/winnowerJoint.png
+SHA1-Digest: Ja3wIanEdiDjVyANI0SoH1DsNO0=
+
+Name: assets/MainMenu/sheep1_0.png
+SHA1-Digest: PqYqWN6v9kn1N570u4D/2JXZP2o=
+
+Name: assets/ThirdpartyLogo2.png
+SHA1-Digest: /IE3IXKqi5/LtFz74HT/C5D+PWM=
+
+Name: assets/Effects/tears/tearsFirst02.png
+SHA1-Digest: WvkMc1ZrQiqNBAKqdD7uDYwogq8=
+
+Name: assets/Game/guidance_3.png
+SHA1-Digest: Ida+Z2tPdv0nbR/JbjPV6fnHOZk=
+
+Name: assets/ThirdpartyLogo3.png
+SHA1-Digest: mp3xALIdSKICccwMbsJnDKek6IY=
+
+Name: assets/Effects/goldRain/goldRain.plist
+SHA1-Digest: KQbc9QWh6KYU1zHXYxMZDPwaiHM=
+
+Name: assets/MainMenu/sidai1.png
+SHA1-Digest: prjLJ8kK4Qv5LkOntOulUwjG4Pk=
+
+Name: assets/dangbeipay_button_alipay.png
+SHA1-Digest: MdNj5FDrbNBhtCIl4rl9SlQiKdQ=
+
+Name: assets/MainMenu/sheep1_5.png
+SHA1-Digest: Aa87sVyKjZJPwy3hzHravuxc9ks=
+
+Name: assets/TV/TV.png
+SHA1-Digest: mHAViHV/+BNA2FJL4jJ1AZxdjMU=
+
+Name: assets/MainMenu/btnAnnouncement.png
+SHA1-Digest: exYMtCleA4KfEdd3dVyV/RO5XqA=
+
+Name: assets/Effects/Hit6/hit03.png
+SHA1-Digest: GC28e+mkE9nobcqXUskU9ZHWunA=
+
+Name: assets/MainMenu/sheep2_5.png
+SHA1-Digest: wSGbyD/0TWiIWeHFi8kgML4omtE=
+
+Name: assets/Effects/wind/wind0014.png
+SHA1-Digest: Emr/zV3TBLdzSofvyD/3JR0EvNI=
+
+Name: assets/MainMenu/land2.png
+SHA1-Digest: Hs8RyePeJfhMeh54CocK5L5K91k=
+
+Name: assets/Sheep_Right/huge_rightSheep_hit.png
+SHA1-Digest: Dgq12hDb0JWiLDOVYC7fX7YeAak=
+
+Name: assets/Effects/Hit8/hit05.png
+SHA1-Digest: KpbqObPiWUkZTlSD24TB78QBFzA=
+
+Name: assets/Game/chooseItemback.png
+SHA1-Digest: aMfGCnExDLNBosbvKQb8t3wDDgU=
+
+Name: assets/Game/item3.png
+SHA1-Digest: G6jwkhkpsViSDmT4/oJ2QL9MQRA=
+
+Name: assets/MainMenu/shine.png
+SHA1-Digest: 7FTQletC1aKPF0ABGfQKhi6i/HQ=
+
+Name: assets/Sheep_Right/normal_rightSheep_hit.png
+SHA1-Digest: nzxLvTuaSGH6061XxYFdMdEMF14=
+
+Name: assets/Game/sliderTrack.png
+SHA1-Digest: NrLZBeryTeu8A/GhsO/Vr6Dick8=
+
+Name: assets/Effects/Hit4/hit05.png
+SHA1-Digest: /9osqzBOHupNiInAF59DG6P7TYk=
+
+Name: assets/Default@2x.png
+SHA1-Digest: 6L5hbHcE5b+5ngci4xDUkWQg6qg=
+
+Name: assets/Effects/Hit6/hit01.png
+SHA1-Digest: eZ/sf9WaR8hGGGkMproJk80KHv4=
+
+Name: assets/MainMenu/base3.png
+SHA1-Digest: L6ZiAqWj1Aoa140tM8AjTXaQtag=
+
+Name: assets/Effects/Hit2/hit05.png
+SHA1-Digest: uoY/BPxDQqRtoxzYtpm3y98Bz/0=
+
+Name: assets/MainMenu/eye2.png
+SHA1-Digest: TAaCrS1ra1xS3SL+/fCG1kK8YQU=
+
+Name: assets/Effects/gold/gold14.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/Effects/wind/wind0015.png
+SHA1-Digest: fbjw24YwXQM5rZxs51MTgi/aeV4=
+
+Name: assets/Game/left.png
+SHA1-Digest: NwIk9PASUy/82pyq0PgIQH6b0lM=
+
+Name: assets/MainMenu/bird1.png
+SHA1-Digest: wXHvI6Zb8FV/wmP6R7EzEalUhtc=
+
+Name: assets/dangbeipay_edit.png
+SHA1-Digest: T7WcPOlz9Ub10qvcsq8w8dIsQv8=
+
+Name: assets/MainMenu/sheep5.png
+SHA1-Digest: C0woq6x58w5zY1J/5G4ucLR0cso=
+
+Name: assets/Game/guidance_5.png
+SHA1-Digest: 27o2s1Lpe+Y6NkRxXoLiarrqJn8=
+
+Name: assets/Sound/btnEffect.mp3
+SHA1-Digest: zp5+ZDkYn8sOgoUa3rM+8ZYUPrE=
+
+Name: assets/MainMenu/hom.png
+SHA1-Digest: QJJspQmyl2CLP6AsNcdVEHYVqLk=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: mXgXoHtWTPE80of2z3Vd5deEnDA=
+
+Name: assets/Effects/gold/gold17.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/Effects/wind/wind0017.png
+SHA1-Digest: O7VzuXFKbQJhAi6pYMn+5d9g3qc=
+
+Name: assets/MainMenu/backgroundTop.png
+SHA1-Digest: pyCaww2txfZzOE/m3OKcw2iZzxk=
+
+Name: assets/MainMenu/max2.png
+SHA1-Digest: BkRpBtSapvXN+0B+Ur5T8KgTGb8=
+
+Name: assets/Effects/Hit6/hit04.png
+SHA1-Digest: jKX2MADzoZA57Z9KsN1e7E7grXU=
+
+Name: assets/Effects/Hit6/hit07.png
+SHA1-Digest: jbp5s0jhh34pLGT2xTUCdC2kwQc=
+
+Name: assets/Effects/Hit8/hit04.png
+SHA1-Digest: 9tcL287rQfDlxGRgTaeKIHWyJeg=
+
+Name: assets/Game/title1.png
+SHA1-Digest: s8/8F0aYKsKdghCx3OZmZ7WNVy4=
+
+Name: assets/dangbeipay_exit_kuang.png
+SHA1-Digest: rk7SAmkDc8Yvj8MEDpBzwGj9X0g=
+
+Name: assets/Game/guidance_2.png
+SHA1-Digest: VDJF8Ejshtc3TUF4C1CEPan+9p8=
+
+Name: assets/Sound/boxSplintering.mp3
+SHA1-Digest: lV9Pj0US9wIqnYIOl8Wu6QZ2VQE=
+
+Name: assets/Farmer/talk11.png
+SHA1-Digest: h0vQelaA8LFfn15dktLNF67ALoI=
+
+Name: assets/Effects/gold/gold4.png
+SHA1-Digest: 3pWYng4ZU2XKIWw+sD4/dS6WfBw=
+
+Name: assets/Effects/gold/gold18.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/dangbeipay_button_msg.png
+SHA1-Digest: y+PKUfkgyG2j69bmcPSJ3YFZXHg=
+
+Name: assets/Effects/gold/gold10.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/Effects/Hit4/hit02.png
+SHA1-Digest: Jrfloe4fpccGi+SbUyDvf5Nz1O4=
+
+Name: assets/dangbeipay_exit_button_ok.png
+SHA1-Digest: LdZlgkP4eYEqtjv1pbMAsrgxWXg=
+
+Name: assets/Game/btnNO.png
+SHA1-Digest: Qck9HgjjdlE3VpRYv2buS4GVS/c=
+
+Name: assets/Sound/lost.mp3
+SHA1-Digest: bDPUOLPXMIJSkL9OFbPMV+c3o2g=
+
+Name: assets/Effects/wind/wind0009.png
+SHA1-Digest: y5zusvoTpB6xNWsITsEkuXexQKk=
+
+Name: assets/Game/settleBack_d.png
+SHA1-Digest: Wr88sLRn5A1AOx9HUceSu/JxhCw=
+
+Name: assets/Effects/Hit5/hit03.png
+SHA1-Digest: 5mR4anT4nOn3CDJs5KdprF8n+i0=
+
+Name: assets/Effects/endGame/lose3.png
+SHA1-Digest: C0KI/FwUo0tME9cZ2ZjQRNprAoE=
+
+Name: assets/Sound/upgradeSucceed.mp3
+SHA1-Digest: Ran8wCZTelz1YPk611jE8/rEfBA=
+
+Name: assets/Effects/Hit5/hit06.png
+SHA1-Digest: U+PqFHwYDyaLJ8l6xlAXYcU/dxs=
+
+Name: assets/MainMenu/btnEgg.png
+SHA1-Digest: VITj6ZJHLeVQrmvSa0wid2y3Q00=
+
+Name: assets/MainMenu/btnGoldUp.png
+SHA1-Digest: SnmFfl51jqgbgO4rPbLsB6lH6x8=
+
+Name: assets/Game/backgroundTop4.png
+SHA1-Digest: Pu/yXKe5Z6Bp+leSSToJxESrWxE=
+
+Name: assets/MainMenu/loadingDian1.png
+SHA1-Digest: zVT5PxpmW+0YeZ4ePwzNqi5obQM=
+
+Name: assets/MainMenu/sheep2_3.png
+SHA1-Digest: VS+VCfH77pRV0ZLILJE5emEWn9E=
+
+Name: assets/Effects/Hit7/hit05.png
+SHA1-Digest: zW49fhOGG//dW849Ba0uggWR6Bs=
+
+Name: assets/Effects/Hit7/hit01.png
+SHA1-Digest: OFN4rIoIybCst2dd0zxZzVMTKFQ=
+
+Name: assets/Farmer/eye3.png
+SHA1-Digest: h58q7iRC7zBn1FWn+HUbicl+vyc=
+
+Name: assets/MainMenu/btnStore.png
+SHA1-Digest: ITjLvjy3RJNbwuwWJcDiPNF9e6I=
+
+Name: assets/Effects/Hit7/hit07.png
+SHA1-Digest: 2rdJBaEy9FewJQvcYF9KhapaIHY=
+
+Name: assets/Game/titleBox.png
+SHA1-Digest: Ucw9ifs7zJ7D1KOeygxA5UlpBqE=
+
+Name: assets/Game/goldNum.png
+SHA1-Digest: LHSMuS0gm6X7JycZZenHIKoBMsg=
+
+Name: assets/MainMenu/gold.png
+SHA1-Digest: xd8Qqq7DrJnQIhWi73c1Uo51e7g=
+
+Name: assets/MainMenu/btnActivity.png
+SHA1-Digest: ZEzLOKQt+bn8E3xMrEKimEwez0k=
+
+Name: assets/MainMenu/passNum.png
+SHA1-Digest: xShwxqVi59bL291XXpsf1Q6RprM=
+
+Name: assets/Effects/shadow5.png
+SHA1-Digest: Mbqcy5/Vd1NBomPjDGa6jUMNKOo=
+
+Name: assets/Farmer/talk6.png
+SHA1-Digest: JfiUToHdDHR/XMnk06dGsrcuidk=
+
+Name: assets/Game/backgroundTop2.png
+SHA1-Digest: 8I6CPhiShJfmytkMC1FHreP5oZI=
+
+Name: assets/MainMenu/start.png
+SHA1-Digest: nHGPpz3/nib55GGDMETmAGPFfPw=
+
+Name: assets/MainMenu/tree4.png
+SHA1-Digest: aK4odMsIAXOM9DBdcft39qAUink=
+
+Name: assets/MainMenu/sheep1_3.png
+SHA1-Digest: oEcS8B28Lb9jLISoRFRE5qMuiCE=
+
+Name: assets/Game.xml
+SHA1-Digest: 2VkqihcRCu5kv3DIPsTFgiM1/2s=
+
+Name: assets/Effects/Hit6/hit05.png
+SHA1-Digest: yhxiTnLzcO4wGS82f6rDUS0c8gg=
+
+Name: assets/Game/btnBuy.png
+SHA1-Digest: YNIb5UVgwZzTY6zsBYuqZMDZB44=
+
+Name: assets/Effects/wind/wind0011.png
+SHA1-Digest: YtjBBUTmWHgnRcfCGg0e4FrFte4=
+
+Name: lib/armeabi/libgame.so
+SHA1-Digest: glFk3kXwaZwOh7TV0BxC34YqCbo=
+
+Name: assets/MainMenu/sheep1_4.png
+SHA1-Digest: QiTqXS0p9EJkMzelxkJUXbiK0W4=
+
+Name: assets/MainMenu/loadingSheep1.png
+SHA1-Digest: RoXFi/cR35q7LzcGA4Nu7T4/Yms=
+
+Name: assets/Sound/goldTree.mp3
+SHA1-Digest: IPMO7jn4KjYNcKULGhi4O9O0XLc=
+
+Name: assets/Farmer/talk2.png
+SHA1-Digest: s6BJGcH7jmLWgwLgyU9NZmpZ2CM=
+
+Name: assets/MainMenu/sheep2_2.png
+SHA1-Digest: TQ5QFdP42ivCGb6RBux8PKKAmcE=
+
+Name: assets/Game/sheepHR.png
+SHA1-Digest: F7bYrhYFv3qn3IVc0oPG9dA0STk=
+
+Name: assets/Effects/endGame/lose2.png
+SHA1-Digest: KsxkOkMFSijCl5OZ+XBsHAFEJ+w=
+
+Name: assets/Effects/Hit1/hit07.png
+SHA1-Digest: w2/Z9iSq5cS7h9hgzJqRWK5ZySw=
+
+Name: assets/Sound/sendSheep1.mp3
+SHA1-Digest: aD/nRIZQIQd1wFcnBvBw7xUz7ok=
+
+Name: assets/Trap/stone1.png
+SHA1-Digest: GDGILxcjqDa3SipI0KZQ1S6GgOg=
+
+Name: assets/Effects/Hit2/hit04.png
+SHA1-Digest: i+kPqBoTQo2Ds3M0NmiiG2Wfnqc=
+
+Name: assets/Game/btnGo_2.png
+SHA1-Digest: ieF4RRHTa57XrTv4AZEMQeLNQE0=
+
+Name: assets/MainMenu/corner.png
+SHA1-Digest: NIzDids4nOaCJiK5MuyKXE4kvgM=
+
+Name: assets/Game/youLose.png
+SHA1-Digest: IUaTh0pgEIka4VrXWFxsvV5P/70=
+
+Name: resources.arsc
+SHA1-Digest: XE685vRdMKrTUeE3Nj/yfdJoGvM=
+
+Name: assets/Farmer/eye2.png
+SHA1-Digest: X3VCdOwVeTiaxDykRtc1cR31Mec=
+
+Name: assets/Game/sheepNR.png
+SHA1-Digest: 1cfZpff8v0Gb9S+QZDHrgzK1wGA=
+
+Name: assets/Game/Grassland_Left3.png
+SHA1-Digest: nNZDF20AGe5i84y7+83v9KrIzrA=
+
+Name: assets/MainMenu/tree2.png
+SHA1-Digest: XJLiMBsoxwm6/lPodeiZIwjWyAQ=
+
+Name: assets/Effects/Hit8/hit07.png
+SHA1-Digest: UhvWTwqas18WrtbnjRKYo4YD5hU=
+
+Name: assets/Game/item2.png
+SHA1-Digest: ZlmISnWzbBnCR4b63gzt138Fo7I=
+
+Name: assets/Game/sheepLR.png
+SHA1-Digest: BXoLJOYKu0KqmN0W1JRrVL1gpzc=
+
+Name: assets/Effects/Hit5/hit01.png
+SHA1-Digest: Y5UHrWh8oaO7/021XRd0YP5NetU=
+
+Name: assets/Effects/gold/gold15.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/Game/cd_0.png
+SHA1-Digest: WnWGY/YBL6SwxTPf3ri04cDcMe0=
+
+Name: assets/Sheep_Right/normal_rightSheep_run.png
+SHA1-Digest: 31O9EQqO3QlgzX5sWl42MV2x8y0=
+
+Name: assets/dangbeipay_huishan.png
+SHA1-Digest: +9fYLmf83O/v1VLLj/Vfwc1Uit4=
+
+Name: assets/MainMenu/sheep1_1.png
+SHA1-Digest: YHieSl4AEDgpQbDPpA9A2QY1V/A=
+
+Name: assets/Sound/sendSheep3.mp3
+SHA1-Digest: id0BBTRCtsVz1QsMsVlNQ5FE6/s=
+
+Name: assets/Effects/wind/wind0003.png
+SHA1-Digest: AA7sr8pTdLFAlgEmWCnuW8utGWw=
+
+Name: assets/SDKConfigData.xml
+SHA1-Digest: TlJCxwKoD16q5zVG7Lbk4wK2A9g=
+
+Name: assets/MainMenu/msgBox.png
+SHA1-Digest: TAoPYvDA4+kSctccOunPBuTIIOo=
+
+Name: assets/Game/witheredGrassBack.png
+SHA1-Digest: vVmuJrFumCTcCLq753DyKzEddBU=
+
+Name: assets/Sound/homeBgm1.mp3
+SHA1-Digest: kOkx8FW6DYyepuVYQHl8e7yKv+A=
+
+Name: assets/Effects/shadow2.png
+SHA1-Digest: JQr8S8vs5KQs5YnMS/whZqR71GI=
+
+Name: assets/Effects/Hit8/hit03.png
+SHA1-Digest: zzwRjD8WT4iRaWtPkVI6HQiz/NM=
+
+Name: assets/MainMenu/btnGoldTreeBack.png
+SHA1-Digest: 0dIHPBHQLjXF514kswDmvhHRsJk=
+
+Name: assets/Effects/gameStart/gameStart.png
+SHA1-Digest: LNG88nXx72so0CtY+olSEGHytdA=
+
+Name: assets/Effects/gold/gold8.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/Effects/Hit7/hit03.png
+SHA1-Digest: ducgONOkrNdDgTTCBZnawgKNtQ4=
+
+Name: assets/Effects/Hit2/hit07.png
+SHA1-Digest: bEA7X7G/nHcc5lWMbRGFOV7OfV8=
+
+Name: assets/MainMenu/cloudLeft_3.png
+SHA1-Digest: HrEQQK96Fy8+WYVs15KhJ095pE0=
+
+Name: assets/Sheep_Left/normal_leftSheep_hit.png
+SHA1-Digest: eT5yiUpwtJqSf/OfXurbbGjwowg=
+
+Name: assets/MainMenu/help3.png
+SHA1-Digest: I1iHAFUxgQaU2AOAOmljkRQk1bU=
+
+Name: assets/Sheep_Left/big_leftSheep_hit.png
+SHA1-Digest: DpDIaPBLVWO6zzdIUqC0srbzdTE=
+
+Name: assets/Game/btnNext.png
+SHA1-Digest: hEDxJJBFkuHNlZB3WuqpYuaKWTE=
+
+Name: assets/MainMenu/btnLingQu.png
+SHA1-Digest: THWxVqQbhqnebXVdioGWG0SHuxQ=
+
+Name: assets/Effects/wind/wind0010.png
+SHA1-Digest: QJdBibIOJTXeZToeeST0G6WdTLU=
+
+Name: assets/Game/cd_1.png
+SHA1-Digest: dSl8XhexHwR1HaiVAJlA/4iuUjg=
+
+Name: assets/Game/goldBack.png
+SHA1-Digest: nLGk9Gwfs8/0dMXB7TSJ2sMo4x8=
+
+Name: assets/Game/eave4.png
+SHA1-Digest: W9DOvGOXKX3uPmjW54fR3XWG4/A=
+
+Name: assets/TV.xml
+SHA1-Digest: iqLVaJHjJO1ZLW1p4iNKuI1/tkk=
+
+Name: assets/MainMenu/land3.png
+SHA1-Digest: s7yJBOIP5UXU4HDeTZ5bDTVlTAo=
+
+Name: assets/Game/btnGo.png
+SHA1-Digest: d4tO3E85z76wGNk0/1OB5Co3efg=
+
+Name: assets/DUI.xml
+SHA1-Digest: RyPXPWwYNd/M9gAd2qjTmFkzrDQ=
+
+Name: assets/MainMenu/help4.png
+SHA1-Digest: sBM5/Z0Vc7aFCDLcC2Zx6mHTfiM=
+
+Name: assets/MainMenu/btnGoStore.png
+SHA1-Digest: VX64sZ6KNJXFdCrfQemg5CGjtkE=
+
+Name: assets/MainMenu/btnNext.png
+SHA1-Digest: 40T35AMi8Zygz//9IDGCbJMRmBM=
+
+Name: assets/dangbeipay_kuang.png
+SHA1-Digest: MUIKJU0EhArOL5/pn+/z+hai+0o=
+
+Name: assets/MainMenu/sidai4.png
+SHA1-Digest: gqIU71rUhn1yhbP0TBs29QKe8MI=
+
+Name: assets/Effects/Hit6/hit06.png
+SHA1-Digest: xjqDdNzOfK4pGFPKCWOn+CGdE6M=
+
+Name: assets/Game/cd_4.png
+SHA1-Digest: GqphHDDxAktvW5TXcjmNhvxMP3k=
+
+Name: assets/MainMenu/background.png
+SHA1-Digest: r8R6dKz6YVdohkCWnw4cxf6s5OE=
+
+Name: assets/Farmer/mouth4.png
+SHA1-Digest: eTYsxO5UaFFmrJwcSl67IuCGzzQ=
+
+Name: assets/Effects/shadow1.png
+SHA1-Digest: VDQORXzORbJlwZjq2NvZi7AW6yc=
+
+Name: assets/Effects/shadow3.png
+SHA1-Digest: vEJunoycHpLtklEqi6XftM9HxiE=
+
+Name: assets/Effects/gold/gold2.png
+SHA1-Digest: EhF4JrDul878fB3+ii3nHXQUFi4=
+
+Name: assets/Fonts/font.fnt
+SHA1-Digest: Y3zEMVYyBgW5rgfhrv2HsRpPdoo=
+
+Name: assets/MainMenu/FirstLayerBack.png
+SHA1-Digest: mazwtyVZu8Q5QK8rW+/riR7tkj8=
+
+Name: assets/Trap/stone4.png
+SHA1-Digest: 0qfLSAkP64iaQ4CDFK5Lnb2XWQk=
+
+Name: assets/Effects/Hit2/hit06.png
+SHA1-Digest: dErGwPNHigPegs6avScV4axsgTw=
+
+Name: assets/Game/passNum.png
+SHA1-Digest: M3y8/Fs2p6vchIFs/HK9VqREIwo=
+
+Name: assets/Store/gold.png
+SHA1-Digest: K+E+jrNnDqowy/zD9s/6Wa23Zis=
+
+Name: assets/MainMenu/back.png
+SHA1-Digest: LOPMajGGgRUC8kuPA11QIkqbjhg=
+
+Name: assets/MainMenu/base4.png
+SHA1-Digest: vkdnGHMz5ymzx48Wh44VVwqDJ1M=
+
+Name: assets/Game/priceNum.png
+SHA1-Digest: nOPeNcn0WgKcwydwtwVoBZiJOmw=
+
+Name: assets/Effects/Hit1/hit01.png
+SHA1-Digest: Q6AYi/YJtFNvaMYLigWQBM5y+yg=
+
+Name: assets/Game/btnRestart.png
+SHA1-Digest: tvyxh1RFe6QQ1L6n54899AX2sJQ=
+
+Name: assets/Effects/gameStart/gameStart.plist
+SHA1-Digest: X23UwC5vaJSrEa8TvZlZxhyRIVM=
+
+Name: assets/Sound/sheepDuel.mp3
+SHA1-Digest: PBGHy2hoRl9e1VGMzk2ZcCdOjfk=
+
+Name: assets/MainMenu/trunk.png
+SHA1-Digest: KF+CyNnR76RYyyTgxr7+thUBQcc=
+
+Name: assets/Trap/stone3.png
+SHA1-Digest: VtFmB2Z0cQSPVF5EKBnVlP+GaUM=
+
+Name: assets/Effects/wind/wind0008.png
+SHA1-Digest: PCXGIYqNuzeeNNgFmf+dwwwwK2g=
+
+Name: assets/MainMenu/loadingSheep4.png
+SHA1-Digest: fkb5KTTc5luB8Eh/p4pFbbqMBaw=
+
+Name: assets/Effects/gold/gold12.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/Effects/Hit1/hit03.png
+SHA1-Digest: oQypgRdXE4+N9fUUX0PiecR+Cd0=
+
+Name: assets/MainMenu/tree3.png
+SHA1-Digest: +Fq03r6vKMGfyP55LQvZFQX9vlY=
+
+Name: assets/Game/cd_3.png
+SHA1-Digest: TU7xgbh+UoaJ8uWFRbdt1XQiGrA=
+
+Name: assets/Effects/gold/gold20.png
+SHA1-Digest: U3UiYNK6BVGRONzZzj7dwB+n9rg=
+
+Name: assets/MainMenu/sheep0.png
+SHA1-Digest: 6WIcB7hJbbCLK7G1hczs48jtHgQ=
+
+Name: assets/MainMenu/loading.png
+SHA1-Digest: toLbnlicLCy/G8BEPu5rsVyj+l8=
+
+Name: assets/Game/eave.png
+SHA1-Digest: ZGwXRid/dAdzf0Y2xRdfD/UBsCY=
+
+Name: assets/Effects/endGame/lose4.png
+SHA1-Digest: XxEXQCkGWnhDkMCUz80OGlaJnlc=
+
+Name: assets/Game/eave1.png
+SHA1-Digest: VcyOClDCCJ54fNvpo0qrV0uToVc=
+
+Name: assets/MainMenu/help1.png
+SHA1-Digest: lVtcELZRWJc2KjdMUalE3e3tM/g=
+
+Name: assets/Game/endtime.png
+SHA1-Digest: PPnCXqeras4a5sKPFXkv6Fa+vhQ=
+
+Name: assets/FrameworkConfig.xml
+SHA1-Digest: 1qf7btQazWFXalN7/fSRxoXX0/M=
+
+Name: assets/Game/btnGo1.png
+SHA1-Digest: Cu69SPcJ+Q8x77i11r+FlDGB7rs=
+
+Name: assets/Sheep_Left/normal_leftSheep_run.png
+SHA1-Digest: 9ierZal6ycU3/QYnMNHeRcV2dKk=
+
+Name: assets/MainMenu/base1.png
+SHA1-Digest: ZVwnFa4a6PDfpyfFg+6T7fgGeno=
+
+Name: assets/MainMenu/btnNO.png
+SHA1-Digest: Qck9HgjjdlE3VpRYv2buS4GVS/c=
+
+Name: assets/Game/itemSelect.png
+SHA1-Digest: 467gJGW6sGsmGHq+6YFtQOUPeXw=
+
+Name: assets/MainMenu/sheep4.png
+SHA1-Digest: BZ4qMP/eMkQJsATCJyS7IyQC/R8=
+
+Name: assets/Store/background.png
+SHA1-Digest: ZYj73xtb1eTLzudLy1MDkTjPMCs=
+
+Name: assets/Game/scoreVS.png
+SHA1-Digest: gcJu8mImA3pFglnwtQ4a01Pcm90=
+
+Name: assets/MainMenu/dangqiantisheng.png
+SHA1-Digest: OFwTQsakMqrmPsAsLm/gDWoWRZY=
+

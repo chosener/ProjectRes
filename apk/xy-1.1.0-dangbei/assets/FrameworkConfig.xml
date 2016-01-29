@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<FrameworkConfig version="1.0000" date="2015-01-21" TVMode="1">
+  <!--************************************************************主菜单场景************************************************************-->
+  <GUI Type="Gui" Keyword="KW_MAINMENU" Caption="主菜单场景" RefSize="1280,720">
+    <!--主背景-->
+    <GUI Type="Gui" Keyword="KW_MAIN_MENU_BACK" Caption="背景" Res="MainMenu.background0" Offset="0,0" Size="0,0"/>
+	<GUI Type="Gui" Keyword="KW_MAIN_MENU_BACKTOP" Caption="背景" Res="MainMenu.backgroundTop0" Offset="0,56" Size="0,0"/>
+	<!--ID信息-->
+	<GUI Type="Gui" Keyword="KW_IDBASE" Caption="账号" Res="MainMenu.ID0" Offset="26,12" Size="0,0"/>
+	<GUI Type="Gui" Keyword="KW_MYGOLD" Caption="金币" Res="MainMenu.MyGold0" Offset="450,19" Size="0,0"/>
+	<GUI Type="Gui" Keyword="KW_TELNUM" Caption="电话" Res="MainMenu.TelNum0" Offset="650,23" Size="0,0"/>
+	<GUI Type="TextCtrl" Keyword="KW_GUI_SELF_NICKNAME" Caption="ID" Text="" FontSize="24" FontName="Fonts/GBK.ttf" Style="0" TextColor="0xFFFF742F" Offset="175,30" Size="0,0"/>
+	<GUI Type="TextCtrl" Keyword="KW_GUI_SELF_SCORE" Caption="金币" Text="99999999" FontSize="24" FontName="Fonts/GBK.ttf" TextColor="0xFFFF742F" Offset="510,30" Size="0,0"/>
+	<!--按钮-->
+	<GUI Type="ButtonEx" Keyword="KW_BTN_ACTIVITY" Caption="活动" Res="MainMenu.btnActivity0" Offset="50,640" Size="0,0"/>
+	<GUI Type="ButtonEx" Keyword="KW_BTN_ANNOUNCE" Caption="公告" Res="MainMenu.btnAnnouncement0" Offset="160,640" Size="0,0"/>
+	<GUI Type="ButtonEx" Keyword="KW_BTN_STORE" Caption="商城" Res="MainMenu.btnStore0" Offset="475,310" Size="0,0"/>
+	<GUI Type="ButtonEx" Keyword="KW_BTN_GAMEHELP" Caption="帮助" Res="MainMenu.btnHelp0" Offset="62,310" Size="0,0"/>
+	<GUI Type="ButtonEx" Keyword="KW_BTN_TREE" Caption="摇钱树" Res="MainMenu.btnTree0" Offset="250,310" Size="0,0"/>
+	<GUI Type="ButtonEx" Keyword="KW_BTN_UP" Caption="升级" Res="MainMenu.btnUpSheepfold0" Offset="820,310" Size="0,0"/>
+	<!--开始按钮-->
+	<GUI Type="ButtonEx" Keyword="KW_BTN_PLAY" Caption="开始游戏" Res="MainMenu.btnPlay0" Offset="800,640" Size="0,0"/>
+	<!--活动物品-->
+	<GUI Type="Gui" Keyword="SIDAI" Caption="丝带" Res="MainMenu.sidai10" Offset="443,251" Size="0,0"/>
+	<GUI Type="Gui" Keyword="SIDAI1" Caption="丝带" Res="MainMenu.sidai10" Offset="674,251" Size="0,0"/>
+	<GUI Type="Gui" Keyword="WINNOWERLEAF" Caption="风车叶子" Res="MainMenu.winnowerLeaf0" Offset="932,-1" Size="0,0"/>
+	<GUI Type="Gui" Keyword="WINNOWERJOINT" Caption="风车扣子" Res="MainMenu.winnowerJoint0" Offset="1001,66" Size="0,0"/>
+	<GUI Type="Gui" Keyword="CHICKEN1" Caption="小鸡1号" Res="MainMenu.chicken20" Offset="304,532" Size="0,0" FlipX="T"/>
+	<GUI Type="Gui" Keyword="CHICKEN2" Caption="小鸡2号" Res="MainMenu.chicken20" Offset="401,542" Size="0,0"/>
+	<GUI Type="Gui" Keyword="CHICKEN3" Caption="小鸡3号" Res="MainMenu.chicken20" Offset="322,580" Size="0,0" FlipX="T"/>
+	<!--金蛋按钮-->
+	<GUI Type="Gui" Keyword="KW_EGG0" Caption="金蛋" Res="MainMenu.egg0" Scale="0.65,0.65" Offset="1137,490" Size="0,0"/>
+	<GUI Type="Gui" Keyword="KW_EGG0" Caption="金蛋" Res="MainMenu.egg0" Scale="0.75,0.75" Offset="1167,491" Size="0,0"/>
+	<GUI Type="Gui" Keyword="KW_EGG" Caption="金蛋" Res="MainMenu.egg0" Offset="1151,491" Size="0,0"/>
+	<!--帮助层-->
+	<GUI Type="Gui" Keyword="KW_HELP" Caption="帮助" Res="" Offset="0,0" Size="1280,720" Render="F">
+	 <GUI Type="Gui" Keyword="KW_HELP1" Caption="帮助1" Res="MainMenu.help10" Offset="0,0" Size="0,0" Render="T"/>
+	 <GUI Type="Gui" Keyword="KW_HELP2" Caption="帮助2" Res="MainMenu.help20" Offset="0,0" Size="0,0" Render="F"/>
+	 <GUI Type="Gui" Keyword="KW_HELP3" Caption="帮助3" Res="MainMenu.help30" Offset="0,0" Size="0,0" Render="F"/>
+	 <GUI Type="Gui" Keyword="KW_HELP4" Caption="帮助4" Res="MainMenu.help40" Offset="0,0" Size="0,0" Render="F"/>
+	 <!--按钮-->
+	 <GUI Type="ButtonEx" Keyword="KW_HELP_BACK" Caption="返回" Res="MainMenu.btnBack0" Offset="538,600" Size="0,0"/>
+	 <GUI Type="ButtonEx" Keyword="KW_HELP_NEXT" Caption="下一页" Res="MainMenu.btnHelpNext0" Offset="956,600" Size="0,0"/>
+	 <GUI Type="ButtonEx" Keyword="KW_HELP_LAST" Caption="上一页" Res="MainMenu.btnHelpLast0" Offset="120,600" Size="0,0"/>
+	</GUI>
+	<!--升级层-->
+	<GUI Type="Gui" Keyword="KW_LEAVELUP" Caption="升级" Res="" Offset="0,0" Size="1280,720" Render="F">
+	 <GUI Type="Gui" Keyword="KW_CAODI1" Caption="草地1" Res="MainMenu.caodi0" Offset="0,-25" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_CAODI2" Caption="草地2" Res="MainMenu.caodi0" Offset="0,296" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_SHENGJIQIAN" Caption="升级前" Res="MainMenu.shengjiqian0" Offset="770,10" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_SHENGJIHOU" Caption="升级后" Res="MainMenu.shengjihou0" Offset="771,324" Size="0,0" Render="T"/>
+	 <GUI Type="Gui" Keyword="KW_SHENGJIMAX" Caption="升级max" Res="MainMenu.max10" Offset="788,326" Size="0,0" Render="F"/>
+	 <GUI Type="Gui" Keyword="KW_LEAVELUPTOP" Caption="升级顶层" Res="MainMenu.leavelUpTop0" Offset="0,0" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_DANGQIANTISHENG" Caption="当前等级提升" Res="MainMenu.dangqiantisheng0" Offset="1007,142" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_XIAYITISHENG" Caption="下一等级提升" Res="MainMenu.xiacitisheng0" Offset="1007,421" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_MAX" Caption="升级MAX" Res="MainMenu.max20" Offset="1066,418" Size="0,0" Render="F"/>
+	 <!--文本-->
+	 <GUI Type="TextCtrl" Keyword="KW_NOWGOLD" Caption="现有金币" Text="10000" FontSize="30" FontName="Fonts/GBK.ttf" TextColor="0xFFFFF000" Offset="222,606" Size="0,0"/>
+	 <GUI Type="TextCtrl" Keyword="KW_GOLD" Caption="升级需要金币" Text="10000" FontSize="30" FontName="Fonts/GBK.ttf" TextColor="0xFFFFF000" Offset="222,658" Size="0,0"/>
+	 <GUI Type="TextCtrl" Keyword="KW_NOW_ABILITY" Caption="当前加成" Text="0" FontSize="50" FontName="Fonts/GBK.ttf" TextColor="0xFFBDFF62" Offset="1146,175" Size="0,0" HorAlign="LC" VerAlign="TT"/>
+	 <GUI Type="TextCtrl" Keyword="KW_NEXT_ABILITY" Caption="下一加成" Text="0" FontSize="55" FontName="Fonts/GBK.ttf" TextColor="0xFFBDFF62" Offset="1151,455" Size="0,0" HorAlign="LC" VerAlign="TT"/>
+	 <!--按钮-->
+	 <GUI Type="ButtonEx" Keyword="KW_LEAVELUP_BACK" Caption="返回" Res="MainMenu.btnBack0" Offset="1038,587" Size="0,0"/>
+	 <GUI Type="ButtonEx" Keyword="KW_GOLDUP" Caption="金币升级" Res="MainMenu.btnGoldUp0" Offset="465,583" Size="0,0"/>
+	 <!--提示窗-->
+	 <GUI Type="Gui" Keyword="KW_LEAVELUP_MSG" Caption="提示窗" Res="MainMenu.back0" Offset="0,0" Size="0,0" Render="F">
+	  <GUI Type="Gui" Keyword="KW_LEAVELUPBACK" Caption="背景" Res="MainMenu.msgBox0" Offset="274,115" Size="0,0"/>
+	  <GUI Type="TextCtrl" Keyword="KW_TEXT" Caption="提示" Text="您的金币不足，是否进入商城" FontSize="40" FontName="Fonts/GBK.ttf" TextColor="0xFF000000" Offset="660,269" Size="0,0" HorAlign="LC" VerAlign="TC"/>
+	  <GUI Type="TextCtrl" Keyword="KW_TEXT" Caption="提示" Text="购买金币立刻提升羊的战斗力！" FontSize="40" FontName="Fonts/GBK.ttf" TextColor="0xFF000000" Offset="625,349" Size="0,0" HorAlign="LC" VerAlign="TC"/>
+	 <GUI Type="ButtonEx" Keyword="KW_LEAVELUP_EXIT" Caption="返回" Res="MainMenu.btnNO0" Offset="342,479" Size="0,0"/>
+	 <GUI Type="ButtonEx" Keyword="KW_GOSTORE" Caption="进入商店" Res="MainMenu.btnGoStore0" Offset="695,479" Size="0,0"/>
+	 </GUI>
+	</GUI>
+	<!--公告层-->
+	<GUI Type="StyleCtrl" Keyword="KW_GUI_ANNOUNCE_BACK" Caption="公告" Res="MainMenu.back0" Offset="0,0" Size="0,0" Render="F">
+	<GUI Type="Gui" Keyword="KW_ANNOUNCEBACK" Caption="公告背景" Res="MainMenu.announceBack0" Offset="0,0" Size="0,0"/>
+	 <GUI Type="ButtonEx" Keyword="KW_ANNOUNCE_BACK" Caption="返回" Res="MainMenu.btnBackLittle0" Offset="10,15" Size="0,0"/>
+	 <!-- <GUI Type="TextCtrl" Keyword="TEXT" Caption="text" Text="暂无公告" FontSize="50" FontName="Fonts/GBK.ttf" Offset="550,300" Size="0,0" TextColor="0x00000000"/>-->
+
+      <GUI Type="Crop" Keyword="CropAnnounce" Caption="裁剪控件" HorAlign="CC" VerAlign="CC" Offset="0,0" Size="1280,720">
+        <GUI Type="Panel" Keyword="KW_ANNOUNCE_PANEL" Caption="触摸面板" DragDrop="T"  HorScroll="F"  Vertical="T" DisType="1" Offset="255,201" StartXHor="2" StartYVer="2" DisX="800" DisY="20" SizeStyle="1" Size="0,0" >
+        </GUI>
+      </GUI>
+
+	</GUI>
+
+
+
+
+	<!--摇钱树层-->
+	<GUI Type="Gui" Keyword="KW_GOLDTREE" Caption="摇钱树" Res="MainMenu.goldTree0" Offset="0,0" Size="0,0" Render="F">
+	 <GUI Type="Gui" Keyword="KW_SIGN_MSG" Caption="提示窗" Res="MainMenu.back0" Offset="0,0" Size="0,0" Render="F">
+	  <GUI Type="Gui" Keyword="KW_GETEGGBACK" Caption="背景" Res="MainMenu.msgBox0" Offset="274,115" Size="0,0"/>
+	  <GUI Type="TextCtrl" Keyword="KW_TEXT" Caption="提示" Text="今天已经领过了，明天" FontSize="50" FontName="Fonts/GBK.ttf" TextColor="0xFF000000" Offset="665,269" Size="0,0" HorAlign="LC" VerAlign="TC"/>
+	  <GUI Type="TextCtrl" Keyword="KW_TEXT" Caption="提示" Text="一定要再来哦！" FontSize="50" FontName="Fonts/GBK.ttf" TextColor="0xFF000000" Offset="520,349" Size="0,0" HorAlign="LC" VerAlign="TC"/>
+	 </GUI>
+	 <GUI Type="ButtonEx" Keyword="KW_GOLDTREE_BACK" Caption="返回" Res="MainMenu.btnBackLittle0" Offset="10,15" Size="0,0"/>
+	 <GUI Type="ButtonEx" Keyword="KW_BTN_SIGNIN" Caption="摇一摇" Res="MainMenu.btnShake0" Offset="415,605" Size="0,0"/>
+	</GUI>
+	<!--获得金币提示窗-->
+	<GUI Type="Gui" Keyword="KW_GETGOLD" Caption="获得金币提示窗" Res="MainMenu.back0" Offset="0,0" Size="0,0" Render="F">
+	 <GUI Type="Gui" Keyword="KW_GETEGGBACK" Caption="背景" Res="MainMenu.msgBox0" Offset="274,115" Size="0,0"/>
+	 <GUI Type="ButtonEx" Keyword="KW_GETGOLDOK" Caption="确定" Res="MainMenu.btnOK0" Offset="500,400" Size="0,0"/>
+	 <GUI Type="TextCtrl" Keyword="KW_TEXT" Caption="提示" Text="恭喜你，获得       金币" FontSize="50" FontName="Fonts/GBK.ttf" TextColor="0xFF000000" Offset="640,280" Size="0,0" HorAlign="LC" VerAlign="TC"/>
+	 <GUI Type="TextCtrl" Keyword="KW_GOLDTEXT" Caption="金币" Text="60" FontSize="50" FontName="Fonts/GBK.ttf" TextColor="0xFFD2691E" Offset="738,282" Size="0,0" HorAlign="LC" VerAlign="TC"/>
+	 <GUI Type="TextCtrl" Keyword="KW_TEXTTOMORROW" Caption="提示" Text="记得明天再来哦！" FontSize="50" FontName="Fonts/GBK.ttf" TextColor="0xFF000000" Offset="536,354" Size="0,0" HorAlign="LC" VerAlign="TC"/>
+	</GUI>
+	<!--选关层-->
+	<GUI Type="Gui" Keyword="KW_CHOOSE_PASS" Caption="选择关卡" Res="MainMenu.passBackground0" Offset="0,0" Size="1280,720" Render="F">
+     <!--关卡按钮1-20-->
+	 <GUI Type="Gui" Keyword="KW_CHOOSE_PASS_BACK" Caption="选择关卡" Res="" Offset="0,0" Size="1280,720" Render="T">
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_1" Caption="关卡1" Res="MainMenu.base10" Offset="192,80" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_2" Caption="关卡2" Res="MainMenu.base10" Offset="384,80" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_3" Caption="关卡3" Res="MainMenu.base10" Offset="576,80" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_4" Caption="关卡4" Res="MainMenu.base10" Offset="768,80" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_5" Caption="关卡5" Res="MainMenu.base10" Offset="960,80" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_6" Caption="关卡6" Res="MainMenu.base20" Offset="192,230" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_7" Caption="关卡7" Res="MainMenu.base20" Offset="384,230" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_8" Caption="关卡8" Res="MainMenu.base20" Offset="576,230" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_9" Caption="关卡9" Res="MainMenu.base20" Offset="768,230" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_10" Caption="关卡10" Res="MainMenu.base20" Offset="960,230" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_11" Caption="关卡11" Res="MainMenu.base30" Offset="192,380" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_12" Caption="关卡12" Res="MainMenu.base30" Offset="384,380" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_13" Caption="关卡13" Res="MainMenu.base30" Offset="576,380" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_14" Caption="关卡14" Res="MainMenu.base30" Offset="768,380" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_15" Caption="关卡15" Res="MainMenu.base30" Offset="960,380" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_16" Caption="关卡16" Res="MainMenu.base40" Offset="192,530" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_17" Caption="关卡17" Res="MainMenu.base40" Offset="384,530" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_18" Caption="关卡18" Res="MainMenu.base40" Offset="576,530" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_19" Caption="关卡19" Res="MainMenu.base40" Offset="768,530" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_PASS_20" Caption="关卡20" Res="MainMenu.base40" Offset="960,530" Size="0,0"/>
+	 </GUI>
+	 <!--按钮-->
+	 <GUI Type="ButtonEx" Keyword="KW_BTN_BACK" Caption="返回菜单" Res="MainMenu.btnBack0" Offset="10,15" Size="0,0"/>
+	</GUI>
+	<!--home界面-->
+    <GUI Type="Gui" Keyword="KW_MAIN_MENU_HOME" Caption="home界面" Res="MainMenu.FirstLayerBack0" Offset="0,0" Size="0,0">
+
+	 <GUI Type="Gui" Keyword="KW_CLOUD1" Caption="云" Res="MainMenu.cloudLeft_10" Offset="94,0" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_CLOUD2" Caption="云" Res="MainMenu.cloudLeft_20" Offset="93,135" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_CLOUD3" Caption="云" Res="MainMenu.cloudLeft_30" Offset="189,199" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_CLOUD4" Caption="云" Res="MainMenu.cloudRight_10" Offset="330,283" Size="0,0" FlipX="T"/>
+	 <GUI Type="Gui" Keyword="KW_CLOUD5" Caption="云" Res="MainMenu.cloudRight_20" Offset="87,203" Size="0,0" FlipX="T"/>
+	 <GUI Type="Gui" Keyword="KW_CLOUD6" Caption="云" Res="MainMenu.cloudLeft_20" Offset="1029,60" Size="0,0" FlipX="T"/>
+	 <GUI Type="Gui" Keyword="KW_CLOUD7" Caption="云" Res="MainMenu.cloudLeft_30" Offset="1027,152" Size="0,0" FlipX="T"/>
+	 <GUI Type="Gui" Keyword="KW_CLOUD8" Caption="云" Res="MainMenu.cloudRight_20" Offset="1167,-28" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_CLOUD9" Caption="云" Res="MainMenu.cloudLeft_10" Offset="734,161" Size="0,0" FlipX="T"/>
+	 <GUI Type="Gui" Keyword="KW_CLOUD0" Caption="云" Res="MainMenu.cloudRight_10" Offset="824,0" Size="0,0"/>
+
+	 <GUI Type="Gui" Keyword="KW_CLOUD11" Caption="云" Res="MainMenu.cloudLeft_10" Offset="94,0" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_CLOUD12" Caption="云" Res="MainMenu.cloudLeft_20" Offset="93,135" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_CLOUD13" Caption="云" Res="MainMenu.cloudLeft_30" Offset="189,199" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_CLOUD14" Caption="云" Res="MainMenu.cloudRight_20" Offset="1167,-28" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_CLOUD15" Caption="云" Res="MainMenu.cloudLeft_10" Offset="734,161" Size="0,0" FlipX="T"/>
+	 <GUI Type="Gui" Keyword="KW_CLOUD16" Caption="云" Res="MainMenu.cloudRight_10" Offset="824,0" Size="0,0"/>
+
+     <GUI Type="Gui" Keyword="KW_HOME" Caption="房子" Res="MainMenu.hom0" Offset="930,323" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_WINNOWERLEAF" Caption="风车叶子" Res="MainMenu.winnowerLeaf0" Offset="1069,255" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_WINNOWERJOINT" Caption="风车扣子" Res="MainMenu.winnowerJoint0" Offset="1138,325" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_LAND" Caption="地" Res="MainMenu.land10" Offset="0,488" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_CORNERLEFT" Caption="左角" Res="MainMenu.corner0" Offset="270,-10" Size="0,0" FlipX="T"/>
+	 <GUI Type="Gui" Keyword="KW_CORNERRIGHT" Caption="右角" Res="MainMenu.corner0" Offset="855,-10" Size="0,0" />
+	 <GUI Type="Gui" Keyword="KW_EARLEFT" Caption="左耳朵" Res="MainMenu.ear0" Offset="255,15" Size="0,0" FlipX="T"/>
+	 <GUI Type="Gui" Keyword="KW_EARRIGHT" Caption="右耳朵" Res="MainMenu.ear0" Offset="840,15" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_FACE" Caption="脸" Res="MainMenu.face0" Offset="328,0" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_EYE" Caption="眼睛" Res="MainMenu.eye10" Offset="498,30" Size="0,0"/>
+	 <GUI Type="Gui" Keyword="KW_GAMETITLE" Caption="标题" Res="MainMenu.gameTitle0" Offset="397,115" Size="0,0"/>
+
+	 <GUI Type="Gui" Keyword="KW_SHEEPLEFT0" Caption="左羊" Res="MainMenu.sheep10" Offset="281,348" Size="0,0" Scale="0.40,0.40"/>
+	 <GUI Type="Gui" Keyword="KW_SHEEPLEFT1" Caption="左羊" Res="MainMenu.sheep10" Offset="27,453" Size="0,0" Scale="0.9,0.9"/>
+	 <GUI Type="Gui" Keyword="KW_SHEEPRIGHT0" Caption="右羊" Res="MainMenu.sheep10" Offset="777,442" Size="0,0" FlipX="T" Scale="0.60,0.60"/>
+	 <GUI Type="Gui" Keyword="KW_SHEEPRIGHT1" Caption="右羊" Res="MainMenu.sheep10" Offset="959,410" Size="0,0" FlipX="T" Scale="0.35,0.35"/>
+
+	 <GUI Type="ButtonEx" Keyword="KW_GAMESTARTLOGO" Caption="开始游戏" Res="MainMenu.start0" Offset="464,415" Size="0,0" />
+	 <GUI Type="ButtonEx" Keyword="KW_GAMESTART" Caption="开始游戏" Res="" Offset="-100,-100" Size="2300,2740" />
+	</GUI>
+	<!--loading-->
+    <GUI Type="Gui" Keyword="KW_MAIN_MENU_LOADING" Caption="loading" Res="MainMenu.loading0" Offset="0,0" Size="0,0"/>
+	<!--loading层-->
+	<GUI Type="Gui" Keyword="KW_LOADING" Caption="loading" Res="" Offset="0,0" Size="1280,720" Render="F">
+		<GUI Type="Gui" Keyword="KW_LOADINGBACK" Caption="loading背景" Res="MainMenu.back0" Offset="0,0" Size="0,0" Render="T">
+			<GUI Type="Gui" Keyword="KW_LOADINSHEEP1" Caption="loading羊" Res="MainMenu.loadingSheep10" Offset="64,515" Size="0,0" Render="T"/>
+			<GUI Type="Gui" Keyword="KW_LOADINSTEXT" Caption="努力加载中" Res="MainMenu.loadingText0" Offset="307,618" Size="0,0" Render="T"/>
+			<GUI Type="Gui" Keyword="KW_LOADINSTIME" Caption="点点点" Res="MainMenu.loadingDian00" Offset="614,659" Size="0,0" Render="T"/>
+		</GUI>
+	</GUI>
+	<!--确认退出层-->
+	<GUI Type="Gui" Keyword="KW_EXIT" Caption="退出" Res="MainMenu.back0" Offset="0,0" Size="0,0" Render="F">
+	 <GUI Type="Gui" Keyword="KW_EXITBACK" Caption="背景" Res="MainMenu.msgBox0" Offset="274,115" Size="0,0"/>
+	 <GUI Type="ButtonEx" Keyword="KW_OK" Caption="确定" Res="MainMenu.btnOK0" Offset="350,400" Size="0,0"/>
+	 <GUI Type="ButtonEx" Keyword="KW_NO" Caption="取消" Res="MainMenu.btnNO0" Offset="687,400" Size="0,0"/>
+	 <GUI Type="TextCtrl" Keyword="KW_TEXT" Caption="是否退出" Text="确定要退出吗？" FontSize="50" FontName="Fonts/GBK.ttf" TextColor="0xFF000000" Offset="640,280" Size="0,0" HorAlign="LC" VerAlign="TC"/>
+	</GUI>
+  </GUI>
+
+
+	<!--************************************************************活动场景************************************************************-->
+  <GUI Type="Gui" Keyword="KW_ACTIVITY" Caption="活动场景" FullScreenGUI="Back">
+
+
+	<GUI Type="Gui" Keyword="KW_ACTIVITY" Caption="活动" Res="MainMenu.activity0" Offset="0,0" Size="0,0">
+	 <GUI Type="Gui" Keyword="KW_ACTIVITYBACK" Caption="活动" Res="MainMenu.activityBack0" Offset="0,0" Size="0,0"/>
+	</GUI>
+
+	<GUI Type="Gui" Keyword="KW_WEB_SIZE" Caption="KW_WEB_SIZE" Offset="0,58" HorAlign="CC" VerAlign="CC" Size="840,470" />
+    <GUI Type="Crop" Keyword="KW_ACT_CROP" Caption="CropSite" HorAlign="CC" VerAlign="CC" Offset="0,58" Size="890,470">
+     <GUI Type="PanelEx" Keyword="KW_ACTIVITY_PANEL" Caption="活动面板" DragDrop="T" StartXHor="0" StartYVer="0" DisX="857" DisY="100" Vertical="T" SizeStyle="1" HorScroll="F" Offset="0,0" Size="0,0"/>
+    </GUI>
+    <GUI Type="TextCtrl" Keyword="KW_ACT_NOACT_TEXT" Caption="暂无活动" Capture="F" Render="F" HorLayout="0" Text="暂无活动" FontSize="40" FontName="Fonts/GBK.ttf" TextColor="0xFFEE4D15" Size="200,0" HorAlign="CC" VerAlign="CC" Offset="0,0" />
+	<GUI Type="TextCtrl" Keyword="NameText" Caption="按返回键返回" Text="按返回键返回" FontSize="40" FontName="Fonts/GBK.ttf" TextColor="0xFFEE4D15" Capture="F" Offset="10,20" Size="0,0" />
+
+		<!--loading层-->
+	<GUI Type="Gui" Keyword="KW_LOADING" Caption="loading" Res="" Offset="0,0" Size="1280,720" Render="F">
+		<GUI Type="Gui" Keyword="KW_LOADINGBACK" Caption="loading背景" Res="MainMenu.back0" Offset="0,0" Size="0,0" Render="T">
+			<GUI Type="Gui" Keyword="KW_LOADINSHEEP1" Caption="loading羊" Res="MainMenu.loadingSheep10" Offset="64,515" Size="0,0" Render="T"/>
+			<GUI Type="Gui" Keyword="KW_LOADINSTEXT" Caption="努力加载中" Res="MainMenu.loadingText0" Offset="307,618" Size="0,0" Render="T"/>
+			<GUI Type="Gui" Keyword="KW_LOADINSTIME" Caption="点点点" Res="MainMenu.loadingDian00" Offset="614,659" Size="0,0" Render="T"/>
+		</GUI>
+	</GUI>
+	
+  </GUI>
+
+
+
+
+  <!--************************************************************商城场景************************************************************-->
+  <GUI Type="Gui" Keyword="KW_STORE" Caption="商城" FullScreenGUI="KW_STORE_BACK">
+	<!--主背景-->
+	<GUI Type="Gui" Keyword="KW_STORE_BACK" Caption="背景" Res="Store.background0" Offset="0,0" Size="0,0"/>
+	<!--返回按钮-->
+	<GUI Type="Button" Keyword="KW_BTN_BACK" Caption="返回" Res="Store.btnBack0" Offset="10,15" Size="0,0"/>
+
+	<GUI Type="Gui" Keyword="ITEM1" Caption="商品1" Res="Store.item10" Offset="235,208" Size="0,0" />
+	<GUI Type="Gui" Keyword="ITEM2" Caption="商品2" Res="Store.item20" Offset="235,314" Size="0,0" />
+	<GUI Type="Gui" Keyword="ITEM3" Caption="商品3" Res="Store.item30" Offset="235,420" Size="0,0" />
+	<GUI Type="Gui" Keyword="ITEM4" Caption="商品4" Res="Store.item40" Offset="235,527" Size="0,0" />
+
+    <GUI Type="Crop" Keyword="KW_CROP_STORE" Caption="CropStore" HorAlign="CX" VerAlign="TT" Offset="-10,-10" Size="1310,740">
+      <GUI Type="PanelEx" Keyword="KW_STORE_PANEL" Caption="商品面板" DragDrop="T" StartXHor="0" StartYVer="55" DisX="860" DisY="105" Vertical="T" SizeStyle="1" HorScroll="F" Offset="0,0" Size="0,0" TV="888"/>
+    </GUI>
+
+	<GUI Type="Gui" Keyword="KW_GUI_STORE_HINT_BACK" Caption="购买背景" Res="Share.LoginBack" Render="F" Offset="0,0" Filling="T" EndOffset="0,0">
+        <GUI Type="TextCtrl" Keyword="KW_TEXT_STORE_HINT" Caption="购买提示Text" Text="" FontSize="24" FontName="Fonts/GBK.ttf" HorLayout="0" HorAlign="CC" VerAlign="CC" Size="500,30" />
+    </GUI>
+
+		<!--loading层-->
+	<GUI Type="Gui" Keyword="KW_LOADING" Caption="loading" Res="" Offset="0,0" Size="1280,720" Render="F">
+		<GUI Type="Gui" Keyword="KW_LOADINGBACK" Caption="loading背景" Res="MainMenu.back0" Offset="0,0" Size="0,0" Render="T">
+			<GUI Type="Gui" Keyword="KW_LOADINSHEEP1" Caption="loading羊" Res="MainMenu.loadingSheep10" Offset="64,515" Size="0,0" Render="T"/>
+			<GUI Type="Gui" Keyword="KW_LOADINSTEXT" Caption="努力加载中" Res="MainMenu.loadingText0" Offset="307,618" Size="0,0" Render="T"/>
+			<GUI Type="Gui" Keyword="KW_LOADINSTIME" Caption="点点点" Res="MainMenu.loadingDian00" Offset="614,659" Size="0,0" Render="T"/>
+		</GUI>
+	</GUI>
+
+	<GUI Type="Gui" Keyword="KW_GUI_STORE_HINT_BACK" Caption="购买背景" Res="" Offset="0,0" Size="1280,720" Render="F">
+			<GUI Type="Gui" Keyword="KW_LOADINGBACK" Caption="loading背景" Res="MainMenu.back0" Offset="0,0" Size="0,0" Render="T">
+		</GUI>
+        <GUI Type="BMText" Keyword="KW_TEXT_STORE_HINT" Caption="购买提示Text" Text="" FontSize="24" FontName="STHeitiTC-Medium" HorLayout="0" HorAlign="CC" VerAlign="CC" Size="500,30" />
+    </GUI>
+
+  </GUI>
+  <!--************************************************************游戏场景************************************************************-->
+  <GUI Type="Gui" Keyword="KW_FRAMEWORK" Caption="游戏场景">
+  	<!--主背景-->
+	<GUI Type="Gui" Keyword="KW_FRAMEWORK_BACK1" Caption="背景1" Res="Game.background10" Offset="0,105" Size="0,0" Render="F"/>
+	<GUI Type="Gui" Keyword="KW_FRAMEWORK_BACK2" Caption="背景2" Res="Game.background20" Offset="0,105" Size="0,0" Render="F"/>
+	<GUI Type="Gui" Keyword="KW_FRAMEWORK_BACK3" Caption="背景3" Res="Game.background30" Offset="0,105" Size="0,0" Render="F"/>
+	<GUI Type="Gui" Keyword="KW_FRAMEWORK_BACK4" Caption="背景4" Res="Game.background40" Offset="0,105" Size="0,0" Render="F"/>
+	<!--出羊按钮-->
+	<GUI Type="ButtonEx" Keyword="KW_BTN_SHEEP1" Caption="出羊按钮" Res="" Offset="5,597" Size="128,126" Render="F">
+	</GUI>
+	<GUI Type="ButtonEx" Keyword="KW_BTN_SHEEP2" Caption="出羊按钮" Res="" Offset="5,473" Size="128,126" Render="F">
+    </GUI>
+	<GUI Type="ButtonEx" Keyword="KW_BTN_SHEEP3" Caption="出羊按钮" Res="" Offset="5,349" Size="128,126" Render="F">
+	</GUI>
+	<GUI Type="ButtonEx" Keyword="KW_BTN_SHEEP4" Caption="出羊按钮" Res="" Offset="5,225" Size="128,126" Render="F">
+	</GUI>
+	<GUI Type="ButtonEx" Keyword="KW_BTN_SHEEP5" Caption="出羊按钮" Res="" Offset="5,101" Size="128,126" Render="F">
+	</GUI>
+	 <!--上方计时-->
+	<GUI Type="Gui" Keyword="KW_FRAMEWORK_TOPBACK" Caption="上方计时背景" Res="Game.top_10" Offset="0,-7" Size="0,0"/>
+	<GUI Type="Gui" Keyword="KW_WRONG_LEFT1" Caption="左叉" Res="Game.wrong0" Offset="111,-3" Size="0,0" Render="F"/>
+	<GUI Type="Gui" Keyword="KW_WRONG_LEFT" Caption="左叉" Res="Game.wrong0" Offset="111,-3" Size="0,0" Render="F"/>
+	<GUI Type="Gui" Keyword="KW_WRONG_RIGHT" Caption="右叉" Res="Game.wrong0" Offset="1058,-3" Size="0,0" Render="F"/>
+	<GUI Type="Gui" Keyword="KW_FRAMEWORK_TOPBACK2" Caption="上方计时背景2" Res="Game.top0" Offset="0,-7" Size="0,0"/>
+	<!--选择道具层-->
+	<GUI Type="Gui" Keyword="KW_CHOOSE_ITEM" Caption="选择道具" Res="Game.back0" Offset="0,0" Size="0,0" Render="T">
+	 <GUI Type="Gui" Keyword="KW_CHOOSE_ITEMBACK" Caption="选择道具背景" Res="Game.chooseItemback0" Offset="142,130" Size="0,0"/>
+	 <!--选择道按钮-->
+	 <GUI Type="ButtonEx" Keyword="KW_BTN_ITEM1" Caption="道具1" Res="Game.itemBase0" Offset="202,240" Size="0,0">
+	  <GUI Type="Gui" Keyword="KW_SELECT_ITEM1" Caption="道具1" Res="Game.itemSelect0" Offset="0,0" Size="0,0" Render="F" Capture="F"/>
+	  <GUI Type="Gui" Keyword="KW_ITEM1" Caption="道具1" Res="Game.item10" Offset="0,0" Size="0,0" Capture="F"/>
+	  <GUI Type="TextCtrl" Keyword="KW_ITEM1PRICE" Caption="价格" Text="250" FontSize="30" FontName="Fonts/GBK.ttf" TextColor="0xFF000000" Offset="0,87" HorAlign="CC" VerAlign="CC" Size="0,0"/>
+	 </GUI>
+	 <GUI Type="ButtonEx" Keyword="KW_BTN_ITEM2" Caption="道具2" Res="Game.itemBase0" Offset="512,240" Size="0,0">
+	  <GUI Type="Gui" Keyword="KW_SELECT_ITEM2" Caption="道具2" Res="Game.itemSelect0" Offset="0,0" Size="0,0" Render="F" Capture="F"/>
+	  <GUI Type="Gui" Keyword="KW_ITEM2" Caption="道具2" Res="Game.item20" Offset="0,0" Size="0,0" Capture="F"/>
+	  <GUI Type="TextCtrl" Keyword="KW_ITEM2PRICE" Caption="价格" Text="500" FontSize="30" FontName="Fonts/GBK.ttf" TextColor="0xFF000000" Offset="0,87" HorAlign="CC" VerAlign="CC" Size="0,0"/>
+	 </GUI>
+	 <GUI Type="ButtonEx" Keyword="KW_BTN_ITEM3" Caption="道具3" Res="Game.itemBase0" Offset="822,240" Size="0,0">
+	  <GUI Type="Gui" Keyword="KW_SELECT_ITEM3" Caption="道具3" Res="Game.itemSelect0" Offset="0,0" Size="0,0" Render="F" Capture="F"/>
+	  <GUI Type="Gui" Keyword="KW_ITEM3" Caption="道具3" Res="Game.item30" Offset="0,0" Size="0,0" Capture="F"/>
+	  <GUI Type="TextCtrl" Keyword="KW_ITEM3PRICE" Caption="价格" Text="1000" FontSize="30" FontName="Fonts/GBK.ttf" TextColor="0xFF000000" Offset="0,87" HorAlign="CC" VerAlign="CC" Size="0,0"/>
+	 </GUI>
+	 <!--开始按钮-->
+	 <GUI Type="ButtonEx" Keyword="KW_BTN_START" Caption="开始按钮" Res="Game.btnStart0" Offset="472,550" Size="0,0"/>
+	 <!--金币栏-->
+	 <GUI Type="Gui" Keyword="KW_PIC_GOLD" Caption="金币图标" Res="Game.gold0" Offset="800,160" Size="0,0">
+		<GUI Type="TextCtrl" Keyword="KW_GUI_SELF_SCORE" Caption="金币" Text="10000" FontSize="40" FontName="Fonts/GBK.ttf" Offset="75,15" Size="0,0"/>
+		<GUI Type="ButtonEx" Keyword="KW_BTN_STORE" Caption="商城按钮" Res="Game.btnBuy0" Offset="220,0" Size="0,0"/>
+	 </GUI>
+	 <GUI Type="ButtonEx" Keyword="KW_BTN_FARMER" Caption="农场主" Res="" Offset="300,200" Size="687,348" Render="F" Capture="F"/>
+	 <GUI Type="Gui" Keyword="KW_NOGOLD_MSG" Caption="金币不足提示窗" Res="Game.back0" Offset="0,0" Size="0,0" Render="F">
+	  <GUI Type="Gui" Keyword="KW_NOGOLDBACK" Caption="背景" Res="Game.msgBox0" Offset="274,115" Size="0,0"/>
+	  <GUI Type="TextCtrl" Keyword="KW_TEXT" Caption="提示" Text="您的金币不足，是否进入商城" FontSize="40" FontName="Fonts/GBK.ttf" TextColor="0xFF000000" Offset="660,269" Size="0,0" HorAlign="LC" VerAlign="TC"/>
+	  <GUI Type="TextCtrl" Keyword="KW_TEXT" Caption="提示" Text="购买金币换取强力道具！" FontSize="40" FontName="Fonts/GBK.ttf" TextColor="0xFF000000" Offset="572,349" Size="0,0" HorAlign="LC" VerAlign="TC"/>
+	  <GUI Type="ButtonEx" Keyword="KW_NOGOLD_EXIT" Caption="返回" Res="Game.btnNO0" Offset="342,479" Size="0,0"/>
+	  <GUI Type="ButtonEx" Keyword="KW_TOSTORE" Caption="进入商店" Res="Game.btnGoStore0" Offset="695,479" Size="0,0"/>
+	 </GUI>
+	</GUI>
+	<!--结算层-->
+	<GUI Type="Gui" Keyword="KW_SETTLE" Caption="结算" Res="Game.settleBack0" Offset="0,0" Size="0,0" Render="F">
+	 <GUI Type="Gui" Keyword="KW_WAIT" Caption="等待框" Res="" Offset="0,0" Size="1280,720"/>
+	 <GUI Type="Gui" Keyword="KW_LOSE" Caption="LOSE结算" Res="Game.lostBack0" Offset="0,0" Size="0,0" Render="F">
+	  <GUI Type="Gui" Keyword="KW_LOSETITLE" Caption="loseTitle" Res="Game.loseTitle0" Offset="272,43" Size="0,0" />
+	  <GUI Type="Gui" Keyword="KW_YOULOSE" Caption="你输了" Res="Game.youLose0" Offset="455,227" Size="0,0" />
+	 </GUI>
+	 <GUI Type="Gui" Keyword="KW_WIN" Caption="win结算" RefSize="1280,720" Offset="0,0" Size="0,0" Render="F">
+	  <GUI Type="Gui" Keyword="KW_WINTITLE" Caption="winTitle" Res="Game.winTitle0" Offset="272,43" Size="0,0" />
+	  <GUI Type="Gui" Keyword="KW_YOUWIN" Caption="你赢了" Res="Game.youWin0" Offset="455,227" Size="0,0" />
+	  <GUI Type="Gui" Keyword="KW_STAR1" Caption="星星" Res="Game.starBig0" Offset="442,65" Size="0,0" Scale="0.65,0.65" Rotation="-15" Render="F"/>
+	  <GUI Type="Gui" Keyword="KW_STAR2" Caption="星星" Res="Game.starBig0" Offset="567,54" Size="0,0" Scale="0.75,0.75" Render="F"/>
+	  <GUI Type="Gui" Keyword="KW_STAR3" Caption="星星" Res="Game.starBig0" Offset="696,65" Size="0,0" Scale="0.65,0.65" Rotation="15" Render="F"/>
+	  <GUI Type="Gui" Keyword="KW_VS" Caption="底" Res="Game.settleBack_d0" Offset="493,491" Size="0,0" />
+	  <GUI Type="Gui" Keyword="KW_VS" Caption="金币图标" Res="Game.goldBig0" HorAlign="LC" VerAlign="TT" Offset="553,479" Size="0,0" />
+	  <GUI Type="TextCtrl" Keyword="KW_GETGOLD" Caption="获得金币" Text="0" FontSize="45" FontName="Fonts/GBK.ttf" TextColor="0xFF00FFFF" HorAlign="LC" VerAlign="TT" Offset="652,507" Size="0,0"/>
+	 </GUI>
+	 <GUI Type="Gui" Keyword="KW_VS" Caption="VS" Res="Game.settleBack_d0" Offset="493,408" Size="0,0" />
+	 <GUI Type="Gui" Keyword="KW_VS" Caption="VS" Res="Game.vs0" Offset="605,417" Size="0,0" />
+	 <GUI Type="TextCtrl" Keyword="KW_SCORE0" Caption="玩家比分" Text="1000" FontSize="40" FontName="Fonts/GBK.ttf" TextColor="0xFF00FFFF" HorAlign="LC" VerAlign="TT" Offset="569,422" Size="0,0"/>
+	 <GUI Type="TextCtrl" Keyword="KW_SCORE1" Caption="电脑比分" Text="2000" FontSize="40" FontName="Fonts/GBK.ttf" TextColor="0xFF00FFFF" HorAlign="LC" VerAlign="TT" Offset="725,422" Size="0,0"/>
+	 <!--按钮-->
+	 <GUI Type="ButtonEx" Keyword="KW_BTN_MENU0" Caption="返回菜单" Res="Game.btnMenu0" Offset="320,600" Size="0,0"/>
+	 <GUI Type="ButtonEx" Keyword="KW_BTN_RESTART0" Caption="重新开始" Res="Game.btnRestart0" Offset="560,600" Size="0,0"/>
+	 <GUI Type="ButtonEx" Keyword="KW_BTN_NEXT" Caption="下一关" Res="Game.btnNext0" Offset="800,600" Size="0,0"/>
+	 <GUI Type="ButtonEx" Keyword="KW_BTN_UPGRADE" Caption="升级羊圈" Res="Game.btnUpSheepfold0" Offset="800,600" Size="0,0"/>
+	</GUI>
+		<!--引导层-->
+	<GUI Type="Gui" Keyword="KW_GUIDANCEL" Caption="引导" Res="" Offset="0,0" Size="1280,720" Render="F">
+	 <GUI Type="Gui" Keyword="GUIDANCEL1" Caption="引导1" Res="Game.guidance_10" Offset="0,0" Size="0,0" Render="F"/>
+	 <GUI Type="Gui" Keyword="GUIDANCEL2" Caption="引导2" Res="Game.guidance_20" Offset="0,0" Size="0,0" Render="F"/>
+	 <GUI Type="ButtonEx" Keyword="GUIDANCEL_CONTINUE" Caption="继续" Res="Game.btnGoOnGame0" Offset="530,300" Size="0,0" Render="F"/>
+	 <GUI Type="Gui" Keyword="GUIDANCEL3" Caption="引导3" Res="Game.guidance_40" Offset="0,0" Size="0,0" Render="F"/>
+	 <GUI Type="Gui" Keyword="GUIDANCEL4" Caption="引导4" Res="Game.guidance_30" Offset="0,0" Size="0,0" Render="F"/>
+	 <GUI Type="Gui" Keyword="GUIDANCEL5" Caption="引导5" Res="Game.guidance_50" Offset="0,0" Size="0,0" Render="F"/>
+	</GUI>
+	<!--暂停层-->
+	<GUI Type="Gui" Keyword="KW_PAUSE" Caption="暂停" Res="Game.back0" Offset="0,0" Size="0,0" Render="F">
+	 <GUI Type="Gui" Keyword="KW_PAUSEBACK" Caption="背景" Res="Game.pauseBack0" Offset="0,0" Size="0,0"/>
+	 <!--按钮-->
+	 <GUI Type="ButtonEx" Keyword="KW_BTN_MENU" Caption="返回菜单" Res="Game.btnMenu0" Offset="320,540" Size="0,0"/>
+	 <GUI Type="ButtonEx" Keyword="KW_BTN_RESTART" Caption="重新开始" Res="Game.btnRestart0" Offset="560,540" Size="0,0"/>
+	 <GUI Type="ButtonEx" Keyword="KW_BTN_CONTINUE" Caption="继续" Res="Game.btnContinue0" Offset="800,540" Size="0,0"/>
+	 <!--音乐设置-->
+	 <GUI Type="Gui" Keyword="KW_MUSIC_BACK" Caption="音乐滚动背景" Res="Game.sliderTrack0" Offset="540,300" Size="0,0" />
+	 <GUI Type="Gui" Keyword="KW_MUSIC_BACK" Caption="音乐滚动背景" Res="Game.sliderTrack0" Offset="540,415" Size="0,0" />
+	 <GUI Type="Crop" Keyword="KW_CROP_SET_MUSIC" Caption="裁剪控件" Capture="F" Offset="540,300" Size="0,0">
+        <GUI Type="Gui" Keyword="KW_GUI_SET_MUSIC" Caption="音乐滚动背景" Res="Game.sliderProgress0" Offset="0,0" Size="312,28" />
+      </GUI>
+      <GUI Type="Crop" Keyword="KW_CROP_SET_EFFECT" Caption="裁剪控件" Capture="F" Offset="540,415" Size="0,0">
+        <GUI Type="Gui" Keyword="KW_GUI_SET_EFFECT" Caption="音效滚动背景" Res="Game.sliderProgress0" Offset="0,0" Size="312,28" />
+      </GUI>
+      <GUI Type="ScrollBar" Keyword="KW_SCROLLBAR_MUSIC" Caption="音乐滚动条" Vertical="F" Offset="530,300" Size="332,28">
+        <GUI Type="ButtonEx" Keyword="KW_SCROLL_BTN_MOVE" Caption="滚动条移动按钮" Res="Game.slider0" DragDrop="T" Size="0,0" Offset="0,-14" />
+      </GUI>
+      <GUI Type="ScrollBar" Keyword="KW_SCROLLBAR_EFFECT" Caption="音效滚动条" Vertical="F" Offset="530,415" Size="332,28">
+        <GUI Type="ButtonEx" Keyword="KW_SCROLL_BTN_MOVE" Caption="滚动条移动按钮" Res="Game.slider0" DragDrop="T" Size="0,0" Offset="0,-14" />
+      </GUI>
+	</GUI>
+
+			<!--loading层-->
+	<GUI Type="Gui" Keyword="KW_LOADING" Caption="loading" Res="" Offset="0,0" Size="1280,720" Render="F">
+		<GUI Type="Gui" Keyword="KW_LOADINGBACK" Caption="loading背景" Res="MainMenu.back0" Offset="0,0" Size="0,0" Render="T">
+			<GUI Type="Gui" Keyword="KW_LOADINSHEEP1" Caption="loading羊" Res="MainMenu.loadingSheep10" Offset="64,515" Size="0,0" Render="T"/>
+			<GUI Type="Gui" Keyword="KW_LOADINSTEXT" Caption="努力加载中" Res="MainMenu.loadingText0" Offset="307,618" Size="0,0" Render="T"/>
+			<GUI Type="Gui" Keyword="KW_LOADINSTIME" Caption="点点点" Res="MainMenu.loadingDian00" Offset="614,659" Size="0,0" Render="T"/>
+		</GUI>
+	</GUI>
+
+
+  </GUI>
+  
+
+   <!--TV脚本-->
+   <!--主菜单场景-->
+   <UUI Keyword="KW_MAINMENU" ID="TV">
+	<!--主页面内的按钮-->
+	<UUI Keyword="KW_BTN_PLAY" TV="999"/>
+	<UUI Keyword="KW_BTN_ACTIVITY" TV="951"/>
+	<UUI Keyword="KW_BTN_ANNOUNCE" TV="941"/>
+	<UUI Keyword="KW_BTN_EGG" TV="701"/>
+	<UUI Keyword="KW_BTN_UP" TV="678"/>
+	<UUI Keyword="KW_BTN_STORE" TV="668"/>
+	<UUI Keyword="KW_BTN_TREE" TV="658"/>
+	<UUI Keyword="KW_BTN_GAMEHELP" TV="648"/>	
+	<!--HOME层按钮-->
+	<UUI Keyword="KW_GAMESTART" TV="4999"/>
+	<!--活动层按钮-->
+	<UUI Keyword="KW_ACTIVITY_BACK" TV="2999"/>
+	<!--公告层按钮-->
+	<UUI Keyword="KW_ANNOUNCE_BACK" TV="2999"/>
+	<!--摇钱树按钮-->
+	<UUI Keyword="KW_GOLDTREE_BACK" TV="2998"/>
+	<UUI Keyword="KW_BTN_SIGNIN" TV="2999"/>
+	<!--帮助按钮-->
+	<UUI Keyword="KW_HELP_BACK" TV="2999"/>
+	<UUI Keyword="KW_HELP_LAST" TV="2900"/>
+	<UUI Keyword="KW_HELP_NEXT" TV="2900"/>
+	<!--升级按钮-->
+	<UUI Keyword="KW_LEAVELUP_BACK" TV="2988"/>
+	<UUI Keyword="KW_GOLDUP" TV="2999"/>
+	<UUI Keyword="KW_LEAVELUP_EXIT" TV="3998"/>
+	<UUI Keyword="KW_GOSTORE" TV="3999"/>
+	<!--退出按钮-->
+	<UUI Keyword="KW_OK" TV="9988"/>
+	<UUI Keyword="KW_NO" TV="9999"/>
+	<!--获得金币提示窗确认按钮-->
+	<UUI Keyword="KW_GETGOLDOK" TV="8988"/>
+	<!--loading页面-->
+	<UUI Keyword="KW_MAIN_MENU_LOADING" TV="9999"/>
+	<UUI Keyword="KW_LOADING" TV="6999"/>
+	<!--选关按钮-->
+	<UUI Keyword="KW_BTN_BACK" TV="2100"/>
+	<UUI Keyword="KW_BTN_LAST" TV="2900"/>
+	<UUI Keyword="KW_BTN_NEXT" TV="2900"/>
+
+	<UUI Keyword="KW_PASS_1" TV="2501"/>
+	<UUI Keyword="KW_PASS_2" TV="2502"/>
+	<UUI Keyword="KW_PASS_3" TV="2503"/>
+	<UUI Keyword="KW_PASS_4" TV="2504"/>
+	<UUI Keyword="KW_PASS_5" TV="2505"/>
+	<UUI Keyword="KW_PASS_6" TV="2606"/>
+	<UUI Keyword="KW_PASS_7" TV="2607"/>
+	<UUI Keyword="KW_PASS_8" TV="2608"/>
+	<UUI Keyword="KW_PASS_9" TV="2609"/>
+	<UUI Keyword="KW_PASS_10" TV="2610"/>
+	<UUI Keyword="KW_PASS_11" TV="2711"/>
+	<UUI Keyword="KW_PASS_12" TV="2712"/>
+	<UUI Keyword="KW_PASS_13" TV="2713"/>
+	<UUI Keyword="KW_PASS_14" TV="2714"/>
+	<UUI Keyword="KW_PASS_15" TV="2715"/>
+	<UUI Keyword="KW_PASS_16" TV="2816"/>
+	<UUI Keyword="KW_PASS_17" TV="2817"/>
+	<UUI Keyword="KW_PASS_18" TV="2818"/>
+	<UUI Keyword="KW_PASS_19" TV="2819"/>
+	<UUI Keyword="KW_PASS_20" TV="2820"/>
+  </UUI>
+
+  <!--商城-->
+  <UUI Keyword="KW_STORE" ID="TV">
+	<!--返回按钮-->
+	<UUI Keyword="KW_BTN_BACK" TV="601"/>
+	<UUI Keyword="KW_LOADING" TV="3999"/>
+	<UUI Keyword="KW_GUI_STORE_HINT_BACK" TV="3999"/>
+  </UUI>
+
+   <!--活动-->
+  <UUI Keyword="KW_ACTIVITY" ID="TV">
+	<!--返回按钮-->
+	<UUI Keyword="KW_BTN_BACK" TV="601"/>
+	<UUI Keyword="KW_ACTIVITY_PANEL" TV="666" />
+	<UUI Keyword="KW_LOADING" TV="9999"/>
+  </UUI>
+
+  <!--游戏场景-->
+  <UUI Keyword="KW_FRAMEWORK" ID="TV">
+	<!--出羊按钮-->
+	<UUI Keyword="KW_BTN_SHEEP1" TV="988"/>
+	<UUI Keyword="KW_BTN_SHEEP2" TV="888"/>
+	<UUI Keyword="KW_BTN_SHEEP3" TV="799"/>
+	<UUI Keyword="KW_BTN_SHEEP4" TV="666"/>
+	<UUI Keyword="KW_BTN_SHEEP5" TV="555"/>
+	<UUI Keyword="KW_BTN_SHEEP6" TV="911"/>
+	<UUI Keyword="KW_BTN_SHEEP7" TV="811"/>
+	<UUI Keyword="KW_BTN_SHEEP8" TV="711"/>
+	<UUI Keyword="KW_BTN_SHEEP9" TV="611"/>
+	<UUI Keyword="KW_BTN_SHEEP10" TV="511"/>
+	<!--选择道具-->
+	<UUI Keyword="KW_NOGOLD_EXIT" TV="2998"/>
+	<UUI Keyword="KW_TOSTORE" TV="2999"/>
+	<UUI Keyword="KW_BTN_FARMER" TV="2999"/>
+	<UUI Keyword="KW_BTN_START" TV="1999"/>
+	<UUI Keyword="KW_BTN_ITEM1" TV="1888"/>
+	<UUI Keyword="KW_BTN_ITEM2" TV="1887"/>
+	<UUI Keyword="KW_BTN_ITEM3" TV="1886"/>
+	<UUI Keyword="KW_BTN_STORE" TV="1777"/>
+	<!--暂停-->
+	<UUI Keyword="KW_BTN_MENU" TV="2988"/>
+	<UUI Keyword="KW_BTN_RESTART" TV="2987"/>
+	<UUI Keyword="KW_BTN_CONTINUE" TV="2999"/>
+	<UUI Keyword="KW_SCROLLBAR_EFFECT" TV="2888"/>
+	<UUI Keyword="KW_SCROLLBAR_MUSIC" TV="2788"/>
+	<!--结算-->
+	<UUI Keyword="KW_WAIT" TV="9999"/>
+	<UUI Keyword="KW_BTN_MENU0" TV="2988"/>
+	<UUI Keyword="KW_BTN_RESTART0" TV="2988"/>
+	<UUI Keyword="KW_BTN_NEXT" TV="2999"/>
+	<UUI Keyword="KW_BTN_UPGRADE" TV="2999"/>
+	<UUI Keyword="KW_LOADING" TV="9999"/>
+	<!--引导-->
+	<UUI Keyword="GUIDANCEL2" TV="2988"/>
+	<UUI Keyword="GUIDANCEL3" TV="2988"/>
+	<UUI Keyword="GUIDANCEL4" TV="2988"/>
+	<UUI Keyword="GUIDANCEL5" TV="2988"/>
+	<UUI Keyword="GUIDANCEL_CONTINUE" TV="3999"/>
+  </UUI>
+
+
+
+
+</FrameworkConfig>
+
+
+
+
+

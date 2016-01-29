@@ -1,0 +1,123 @@
+﻿<FrameworkConfig version="1.0000" date="2011-05-03">
+	<DUI Type="DGroupOnline" >
+		<GUI Type="Button" Keyword="KW_GROUP_ONLINE" Caption="按钮" Res="MainMenu.Room3Chang" Size="0,0" Render="F">
+      <GUI Type="Gui" Keyword="KW_GROUP_ONLINE_LOGO" Res="MainMenu.LogoChange" Caption="场Logo" Capture="F" HorAlign="CC" VerAlign="CC" Offset="0,0" Size="0,0" />
+    </GUI>
+	</DUI>
+
+	<DUI Type="DGroupConsole" >
+		<GUI Type="Button" Keyword="KW_GROUP_CONSOLE" Caption="按钮" Res="MainMenu.Room3Chang" Effect="Share.MouseDown" Size="0,0" Render="F">
+			<GUI Type="Gui" Keyword="KW_GROUP_CONSOLE_LOGO" Res="MainMenu.RoomGaoJiChang" Caption="单机场" Capture="F" HorAlign="CC" VerAlign="TT" Offset="0,5" Size="0,0" />
+		</GUI>
+	</DUI>-->
+	
+	<!--普通场房间列表-->
+	<DUI Type="DRoomOnline" >
+		<GUI Type="Button" Keyword="KW_ROOM_ONLINE" Caption="滚动区按钮" Res="MainMenu.RoomSiteBack" Size="0,0">
+		    <GUI Type="BMText" Keyword="KW_ROOM_ONLINE_NAME" Caption="房间名字" Capture="F" FontSize="26" FontName="STHeitiTC-Medium" TextColor="0xfff2e5cd" HorAlign="LL" VerAlign="CX" Offset="40,0" Size="250,0" EndEllipsis="T" />
+            <GUI Type="BMText" Keyword="KW_ROOM_ONLINE_CAPTION" Caption="房间说明" Capture="F" FontSize="26" FontName="STHeitiTC-Medium" TextColor="0xfff2e5cd" HorAlign="LL" VerAlign="CX" Offset="20,0" Size="250,0" EndEllipsis="T" />
+            <GUI Type="BMText" Keyword="KW_ROOM_ONLINE_COUNT" Caption="人数" Capture="F" FontSize="26" FontName="STHeitiTC-Medium" TextColor="0xfff2e5cd" HorAlign="LL" VerAlign="CX" Offset="300,0" Size="100,0" />
+            <GUI Type="Gui" Keyword="KW_ROOM_ONLINE_MAX_LOGO" Res="MainMenu.RoomMaxLogo" Caption="房间满标志" Capture="F" HorAlign="LL" VerAlign="TT" Offset="0,0" Size="0,0" />
+			<!--额外字段-->
+			<GUI Type="BMText" Keyword="KW_USER_TEXT_LIMITE" Caption="进入限制" Capture="F" FontSize="26" FontName="STHeitiTC-Medium" TextColor="0xfff2e5cd" HorAlign="RR" VerAlign="CC" Offset="-200,0" Size="200,0" />
+			<GUI Type="Button" Keyword="KW_USER_BTN_JOINROOM" Caption="加入房间按钮" Res="Share.BtnJoin" Offset="-20,0" Size="0,0" HorAlign="RR" VerAlign="CC"/>
+        </GUI>
+	</DUI>
+
+  <DUI Type="DAnnouncePanel" >
+    <GUI Type="Button" Keyword="KW_PANEL_BTN" Caption="单条公告" Size="800,0">
+      <GUI Type="BMText" Keyword="KW_TEXT_ANNOUNCE_HEAD" Caption="公告头" Capture="F" FontSize="24" Offset="0,10" HorAlign="CC" VerAlign="T" Size="0,0" TextColor="0xFFFF0000" />
+      <GUI Type="BMText" Keyword="KW_TEXT_ANNOUNCE_INFO" Caption="公告内容" Capture="F" FontSize="24" Offset="0,40" HorAlign="CC" VerAlign="T" Size="700,0" TextColor="0xFF000000" />
+      <GUI Type="BMText" Keyword="KW_TEXT_ANNOUNCE_END" Caption="公告署名" Capture="F" FontSize="24" Offset="-15,0" HorAlign="RR" VerAlign="B" Size="0,0" TextColor="0xFF000000" />
+    </GUI>
+  </DUI>
+
+  <DUI Type="DPlayerFace" >
+    <GUI Type="Gui" Keyword="FaceBack" Caption="头像背景" Capture="F" Res="Game.FaceBack" HorAlign="L" VerAlign="C" Size="0,0" Offset="-11,-63" >
+      <GUI Type="Gui" Keyword="KW_PF_FACE" Caption="普通头像" Capture="F" Res="Game.FaceBack" HorAlign="CC" VerAlign="CC" Size="0,0" Offset="0,0" Render="F" />
+      <GUI Type="Gui" Keyword="KW_PF_DEFFACE" Caption="默认头像" Capture="F" Res="Share.Face" HorAlign="CC" VerAlign="CC" Size="0,0" Offset="0,0" />
+    </GUI>
+  </DUI>
+
+  <DUI Type="DPlayerInfo" >
+    <GUI Type="Gui" Keyword="InfoBack" Caption="玩家信息背景" Capture="F" Res="Game.PlayerMsg" Size="0,0" >
+      <GUI Type="BMText" Keyword="NameText1" Caption="" FontSize="18" FontName="STHeitiTC-Medium" Text="昵称:" HorAlign="LL" Size="164,30" Offset="40,20" />
+      <GUI Type="BMText" Keyword="NameText2" Caption="" FontSize="18" FontName="STHeitiTC-Medium" Text="ID:" HorAlign="LL" Size="164,30" Offset="40,42" />
+      <GUI Type="BMText" Keyword="NameText3" Caption="" FontSize="18" FontName="STHeitiTC-Medium" Text="积分:" HorAlign="LL" Size="164,30" Offset="40,64" />
+      <GUI Type="BMText" Keyword="NameText4" Caption="" FontSize="18" FontName="STHeitiTC-Medium" Text="胜率:" HorAlign="LL" Size="164,30" Offset="40,86" />
+      <GUI Type="BMText" Keyword="NameText5" Caption="" FontSize="18" FontName="STHeitiTC-Medium" Text="战绩:" HorAlign="LL" Size="164,30" Offset="40,108" />
+      <GUI Type="BMText" Keyword="KW_PF_TEXT_NAME" Caption="昵称" FontSize="18" FontName="STHeitiTC-Medium" EndEllipsis="T" HorLayout="-1" HorAlign="L" Size="120,30" Offset="85,20" />
+      <GUI Type="BMText" Keyword="KW_PF_TEXT_ID" Caption="ID" FontSize="18" FontName="STHeitiTC-Medium" EndEllipsis="T" HorLayout="-1" HorAlign="L" Size="164,30" Offset="85,42" />
+      <GUI Type="BMText" Keyword="KW_PF_TEXT_SCORE" Caption="积分" FontSize="18" FontName="STHeitiTC-Medium" EndEllipsis="T" HorLayout="-1" HorAlign="L" Size="115,30" Offset="85,68" />
+      <GUI Type="BMText" Keyword="KW_PF_TEXT_WINLOST" Caption="胜率百分比" FontSize="18" FontName="STHeitiTC-Medium" EndEllipsis="T" HorLayout="-1" HorAlign="L" Size="136,30" Offset="85,86" />
+      <GUI Type="BMText" Keyword="KW_PF_TEXT_ALLROUNG" Caption="战绩百分比" FontSize="18" FontName="STHeitiTC-Medium" HorLayout="-1" HorAlign="L" Size="145,30" Offset="85,108" EndEllipsis="T"/>
+    </GUI>
+  </DUI>
+
+  <DUI Type="DChatPanel" >
+    <GUI Type="Button" Keyword="KW_PANEL_BTN" Caption="聊天按钮" Res="Game.Select" Offset="0,0" Size="0,0">
+      <GUI Type="BMText" Keyword="KW_CHAT_TEXT" Caption="聊天Text" Capture="F" FontSize="20" FontName="STHeitiTC-Medium" HorAlign="LL" VerAlign="CX" Offset="15,0" TextColor="0xFFFFFFFF"EndEllipsis="T" Size="150,0" />
+      <GUI Type="Gui" Keyword="KW_DISLINE" Caption="分隔线" Res="Framework.Line" HorAlign="CX" VerAlign="BB" Offset="0,0" Size="0,0" />
+    </GUI>
+  </DUI>
+
+  
+  <DUI Type="DActivityPanel" >
+    <GUI Type="Button" Keyword="KW_ACTIVITY" Caption="活动" Size="800,80" >
+        <GUI Type="TextCtrl" Keyword="KW_ACT_NAME_TEXT" Caption="活动名称" Capture="F" FontSize="30" FontName="Fonts/GBK.ttf" TextColor="0xFFEE4D15" HorAlign="LL" VerAlign="CX" Offset="66,0" Size="0,0" EndEllipsis="F" />
+        <GUI Type="TextCtrl" Keyword="KW_ACT_TIME_TEXT" Caption="活动时间" Capture="F" FontSize="30" FontName="Fonts/GBK.ttf" TextColor="0xFFEE4D15" HorAlign="LL" VerAlign="CX" Offset="440,0" Size="0,0" />
+        <GUI Type="Button" Keyword="KW_ACTPANEL_BTN" Caption="详情按钮" Res="MainMenu.btnXiangQing0" HorAlign="RR" VerAlign="CX" Offset="22,0" Size="0,0" />
+        <GUI Type="StyleCtrl" Keyword="KW_ACT_DISLINE" Caption="分隔线" Res="MainMenu.line0" HorAlign="CX" VerAlign="BB" Offset="32,0" Size="858,4" />
+    </GUI>
+  </DUI>
+
+  <DUI Type="DProduct">
+    <GUI Type="Button" Keyword="KW_PRODUCT" Caption="商品" Size="860, 140" >
+      <GUI Type="Gui" Keyword="KW_STORE_DIS_LINE" Caption="单行背景" Res="Store.StoreBack" HorAlign="CC" VerAlign="CC" Offset="0,0" Size="0,0" />
+      <GUI Type="Button" Keyword="KW_PURCHASE_BTN" Caption="购买按钮" Res="Store.btnBuy0" HorAlign="RR" VerAlign="CX" Offset="224,160" Size="0,0" />
+      <GUI Type="Gui" Keyword="ProductBack" Caption="商品背景" Res="Store.ProductBack" HorAlign="LL" VerAlign="CX" Offset="30,0" Size="0,0">
+        <GUI Type="Gui" Keyword="KW_STORE_PRODUCT_PIC" Caption="商品" HorAlign="CX" VerAlign="CX"  Offset="0,-10" Size="0,0" >
+       </GUI>
+        <GUI Type="BMText" Keyword="KW_PRODUCT_PRICE" Caption="价格文字" HorLayout="0" HorAlign="CX" VerAlign="BB" Capture="F" FontSize="22" TextColor="0xFFFF00" Offset="0,-10" Size="0,0" />
+      </GUI>
+      <GUI Type="TextCtrl" Keyword="KW_PRODUCT_NAME_TEXT" Caption="商品名字" Text="开心豆名字" Capture="F" FontSize="40" FontName="Fonts/GBK.ttf" TextColor="0x00000000" HorAlign="CX" VerAlign="CX" Offset="65,160" Size="0,0" />
+      <GUI Type="TextCtrl" Keyword="KW_PRODUCT_INFO_TEXT" Caption="商品说明" Text="开心豆说明" Capture="F" FontSize="40" FontName="Fonts/GBK.ttf" TextColor="0x00000000" HorAlign="CX" VerAlign="CX" Offset="332,160" Size="0,0" />
+      <!--GUI Type="Gui" Keyword="KW_DISLINE" Caption="分隔线" Res="Share.Line" HorAlign="CX" VerAlign="BB" Offset="0,0" Size="0,0" /-->
+    </GUI>
+  </DUI>
+
+  <!--周期赛相关-->
+  <DUI Type="DGroupMatch" >
+    <GUI Type="Button" Keyword="KW_GROUP_MATCH" Caption="按钮" Res="MainMenu.Room3Chang" Size="0,0" Render="F">
+      <GUI Type="Gui" Keyword="KW_GROUP_MATCH_LOGO" Res="MainMenu.RoomMatch" Caption="周期赛" Capture="F" HorAlign="CC" VerAlign="TT" Offset="0,5" Size="0,0" />
+    </GUI>
+  </DUI>
+
+  <DUI Type="DRoomMatch" >
+    <GUI Type="Button" Keyword="KW_ROOM_MATCH" Caption="滚动区按钮" Res="MainMenu.RoomSiteBack" Size="0,0">
+      <GUI Type="BMText" Keyword="KW_ROOM_MATCH_CAPTION" Caption="房间标题" Capture="F" FontSize="26" FontName="STHeitiTC-Medium" TextColor="0xfff2e5cd" VerAlign="CC" Offset="-30,0" Size="250,0" EndEllipsis="T" />
+      <GUI Type="BMText" Keyword="KW_ROOM_MATCH_NAME" Caption="房间文字" Capture="F" FontSize="26" FontName="STHeitiTC-Medium" TextColor="0xfff2e5cd" VerAlign="CX" Offset="40,0" Size="0,0" />
+      <GUI Type="BMText" Keyword="KW_ROOM_MATCH_COUNT" Caption="人数" Capture="F" FontSize="26" FontName="STHeitiTC-Medium" TextColor="0xfff2e5cd" HorAlign="RR" VerAlign="CC" Offset="-40,30" Size="0,0" />
+      <GUI Type="Gui" Keyword="KW_MATCH_ONLINE_MAX_LOGO" Res="MainMenu.RoomMaxLogo" Caption="房间满标志" Capture="F" Offset="0,0" Size="0,0" />
+      <GUI Type="BMText" Keyword="KW_MATCH_ONLINE_STATE" Caption="比赛状态信息文字" Capture="F" FontSize="18" FontName="STHeitiTC-Medium" TextColor="0xfff2e5cd" HorAlign="CC" VerAlign="CC" Offset="40,-10" Size="0,0" />
+      <GUI Type="BMText" Keyword="KW_MATCH_ONLINE_INFO" Caption="比赛数据信息文字" Capture="F" FontSize="18" FontName="STHeitiTC-Medium" TextColor="0xfff2e5cd" HorAlign="CC" VerAlign="CC" Offset="40,10" Size="0,0" />
+      <!--GUI Type="BMText" Keyword="KW_MATCH_ONLINE_SIGNUP_FEE" Caption="比赛报名费" Capture="F" FontSize="18" FontName="STHeitiTC-Medium" TextColor="0xfff2e5cd" HorAlign="RR" VerAlign="CC" Offset="-80,-10" Size="0,0" /-->
+      <!--GUI Type="BMText" Keyword="KW_MATCH_ONLINE_PRIZE" Caption="比赛冠军奖励" Capture="F" FontSize="18" FontName="STHeitiTC-Medium" TextColor="0xfff2e5cd" HorAlign="RR" VerAlign="CC" Offset="-80,10" Size="0,0" /-->
+      <GUI Type="Button" Keyword="KW_MATCH_BUTTON_SIGNUP" Caption="报名" Res="MainMenu.BtnSignUp" Render="F" HorAlign="RR" VerAlign="CC" Offset="-40,0" Size="0,0" />
+	  <GUI Type="Button" Keyword="KW_USER_BMCG" Caption="报名成功" Res="Share.BtnBMCG" Render="F" HorAlign="RR" VerAlign="CC" Offset="-40,0" Size="0,0" />
+      <!--GUI Type="Button" Keyword="KW_MATCH_ONLINE_CANCEL" Caption="取消报名" Res="MainMenu.BtnCancelMatch" Render="F" HorAlign="RR" VerAlign="CC" Offset="-40,0" Size="0,0" /-->
+      <GUI Type="Button" Keyword="KW_MATCH_ONLINE_ENTER" Caption="进入" Res="Share.BtnJRBS" Render="F" HorAlign="RR" VerAlign="CC" Offset="-40,0" Size="0,0" />
+	  <!--灰化-->
+	  <GUI Type="Button" Keyword="KW_MATCH_ONLINE_OVER" Caption="比赛结束" Res="Share.BtnBSJS" Render="F" HorAlign="RR" VerAlign="CC" Offset="-40,0" Size="0,0" />
+	  <GUI Type="Button" Keyword="KW_USER_BTN_MATCHING" Caption="比赛进行中" Res="Share.BtnBSJXZ" Render="F" HorAlign="RR" VerAlign="CC" Offset="-40,0" Size="0,0" />
+    </GUI>
+  </DUI>
+
+  <DUI Type="DMatchPrizePanel" >
+    <GUI Type="Button" Keyword="KW_PANEL_BTN" Caption="比赛奖励信息面板" Size="500,0">
+      <GUI Type="BMText" Keyword="KW_MATCH_PRIZE_INFO" Caption="奖励信息" Capture="F" FontSize="20" Offset="0,10" HorAlign="CC" VerAlign="T" Size="0,0" TextColor="0xAA0000" />
+    </GUI>
+  </DUI>
+  <!--周期赛相关-->
+</FrameworkConfig>
+

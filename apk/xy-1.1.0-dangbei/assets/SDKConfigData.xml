@@ -1,0 +1,6 @@
+﻿
+<!--说明: 爱贝充值-->
+<!--获取: 登录爱贝后台查询获得,新游戏可联系毕赢之分配-->
+<!--作用: 爱贝充值需要,若配置不正确，爱贝充值则无法创建成功-->
+<SDKConfigData key="AB_APPID" value="10006000000011100060" />
+<SDKConfigData key="AB_APPKEY" value="OEE4QkY4N0ExQkU5RTcyNTJGMEM0Q0EyOTk4NzkzQjBDRTZEMkE0NU1UYzRORFl4TnpBME16VTJNVGc1T0RBek1UY3JNVGsxTkRRME9ESTJNVFk1TXpNMk5UQTBOVFl3T0RBeU1UQXlORE01TkRVNE56azVNVGd4" />

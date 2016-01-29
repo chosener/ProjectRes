@@ -1,0 +1,1380 @@
+<!--!!!!!!!!!! It's for : "FirstLayerBack.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/FirstLayerBack.png" resname="FirstLayerBack" />
+<animate filename="MainMenu/FirstLayerBack0.xml" resname="FirstLayerBack0" />
+</resources>
+
+<animation name="MainMenu.FirstLayerBack0" size="1280,720">
+<aniframe texresname="MainMenu.FirstLayerBack" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "ID.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/ID.png" resname="ID" />
+<animate filename="MainMenu/ID0.xml" resname="ID0" />
+</resources>
+
+<animation name="MainMenu.ID0" size="140,68">
+<aniframe texresname="MainMenu.ID" texrange="0,0,140,68" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "LvUpLabel.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/LvUpLabel.png" resname="LvUpLabel" />
+<animate filename="MainMenu/LvUpLabel0.xml" resname="LvUpLabel0" />
+</resources>
+
+<animation name="MainMenu.LvUpLabel0" size="80,42">
+<aniframe texresname="MainMenu.LvUpLabel" texrange="0,0,80,42" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "MyGold.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/MyGold.png" resname="MyGold" />
+<animate filename="MainMenu/MyGold0.xml" resname="MyGold0" />
+</resources>
+
+<animation name="MainMenu.MyGold0" size="46,46">
+<aniframe texresname="MainMenu.MyGold" texrange="0,0,46,46" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "TelNum.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/TelNum.png" resname="TelNum" />
+<animate filename="MainMenu/TelNum0.xml" resname="TelNum0" />
+</resources>
+
+<animation name="MainMenu.TelNum0" size="249,38">
+<aniframe texresname="MainMenu.TelNum" texrange="0,0,249,38" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "activity.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/activity.png" resname="activity" />
+<animate filename="MainMenu/activity0.xml" resname="activity0" />
+</resources>
+
+<animation name="MainMenu.activity0" size="1280,720">
+<aniframe texresname="MainMenu.activity" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "activityBack.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/activityBack.png" resname="activityBack" />
+<animate filename="MainMenu/activityBack0.xml" resname="activityBack0" />
+</resources>
+
+<animation name="MainMenu.activityBack0" size="1280,720">
+<aniframe texresname="MainMenu.activityBack" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "announceBack.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/announceBack.png" resname="announceBack" />
+<animate filename="MainMenu/announceBack0.xml" resname="announceBack0" />
+</resources>
+
+<animation name="MainMenu.announceBack0" size="1280,720">
+<aniframe texresname="MainMenu.announceBack" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "back.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/back.png" resname="back" />
+<animate filename="MainMenu/back0.xml" resname="back0" />
+</resources>
+
+<animation name="MainMenu.back0" size="1280,720">
+<aniframe texresname="MainMenu.back" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "background.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/background.png" resname="background" />
+<animate filename="MainMenu/background0.xml" resname="background0" />
+</resources>
+
+<animation name="MainMenu.background0" size="1280,476">
+<aniframe texresname="MainMenu.background" texrange="0,0,1280,476" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "backgroundTop.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/backgroundTop.png" resname="backgroundTop" />
+<animate filename="MainMenu/backgroundTop0.xml" resname="backgroundTop0" />
+</resources>
+
+<animation name="MainMenu.backgroundTop0" size="1280,664">
+<aniframe texresname="MainMenu.backgroundTop" texrange="0,0,1280,664" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "base1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/base1.png" resname="base1" />
+<animate filename="MainMenu/base10.xml" resname="base10" />
+</resources>
+
+<animation name="MainMenu.base10" size="128,134">
+<aniframe texresname="MainMenu.base1" texrange="0,0,128,134" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "base2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/base2.png" resname="base2" />
+<animate filename="MainMenu/base20.xml" resname="base20" />
+</resources>
+
+<animation name="MainMenu.base20" size="128,134">
+<aniframe texresname="MainMenu.base2" texrange="0,0,128,134" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "base3.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/base3.png" resname="base3" />
+<animate filename="MainMenu/base30.xml" resname="base30" />
+</resources>
+
+<animation name="MainMenu.base30" size="128,134">
+<aniframe texresname="MainMenu.base3" texrange="0,0,128,134" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "base4.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/base4.png" resname="base4" />
+<animate filename="MainMenu/base40.xml" resname="base40" />
+</resources>
+
+<animation name="MainMenu.base40" size="128,134">
+<aniframe texresname="MainMenu.base4" texrange="0,0,128,134" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "bird1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/bird1.png" resname="bird1" />
+<animate filename="MainMenu/bird10.xml" resname="bird10" />
+</resources>
+
+<animation name="MainMenu.bird10" size="33,39">
+<aniframe texresname="MainMenu.bird1" texrange="0,0,33,39" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "bird2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/bird2.png" resname="bird2" />
+<animate filename="MainMenu/bird20.xml" resname="bird20" />
+</resources>
+
+<animation name="MainMenu.bird20" size="33,39">
+<aniframe texresname="MainMenu.bird2" texrange="0,0,33,39" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnActivity.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnActivity.png" resname="btnActivity" />
+<animate filename="MainMenu/btnActivity0.xml" resname="btnActivity0" />
+</resources>
+
+<animation name="MainMenu.btnActivity0" size="99,59">
+<aniframe texresname="MainMenu.btnActivity" texrange="0,0,99,59" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnAnnouncement.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnAnnouncement.png" resname="btnAnnouncement" />
+<animate filename="MainMenu/btnAnnouncement0.xml" resname="btnAnnouncement0" />
+</resources>
+
+<animation name="MainMenu.btnAnnouncement0" size="99,59">
+<aniframe texresname="MainMenu.btnAnnouncement" texrange="0,0,99,59" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnBack.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnBack.png" resname="btnBack" />
+<animate filename="MainMenu/btnBack0.xml" resname="btnBack0" />
+</resources>
+
+<animation name="MainMenu.btnBack0" size="178,114">
+<aniframe texresname="MainMenu.btnBack" texrange="0,0,178,114" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnBackLittle.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnBackLittle.png" resname="btnBackLittle" />
+<animate filename="MainMenu/btnBackLittle0.xml" resname="btnBackLittle0" />
+</resources>
+
+<animation name="MainMenu.btnBackLittle0" size="120,77">
+<aniframe texresname="MainMenu.btnBackLittle" texrange="0,0,120,77" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnClose.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnClose.png" resname="btnClose" />
+<animate filename="MainMenu/btnClose0.xml" resname="btnClose0" />
+</resources>
+
+<animation name="MainMenu.btnClose0" size="82,78">
+<aniframe texresname="MainMenu.btnClose" texrange="0,0,82,78" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnEgg.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnEgg.png" resname="btnEgg" />
+<animate filename="MainMenu/btnEgg0.xml" resname="btnEgg0" />
+</resources>
+
+<animation name="MainMenu.btnEgg0" size="146,59">
+<aniframe texresname="MainMenu.btnEgg" texrange="0,0,146,59" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnGoStore.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnGoStore.png" resname="btnGoStore" />
+<animate filename="MainMenu/btnGoStore0.xml" resname="btnGoStore0" />
+</resources>
+
+<animation name="MainMenu.btnGoStore0" size="238,110">
+<aniframe texresname="MainMenu.btnGoStore" texrange="0,0,238,110" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnGoldTreeBack.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnGoldTreeBack.png" resname="btnGoldTreeBack" />
+<animate filename="MainMenu/btnGoldTreeBack0.xml" resname="btnGoldTreeBack0" />
+</resources>
+
+<animation name="MainMenu.btnGoldTreeBack0" size="348,102">
+<aniframe texresname="MainMenu.btnGoldTreeBack" texrange="0,0,348,102" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnGoldUp.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnGoldUp.png" resname="btnGoldUp" />
+<animate filename="MainMenu/btnGoldUp0.xml" resname="btnGoldUp0" />
+</resources>
+
+<animation name="MainMenu.btnGoldUp0" size="420,108">
+<aniframe texresname="MainMenu.btnGoldUp" texrange="0,0,420,108" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnHelp.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnHelp.png" resname="btnHelp" />
+<animate filename="MainMenu/btnHelp0.xml" resname="btnHelp0" />
+</resources>
+
+<animation name="MainMenu.btnHelp0" size="100,58">
+<aniframe texresname="MainMenu.btnHelp" texrange="0,0,100,58" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnHelpBack.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnHelpBack.png" resname="btnHelpBack" />
+<animate filename="MainMenu/btnHelpBack0.xml" resname="btnHelpBack0" />
+</resources>
+
+<animation name="MainMenu.btnHelpBack0" size="204,114">
+<aniframe texresname="MainMenu.btnHelpBack" texrange="0,0,204,114" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnHelpLast.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnHelpLast.png" resname="btnHelpLast" />
+<animate filename="MainMenu/btnHelpLast0.xml" resname="btnHelpLast0" />
+</resources>
+
+<animation name="MainMenu.btnHelpLast0" size="204,114">
+<aniframe texresname="MainMenu.btnHelpLast" texrange="0,0,204,114" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnHelpNext.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnHelpNext.png" resname="btnHelpNext" />
+<animate filename="MainMenu/btnHelpNext0.xml" resname="btnHelpNext0" />
+</resources>
+
+<animation name="MainMenu.btnHelpNext0" size="204,114">
+<aniframe texresname="MainMenu.btnHelpNext" texrange="0,0,204,114" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnLast.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnLast.png" resname="btnLast" />
+<animate filename="MainMenu/btnLast0.xml" resname="btnLast0" />
+</resources>
+
+<animation name="MainMenu.btnLast0" size="78,120">
+<aniframe texresname="MainMenu.btnLast" texrange="0,0,78,120" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnLeavelUpBack.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnLeavelUpBack.png" resname="btnLeavelUpBack" />
+<animate filename="MainMenu/btnLeavelUpBack0.xml" resname="btnLeavelUpBack0" />
+</resources>
+
+<animation name="MainMenu.btnLeavelUpBack0" size="125,87">
+<aniframe texresname="MainMenu.btnLeavelUpBack" texrange="0,0,125,87" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnLingQu.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnLingQu.png" resname="btnLingQu" />
+<animate filename="MainMenu/btnLingQu0.xml" resname="btnLingQu0" />
+</resources>
+
+<animation name="MainMenu.btnLingQu0" size="100,44">
+<aniframe texresname="MainMenu.btnLingQu" texrange="0,0,100,44" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnMoneyUp.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnMoneyUp.png" resname="btnMoneyUp" />
+<animate filename="MainMenu/btnMoneyUp0.xml" resname="btnMoneyUp0" />
+</resources>
+
+<animation name="MainMenu.btnMoneyUp0" size="342,116">
+<aniframe texresname="MainMenu.btnMoneyUp" texrange="0,0,342,116" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnNO.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnNO.png" resname="btnNO" />
+<animate filename="MainMenu/btnNO0.xml" resname="btnNO0" />
+</resources>
+
+<animation name="MainMenu.btnNO0" size="238,110">
+<aniframe texresname="MainMenu.btnNO" texrange="0,0,238,110" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnNext.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnNext.png" resname="btnNext" />
+<animate filename="MainMenu/btnNext0.xml" resname="btnNext0" />
+</resources>
+
+<animation name="MainMenu.btnNext0" size="78,120">
+<aniframe texresname="MainMenu.btnNext" texrange="0,0,78,120" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnOK.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnOK.png" resname="btnOK" />
+<animate filename="MainMenu/btnOK0.xml" resname="btnOK0" />
+</resources>
+
+<animation name="MainMenu.btnOK0" size="238,110">
+<aniframe texresname="MainMenu.btnOK" texrange="0,0,238,110" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnPlay.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnPlay.png" resname="btnPlay" />
+<animate filename="MainMenu/btnPlay0.xml" resname="btnPlay0" />
+</resources>
+
+<animation name="MainMenu.btnPlay0" size="171,59">
+<aniframe texresname="MainMenu.btnPlay" texrange="0,0,171,59" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnShake.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnShake.png" resname="btnShake" />
+<animate filename="MainMenu/btnShake0.xml" resname="btnShake0" />
+</resources>
+
+<animation name="MainMenu.btnShake0" size="348,102">
+<aniframe texresname="MainMenu.btnShake" texrange="0,0,348,102" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnStore.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnStore.png" resname="btnStore" />
+<animate filename="MainMenu/btnStore0.xml" resname="btnStore0" />
+</resources>
+
+<animation name="MainMenu.btnStore0" size="171,59">
+<aniframe texresname="MainMenu.btnStore" texrange="0,0,171,59" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnTree.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnTree.png" resname="btnTree" />
+<animate filename="MainMenu/btnTree0.xml" resname="btnTree0" />
+</resources>
+
+<animation name="MainMenu.btnTree0" size="146,59">
+<aniframe texresname="MainMenu.btnTree" texrange="0,0,146,59" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnUpSheepfold.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnUpSheepfold.png" resname="btnUpSheepfold" />
+<animate filename="MainMenu/btnUpSheepfold0.xml" resname="btnUpSheepfold0" />
+</resources>
+
+<animation name="MainMenu.btnUpSheepfold0" size="171,59">
+<aniframe texresname="MainMenu.btnUpSheepfold" texrange="0,0,171,59" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnXiangQing.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/btnXiangQing.png" resname="btnXiangQing" />
+<animate filename="MainMenu/btnXiangQing0.xml" resname="btnXiangQing0" />
+</resources>
+
+<animation name="MainMenu.btnXiangQing0" size="133,52">
+<aniframe texresname="MainMenu.btnXiangQing" texrange="0,0,133,52" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "caodi.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/caodi.png" resname="caodi" />
+<animate filename="MainMenu/caodi0.xml" resname="caodi0" />
+</resources>
+
+<animation name="MainMenu.caodi0" size="960,291">
+<aniframe texresname="MainMenu.caodi" texrange="0,0,960,291" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "chicken1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/chicken1.png" resname="chicken1" />
+<animate filename="MainMenu/chicken10.xml" resname="chicken10" />
+</resources>
+
+<animation name="MainMenu.chicken10" size="33,32">
+<aniframe texresname="MainMenu.chicken1" texrange="0,0,33,32" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "chicken2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/chicken2.png" resname="chicken2" />
+<animate filename="MainMenu/chicken20.xml" resname="chicken20" />
+</resources>
+
+<animation name="MainMenu.chicken20" size="33,32">
+<aniframe texresname="MainMenu.chicken2" texrange="0,0,33,32" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "cloudLeft_1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/cloudLeft_1.png" resname="cloudLeft_1" />
+<animate filename="MainMenu/cloudLeft_10.xml" resname="cloudLeft_10" />
+</resources>
+
+<animation name="MainMenu.cloudLeft_10" size="266,264">
+<aniframe texresname="MainMenu.cloudLeft_1" texrange="0,0,266,264" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "cloudLeft_2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/cloudLeft_2.png" resname="cloudLeft_2" />
+<animate filename="MainMenu/cloudLeft_20.xml" resname="cloudLeft_20" />
+</resources>
+
+<animation name="MainMenu.cloudLeft_20" size="41,39">
+<aniframe texresname="MainMenu.cloudLeft_2" texrange="0,0,41,39" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "cloudLeft_3.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/cloudLeft_3.png" resname="cloudLeft_3" />
+<animate filename="MainMenu/cloudLeft_30.xml" resname="cloudLeft_30" />
+</resources>
+
+<animation name="MainMenu.cloudLeft_30" size="107,110">
+<aniframe texresname="MainMenu.cloudLeft_3" texrange="0,0,107,110" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "cloudRight_1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/cloudRight_1.png" resname="cloudRight_1" />
+<animate filename="MainMenu/cloudRight_10.xml" resname="cloudRight_10" />
+</resources>
+
+<animation name="MainMenu.cloudRight_10" size="294,247">
+<aniframe texresname="MainMenu.cloudRight_1" texrange="0,0,294,247" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "cloudRight_2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/cloudRight_2.png" resname="cloudRight_2" />
+<animate filename="MainMenu/cloudRight_20.xml" resname="cloudRight_20" />
+</resources>
+
+<animation name="MainMenu.cloudRight_20" size="104,125">
+<aniframe texresname="MainMenu.cloudRight_2" texrange="0,0,104,125" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "cloud_1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/cloud_1.png" resname="cloud_1" />
+<animate filename="MainMenu/cloud_10.xml" resname="cloud_10" />
+</resources>
+
+<animation name="MainMenu.cloud_10" size="392,257">
+<aniframe texresname="MainMenu.cloud_1" texrange="0,0,392,257" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "cloud_2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/cloud_2.png" resname="cloud_2" />
+<animate filename="MainMenu/cloud_20.xml" resname="cloud_20" />
+</resources>
+
+<animation name="MainMenu.cloud_20" size="169,97">
+<aniframe texresname="MainMenu.cloud_2" texrange="0,0,169,97" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "cloud_3.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/cloud_3.png" resname="cloud_3" />
+<animate filename="MainMenu/cloud_30.xml" resname="cloud_30" />
+</resources>
+
+<animation name="MainMenu.cloud_30" size="355,128">
+<aniframe texresname="MainMenu.cloud_3" texrange="0,0,355,128" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "cloud_4.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/cloud_4.png" resname="cloud_4" />
+<animate filename="MainMenu/cloud_40.xml" resname="cloud_40" />
+</resources>
+
+<animation name="MainMenu.cloud_40" size="182,175">
+<aniframe texresname="MainMenu.cloud_4" texrange="0,0,182,175" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "corner.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/corner.png" resname="corner" />
+<animate filename="MainMenu/corner0.xml" resname="corner0" />
+</resources>
+
+<animation name="MainMenu.corner0" size="134,79">
+<aniframe texresname="MainMenu.corner" texrange="0,0,134,79" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "dangqiantisheng.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/dangqiantisheng.png" resname="dangqiantisheng" />
+<animate filename="MainMenu/dangqiantisheng0.xml" resname="dangqiantisheng0" />
+</resources>
+
+<animation name="MainMenu.dangqiantisheng0" size="242,82">
+<aniframe texresname="MainMenu.dangqiantisheng" texrange="0,0,242,82" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "ear.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/ear.png" resname="ear" />
+<animate filename="MainMenu/ear0.xml" resname="ear0" />
+</resources>
+
+<animation name="MainMenu.ear0" size="172,115">
+<aniframe texresname="MainMenu.ear" texrange="0,0,172,115" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "egg.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/egg.png" resname="egg" />
+<animate filename="MainMenu/egg0.xml" resname="egg0" />
+</resources>
+
+<animation name="MainMenu.egg0" size="23,32">
+<aniframe texresname="MainMenu.egg" texrange="0,0,23,32" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "eggBase.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/eggBase.png" resname="eggBase" />
+<animate filename="MainMenu/eggBase0.xml" resname="eggBase0" />
+</resources>
+
+<animation name="MainMenu.eggBase0" size="100,44">
+<aniframe texresname="MainMenu.eggBase" texrange="0,0,100,44" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "eye1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/eye1.png" resname="eye1" />
+<animate filename="MainMenu/eye10.xml" resname="eye10" />
+</resources>
+
+<animation name="MainMenu.eye10" size="285,76">
+<aniframe texresname="MainMenu.eye1" texrange="0,0,285,76" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "eye2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/eye2.png" resname="eye2" />
+<animate filename="MainMenu/eye20.xml" resname="eye20" />
+</resources>
+
+<animation name="MainMenu.eye20" size="301,14">
+<aniframe texresname="MainMenu.eye2" texrange="0,0,301,14" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "eye3.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/eye3.png" resname="eye3" />
+<animate filename="MainMenu/eye30.xml" resname="eye30" />
+</resources>
+
+<animation name="MainMenu.eye30" size="285,76">
+<aniframe texresname="MainMenu.eye3" texrange="0,0,285,76" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "face.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/face.png" resname="face" />
+<animate filename="MainMenu/face0.xml" resname="face0" />
+</resources>
+
+<animation name="MainMenu.face0" size="624,302">
+<aniframe texresname="MainMenu.face" texrange="0,0,624,302" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "gameTitle.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/gameTitle.png" resname="gameTitle" />
+<animate filename="MainMenu/gameTitle0.xml" resname="gameTitle0" />
+</resources>
+
+<animation name="MainMenu.gameTitle0" size="486,301">
+<aniframe texresname="MainMenu.gameTitle" texrange="0,0,486,301" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "gold.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/gold.png" resname="gold" />
+<animate filename="MainMenu/gold0.xml" resname="gold0" />
+</resources>
+
+<animation name="MainMenu.gold0" size="35,42">
+<aniframe texresname="MainMenu.gold" texrange="0,0,35,42" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "goldTree.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/goldTree.png" resname="goldTree" />
+<animate filename="MainMenu/goldTree0.xml" resname="goldTree0" />
+</resources>
+
+<animation name="MainMenu.goldTree0" size="1280,720">
+<aniframe texresname="MainMenu.goldTree" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "help1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/help1.png" resname="help1" />
+<animate filename="MainMenu/help10.xml" resname="help10" />
+</resources>
+
+<animation name="MainMenu.help10" size="1280,720">
+<aniframe texresname="MainMenu.help1" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "help2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/help2.png" resname="help2" />
+<animate filename="MainMenu/help20.xml" resname="help20" />
+</resources>
+
+<animation name="MainMenu.help20" size="1280,720">
+<aniframe texresname="MainMenu.help2" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "help3.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/help3.png" resname="help3" />
+<animate filename="MainMenu/help30.xml" resname="help30" />
+</resources>
+
+<animation name="MainMenu.help30" size="1280,720">
+<aniframe texresname="MainMenu.help3" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "help4.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/help4.png" resname="help4" />
+<animate filename="MainMenu/help40.xml" resname="help40" />
+</resources>
+
+<animation name="MainMenu.help40" size="1280,720">
+<aniframe texresname="MainMenu.help4" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "hom.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/hom.png" resname="hom" />
+<animate filename="MainMenu/hom0.xml" resname="hom0" />
+</resources>
+
+<animation name="MainMenu.hom0" size="310,294">
+<aniframe texresname="MainMenu.hom" texrange="0,0,310,294" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "land1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/land1.png" resname="land1" />
+<animate filename="MainMenu/land10.xml" resname="land10" />
+</resources>
+
+<animation name="MainMenu.land10" size="1279,232">
+<aniframe texresname="MainMenu.land1" texrange="0,0,1279,232" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "land2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/land2.png" resname="land2" />
+<animate filename="MainMenu/land20.xml" resname="land20" />
+</resources>
+
+<animation name="MainMenu.land20" size="1279,232">
+<aniframe texresname="MainMenu.land2" texrange="0,0,1279,232" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "land3.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/land3.png" resname="land3" />
+<animate filename="MainMenu/land30.xml" resname="land30" />
+</resources>
+
+<animation name="MainMenu.land30" size="1279,232">
+<aniframe texresname="MainMenu.land3" texrange="0,0,1279,232" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "land4.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/land4.png" resname="land4" />
+<animate filename="MainMenu/land40.xml" resname="land40" />
+</resources>
+
+<animation name="MainMenu.land40" size="1279,232">
+<aniframe texresname="MainMenu.land4" texrange="0,0,1279,232" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "leavelUpBack.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/leavelUpBack.png" resname="leavelUpBack" />
+<animate filename="MainMenu/leavelUpBack0.xml" resname="leavelUpBack0" />
+</resources>
+
+<animation name="MainMenu.leavelUpBack0" size="1280,94">
+<aniframe texresname="MainMenu.leavelUpBack" texrange="0,0,1280,94" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "leavelUpTop.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/leavelUpTop.png" resname="leavelUpTop" />
+<animate filename="MainMenu/leavelUpTop0.xml" resname="leavelUpTop0" />
+</resources>
+
+<animation name="MainMenu.leavelUpTop0" size="1280,720">
+<aniframe texresname="MainMenu.leavelUpTop" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "line.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/line.png" resname="line" />
+<animate filename="MainMenu/line0.xml" resname="line0" />
+</resources>
+
+<animation name="MainMenu.line0" size="50,6">
+<aniframe texresname="MainMenu.line" texrange="0,0,50,6" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "loading.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/loading.png" resname="loading" />
+<animate filename="MainMenu/loading0.xml" resname="loading0" />
+</resources>
+
+<animation name="MainMenu.loading0" size="1280,720">
+<aniframe texresname="MainMenu.loading" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "loadingDian0.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/loadingDian0.png" resname="loadingDian0" />
+<animate filename="MainMenu/loadingDian00.xml" resname="loadingDian00" />
+</resources>
+
+<animation name="MainMenu.loadingDian00" size="102,22">
+<aniframe texresname="MainMenu.loadingDian0" texrange="0,0,102,22" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "loadingDian1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/loadingDian1.png" resname="loadingDian1" />
+<animate filename="MainMenu/loadingDian10.xml" resname="loadingDian10" />
+</resources>
+
+<animation name="MainMenu.loadingDian10" size="102,22">
+<aniframe texresname="MainMenu.loadingDian1" texrange="0,0,102,22" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "loadingDian2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/loadingDian2.png" resname="loadingDian2" />
+<animate filename="MainMenu/loadingDian20.xml" resname="loadingDian20" />
+</resources>
+
+<animation name="MainMenu.loadingDian20" size="102,22">
+<aniframe texresname="MainMenu.loadingDian2" texrange="0,0,102,22" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "loadingSheep0.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/loadingSheep0.png" resname="loadingSheep0" />
+<animate filename="MainMenu/loadingSheep00.xml" resname="loadingSheep00" />
+</resources>
+
+<animation name="MainMenu.loadingSheep00" size="203,188">
+<aniframe texresname="MainMenu.loadingSheep0" texrange="0,0,203,188" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "loadingSheep1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/loadingSheep1.png" resname="loadingSheep1" />
+<animate filename="MainMenu/loadingSheep10.xml" resname="loadingSheep10" />
+</resources>
+
+<animation name="MainMenu.loadingSheep10" size="203,188">
+<aniframe texresname="MainMenu.loadingSheep1" texrange="0,0,203,188" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "loadingSheep2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/loadingSheep2.png" resname="loadingSheep2" />
+<animate filename="MainMenu/loadingSheep20.xml" resname="loadingSheep20" />
+</resources>
+
+<animation name="MainMenu.loadingSheep20" size="203,188">
+<aniframe texresname="MainMenu.loadingSheep2" texrange="0,0,203,188" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "loadingSheep3.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/loadingSheep3.png" resname="loadingSheep3" />
+<animate filename="MainMenu/loadingSheep30.xml" resname="loadingSheep30" />
+</resources>
+
+<animation name="MainMenu.loadingSheep30" size="203,188">
+<aniframe texresname="MainMenu.loadingSheep3" texrange="0,0,203,188" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "loadingSheep4.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/loadingSheep4.png" resname="loadingSheep4" />
+<animate filename="MainMenu/loadingSheep40.xml" resname="loadingSheep40" />
+</resources>
+
+<animation name="MainMenu.loadingSheep40" size="203,188">
+<aniframe texresname="MainMenu.loadingSheep4" texrange="0,0,203,188" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "loadingSheep5.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/loadingSheep5.png" resname="loadingSheep5" />
+<animate filename="MainMenu/loadingSheep50.xml" resname="loadingSheep50" />
+</resources>
+
+<animation name="MainMenu.loadingSheep50" size="203,188">
+<aniframe texresname="MainMenu.loadingSheep5" texrange="0,0,203,188" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "loadingText.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/loadingText.png" resname="loadingText" />
+<animate filename="MainMenu/loadingText0.xml" resname="loadingText0" />
+</resources>
+
+<animation name="MainMenu.loadingText0" size="303,64">
+<aniframe texresname="MainMenu.loadingText" texrange="0,0,303,64" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "lock.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/lock.png" resname="lock" />
+<animate filename="MainMenu/lock0.xml" resname="lock0" />
+</resources>
+
+<animation name="MainMenu.lock0" size="70,77">
+<aniframe texresname="MainMenu.lock" texrange="0,0,70,77" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "max1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/max1.png" resname="max1" />
+<animate filename="MainMenu/max10.xml" resname="max10" />
+</resources>
+
+<animation name="MainMenu.max10" size="127,47">
+<aniframe texresname="MainMenu.max1" texrange="0,0,127,47" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "max2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/max2.png" resname="max2" />
+<animate filename="MainMenu/max20.xml" resname="max20" />
+</resources>
+
+<animation name="MainMenu.max20" size="118,44">
+<aniframe texresname="MainMenu.max2" texrange="0,0,118,44" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "msgBox.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/msgBox.png" resname="msgBox" />
+<animate filename="MainMenu/msgBox0.xml" resname="msgBox0" />
+</resources>
+
+<animation name="MainMenu.msgBox0" size="732,428">
+<aniframe texresname="MainMenu.msgBox" texrange="0,0,732,428" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "passBackground.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/passBackground.png" resname="passBackground" />
+<animate filename="MainMenu/passBackground0.xml" resname="passBackground0" />
+</resources>
+
+<animation name="MainMenu.passBackground0" size="1280,720">
+<aniframe texresname="MainMenu.passBackground" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "passNum.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/passNum.png" resname="passNum" />
+<animate filename="MainMenu/passNum0.xml" resname="passNum0" />
+</resources>
+
+<animation name="MainMenu.passNum0" size="380,59">
+<aniframe texresname="MainMenu.passNum" texrange="0,0,380,59" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep0.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep0.png" resname="sheep0" />
+<animate filename="MainMenu/sheep00.xml" resname="sheep00" />
+</resources>
+
+<animation name="MainMenu.sheep00" size="299,271">
+<aniframe texresname="MainMenu.sheep0" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep1.png" resname="sheep1" />
+<animate filename="MainMenu/sheep10.xml" resname="sheep10" />
+</resources>
+
+<animation name="MainMenu.sheep10" size="299,271">
+<aniframe texresname="MainMenu.sheep1" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep1_0.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep1_0.png" resname="sheep1_0" />
+<animate filename="MainMenu/sheep1_00.xml" resname="sheep1_00" />
+</resources>
+
+<animation name="MainMenu.sheep1_00" size="299,271">
+<aniframe texresname="MainMenu.sheep1_0" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep1_1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep1_1.png" resname="sheep1_1" />
+<animate filename="MainMenu/sheep1_10.xml" resname="sheep1_10" />
+</resources>
+
+<animation name="MainMenu.sheep1_10" size="299,271">
+<aniframe texresname="MainMenu.sheep1_1" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep1_2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep1_2.png" resname="sheep1_2" />
+<animate filename="MainMenu/sheep1_20.xml" resname="sheep1_20" />
+</resources>
+
+<animation name="MainMenu.sheep1_20" size="299,271">
+<aniframe texresname="MainMenu.sheep1_2" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep1_3.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep1_3.png" resname="sheep1_3" />
+<animate filename="MainMenu/sheep1_30.xml" resname="sheep1_30" />
+</resources>
+
+<animation name="MainMenu.sheep1_30" size="299,271">
+<aniframe texresname="MainMenu.sheep1_3" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep1_4.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep1_4.png" resname="sheep1_4" />
+<animate filename="MainMenu/sheep1_40.xml" resname="sheep1_40" />
+</resources>
+
+<animation name="MainMenu.sheep1_40" size="299,271">
+<aniframe texresname="MainMenu.sheep1_4" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep1_5.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep1_5.png" resname="sheep1_5" />
+<animate filename="MainMenu/sheep1_50.xml" resname="sheep1_50" />
+</resources>
+
+<animation name="MainMenu.sheep1_50" size="299,271">
+<aniframe texresname="MainMenu.sheep1_5" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep2.png" resname="sheep2" />
+<animate filename="MainMenu/sheep20.xml" resname="sheep20" />
+</resources>
+
+<animation name="MainMenu.sheep20" size="299,271">
+<aniframe texresname="MainMenu.sheep2" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep2_0.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep2_0.png" resname="sheep2_0" />
+<animate filename="MainMenu/sheep2_00.xml" resname="sheep2_00" />
+</resources>
+
+<animation name="MainMenu.sheep2_00" size="299,271">
+<aniframe texresname="MainMenu.sheep2_0" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep2_1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep2_1.png" resname="sheep2_1" />
+<animate filename="MainMenu/sheep2_10.xml" resname="sheep2_10" />
+</resources>
+
+<animation name="MainMenu.sheep2_10" size="299,271">
+<aniframe texresname="MainMenu.sheep2_1" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep2_2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep2_2.png" resname="sheep2_2" />
+<animate filename="MainMenu/sheep2_20.xml" resname="sheep2_20" />
+</resources>
+
+<animation name="MainMenu.sheep2_20" size="299,271">
+<aniframe texresname="MainMenu.sheep2_2" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep2_3.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep2_3.png" resname="sheep2_3" />
+<animate filename="MainMenu/sheep2_30.xml" resname="sheep2_30" />
+</resources>
+
+<animation name="MainMenu.sheep2_30" size="299,271">
+<aniframe texresname="MainMenu.sheep2_3" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep2_4.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep2_4.png" resname="sheep2_4" />
+<animate filename="MainMenu/sheep2_40.xml" resname="sheep2_40" />
+</resources>
+
+<animation name="MainMenu.sheep2_40" size="299,271">
+<aniframe texresname="MainMenu.sheep2_4" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep2_5.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep2_5.png" resname="sheep2_5" />
+<animate filename="MainMenu/sheep2_50.xml" resname="sheep2_50" />
+</resources>
+
+<animation name="MainMenu.sheep2_50" size="299,271">
+<aniframe texresname="MainMenu.sheep2_5" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep3.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep3.png" resname="sheep3" />
+<animate filename="MainMenu/sheep30.xml" resname="sheep30" />
+</resources>
+
+<animation name="MainMenu.sheep30" size="299,271">
+<aniframe texresname="MainMenu.sheep3" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep4.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep4.png" resname="sheep4" />
+<animate filename="MainMenu/sheep40.xml" resname="sheep40" />
+</resources>
+
+<animation name="MainMenu.sheep40" size="299,271">
+<aniframe texresname="MainMenu.sheep4" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheep5.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sheep5.png" resname="sheep5" />
+<animate filename="MainMenu/sheep50.xml" resname="sheep50" />
+</resources>
+
+<animation name="MainMenu.sheep50" size="299,271">
+<aniframe texresname="MainMenu.sheep5" texrange="0,0,299,271" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "shengjihou.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/shengjihou.png" resname="shengjihou" />
+<animate filename="MainMenu/shengjihou0.xml" resname="shengjihou0" />
+</resources>
+
+<animation name="MainMenu.shengjihou0" size="152,53">
+<aniframe texresname="MainMenu.shengjihou" texrange="0,0,152,53" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "shengjiqian.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/shengjiqian.png" resname="shengjiqian" />
+<animate filename="MainMenu/shengjiqian0.xml" resname="shengjiqian0" />
+</resources>
+
+<animation name="MainMenu.shengjiqian0" size="153,53">
+<aniframe texresname="MainMenu.shengjiqian" texrange="0,0,153,53" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "shine.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/shine.png" resname="shine" />
+<animate filename="MainMenu/shine0.xml" resname="shine0" />
+</resources>
+
+<animation name="MainMenu.shine0" size="234,234">
+<aniframe texresname="MainMenu.shine" texrange="0,0,234,234" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sidai1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sidai1.png" resname="sidai1" />
+<animate filename="MainMenu/sidai10.xml" resname="sidai10" />
+</resources>
+
+<animation name="MainMenu.sidai10" size="73,35">
+<aniframe texresname="MainMenu.sidai1" texrange="0,0,73,35" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sidai2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sidai2.png" resname="sidai2" />
+<animate filename="MainMenu/sidai20.xml" resname="sidai20" />
+</resources>
+
+<animation name="MainMenu.sidai20" size="73,35">
+<aniframe texresname="MainMenu.sidai2" texrange="0,0,73,35" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sidai3.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sidai3.png" resname="sidai3" />
+<animate filename="MainMenu/sidai30.xml" resname="sidai30" />
+</resources>
+
+<animation name="MainMenu.sidai30" size="73,35">
+<aniframe texresname="MainMenu.sidai3" texrange="0,0,73,35" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sidai4.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sidai4.png" resname="sidai4" />
+<animate filename="MainMenu/sidai40.xml" resname="sidai40" />
+</resources>
+
+<animation name="MainMenu.sidai40" size="73,35">
+<aniframe texresname="MainMenu.sidai4" texrange="0,0,73,35" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sidai5.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/sidai5.png" resname="sidai5" />
+<animate filename="MainMenu/sidai50.xml" resname="sidai50" />
+</resources>
+
+<animation name="MainMenu.sidai50" size="73,35">
+<aniframe texresname="MainMenu.sidai5" texrange="0,0,73,35" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "star.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/star.png" resname="star" />
+<animate filename="MainMenu/star0.xml" resname="star0" />
+</resources>
+
+<animation name="MainMenu.star0" size="45,45">
+<aniframe texresname="MainMenu.star" texrange="0,0,45,45" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "star0.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/star0.png" resname="star0" />
+<animate filename="MainMenu/star00.xml" resname="star00" />
+</resources>
+
+<animation name="MainMenu.star00" size="45,45">
+<aniframe texresname="MainMenu.star0" texrange="0,0,45,45" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "start.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/start.png" resname="start" />
+<animate filename="MainMenu/start0.xml" resname="start0" />
+</resources>
+
+<animation name="MainMenu.start0" size="344,197">
+<aniframe texresname="MainMenu.start" texrange="0,0,344,197" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "tree1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/tree1.png" resname="tree1" />
+<animate filename="MainMenu/tree10.xml" resname="tree10" />
+</resources>
+
+<animation name="MainMenu.tree10" size="544,163">
+<aniframe texresname="MainMenu.tree1" texrange="0,0,544,163" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "tree2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/tree2.png" resname="tree2" />
+<animate filename="MainMenu/tree20.xml" resname="tree20" />
+</resources>
+
+<animation name="MainMenu.tree20" size="400,257">
+<aniframe texresname="MainMenu.tree2" texrange="0,0,400,257" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "tree3.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/tree3.png" resname="tree3" />
+<animate filename="MainMenu/tree30.xml" resname="tree30" />
+</resources>
+
+<animation name="MainMenu.tree30" size="303,218">
+<aniframe texresname="MainMenu.tree3" texrange="0,0,303,218" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "tree4.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/tree4.png" resname="tree4" />
+<animate filename="MainMenu/tree40.xml" resname="tree40" />
+</resources>
+
+<animation name="MainMenu.tree40" size="449,302">
+<aniframe texresname="MainMenu.tree4" texrange="0,0,449,302" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "tree5.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/tree5.png" resname="tree5" />
+<animate filename="MainMenu/tree50.xml" resname="tree50" />
+</resources>
+
+<animation name="MainMenu.tree50" size="217,136">
+<aniframe texresname="MainMenu.tree5" texrange="0,0,217,136" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "tree6.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/tree6.png" resname="tree6" />
+<animate filename="MainMenu/tree60.xml" resname="tree60" />
+</resources>
+
+<animation name="MainMenu.tree60" size="502,250">
+<aniframe texresname="MainMenu.tree6" texrange="0,0,502,250" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "trunk.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/trunk.png" resname="trunk" />
+<animate filename="MainMenu/trunk0.xml" resname="trunk0" />
+</resources>
+
+<animation name="MainMenu.trunk0" size="302,212">
+<aniframe texresname="MainMenu.trunk" texrange="0,0,302,212" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "winnowerJoint.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/winnowerJoint.png" resname="winnowerJoint" />
+<animate filename="MainMenu/winnowerJoint0.xml" resname="winnowerJoint0" />
+</resources>
+
+<animation name="MainMenu.winnowerJoint0" size="23,23">
+<aniframe texresname="MainMenu.winnowerJoint" texrange="0,0,23,23" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "winnowerLeaf.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/winnowerLeaf.png" resname="winnowerLeaf" />
+<animate filename="MainMenu/winnowerLeaf0.xml" resname="winnowerLeaf0" />
+</resources>
+
+<animation name="MainMenu.winnowerLeaf0" size="161,160">
+<aniframe texresname="MainMenu.winnowerLeaf" texrange="0,0,161,160" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "xiacitisheng.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/xiacitisheng.png" resname="xiacitisheng" />
+<animate filename="MainMenu/xiacitisheng0.xml" resname="xiacitisheng0" />
+</resources>
+
+<animation name="MainMenu.xiacitisheng0" size="242,92">
+<aniframe texresname="MainMenu.xiacitisheng" texrange="0,0,242,92" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "yun0.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/yun0.png" resname="yun0" />
+<animate filename="MainMenu/yun00.xml" resname="yun00" />
+</resources>
+
+<animation name="MainMenu.yun00" size="158,94">
+<aniframe texresname="MainMenu.yun0" texrange="0,0,158,94" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "yun1.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/yun1.png" resname="yun1" />
+<animate filename="MainMenu/yun10.xml" resname="yun10" />
+</resources>
+
+<animation name="MainMenu.yun10" size="304,185">
+<aniframe texresname="MainMenu.yun1" texrange="0,0,304,185" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "yun2.png" !!!!!!!!!!-->
+<resources name="MainMenu">
+<texture filename="MainMenu/yun2.png" resname="yun2" />
+<animate filename="MainMenu/yun20.xml" resname="yun20" />
+</resources>
+
+<animation name="MainMenu.yun20" size="440,232">
+<aniframe texresname="MainMenu.yun2" texrange="0,0,440,232" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+

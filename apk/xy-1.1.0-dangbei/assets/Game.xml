@@ -1,0 +1,1100 @@
+<!--!!!!!!!!!! It's for : "Grassland_Left1.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/Grassland_Left1.png" resname="Grassland_Left1" />
+<animate filename="Game/Grassland_Left10.xml" resname="Grassland_Left10" />
+</resources>
+
+<animation name="Game.Grassland_Left10" size="124,124">
+<aniframe texresname="Game.Grassland_Left1" texrange="0,0,124,124" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "Grassland_Left2.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/Grassland_Left2.png" resname="Grassland_Left2" />
+<animate filename="Game/Grassland_Left20.xml" resname="Grassland_Left20" />
+</resources>
+
+<animation name="Game.Grassland_Left20" size="124,124">
+<aniframe texresname="Game.Grassland_Left2" texrange="0,0,124,124" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "Grassland_Left3.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/Grassland_Left3.png" resname="Grassland_Left3" />
+<animate filename="Game/Grassland_Left30.xml" resname="Grassland_Left30" />
+</resources>
+
+<animation name="Game.Grassland_Left30" size="124,124">
+<aniframe texresname="Game.Grassland_Left3" texrange="0,0,124,124" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "Grassland_Left4.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/Grassland_Left4.png" resname="Grassland_Left4" />
+<animate filename="Game/Grassland_Left40.xml" resname="Grassland_Left40" />
+</resources>
+
+<animation name="Game.Grassland_Left40" size="124,124">
+<aniframe texresname="Game.Grassland_Left4" texrange="0,0,124,124" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "Grassland_Right1.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/Grassland_Right1.png" resname="Grassland_Right1" />
+<animate filename="Game/Grassland_Right10.xml" resname="Grassland_Right10" />
+</resources>
+
+<animation name="Game.Grassland_Right10" size="124,124">
+<aniframe texresname="Game.Grassland_Right1" texrange="0,0,124,124" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "Grassland_Right2.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/Grassland_Right2.png" resname="Grassland_Right2" />
+<animate filename="Game/Grassland_Right20.xml" resname="Grassland_Right20" />
+</resources>
+
+<animation name="Game.Grassland_Right20" size="124,124">
+<aniframe texresname="Game.Grassland_Right2" texrange="0,0,124,124" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "Grassland_Right3.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/Grassland_Right3.png" resname="Grassland_Right3" />
+<animate filename="Game/Grassland_Right30.xml" resname="Grassland_Right30" />
+</resources>
+
+<animation name="Game.Grassland_Right30" size="124,124">
+<aniframe texresname="Game.Grassland_Right3" texrange="0,0,124,124" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "Grassland_Right4.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/Grassland_Right4.png" resname="Grassland_Right4" />
+<animate filename="Game/Grassland_Right40.xml" resname="Grassland_Right40" />
+</resources>
+
+<animation name="Game.Grassland_Right40" size="124,124">
+<aniframe texresname="Game.Grassland_Right4" texrange="0,0,124,124" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "back.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/back.png" resname="back" />
+<animate filename="Game/back0.xml" resname="back0" />
+</resources>
+
+<animation name="Game.back0" size="1280,720">
+<aniframe texresname="Game.back" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "background1.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/background1.png" resname="background1" />
+<animate filename="Game/background10.xml" resname="background10" />
+</resources>
+
+<animation name="Game.background10" size="1280,615">
+<aniframe texresname="Game.background1" texrange="0,0,1280,615" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "background2.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/background2.png" resname="background2" />
+<animate filename="Game/background20.xml" resname="background20" />
+</resources>
+
+<animation name="Game.background20" size="1280,615">
+<aniframe texresname="Game.background2" texrange="0,0,1280,615" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "background3.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/background3.png" resname="background3" />
+<animate filename="Game/background30.xml" resname="background30" />
+</resources>
+
+<animation name="Game.background30" size="1280,615">
+<aniframe texresname="Game.background3" texrange="0,0,1280,615" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "background4.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/background4.png" resname="background4" />
+<animate filename="Game/background40.xml" resname="background40" />
+</resources>
+
+<animation name="Game.background40" size="1280,615">
+<aniframe texresname="Game.background4" texrange="0,0,1280,615" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "backgroundTop1.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/backgroundTop1.png" resname="backgroundTop1" />
+<animate filename="Game/backgroundTop10.xml" resname="backgroundTop10" />
+</resources>
+
+<animation name="Game.backgroundTop10" size="1280,615">
+<aniframe texresname="Game.backgroundTop1" texrange="0,0,1280,615" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "backgroundTop2.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/backgroundTop2.png" resname="backgroundTop2" />
+<animate filename="Game/backgroundTop20.xml" resname="backgroundTop20" />
+</resources>
+
+<animation name="Game.backgroundTop20" size="1280,615">
+<aniframe texresname="Game.backgroundTop2" texrange="0,0,1280,615" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "backgroundTop3.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/backgroundTop3.png" resname="backgroundTop3" />
+<animate filename="Game/backgroundTop30.xml" resname="backgroundTop30" />
+</resources>
+
+<animation name="Game.backgroundTop30" size="1280,615">
+<aniframe texresname="Game.backgroundTop3" texrange="0,0,1280,615" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "backgroundTop4.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/backgroundTop4.png" resname="backgroundTop4" />
+<animate filename="Game/backgroundTop40.xml" resname="backgroundTop40" />
+</resources>
+
+<animation name="Game.backgroundTop40" size="1280,615">
+<aniframe texresname="Game.backgroundTop4" texrange="0,0,1280,615" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnBuy.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnBuy.png" resname="btnBuy" />
+<animate filename="Game/btnBuy0.xml" resname="btnBuy0" />
+</resources>
+
+<animation name="Game.btnBuy0" size="69,75">
+<aniframe texresname="Game.btnBuy" texrange="0,0,69,75" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnContinue.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnContinue.png" resname="btnContinue" />
+<animate filename="Game/btnContinue0.xml" resname="btnContinue0" />
+</resources>
+
+<animation name="Game.btnContinue0" size="175,116">
+<aniframe texresname="Game.btnContinue" texrange="0,0,175,116" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnGo.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnGo.png" resname="btnGo" />
+<animate filename="Game/btnGo0.xml" resname="btnGo0" />
+</resources>
+
+<animation name="Game.btnGo0" size="100,71">
+<aniframe texresname="Game.btnGo" texrange="0,0,100,71" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnGo1.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnGo1.png" resname="btnGo1" />
+<animate filename="Game/btnGo10.xml" resname="btnGo10" />
+</resources>
+
+<animation name="Game.btnGo10" size="108,106">
+<aniframe texresname="Game.btnGo1" texrange="0,0,108,106" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnGo2.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnGo2.png" resname="btnGo2" />
+<animate filename="Game/btnGo20.xml" resname="btnGo20" />
+</resources>
+
+<animation name="Game.btnGo20" size="108,106">
+<aniframe texresname="Game.btnGo2" texrange="0,0,108,106" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnGo3.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnGo3.png" resname="btnGo3" />
+<animate filename="Game/btnGo30.xml" resname="btnGo30" />
+</resources>
+
+<animation name="Game.btnGo30" size="108,106">
+<aniframe texresname="Game.btnGo3" texrange="0,0,108,106" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnGo4.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnGo4.png" resname="btnGo4" />
+<animate filename="Game/btnGo40.xml" resname="btnGo40" />
+</resources>
+
+<animation name="Game.btnGo40" size="108,106">
+<aniframe texresname="Game.btnGo4" texrange="0,0,108,106" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnGoOnGame.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnGoOnGame.png" resname="btnGoOnGame" />
+<animate filename="Game/btnGoOnGame0.xml" resname="btnGoOnGame0" />
+</resources>
+
+<animation name="Game.btnGoOnGame0" size="178,98">
+<aniframe texresname="Game.btnGoOnGame" texrange="0,0,178,98" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnGoStore.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnGoStore.png" resname="btnGoStore" />
+<animate filename="Game/btnGoStore0.xml" resname="btnGoStore0" />
+</resources>
+
+<animation name="Game.btnGoStore0" size="238,110">
+<aniframe texresname="Game.btnGoStore" texrange="0,0,238,110" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnGo_1.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnGo_1.png" resname="btnGo_1" />
+<animate filename="Game/btnGo_10.xml" resname="btnGo_10" />
+</resources>
+
+<animation name="Game.btnGo_10" size="128,81">
+<aniframe texresname="Game.btnGo_1" texrange="0,0,128,81" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnGo_2.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnGo_2.png" resname="btnGo_2" />
+<animate filename="Game/btnGo_20.xml" resname="btnGo_20" />
+</resources>
+
+<animation name="Game.btnGo_20" size="128,81">
+<aniframe texresname="Game.btnGo_2" texrange="0,0,128,81" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnGo_3.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnGo_3.png" resname="btnGo_3" />
+<animate filename="Game/btnGo_30.xml" resname="btnGo_30" />
+</resources>
+
+<animation name="Game.btnGo_30" size="128,81">
+<aniframe texresname="Game.btnGo_3" texrange="0,0,128,81" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnGo_4.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnGo_4.png" resname="btnGo_4" />
+<animate filename="Game/btnGo_40.xml" resname="btnGo_40" />
+</resources>
+
+<animation name="Game.btnGo_40" size="119,85">
+<aniframe texresname="Game.btnGo_4" texrange="0,0,119,85" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnMenu.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnMenu.png" resname="btnMenu" />
+<animate filename="Game/btnMenu0.xml" resname="btnMenu0" />
+</resources>
+
+<animation name="Game.btnMenu0" size="175,116">
+<aniframe texresname="Game.btnMenu" texrange="0,0,175,116" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnNO.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnNO.png" resname="btnNO" />
+<animate filename="Game/btnNO0.xml" resname="btnNO0" />
+</resources>
+
+<animation name="Game.btnNO0" size="238,110">
+<aniframe texresname="Game.btnNO" texrange="0,0,238,110" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnNext.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnNext.png" resname="btnNext" />
+<animate filename="Game/btnNext0.xml" resname="btnNext0" />
+</resources>
+
+<animation name="Game.btnNext0" size="175,116">
+<aniframe texresname="Game.btnNext" texrange="0,0,175,116" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnRestart.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnRestart.png" resname="btnRestart" />
+<animate filename="Game/btnRestart0.xml" resname="btnRestart0" />
+</resources>
+
+<animation name="Game.btnRestart0" size="175,116">
+<aniframe texresname="Game.btnRestart" texrange="0,0,175,116" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnStart.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnStart.png" resname="btnStart" />
+<animate filename="Game/btnStart0.xml" resname="btnStart0" />
+</resources>
+
+<animation name="Game.btnStart0" size="346,110">
+<aniframe texresname="Game.btnStart" texrange="0,0,346,110" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnUpSheepfold.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/btnUpSheepfold.png" resname="btnUpSheepfold" />
+<animate filename="Game/btnUpSheepfold0.xml" resname="btnUpSheepfold0" />
+</resources>
+
+<animation name="Game.btnUpSheepfold0" size="160,107">
+<aniframe texresname="Game.btnUpSheepfold" texrange="0,0,160,107" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "cd_0.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/cd_0.png" resname="cd_0" />
+<animate filename="Game/cd_00.xml" resname="cd_00" />
+</resources>
+
+<animation name="Game.cd_00" size="123,123">
+<aniframe texresname="Game.cd_0" texrange="0,0,123,123" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "cd_1.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/cd_1.png" resname="cd_1" />
+<animate filename="Game/cd_10.xml" resname="cd_10" />
+</resources>
+
+<animation name="Game.cd_10" size="123,123">
+<aniframe texresname="Game.cd_1" texrange="0,0,123,123" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "cd_2.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/cd_2.png" resname="cd_2" />
+<animate filename="Game/cd_20.xml" resname="cd_20" />
+</resources>
+
+<animation name="Game.cd_20" size="123,123">
+<aniframe texresname="Game.cd_2" texrange="0,0,123,123" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "cd_3.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/cd_3.png" resname="cd_3" />
+<animate filename="Game/cd_30.xml" resname="cd_30" />
+</resources>
+
+<animation name="Game.cd_30" size="123,123">
+<aniframe texresname="Game.cd_3" texrange="0,0,123,123" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "cd_4.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/cd_4.png" resname="cd_4" />
+<animate filename="Game/cd_40.xml" resname="cd_40" />
+</resources>
+
+<animation name="Game.cd_40" size="123,123">
+<aniframe texresname="Game.cd_4" texrange="0,0,123,123" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "changeFace.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/changeFace.png" resname="changeFace" />
+<animate filename="Game/changeFace0.xml" resname="changeFace0" />
+</resources>
+
+<animation name="Game.changeFace0" size="860,171">
+<aniframe texresname="Game.changeFace" texrange="0,0,860,171" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "charDi.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/charDi.png" resname="charDi" />
+<animate filename="Game/charDi0.xml" resname="charDi0" />
+</resources>
+
+<animation name="Game.charDi0" size="34,34">
+<aniframe texresname="Game.charDi" texrange="0,0,34,34" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "charGuan.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/charGuan.png" resname="charGuan" />
+<animate filename="Game/charGuan0.xml" resname="charGuan0" />
+</resources>
+
+<animation name="Game.charGuan0" size="34,34">
+<aniframe texresname="Game.charGuan" texrange="0,0,34,34" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "chooseItemback.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/chooseItemback.png" resname="chooseItemback" />
+<animate filename="Game/chooseItemback0.xml" resname="chooseItemback0" />
+</resources>
+
+<animation name="Game.chooseItemback0" size="996,460">
+<aniframe texresname="Game.chooseItemback" texrange="0,0,996,460" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "coin_small.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/coin_small.png" resname="coin_small" />
+<animate filename="Game/coin_small0.xml" resname="coin_small0" />
+</resources>
+
+<animation name="Game.coin_small0" size="369,78">
+<aniframe texresname="Game.coin_small" texrange="0,0,369,78" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "eave.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/eave.png" resname="eave" />
+<animate filename="Game/eave0.xml" resname="eave0" />
+</resources>
+
+<animation name="Game.eave0" size="163,606">
+<aniframe texresname="Game.eave" texrange="0,0,163,606" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "eave1.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/eave1.png" resname="eave1" />
+<animate filename="Game/eave10.xml" resname="eave10" />
+</resources>
+
+<animation name="Game.eave10" size="150,606">
+<aniframe texresname="Game.eave1" texrange="0,0,150,606" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "eave2.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/eave2.png" resname="eave2" />
+<animate filename="Game/eave20.xml" resname="eave20" />
+</resources>
+
+<animation name="Game.eave20" size="150,606">
+<aniframe texresname="Game.eave2" texrange="0,0,150,606" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "eave3.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/eave3.png" resname="eave3" />
+<animate filename="Game/eave30.xml" resname="eave30" />
+</resources>
+
+<animation name="Game.eave30" size="150,606">
+<aniframe texresname="Game.eave3" texrange="0,0,150,606" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "eave4.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/eave4.png" resname="eave4" />
+<animate filename="Game/eave40.xml" resname="eave40" />
+</resources>
+
+<animation name="Game.eave40" size="150,606">
+<aniframe texresname="Game.eave4" texrange="0,0,150,606" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "endtime.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/endtime.png" resname="endtime" />
+<animate filename="Game/endtime0.xml" resname="endtime0" />
+</resources>
+
+<animation name="Game.endtime0" size="300,39">
+<aniframe texresname="Game.endtime" texrange="0,0,300,39" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "endtimeback.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/endtimeback.png" resname="endtimeback" />
+<animate filename="Game/endtimeback0.xml" resname="endtimeback0" />
+</resources>
+
+<animation name="Game.endtimeback0" size="110,100">
+<aniframe texresname="Game.endtimeback" texrange="0,0,110,100" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "fierceWindIcon.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/fierceWindIcon.png" resname="fierceWindIcon" />
+<animate filename="Game/fierceWindIcon0.xml" resname="fierceWindIcon0" />
+</resources>
+
+<animation name="Game.fierceWindIcon0" size="130,168">
+<aniframe texresname="Game.fierceWindIcon" texrange="0,0,130,168" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "gold.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/gold.png" resname="gold" />
+<animate filename="Game/gold0.xml" resname="gold0" />
+</resources>
+
+<animation name="Game.gold0" size="278,68">
+<aniframe texresname="Game.gold" texrange="0,0,278,68" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "goldBack.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/goldBack.png" resname="goldBack" />
+<animate filename="Game/goldBack0.xml" resname="goldBack0" />
+</resources>
+
+<animation name="Game.goldBack0" size="122,72">
+<aniframe texresname="Game.goldBack" texrange="0,0,122,72" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "goldBig.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/goldBig.png" resname="goldBig" />
+<animate filename="Game/goldBig0.xml" resname="goldBig0" />
+</resources>
+
+<animation name="Game.goldBig0" size="90,93">
+<aniframe texresname="Game.goldBig" texrange="0,0,90,93" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "goldNum.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/goldNum.png" resname="goldNum" />
+<animate filename="Game/goldNum0.xml" resname="goldNum0" />
+</resources>
+
+<animation name="Game.goldNum0" size="120,18">
+<aniframe texresname="Game.goldNum" texrange="0,0,120,18" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "guidance_1.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/guidance_1.png" resname="guidance_1" />
+<animate filename="Game/guidance_10.xml" resname="guidance_10" />
+</resources>
+
+<animation name="Game.guidance_10" size="1280,720">
+<aniframe texresname="Game.guidance_1" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "guidance_2.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/guidance_2.png" resname="guidance_2" />
+<animate filename="Game/guidance_20.xml" resname="guidance_20" />
+</resources>
+
+<animation name="Game.guidance_20" size="1280,720">
+<aniframe texresname="Game.guidance_2" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "guidance_3.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/guidance_3.png" resname="guidance_3" />
+<animate filename="Game/guidance_30.xml" resname="guidance_30" />
+</resources>
+
+<animation name="Game.guidance_30" size="1280,720">
+<aniframe texresname="Game.guidance_3" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "guidance_4.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/guidance_4.png" resname="guidance_4" />
+<animate filename="Game/guidance_40.xml" resname="guidance_40" />
+</resources>
+
+<animation name="Game.guidance_40" size="1280,720">
+<aniframe texresname="Game.guidance_4" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "guidance_5.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/guidance_5.png" resname="guidance_5" />
+<animate filename="Game/guidance_50.xml" resname="guidance_50" />
+</resources>
+
+<animation name="Game.guidance_50" size="1280,720">
+<aniframe texresname="Game.guidance_5" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "guidance_6.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/guidance_6.png" resname="guidance_6" />
+<animate filename="Game/guidance_60.xml" resname="guidance_60" />
+</resources>
+
+<animation name="Game.guidance_60" size="419,44">
+<aniframe texresname="Game.guidance_6" texrange="0,0,419,44" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "guidance_7.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/guidance_7.png" resname="guidance_7" />
+<animate filename="Game/guidance_70.xml" resname="guidance_70" />
+</resources>
+
+<animation name="Game.guidance_70" size="601,44">
+<aniframe texresname="Game.guidance_7" texrange="0,0,601,44" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "item1.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/item1.png" resname="item1" />
+<animate filename="Game/item10.xml" resname="item10" />
+</resources>
+
+<animation name="Game.item10" size="256,308">
+<aniframe texresname="Game.item1" texrange="0,0,256,308" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "item2.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/item2.png" resname="item2" />
+<animate filename="Game/item20.xml" resname="item20" />
+</resources>
+
+<animation name="Game.item20" size="256,308">
+<aniframe texresname="Game.item2" texrange="0,0,256,308" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "item3.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/item3.png" resname="item3" />
+<animate filename="Game/item30.xml" resname="item30" />
+</resources>
+
+<animation name="Game.item30" size="256,308">
+<aniframe texresname="Game.item3" texrange="0,0,256,308" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "itemBase.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/itemBase.png" resname="itemBase" />
+<animate filename="Game/itemBase0.xml" resname="itemBase0" />
+</resources>
+
+<animation name="Game.itemBase0" size="256,308">
+<aniframe texresname="Game.itemBase" texrange="0,0,256,308" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "itemSelect.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/itemSelect.png" resname="itemSelect" />
+<animate filename="Game/itemSelect0.xml" resname="itemSelect0" />
+</resources>
+
+<animation name="Game.itemSelect0" size="256,308">
+<aniframe texresname="Game.itemSelect" texrange="0,0,256,308" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "item_small.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/item_small.png" resname="item_small" />
+<animate filename="Game/item_small0.xml" resname="item_small0" />
+</resources>
+
+<animation name="Game.item_small0" size="369,78">
+<aniframe texresname="Game.item_small" texrange="0,0,369,78" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "left.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/left.png" resname="left" />
+<animate filename="Game/left0.xml" resname="left0" />
+</resources>
+
+<animation name="Game.left0" size="169,602">
+<aniframe texresname="Game.left" texrange="0,0,169,602" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "loseTitle.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/loseTitle.png" resname="loseTitle" />
+<animate filename="Game/loseTitle0.xml" resname="loseTitle0" />
+</resources>
+
+<animation name="Game.loseTitle0" size="736,256">
+<aniframe texresname="Game.loseTitle" texrange="0,0,736,256" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "lostBack.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/lostBack.png" resname="lostBack" />
+<animate filename="Game/lostBack0.xml" resname="lostBack0" />
+</resources>
+
+<animation name="Game.lostBack0" size="1280,720">
+<aniframe texresname="Game.lostBack" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "msgBox.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/msgBox.png" resname="msgBox" />
+<animate filename="Game/msgBox0.xml" resname="msgBox0" />
+</resources>
+
+<animation name="Game.msgBox0" size="732,428">
+<aniframe texresname="Game.msgBox" texrange="0,0,732,428" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "num.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/num.png" resname="num" />
+<animate filename="Game/num0.xml" resname="num0" />
+</resources>
+
+<animation name="Game.num0" size="240,29">
+<aniframe texresname="Game.num" texrange="0,0,240,29" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "passNum.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/passNum.png" resname="passNum" />
+<animate filename="Game/passNum0.xml" resname="passNum0" />
+</resources>
+
+<animation name="Game.passNum0" size="220,32">
+<aniframe texresname="Game.passNum" texrange="0,0,220,32" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "pauseBack.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/pauseBack.png" resname="pauseBack" />
+<animate filename="Game/pauseBack0.xml" resname="pauseBack0" />
+</resources>
+
+<animation name="Game.pauseBack0" size="1280,720">
+<aniframe texresname="Game.pauseBack" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "score.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/score.png" resname="score" />
+<animate filename="Game/score0.xml" resname="score0" />
+</resources>
+
+<animation name="Game.score0" size="385,47">
+<aniframe texresname="Game.score" texrange="0,0,385,47" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "scoreVS.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/scoreVS.png" resname="scoreVS" />
+<animate filename="Game/scoreVS0.xml" resname="scoreVS0" />
+</resources>
+
+<animation name="Game.scoreVS0" size="102,102">
+<aniframe texresname="Game.scoreVS" texrange="0,0,102,102" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "settleBack.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/settleBack.png" resname="settleBack" />
+<animate filename="Game/settleBack0.xml" resname="settleBack0" />
+</resources>
+
+<animation name="Game.settleBack0" size="1280,720">
+<aniframe texresname="Game.settleBack" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "settleBack_d.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/settleBack_d.png" resname="settleBack_d" />
+<animate filename="Game/settleBack_d0.xml" resname="settleBack_d0" />
+</resources>
+
+<animation name="Game.settleBack_d0" size="310,68">
+<aniframe texresname="Game.settleBack_d" texrange="0,0,310,68" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheepBL.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/sheepBL.png" resname="sheepBL" />
+<animate filename="Game/sheepBL0.xml" resname="sheepBL0" />
+</resources>
+
+<animation name="Game.sheepBL0" size="92,92">
+<aniframe texresname="Game.sheepBL" texrange="0,0,92,92" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheepBR.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/sheepBR.png" resname="sheepBR" />
+<animate filename="Game/sheepBR0.xml" resname="sheepBR0" />
+</resources>
+
+<animation name="Game.sheepBR0" size="92,92">
+<aniframe texresname="Game.sheepBR" texrange="0,0,92,92" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheepHL.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/sheepHL.png" resname="sheepHL" />
+<animate filename="Game/sheepHL0.xml" resname="sheepHL0" />
+</resources>
+
+<animation name="Game.sheepHL0" size="92,92">
+<aniframe texresname="Game.sheepHL" texrange="0,0,92,92" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheepHR.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/sheepHR.png" resname="sheepHR" />
+<animate filename="Game/sheepHR0.xml" resname="sheepHR0" />
+</resources>
+
+<animation name="Game.sheepHR0" size="92,92">
+<aniframe texresname="Game.sheepHR" texrange="0,0,92,92" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheepLL.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/sheepLL.png" resname="sheepLL" />
+<animate filename="Game/sheepLL0.xml" resname="sheepLL0" />
+</resources>
+
+<animation name="Game.sheepLL0" size="92,92">
+<aniframe texresname="Game.sheepLL" texrange="0,0,92,92" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheepLR.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/sheepLR.png" resname="sheepLR" />
+<animate filename="Game/sheepLR0.xml" resname="sheepLR0" />
+</resources>
+
+<animation name="Game.sheepLR0" size="92,92">
+<aniframe texresname="Game.sheepLR" texrange="0,0,92,92" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheepML.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/sheepML.png" resname="sheepML" />
+<animate filename="Game/sheepML0.xml" resname="sheepML0" />
+</resources>
+
+<animation name="Game.sheepML0" size="92,92">
+<aniframe texresname="Game.sheepML" texrange="0,0,92,92" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheepMR.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/sheepMR.png" resname="sheepMR" />
+<animate filename="Game/sheepMR0.xml" resname="sheepMR0" />
+</resources>
+
+<animation name="Game.sheepMR0" size="92,92">
+<aniframe texresname="Game.sheepMR" texrange="0,0,92,92" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheepNL.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/sheepNL.png" resname="sheepNL" />
+<animate filename="Game/sheepNL0.xml" resname="sheepNL0" />
+</resources>
+
+<animation name="Game.sheepNL0" size="92,92">
+<aniframe texresname="Game.sheepNL" texrange="0,0,92,92" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sheepNR.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/sheepNR.png" resname="sheepNR" />
+<animate filename="Game/sheepNR0.xml" resname="sheepNR0" />
+</resources>
+
+<animation name="Game.sheepNR0" size="92,92">
+<aniframe texresname="Game.sheepNR" texrange="0,0,92,92" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "slider.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/slider.png" resname="slider" />
+<animate filename="Game/slider0.xml" resname="slider0" />
+</resources>
+
+<animation name="Game.slider0" size="60,56">
+<aniframe texresname="Game.slider" texrange="0,0,60,56" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sliderProgress.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/sliderProgress.png" resname="sliderProgress" />
+<animate filename="Game/sliderProgress0.xml" resname="sliderProgress0" />
+</resources>
+
+<animation name="Game.sliderProgress0" size="312,30">
+<aniframe texresname="Game.sliderProgress" texrange="0,0,312,30" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "sliderTrack.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/sliderTrack.png" resname="sliderTrack" />
+<animate filename="Game/sliderTrack0.xml" resname="sliderTrack0" />
+</resources>
+
+<animation name="Game.sliderTrack0" size="312,30">
+<aniframe texresname="Game.sliderTrack" texrange="0,0,312,30" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "starBig.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/starBig.png" resname="starBig" />
+<animate filename="Game/starBig0.xml" resname="starBig0" />
+</resources>
+
+<animation name="Game.starBig0" size="150,150">
+<aniframe texresname="Game.starBig" texrange="0,0,150,150" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "superSheepIcon.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/superSheepIcon.png" resname="superSheepIcon" />
+<animate filename="Game/superSheepIcon0.xml" resname="superSheepIcon0" />
+</resources>
+
+<animation name="Game.superSheepIcon0" size="131,178">
+<aniframe texresname="Game.superSheepIcon" texrange="0,0,131,178" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "title1.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/title1.png" resname="title1" />
+<animate filename="Game/title10.xml" resname="title10" />
+</resources>
+
+<animation name="Game.title10" size="454,138">
+<aniframe texresname="Game.title1" texrange="0,0,454,138" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "title2.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/title2.png" resname="title2" />
+<animate filename="Game/title20.xml" resname="title20" />
+</resources>
+
+<animation name="Game.title20" size="454,138">
+<aniframe texresname="Game.title2" texrange="0,0,454,138" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "titleBox.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/titleBox.png" resname="titleBox" />
+<animate filename="Game/titleBox0.xml" resname="titleBox0" />
+</resources>
+
+<animation name="Game.titleBox0" size="454,138">
+<aniframe texresname="Game.titleBox" texrange="0,0,454,138" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "top.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/top.png" resname="top" />
+<animate filename="Game/top0.xml" resname="top0" />
+</resources>
+
+<animation name="Game.top0" size="1280,150">
+<aniframe texresname="Game.top" texrange="0,0,1280,150" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "top2.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/top2.png" resname="top2" />
+<animate filename="Game/top20.xml" resname="top20" />
+</resources>
+
+<animation name="Game.top20" size="142,150">
+<aniframe texresname="Game.top2" texrange="0,0,142,150" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "top_1.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/top_1.png" resname="top_1" />
+<animate filename="Game/top_10.xml" resname="top_10" />
+</resources>
+
+<animation name="Game.top_10" size="1280,150">
+<aniframe texresname="Game.top_1" texrange="0,0,1280,150" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "vs.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/vs.png" resname="vs" />
+<animate filename="Game/vs0.xml" resname="vs0" />
+</resources>
+
+<animation name="Game.vs0" size="85,64">
+<aniframe texresname="Game.vs" texrange="0,0,85,64" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "winTitle.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/winTitle.png" resname="winTitle" />
+<animate filename="Game/winTitle0.xml" resname="winTitle0" />
+</resources>
+
+<animation name="Game.winTitle0" size="736,256">
+<aniframe texresname="Game.winTitle" texrange="0,0,736,256" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "witheredGrass.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/witheredGrass.png" resname="witheredGrass" />
+<animate filename="Game/witheredGrass0.xml" resname="witheredGrass0" />
+</resources>
+
+<animation name="Game.witheredGrass0" size="1280,136">
+<aniframe texresname="Game.witheredGrass" texrange="0,0,1280,136" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "witheredGrassBack.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/witheredGrassBack.png" resname="witheredGrassBack" />
+<animate filename="Game/witheredGrassBack0.xml" resname="witheredGrassBack0" />
+</resources>
+
+<animation name="Game.witheredGrassBack0" size="1280,38">
+<aniframe texresname="Game.witheredGrassBack" texrange="0,0,1280,38" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "wrong.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/wrong.png" resname="wrong" />
+<animate filename="Game/wrong0.xml" resname="wrong0" />
+</resources>
+
+<animation name="Game.wrong0" size="110,110">
+<aniframe texresname="Game.wrong" texrange="0,0,110,110" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "youLose.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/youLose.png" resname="youLose" />
+<animate filename="Game/youLose0.xml" resname="youLose0" />
+</resources>
+
+<animation name="Game.youLose0" size="370,142">
+<aniframe texresname="Game.youLose" texrange="0,0,370,142" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "youWin.png" !!!!!!!!!!-->
+<resources name="Game">
+<texture filename="Game/youWin.png" resname="youWin" />
+<animate filename="Game/youWin0.xml" resname="youWin0" />
+</resources>
+
+<animation name="Game.youWin0" size="370,142">
+<aniframe texresname="Game.youWin" texrange="0,0,370,142" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+

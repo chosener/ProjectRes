@@ -1,0 +1,63 @@
+------------ Start Log ----------------------
+SocketConnectResult=-1
+[Link SRS] SRS_IP:mobile-30-srs-05.bfun.cn, SRS_PORT:4021
+[Link SRS STATE] LS_SUCCESS
+[7837599]Send >> Protocol::V10::EncryptVer  m_dwVer=1
+[7837599]Recv << Protocol::V10::EncryptVer  m_dwVer=1
+[7837599]Send >> Protocol::V10::Encrypt::ReqKey
+[7837615]Recv << Protocol::V10::Encrypt::RespKey
+[7837615]Send >> Protocol::V20::Tool::LobbyPlayerConnect areaid=31 byUserType=1 channelid=70024 data=
+[7837739]Recv << Protocol::V20::Tool::PlayerData flag=0 areaid=31 numid=17350320
+[7837739]Send >> Protocol::V20::Tool::ReqPlayerGameData  areaid=31 numid=17350320 gameid=4041
+[7837739]Send >> Protocol::V20::Tool::ReqFileVer areaid=31 areatypeid=512
+[7837771]Recv << Protocol::V20::Tool::RespFileVer  m_nFileListID=1 fileCount=1
+[7837786]Send >> Protocol::V20::Tool::ReqPlayerCnt
+[7837849]Recv << Protocol::V20::Tool::RespPlayerCnt flag=0
+[7837849]Recv << Protocol::V20::Tool::RespPlayerGameData  flag=0 areaid=31 numid=17350320
+[7847739]Send >> Protocol::V10::CheckAct
+[7857739]Send >> Protocol::V10::CheckAct
+[7867754]Send >> Protocol::V10::CheckAct
+[7877754]Send >> Protocol::V10::CheckAct
+[7887769]Send >> Protocol::V10::CheckAct
+[7897769]Send >> Protocol::V10::CheckAct
+[7907784]Send >> Protocol::V10::CheckAct
+[7917799]Send >> Protocol::V10::CheckAct
+[7927799]Send >> Protocol::V10::CheckAct
+[7937814]Send >> Protocol::V10::CheckAct
+[7947814]Send >> Protocol::V10::CheckAct
+[7957829]Send >> Protocol::V10::CheckAct
+[7967829]Send >> Protocol::V10::CheckAct
+[7977844]Send >> Protocol::V10::CheckAct
+[7987859]Send >> Protocol::V10::CheckAct
+[7997859]Send >> Protocol::V10::CheckAct
+[8007874]Send >> Protocol::V10::CheckAct
+[8017874]Send >> Protocol::V10::CheckAct
+[8027889]Send >> Protocol::V10::CheckAct
+[8037889]Send >> Protocol::V10::CheckAct
+[8047904]Send >> Protocol::V10::CheckAct
+[8057904]Send >> Protocol::V10::CheckAct
+[8067919]Send >> Protocol::V10::CheckAct
+[8077934]Send >> Protocol::V10::CheckAct
+[8087934]Send >> Protocol::V10::CheckAct
+[8097949]Send >> Protocol::V10::CheckAct
+[8107949]Send >> Protocol::V10::CheckAct
+[8117964]Send >> Protocol::V10::CheckAct
+[8127964]Send >> Protocol::V10::CheckAct
+[8137979]Send >> Protocol::V10::CheckAct
+[8147979]Send >> Protocol::V10::CheckAct
+[8157994]Send >> Protocol::V10::CheckAct
+[8168009]Send >> Protocol::V10::CheckAct
+[8178009]Send >> Protocol::V10::CheckAct
+[8188024]Send >> Protocol::V10::CheckAct
+[8198024]Send >> Protocol::V10::CheckAct
+[8208039]Send >> Protocol::V10::CheckAct
+[8218039]Send >> Protocol::V10::CheckAct
+[8228054]Send >> Protocol::V10::CheckAct
+[8238069]Send >> Protocol::V10::CheckAct
+[8248069]Send >> Protocol::V10::CheckAct
+[8258084]Send >> Protocol::V10::CheckAct
+[8268084]Send >> Protocol::V10::CheckAct
+[8278099]Send >> Protocol::V10::CheckAct
+[8278239]Send >> Protocol::V20::Tool::ReqPlayerCnt
+[8278271]Recv << Protocol::V20::Tool::RespPlayerCnt flag=0
+------------ End Log ----------------------

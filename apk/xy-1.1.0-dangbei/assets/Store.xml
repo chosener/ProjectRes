@@ -1,0 +1,90 @@
+<!--!!!!!!!!!! It's for : "background.png" !!!!!!!!!!-->
+<resources name="Store">
+<texture filename="Store/background.png" resname="background" />
+<animate filename="Store/background0.xml" resname="background0" />
+</resources>
+
+<animation name="Store.background0" size="1280,720">
+<aniframe texresname="Store.background" texrange="0,0,1280,720" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnBack.png" !!!!!!!!!!-->
+<resources name="Store">
+<texture filename="Store/btnBack.png" resname="btnBack" />
+<animate filename="Store/btnBack0.xml" resname="btnBack0" />
+</resources>
+
+<animation name="Store.btnBack0" size="120,77">
+<aniframe texresname="Store.btnBack" texrange="0,0,120,77" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "btnBuy.png" !!!!!!!!!!-->
+<resources name="Store">
+<texture filename="Store/btnBuy.png" resname="btnBuy" />
+<animate filename="Store/btnBuy0.xml" resname="btnBuy0" />
+</resources>
+
+<animation name="Store.btnBuy0" size="202,94">
+<aniframe texresname="Store.btnBuy" texrange="0,0,202,94" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "gold.png" !!!!!!!!!!-->
+<resources name="Store">
+<texture filename="Store/gold.png" resname="gold" />
+<animate filename="Store/gold0.xml" resname="gold0" />
+</resources>
+
+<animation name="Store.gold0" size="54,56">
+<aniframe texresname="Store.gold" texrange="0,0,54,56" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "goldNum.png" !!!!!!!!!!-->
+<resources name="Store">
+<texture filename="Store/goldNum.png" resname="goldNum" />
+<animate filename="Store/goldNum0.xml" resname="goldNum0" />
+</resources>
+
+<animation name="Store.goldNum0" size="320,50">
+<aniframe texresname="Store.goldNum" texrange="0,0,320,50" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "item1.png" !!!!!!!!!!-->
+<resources name="Store">
+<texture filename="Store/item1.png" resname="item1" />
+<animate filename="Store/item10.xml" resname="item10" />
+</resources>
+
+<animation name="Store.item10" size="138,122">
+<aniframe texresname="Store.item1" texrange="0,0,138,122" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "item2.png" !!!!!!!!!!-->
+<resources name="Store">
+<texture filename="Store/item2.png" resname="item2" />
+<animate filename="Store/item20.xml" resname="item20" />
+</resources>
+
+<animation name="Store.item20" size="138,122">
+<aniframe texresname="Store.item2" texrange="0,0,138,122" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "item3.png" !!!!!!!!!!-->
+<resources name="Store">
+<texture filename="Store/item3.png" resname="item3" />
+<animate filename="Store/item30.xml" resname="item30" />
+</resources>
+
+<animation name="Store.item30" size="138,122">
+<aniframe texresname="Store.item3" texrange="0,0,138,122" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
+<!--!!!!!!!!!! It's for : "item4.png" !!!!!!!!!!-->
+<resources name="Store">
+<texture filename="Store/item4.png" resname="item4" />
+<animate filename="Store/item40.xml" resname="item40" />
+</resources>
+
+<animation name="Store.item40" size="138,122">
+<aniframe texresname="Store.item4" texrange="0,0,138,122" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>
+
