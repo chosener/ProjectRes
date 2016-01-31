@@ -1,0 +1,17 @@
+<!-- TV版本资源添加-->
+<resources name="TV">
+  <texture filename="TV/TV.png" resname="TV" />
+  <animate filename="TV/TVFocus.xml" resname="TVFocus" />
+</resources>
+
+<animation name="TV.TVFocus" size="8,8">
+  <aniframe texresname="TV.TV" texrange="1,1,8,8" alpha="255" offset="0,0" waittime="0" effect=""/>
+  <aniframe texresname="TV.TV" texrange="10,1,7,8" alpha="255" offset="0,0" waittime="0" effect=""/>
+  <aniframe texresname="TV.TV" texrange="18,1,7,8" alpha="255" offset="0,0" waittime="0" effect=""/>
+  <aniframe texresname="TV.TV" texrange="1,10,8,6" alpha="255" offset="0,0" waittime="0" effect=""/>
+  <aniframe texresname="TV.TV" texrange="10,10,7,6" alpha="255" offset="0,0" waittime="0" effect=""/>
+  <aniframe texresname="TV.TV" texrange="18,10,7,6" alpha="255" offset="0,0" waittime="0" effect=""/>
+  <aniframe texresname="TV.TV" texrange="1,17,8,8" alpha="255" offset="0,0" waittime="0" effect=""/>
+  <aniframe texresname="TV.TV" texrange="10,17,7,8" alpha="255" offset="0,0" waittime="0" effect=""/>
+  <aniframe texresname="TV.TV" texrange="18,17,7,8" alpha="255" offset="0,0" waittime="0" effect=""/>
+</animation>

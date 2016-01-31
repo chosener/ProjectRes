@@ -1,0 +1,9 @@
+﻿<srsdata key="SocketRouteServer">
+	<!--正式-->
+	<server ip="mobile-30-srs-05.bfun.cn" port="4021"></server>	
+</srsdata>
+
+<srsdata key="AREA_TYPE_ID" value="512" />
+<srsdata key="KEYWORD" value="DuelOfSheep" />
+<srsdata key="AREA_ID" value="31" />
+<srsdata key="LOBBY_VERSION" value="2.2013.3.8" />

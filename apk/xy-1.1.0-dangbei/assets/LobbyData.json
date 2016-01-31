@@ -1,0 +1,193 @@
+{   
+        // 说明: 游戏ID
+        // 获取: 通过运维分配而得,可联系运维搭建环境分配
+        // 作用: 游戏的唯一ID
+        "GAME_ID":"4041",
+
+		// 说明: AreaTypeID
+		// 获取: 通过运维分配而得，可联系运维搭建环境分配
+		// 作用:	存放游戏列表
+		"AREA_TYPE_ID":"512",
+		
+		"BFTALKINGDATA_ID":"4041",  //对应游戏gameid
+		"BFTALKINGDATA_GROUPID":"31",  //对应游戏areaid 
+
+		// 说明: 关键字
+		// 获取: 通过运维分配而得，可联系运维搭建环境分配
+		// 作用: 游戏的唯一关键字
+		"KEYWORD":"DuelOfSheep",
+
+		// 说明: 平台区号
+		// 获取: 公共移动配置31，边锋用户名配置10，茶苑用户名配置1
+		"AREA_ID":"31",
+
+		// 说明: 游戏Type唯一ID
+		// 获取: 可联系林俊义申请分配
+		// 作用: 关系到数据统计所用
+		"GAME_TYPE":"100",
+
+		// 说明: 渠道号
+		// 获取: 参考产品渠道号execl文档配置
+		// 作用: 区分各运营商
+		"CHANNEL_TYPE":"70028",
+		"CHANNEL_NAME":"当贝",
+
+		// 说明: 安卓第三方充值ID
+		// 备注: 若接入短贷,则需要配置,否则不需要
+		"ANDROID_SDK_ID":"42",
+
+		// 说明: 安卓包名
+		// 获取: 与web道具后台配置相同
+		// 作用: 请求商品列表需要
+		"PRODUCTS_KEY":"com.BF.TVGame.DuelOfSheep",
+	
+	        // 说明: Http接口中心（https://mapi.bianfeng.com/）加密key
+                // 获取: 联系应晓斌申请分配（邮箱：yingxiaobin@bianfeng.com）
+		//HTTP secret_token值
+		"HTTP_SECRET_TOKEN":"35cc3ab9e5b366f3ea461bd08ae09118",
+
+		// 说明: 数据采集各个id
+		// 获取: 联系王崇欢申请分配
+		"TALKINGDATA_ID":"7D06A144853434DB09631E2519E293C0",
+		"BFTALKINGDATA_ID":"4041",
+		"BFTALKINGDATA_GROUPID":"3",
+
+		// 说明: Lobby的版本号
+		// 获取: 联系运帷获取相关配置
+		// 相关: 正式(2.2013.3.8) 内网(2.2012.7.26)
+		"LOBBY_VERSION":"2.2013.3.8",//"2.2011.11.29",
+
+		//游戏服务GS版本号
+		"GAME_VERSION":"120110718",
+
+		// 说明: 房间模块版本号，不同房间模块对应不同房间版本号
+		// 获取: 问运维要
+		// 作用: 区分各房间的模块版本号
+		//GameRoomSR模块版本号
+		"GAMEROOMSR_CLIENT_VERSION":"20081117",
+		//GameRoomOne模块版本号
+		"GAMEROOMONE_CLIENT_VERSION":"20081117",
+		//GameRoom2模块版本号
+		"GAMEROOM2_CLIENT_VERSION":"20090420",
+		//MatchSignUp模块版本号
+		"MATCHSIGNUP_CLIENT_VERSION":"20081117",
+
+		////"CLIENT_VERSION":"20081117",//20081117  20090420
+
+	        // 说明: 第三方登录ID
+                // 备注: 若接入第三方登录sdk,则需要配置,否则不需要
+                // 配置: 移动基地(1)
+                "ACCOUNT_SDK_ID":"",
+
+
+
+		// 说明: 商城Url
+		// 备注: 固定配置,不需更改
+		"PRODUCTS_LIST_URL":"http://o.qpdiy.com/index.php?m=ipad",
+
+		//签到Url
+		"SIGNIN_URL":"http://acts.qpdiy.com/apps/widget/mobile_comm_signup/index.php?datatype=json",
+		//"SIGNIN_URL":"http://app.qpdiy.com/lfc/widget/?c=mobile_sk_sign&datatype=json&gameid=40011",
+
+		// 游戏信息Url
+		"GAME_INFO_URL":"http://mobile-info-interface-01.bfun.cn:5002/Chess/gipai_login.asp?IMEI=%s&m=%s&v=%s&type=%s&cv=%s&gametype=%d&dataacq=%s",
+
+		// 程序启动Url
+		"LOGOPENAPP_URL":"http://mobile.bianfeng.com:9000/?req=%s&gameid=%s&imei=%s&mac=%s&channel=%s&m=%s&clienttype=%d&appversion=%s&osversion=%s&os=%s&nettype=%d&sign=%s",
+
+		// 验证客户端Url
+		"LOGAPPVERSION_URL":"http://mobile.bianfeng.com:9000/?req=%s&gameid=%d&areaid=%d&imei=%s&channel=%d&appversion=%s&os=%s&sign=%s",
+
+		// 检测是否分配过账号Url
+		"CHECK_HAD_REGISTER_QUICK_ACCOUNT_URL":"http://guest2user.qpdiy.com/index.php?c=newreg&a=check&datatype=json", 
+
+		// 快速注册Url
+		"QUICK_REGISTER_URL":"http://guest2user.qpdiy.com/index.php?c=newreg&a=get_account&datatype=json",
+		//"QUICK_REGISTER_URL":"http://guest2user.qpdiy.com/?c=%s&a=%s&datatype=json",
+
+		// 道具Url
+		"PROPS_LIST_URL":"",
+
+		"ROOM_INFO_URL":"http://lobby.gametea.com/getRoomCount.php?&treeid=%s&nodeid=%s",
+		"RES_DOWNLOAD_URL":"http://acts.qpdiy.com/new/mobile/ResourceDL/index.php?datatype=json",
+		"FILL_UP_URL_ABC":"http://new.gameabc.com/registerV2/IpadReg.ashx?areaid=%s&ptid=%s&ptnumid=%s&ssid=%s&username=%s&sex=%s",
+		"ANNOUNCE_URL":"http://121.14.48.177:5002/2.0jk/gonggao.asp?cid=%d",
+		"REGISTER_URL":"http://register.bianfeng.com/register.asp?from=22",
+		"REGISTER_TYPE":"3",
+		"REGISTER_NAME":"",
+		 //边锋通行证注册AppID	
+		//"BIANFENG_REGISTER_ID":"31",
+		"BIANFENG_REGISTER_ID":"2013030643",
+
+		"DAILY_PRESENT_URL":"",//"http://app.qpdiy.com/lfc/widget/index.php?c=send&datatype=json",
+
+		"LOGLOGIN_URL":"http://mobile.bianfeng.com:9000/?req=%s&gameid=%s&areaid=%d&account=%d&imei=%s&sign=%s",
+
+		"LOGANNOUNCE_URL":"http://mobile.bianfeng.com:9000/?req=%s&gameid=%d&areaid=%d&imei=%s&channel=%d&sign=%s",
+
+		"LOGDATACOLLECT_URL":"http://mobile.bianfeng.com:9000/?req=%s&gameid=%d&areaid=%d&account=%s&imei=%s",
+		"LOGSUGGEST_URL":"http://mobile.bianfeng.com:9000/?req=%s&gameid=%d&areaid=%d&account=%s&imei=%s&kind=%d&content=%s&os=%s&m=%s&nettype=%d&sign=%s",
+
+		"LINE_TIME_BOX_URL":"http://acts22.qpdiy.com/apps/widget/lotterybox/?func=%s&areaid=%d&numid=%d&gameid=%s&datatype=json",
+		"LINE_TIME_BOX_URL_NEW":"http://acts22.qpdiy.com/active/actives/ddzlotterybox/?func=%s&numid=%d&areaid=%d&gameid=%s&userid=%s&ssid=%s&groupid=%d&datatype=json",
+		"LOBBY_DATA_TELEPHONE_URL":"http://acts.qpdiy.com/active/actives/ddzlotterybox/?func=%s&numid=%d&areaid=%d&gameid=%s&userid=sdkf&ssid=33&groupid=1&datatype=json",
+
+
+
+
+		// NPC时间校准Url
+		"IS_TOUCHED_THE_SIGNNPC_URL":"http://api.qpdiy.com/account/npc/get",
+
+		// NPC礼包Url
+		//"CONTENT_OF_THE_GIFT_BAG_URL":"http://api.qpdiy.com/account/npc/gift" 
+
+		////"PRODUCTS_LIST_URL_ANDROID":"http://o.qpdiy.com/index.php?m=ipad&c=android",
+
+		////"FILL_UP_URL":"http://www.gametea.com/srvcenter/nick_reg.php?sdid=%s&sdpt=%s&name=%s&vkey=%s&sex=%s",
+		"FILL_UP_URL_TEA":"http://www.gametea.com/srvcenter/nick_reg2.php?sdid=%s&sdpt=%s&name=%s&vkey=%s&sex=%s",
+
+
+
+
+
+		//手机绑定功能开关(T为开，F为关)
+		"IS_OPEN_BIND_MOBILE_PHONE":"F",  
+		//修改密码功能开关(T为开，F为关)
+		"IS_OPEN_CHANGE_PASSWORD":"F",
+		//修改昵称功能开关(T为开，F为关)
+		"IS_OPEN_CHANGE_NICKNAME":"F",  
+		//密码找回功能开关(T为开，F为关)
+		"IS_OPEN_RETRIEVEPASSWORD":"F",
+		//注册功能开关(T为开，F为关)
+		"IS_OPEN_REGISTER":"T",
+		//签到功能开关(T为开，F为关)
+		"IS_OPEN_SIGNIN":"T",
+		// 签到类型（1：有排名 0无排名）
+		"SIGNIN_TYPE":"1",
+		//充值功能开关(T为开，F为关)
+		"IS_OPEN_STORE":"T",
+		//活动功能开关(T为开，F为关)
+		"IS_OPEN_ACTIVITY":"T",
+		//银行功能开关(T为开，F为关)
+		"IS_OPEN_BANK":"F",
+		//公告功能开关(T为开，F为关)
+		"IS_OPEN_ANNOUNCE":"T",
+		//帮助功能开关(T为开，F为关)
+		"IS_OPEN_HELP":"F",
+		//切换账号功能开关(T为开，F为关)
+		"IS_OPEN_LOGIN":"F",  
+		//防沉迷功能开关(T为开，F为关)
+		"IS_OPEN_DEFEND":"F",
+
+		"CAN_ANONY_LOGIN":"T",
+		"IS_NEW_UNIQUE":"T",
+
+
+		// 防沉迷
+		//"DEFEND_PLAYERINFO_URL":"http://cy.gametea.com/gametea.php?c=score&m=gtgetime&numid=%d&areaid=%d",
+		//"DEFEND_SENDINFO_URL":"http://cy.gametea.com/gametea.php?c=score&m=gtauth&areaid=%d&numid=%d&uid=%s&ssid=%s&channelid=%s&md5=%s&ptid=%s&times=%d&adult=0",
+		//"DEFEND_SENDINFO_BF_URL":"http://cy.gametea.com/gametea.php?c=score&m=bfauth&areaid=%d&numid=%d&uid=%s&ssid=%s&ptid=%s&times=%d&adult=0&mobile=1",
+		"DEFEND_SUPPLY_PLAYERINFO_URL":"http://my.gametea.com/gametea.php/truename/mblauth/%s/%d/%d/%s/%d/%s/%s"
+}
+//HELP  REGISTER_TYPE=(0:用图片组注册界面,1:弹出内嵌注册网页,2:跳转浏览器)
+

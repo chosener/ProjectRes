@@ -1,0 +1,103 @@
+﻿<!-- 是否新列表模式 设置默认房间/-->
+	<SceneData key="IS_MAINGROUP" value="T" >
+	<SceneData kind="0" limit="100" base="10" info="单机游戏" onlinecnt="10000"/>
+	</SceneData>
+
+	<!-- 是否开始上海那边的快速注册 0只走连波那的注册， 1只走上海那边注册， 2，先去连波那确认时候有分配账号，有则登入这个账号，否则再走上海那注册/-->
+	<SceneData key="IS_OPEN_QUICK_REQISG_ACCOUNT" value="0" />  
+
+	<!-- 是否多窗口单机 /-->
+	<SceneData key="IS_MUTICONSOLE" value="F" />
+
+	<!-- 玩家信息类型,1:积分,2:财富,4:双结算 /-->
+	<SceneData key="PLAYERTYPE" value="4" />
+
+	<!-- 是否开启NPC功能 /-->
+	<SceneData key="IS_OPEN_NPC_FUNCTION" value="F" />
+
+	<!-- 是否不显示登录框 -->
+	<SceneData key="HIDE_LOGIN_PANEL" value="F" />
+
+	<!-- 单机默认隐藏组上活动标志 /-->
+	<SceneData key="IS_HIDESIGN" value="T" >
+	<SceneData hideSign="#0#0"/>
+	<SceneData hideSign="#1#0"/>
+	<SceneData hideSign="#2#0"/>
+	<SceneData hideSign="#3#0"/>
+	</SceneData>
+
+	<!--银行数据-->
+	<SceneData key="BANKINFO" value="T" >
+	<SceneData minimum ="9000"/>
+	<SceneData fineTuneNumber ="100"/>
+	</SceneData>
+
+	<!-- 帮助文字 (队列向下添加) /-->
+	<SceneData key="HELP_TEXT"  >
+	<!--SceneData value="xxxx"  /-->
+	<!--SceneData value="xxxx"  /-->
+	</SceneData>
+
+	<!-- 提示文字 (队列向下添加) /-->
+	<SceneData key="TIP_TEXT"  >
+	<SceneData value="赖子场大小王可代替其它牌" />
+	<SceneData value="赖子场大小王是赖子" />
+	<SceneData value="小王赖子不能代替大王" />
+	<SceneData value="普通场没有赖子" />
+	<SceneData value="单机没有赖子" />
+	<SceneData value="点牌区外收回牌" />
+	<SceneData value="牌上滑动弹起牌" />
+	<SceneData value="点头尾自动弹起顺子" />
+	<SceneData value="抢地主翻2倍" />
+	<SceneData value="明牌翻2倍" />
+	<SceneData value="春天翻2倍" />
+	<SceneData value="反春天翻2倍" />
+	<SceneData value="底有大王翻2倍" />
+	<SceneData value="底是豹子翻3倍" />
+	<SceneData value="底是同花翻3倍" />
+	<SceneData value="底是顺子翻3倍" />
+	<SceneData value="底是同花顺翻5倍" />
+	<SceneData value="完成任务翻2倍" />
+	<SceneData value="别人完成任务不会多扣我的" />
+	<SceneData value="得小福星的人赢了翻2倍" />
+	<SceneData value="得小福星的人输了不扣" />
+	<SceneData value="出现大福星赢的人翻2倍" />
+	<SceneData value="出现大福星输的人都不扣" />
+	</SceneData>
+
+	<!-- 场景资源文件 (队列向下添加) 
+	SCENE_NONE = 0,
+	SCENE_MAIN_MENU,    // 主菜单
+	SCENE_LOGINING,     // 登录
+	SCENE_HELP,         // 帮助
+	SCENE_REGISTER,     // 注册
+	SCENE_ACTIVITY,     // 活动
+	SCENE_SET,          // 设置
+	SCENE_SITE,         // 站点大厅
+	SCENE_ROOM,         // 房间
+	SCENE_STORE,        // 商店
+	SCENE_LOADING,      // 读取（单机读取）
+	SCENE_ON_LINE,      // 联网游戏
+	SCENE_CONSOLE,      // 单机游戏
+	SCENE_TEMP,         // 初始化场景
+	SCENE_WHATEVER,     // 各种场景
+	SCENE_USER_INFO,	// 用户中心
+	SCENE_SET_SOUND,	// 设置铃声
+
+	场景索引按上面枚举值,每个场景可以加载2个资源文件
+	/-->
+	<SceneData key="RES_NAME"  >
+	<!-- SCENE_NONE         /-->
+	<SceneData value="Share.xml,Particle.xml,UserInfo.xml,MainMenu.xml,Help.xml,Register.xml,Store.xml,Framework.xml,Game.xml,Box.xml,Prizes.xml,GameBar.xml,GameEnd.xml,Set.xml,Activity.xml,TV.xml,Bank.xml" />
+	</SceneData>
+
+	<!-- 扩展平台 (队列向下添加)
+AreaID     :  平台号
+AreaKey    :  平台关键字-—例如定义"SHANGDU"会生成(KW_GUI_SHANGDU_LOGO、KW_BTN_SHANGDU、KW_BTN_REG_SHANGDU)
+			  分别为Logo配置关键字、平台切换按钮关键字、注册按钮关键字
+HintText   :  提示文字
+			  /-->
+			  <SceneData key="EXTRA_AREA_INFO"  >
+			  <SceneData AreaID="8" AreaKey="SHANGDU" HintText="请输入内网账号" />
+			  </SceneData>
+
